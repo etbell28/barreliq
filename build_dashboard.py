@@ -1,0 +1,1176 @@
+import json
+import math
+from itertools import combinations
+from datetime import datetime
+from pathlib import Path
+
+import pandas as pd
+
+
+ROOT = Path(__file__).parent
+OUTPUTS = ROOT / "outputs"
+RANKINGS_CSV = OUTPUTS / "hr_rankings.csv"
+LATE_SLATE_CSV = OUTPUTS / "auto_slate_late.csv"
+FULL_SLATE_CSV = OUTPUTS / "auto_slate_full.csv"
+REMAINING_SLATE_CSV = OUTPUTS / "auto_slate_remaining.csv"
+DASHBOARD_HTML = OUTPUTS / "hitter_tool_dashboard.html"
+SOURCE_SHEET_EDGES_CSV = OUTPUTS / "source_sheet_edges.csv"
+ACTIVE_SLATE_MARKER = OUTPUTS / "active_slate.txt"
+
+
+def clean(value, default=""):
+    if pd.isna(value):
+        return default
+    return value
+
+
+def json_safe(value):
+    if isinstance(value, list):
+        return [json_safe(item) for item in value]
+    if isinstance(value, dict):
+        return {key: json_safe(item) for key, item in value.items()}
+    if isinstance(value, float) and math.isnan(value):
+        return None
+    if pd.isna(value):
+        return None
+    if hasattr(value, "item"):
+        return value.item()
+    return value
+
+
+def records(frame):
+    return [
+        {key: json_safe(value) for key, value in row.items()}
+        for row in frame.to_dict("records")
+    ]
+
+
+def number(value, default=0.0):
+    if pd.isna(value) or value == "":
+        return default
+    return float(value)
+
+
+def normalize_name(value):
+    return str(value or "").replace("í", "i").replace("ó", "o").replace("é", "e").replace("á", "a").replace("ú", "u").replace("ñ", "n").lower().strip()
+
+
+def load_source_sheet_edges():
+    if not SOURCE_SHEET_EDGES_CSV.exists():
+        return [], set()
+    frame = pd.read_csv(SOURCE_SHEET_EDGES_CSV)
+    edges = records(frame)
+    players = set()
+    for row in edges:
+        for name in str(row.get("edge_players") or "").split(";"):
+            cleaned = normalize_name(name)
+            if cleaned:
+                players.add(cleaned)
+    return edges, players
+
+
+def badges_for(row):
+    score = number(row.get("hr_score"))
+    power = number(row.get("power_score"))
+    pitcher = number(row.get("pitcher_score"))
+    order = number(row.get("batting_order"), 9)
+    env = number(row.get("environment_score"))
+    avg_ev = number(row.get("avg_exit_velocity"))
+    ev50 = number(row.get("ev50"))
+    hard_hit = number(row.get("hard_hit_pct"))
+    hr_total = number(row.get("hr_total"))
+    form = number(row.get("recent_form_score"))
+    badges = []
+
+    if score >= 76:
+        badges.append("BEST PICK")
+    if power >= 75 and pitcher >= 55:
+        badges.append("STAR + FIRE")
+    if power >= 75 and pitcher < 45:
+        badges.append("FIRE / TOUGH SP")
+    if form >= 70 or (power >= 64 and (hr_total >= 18 or score >= 64)):
+        badges.append("HOT BAT")
+    if avg_ev >= 92 or ev50 >= 103 or hard_hit >= 50:
+        badges.append("EV EDGE")
+    if score >= 58 and order >= 5:
+        badges.append("SLEEPER PICK")
+    if env >= 70:
+        badges.append("WEATHER EDGE")
+    if pitcher >= 65:
+        badges.append("PITCHER TARGET")
+    if row.get("source_sheet_edge"):
+        badges.append("SOURCE SHEET")
+    return badges or ["WATCH"]
+
+
+def primary_badge(row):
+    return badges_for(row)[0]
+
+
+def badge_class(label):
+    return {
+        "BEST PICK": "gold",
+        "STAR + FIRE": "fire",
+        "FIRE / TOUGH SP": "red",
+        "HOT BAT": "orange",
+        "EV EDGE": "blue",
+        "SLEEPER PICK": "teal",
+        "WEATHER EDGE": "green",
+        "PITCHER TARGET": "red",
+        "SOURCE SHEET": "gold",
+        "WATCH": "muted",
+    }.get(label, "muted")
+
+
+def confirmed_lineup(value):
+    return str(value or "").strip().lower() in {"yes", "y", "true", "1"}
+
+
+def game_key(row):
+    teams = sorted([str(row["team"]), str(row["opponent"])])
+    return f"{teams[0]}-{teams[1]}-{row['ballpark']}"
+
+
+def pairing_payload(rankings, size, limit=8):
+    candidates = rankings.head(30).copy()
+    pairs = []
+    for group in combinations(candidates.to_dict("records"), size):
+        avg_score = sum(number(row["hr_score"]) for row in group) / size
+        min_score = min(number(row["hr_score"]) for row in group)
+        teams = [row["team"] for row in group]
+        unique_teams = set(teams)
+        games = {
+            "-".join(sorted([str(row["team"]), str(row["opponent"])])) + f"-{row['ballpark']}"
+            for row in group
+        }
+        max_game_exposure = max(
+            sum(
+                1
+                for row in group
+                if "-".join(sorted([str(row["team"]), str(row["opponent"])])) + f"-{row['ballpark']}" == game
+            )
+            for game in games
+        )
+        avg_environment = sum(number(row.get("environment_score")) for row in group) / size
+        projected_count = sum(not confirmed_lineup(row.get("confirmed_lineup")) for row in group)
+        badge_text = " / ".join(row.get("badge_summary", "WATCH") for row in group)
+        edge_types = {
+            edge
+            for row in group
+            for edge in row.get("badges", ["WATCH"])
+            if edge in {"BEST PICK", "STAR + FIRE", "WEATHER EDGE", "PITCHER TARGET", "SLEEPER PICK", "EV EDGE", "HOT BAT"}
+        }
+
+        # General pairings should be more independent than a simple top-N list.
+        # Same-team stacks can be useful, but they belong in a separate stack view.
+        if len(unique_teams) < size:
+            continue
+        if max_game_exposure > 2:
+            continue
+        if size == 2 and max_game_exposure == 2 and avg_environment < 75:
+            continue
+
+        diversification_bonus = len(games) * 0.75 + len(unique_teams) * 0.35
+        edge_bonus = min(len(edge_types), 3) * 0.45
+        weather_stack_bonus = 0.55 if max_game_exposure == 2 and avg_environment >= 75 else 0
+        floor_penalty = max(0, 60 - min_score) * 0.35
+        projected_penalty = projected_count * 0.45
+        combo_score = (
+            avg_score
+            + diversification_bonus
+            + edge_bonus
+            + weather_stack_bonus
+            - floor_penalty
+            - projected_penalty
+        )
+
+        risk = "Aggressive" if min_score < 58 or size >= 4 else "Balanced"
+        if avg_score >= 70:
+            risk = "Premium"
+        if projected_count:
+            risk = f"{risk} / Projected"
+
+        reasons = []
+        if len(games) == size:
+            reasons.append("different games")
+        elif avg_environment >= 75:
+            reasons.append("weather stack")
+        if edge_types:
+            reasons.append(", ".join(sorted(edge_types)))
+        if min_score >= 60:
+            reasons.append("score floor")
+
+        pairs.append(
+            {
+                "names": " + ".join(row["player"] for row in group),
+                "avg_score": round(avg_score, 1),
+                "combo_score": round(combo_score, 1),
+                "risk": risk,
+                "badges": badge_text,
+                "reason": " · ".join(reasons),
+            }
+        )
+    selected = []
+    player_counts = {}
+    max_repeats = 2 if size >= 3 else 3
+    for pair in sorted(pairs, key=lambda item: item["combo_score"], reverse=True):
+        names = pair["names"].split(" + ")
+        if any(player_counts.get(name, 0) >= max_repeats for name in names):
+            continue
+        selected.append(pair)
+        for name in names:
+            player_counts[name] = player_counts.get(name, 0) + 1
+        if len(selected) == limit:
+            return selected
+
+    for pair in sorted(pairs, key=lambda item: item["combo_score"], reverse=True):
+        if pair not in selected:
+            selected.append(pair)
+        if len(selected) == limit:
+            break
+    return selected
+
+
+def apply_badges(rankings):
+    rankings = rankings.copy()
+    rankings["badges"] = rankings.apply(badges_for, axis=1)
+    rankings["badge"] = rankings.apply(primary_badge, axis=1)
+    rankings["badge_class"] = rankings["badge"].map(badge_class)
+    rankings["badge_summary"] = rankings["badges"].apply(lambda values: " + ".join(values))
+    rankings["badge_classes"] = rankings["badges"].apply(lambda values: [badge_class(value) for value in values])
+    return rankings
+
+
+def slate_path():
+    if ACTIVE_SLATE_MARKER.exists():
+        active = ACTIVE_SLATE_MARKER.read_text(encoding="utf-8").strip()
+        if active == "remaining" and REMAINING_SLATE_CSV.exists():
+            return REMAINING_SLATE_CSV
+        if active == "late" and LATE_SLATE_CSV.exists():
+            return LATE_SLATE_CSV
+        if active == "full" and FULL_SLATE_CSV.exists():
+            return FULL_SLATE_CSV
+    return FULL_SLATE_CSV if FULL_SLATE_CSV.exists() else LATE_SLATE_CSV
+
+
+def build_payload():
+    if not RANKINGS_CSV.exists():
+        raise SystemExit(f"Missing rankings file: {RANKINGS_CSV}")
+    active_slate = slate_path()
+    if not active_slate.exists():
+        raise SystemExit(f"Missing slate file: {active_slate}")
+
+    source_edges, source_edge_players = load_source_sheet_edges()
+    rankings = pd.read_csv(RANKINGS_CSV)
+    rankings["source_sheet_edge"] = rankings["player"].apply(lambda name: normalize_name(name) in source_edge_players)
+    rankings = apply_badges(rankings)
+    slate = pd.read_csv(active_slate)
+    confirmed_rankings = rankings[rankings["confirmed_lineup"].apply(confirmed_lineup)].copy()
+
+    top20 = confirmed_rankings.head(20).copy()
+    projected_top20 = rankings.head(20).copy()
+    weather = (
+        rankings.groupby(["ballpark", "wind_direction", "weather_temp"], dropna=False)
+        .agg(
+            environment_score=("environment_score", "mean"),
+            top_player=("player", "first"),
+            top_score=("hr_score", "max"),
+            teams=("team", lambda values: " / ".join(sorted(set(values))[:4])),
+        )
+        .reset_index()
+        .sort_values(["environment_score", "top_score"], ascending=False)
+        .head(8)
+    )
+
+    games = []
+    slate["game_key"] = slate.apply(game_key, axis=1)
+    ranking_lookup = rankings.set_index(["player", "team"]).to_dict("index")
+    for key, game_rows in slate.groupby("game_key", sort=False):
+        teams = list(dict.fromkeys(game_rows["team"].tolist()))
+        ballpark = clean(game_rows["ballpark"].iloc[0])
+        temp = clean(game_rows["weather_temp"].iloc[0])
+        wind = clean(game_rows["wind_direction"].iloc[0])
+        disagreement_count = int((game_rows.get("lineup_disagreement", "") == "Yes").sum())
+        players = []
+        for _, slate_row in game_rows.iterrows():
+            rank_info = ranking_lookup.get((slate_row["player"], slate_row["team"]), {})
+            if not rank_info:
+                continue
+            player = {
+                "player": slate_row["player"],
+                "team": slate_row["team"],
+                "order": int(number(slate_row["batting_order"], 9)),
+                "pitcher": slate_row["pitcher"],
+                "score": round(number(rank_info.get("hr_score")), 1),
+                "rank": int(number(rank_info.get("rank"), 999)),
+                "badge": rank_info.get("badge", "WATCH"),
+                "badge_class": rank_info.get("badge_class", "muted"),
+                "badges": rank_info.get("badges", ["WATCH"]),
+                "badge_classes": rank_info.get("badge_classes", ["muted"]),
+                "badge_summary": rank_info.get("badge_summary", "WATCH"),
+                "lineup_disagreement": slate_row.get("lineup_disagreement", "No"),
+                "source_warnings": clean(slate_row.get("source_warnings", "")),
+            }
+            players.append(player)
+
+        players = sorted(players, key=lambda item: item["score"], reverse=True)[:5]
+        env_score = round(
+            sum(number(ranking_lookup.get((row["player"], row["team"]), {}).get("environment_score")) for _, row in game_rows.iterrows())
+            / max(len(game_rows), 1),
+            1,
+        )
+        top_score = max((player["score"] for player in players), default=0)
+        game_tags = []
+        if env_score >= 75:
+            game_tags.append("elite weather")
+        elif env_score >= 68:
+            game_tags.append("weather watch")
+        if top_score >= 63:
+            game_tags.append("top-25 target")
+        if sum(1 for player in players if player["score"] >= 58) >= 3:
+            game_tags.append("deep stack")
+        if disagreement_count:
+            game_tags.append("lineup caution")
+        games.append(
+            {
+                "teams": " vs ".join(teams[:2]),
+                "ballpark": ballpark,
+                "temp": temp,
+                "wind": wind,
+                "environment_score": env_score,
+                "top_score": top_score,
+                "game_tags": " · ".join(game_tags) if game_tags else "monitor",
+                "disagreement_count": disagreement_count,
+                "players": players,
+            }
+        )
+
+    game_watch = sorted(
+        games,
+        key=lambda game: (
+            number(game.get("environment_score")),
+            number(game.get("top_score")),
+        ),
+        reverse=True,
+    )[:8]
+
+    generated_iso = datetime.now().isoformat(timespec="seconds")
+    return {
+        "date": datetime.now().strftime("%A, %B %-d, %Y"),
+        "generated_at": datetime.now().strftime("%I:%M %p %Z"),
+        "generated_iso": generated_iso,
+        "slate_projection": len(slate),
+        "games_count": len(games),
+        "confirmed_count": len(confirmed_rankings),
+        "projected_count": len(rankings) - len(confirmed_rankings),
+        "top20": records(top20),
+        "projected_top20": records(projected_top20),
+        "weather": records(weather),
+        "game_watch": game_watch,
+        "source_edges": source_edges,
+        "pairings": {
+            "2": pairing_payload(confirmed_rankings, 2),
+            "3": pairing_payload(confirmed_rankings, 3),
+            "4": pairing_payload(confirmed_rankings, 4),
+        },
+        "projected_pairings": {
+            "2": pairing_payload(rankings, 2),
+            "3": pairing_payload(rankings, 3),
+            "4": pairing_payload(rankings, 4),
+        },
+        "games": games,
+        "lineup_disagreements": int((slate.get("lineup_disagreement", "") == "Yes").sum()),
+        "rotowire_found": int((slate.get("rotowire_player_found", "") == "Yes").sum()),
+        "slate_size": len(slate),
+        "sources": "Baseball Savant; MLB Stats API; RotoWire",
+        "model_profile": "Weighted Statcast baseline: 2026 70% / 2025 30%. Streak context is noted but does not override daily matchup math.",
+    }
+
+
+def render_html(payload):
+    data = json.dumps(json_safe(payload), ensure_ascii=False, default=json_safe, allow_nan=False)
+    return f"""<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Hitter Tool Dashboard</title>
+  <style>
+    :root {{
+      --bg: #07090f;
+      --panel: #0d121c;
+      --panel-2: #101826;
+      --panel-3: #0a1019;
+      --line: #2dd4bf;
+      --line-soft: rgba(45, 212, 191, .24);
+      --gold: #f6c453;
+      --amber: #f59e0b;
+      --orange: #fb923c;
+      --teal: #2dd4bf;
+      --green: #8bd450;
+      --blue: #60a5fa;
+      --red: #f87171;
+      --text: #eef4ff;
+      --muted: #8a98ad;
+      --shadow: 0 14px 44px rgba(0, 0, 0, .34);
+    }}
+
+    * {{ box-sizing: border-box; }}
+    body {{
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      letter-spacing: 0;
+    }}
+
+    .shell {{
+      min-height: 100vh;
+      border: 1px solid rgba(255,255,255,.08);
+      background:
+        radial-gradient(circle at 12% -10%, rgba(45, 212, 191, .14), transparent 34%),
+        radial-gradient(circle at 82% 0%, rgba(246, 196, 83, .11), transparent 28%),
+        linear-gradient(180deg, #080b13, #0a0f18 38%, #07090f);
+    }}
+
+    header {{
+      padding: 22px clamp(16px, 3vw, 42px) 18px;
+      border-bottom: 1px solid rgba(255,255,255,.08);
+      background: rgba(9, 13, 22, .86);
+      box-shadow: var(--shadow);
+    }}
+
+    .brand {{
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: 18px;
+      align-items: center;
+    }}
+
+    .mark {{
+      width: 58px;
+      aspect-ratio: 1;
+      display: grid;
+      place-items: center;
+      border: 1px solid var(--line-soft);
+      border-radius: 12px;
+      background: linear-gradient(135deg, rgba(45,212,191,.18), rgba(246,196,83,.12));
+      color: var(--gold);
+      font-weight: 900;
+      font-size: 20px;
+      box-shadow: 0 0 28px rgba(45, 212, 191, .14);
+    }}
+
+    h1 {{
+      margin: 0;
+      color: var(--text);
+      font-size: clamp(34px, 5vw, 68px);
+      line-height: .92;
+      text-transform: uppercase;
+      text-shadow: 0 0 18px rgba(45, 212, 191, .12);
+    }}
+
+    .sub {{
+      margin-top: 12px;
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: .18em;
+    }}
+
+    .nav {{
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 18px;
+    }}
+
+    .nav a {{
+      color: var(--muted);
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: 900;
+      text-transform: uppercase;
+      border: 1px solid rgba(255,255,255,.08);
+      background: rgba(255,255,255,.03);
+      border-radius: 999px;
+      padding: 8px 11px;
+    }}
+
+    .nav a:first-child {{
+      color: var(--line);
+      border-color: var(--line-soft);
+    }}
+
+    .stats-row {{
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 22px;
+    }}
+
+    .stat {{
+      border: 1px solid var(--line-soft);
+      background: rgba(255,255,255,.035);
+      padding: 12px 16px;
+      border-radius: 8px;
+      min-width: 150px;
+    }}
+
+    .stat b {{
+      color: var(--gold);
+      font-size: 24px;
+    }}
+
+    .stat span {{
+      display: block;
+      color: var(--muted);
+      font-size: 11px;
+      font-weight: 800;
+      text-transform: uppercase;
+    }}
+
+    .legend, .weather-strip {{
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      padding: 18px clamp(18px, 4vw, 52px);
+      border-bottom: 1px solid rgba(255, 216, 90, .25);
+      background: rgba(7, 9, 15, .72);
+    }}
+
+    .badge {{
+      display: inline-flex;
+      align-items: center;
+      min-height: 35px;
+      padding: 8px 12px;
+      border-radius: 5px;
+      font-size: 12px;
+      font-weight: 900;
+      text-transform: uppercase;
+      white-space: nowrap;
+      border: 1px solid rgba(255,255,255,.18);
+    }}
+    .gold {{ color: var(--gold); border-color: var(--gold); box-shadow: 0 0 12px rgba(255,216,90,.22); }}
+    .fire {{ color: var(--amber); border-color: var(--line); box-shadow: 0 0 12px rgba(255,75,31,.22); }}
+    .teal {{ color: var(--teal); border-color: var(--teal); box-shadow: 0 0 12px rgba(37,244,208,.2); }}
+    .green {{ color: var(--green); border-color: rgba(84,255,143,.65); }}
+    .orange {{ color: var(--orange); border-color: rgba(251,146,60,.72); }}
+    .blue {{ color: var(--blue); border-color: rgba(96,165,250,.72); }}
+    .red {{ color: var(--red); border-color: var(--red); }}
+    .muted {{ color: var(--muted); border-color: rgba(169,155,142,.35); }}
+
+    main {{
+      display: grid;
+      grid-template-columns: minmax(0, 1fr);
+      gap: 0;
+    }}
+
+    section {{
+      padding: 24px clamp(18px, 4vw, 52px);
+      border-bottom: 1px solid rgba(84,255,143,.18);
+    }}
+
+    .section-title {{
+      margin: 0 0 18px;
+      color: var(--green);
+      font-size: 21px;
+      letter-spacing: .05em;
+      text-transform: uppercase;
+    }}
+
+    .weather-grid {{
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+      gap: 10px;
+    }}
+
+    .weather-target {{
+      padding: 12px;
+      background: rgba(16, 24, 38, .82);
+      border: 1px solid rgba(45, 212, 191, .16);
+      border-radius: 8px;
+    }}
+
+    .weather-target strong {{ color: var(--gold); }}
+    .weather-target small {{ display: block; color: var(--muted); margin-top: 4px; }}
+
+    .search {{
+      width: min(420px, 100%);
+      min-height: 39px;
+      border: 1px solid rgba(255,255,255,.2);
+      background: rgba(0,0,0,.28);
+      color: var(--text);
+      border-radius: 5px;
+      padding: 9px 12px;
+      font-weight: 800;
+      outline: none;
+    }}
+
+    .search:focus {{
+      border-color: var(--teal);
+      box-shadow: 0 0 12px rgba(37,244,208,.18);
+    }}
+
+    .top-layout {{
+      display: grid;
+      grid-template-columns: minmax(0, 1.05fr) minmax(300px, .95fr);
+      gap: 18px;
+      align-items: start;
+    }}
+
+    table {{
+      width: 100%;
+      border-collapse: collapse;
+      background: rgba(14,14,14,.72);
+      border: 1px solid rgba(45,212,191,.12);
+      border-radius: 8px;
+      overflow: hidden;
+    }}
+
+    th, td {{
+      padding: 10px 9px;
+      text-align: left;
+      border-bottom: 1px solid rgba(255,255,255,.06);
+      font-size: 13px;
+    }}
+    th {{
+      color: var(--muted);
+      text-transform: uppercase;
+      font-size: 11px;
+      background: rgba(45,212,191,.07);
+    }}
+    td.score {{
+      color: var(--gold);
+      font-weight: 900;
+      font-size: 16px;
+    }}
+    td.rank {{
+      color: var(--amber);
+      font-weight: 900;
+    }}
+
+    .game-list {{
+      display: grid;
+      gap: 14px;
+    }}
+
+    .game {{
+      border-left: 3px solid var(--line);
+      background: rgba(14, 20, 31, .88);
+      border-radius: 8px;
+      overflow: hidden;
+      border-top: 1px solid rgba(255,255,255,.08);
+      border-right: 1px solid rgba(255,255,255,.08);
+      border-bottom: 1px solid rgba(255,255,255,.08);
+    }}
+
+    .game-head {{
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 10px 18px;
+      padding: 14px 16px;
+      background: rgba(45,212,191,.05);
+    }}
+
+    .game-title {{
+      color: var(--line);
+      font-size: 24px;
+      text-transform: uppercase;
+      margin-right: auto;
+    }}
+
+    .meta {{
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 800;
+      text-transform: uppercase;
+    }}
+
+    .player-pills {{
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      padding: 14px 16px 16px;
+    }}
+
+    .pill {{
+      min-height: 44px;
+      padding: 9px 12px;
+      border-radius: 5px;
+      background: rgba(0,0,0,.24);
+      border: 1px solid rgba(255,216,90,.38);
+    }}
+    .pill strong {{
+      display: block;
+      color: var(--text);
+      font-size: 13px;
+      text-transform: uppercase;
+    }}
+    .pill span {{
+      color: var(--muted);
+      font-size: 11px;
+      font-weight: 800;
+    }}
+
+    .pairing-grid {{
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 12px;
+    }}
+
+    .pairing {{
+      background: rgba(16, 24, 38, .82);
+      border: 1px solid rgba(246, 196, 83, .18);
+      border-radius: 8px;
+      padding: 13px;
+    }}
+
+    .pairing strong {{
+      display: block;
+      color: var(--gold);
+      font-size: 14px;
+      line-height: 1.35;
+      text-transform: uppercase;
+    }}
+
+    .pairing small {{
+      display: block;
+      margin-top: 7px;
+      color: var(--muted);
+      font-weight: 800;
+    }}
+
+    .controls {{
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 12px;
+    }}
+
+    button {{
+      border: 1px solid rgba(255,255,255,.2);
+      background: rgba(0,0,0,.25);
+      color: var(--text);
+      padding: 9px 12px;
+      border-radius: 5px;
+      font-weight: 900;
+      text-transform: uppercase;
+      cursor: pointer;
+    }}
+    button.active {{
+      color: var(--gold);
+      border-color: var(--gold);
+    }}
+
+    @media (max-width: 850px) {{
+      header {{ padding: 16px 14px 14px; }}
+      .brand {{ grid-template-columns: 1fr; }}
+      .mark {{ width: 48px; }}
+      h1 {{ font-size: 34px; }}
+      .sub {{ font-size: 10px; line-height: 1.45; }}
+      .nav {{ gap: 6px; margin-top: 12px; }}
+      .nav a {{ font-size: 10px; padding: 7px 9px; }}
+      .stats-row {{ margin-top: 14px; gap: 8px; }}
+      .stat {{ min-width: 120px; padding: 10px 12px; }}
+      .legend {{ padding: 12px 14px; }}
+      .top-layout {{ grid-template-columns: 1fr; }}
+      th:nth-child(5), td:nth-child(5), th:nth-child(6), td:nth-child(6) {{ display: none; }}
+      .game-title {{ width: 100%; }}
+    }}
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <header>
+      <div class="brand">
+        <div class="mark">HT</div>
+        <div>
+          <h1>The Hitter<br>Tool</h1>
+          <div class="sub" id="updatedMeta">HR Research Dashboard · {payload["date"]} · Updated {payload["generated_at"]}</div>
+        </div>
+      </div>
+      <nav class="nav" aria-label="Dashboard sections">
+        <a href="#today">Today</a>
+        <a href="#radar">Game Radar</a>
+        <a href="#ev">EV / Labels</a>
+        <a href="#source">Source Check</a>
+        <a href="#pairings">Pairings</a>
+        <a href="#games">Game Boards</a>
+        <a href="#review">Review</a>
+      </nav>
+      <div class="stats-row">
+        <div class="stat"><b id="statHitters">{payload["slate_projection"]}</b><span>Hitters Scanned</span></div>
+        <div class="stat"><b id="statGames">{payload["games_count"]}</b><span>Games</span></div>
+        <div class="stat"><b id="statConfirmed">{payload["confirmed_count"]}</b><span>Confirmed Hitters</span></div>
+        <div class="stat"><b id="statProjected">{payload["projected_count"]}</b><span>Projected Hitters</span></div>
+        <div class="stat"><b id="statRotowire">{payload["rotowire_found"]}/{payload["slate_size"]}</b><span>RotoWire Matches</span></div>
+        <div class="stat"><b id="statWarnings">{payload["lineup_disagreements"]}</b><span>Lineup Warnings</span></div>
+      </div>
+    </header>
+
+    <div class="legend">
+      <span class="badge gold">Best Pick</span>
+      <span class="badge fire">Star + Fire</span>
+      <span class="badge red">Fire / Tough SP</span>
+      <span class="badge orange">Hot Bat</span>
+      <span class="badge blue">EV Edge</span>
+      <span class="badge teal">Sleeper Pick</span>
+      <span class="badge green">Weather Edge</span>
+      <span class="badge red">Pitcher Target</span>
+      <span class="badge gold">Source Sheet</span>
+      <span class="badge muted">Watch</span>
+    </div>
+
+    <main>
+      <section id="today">
+        <h2 class="section-title">Model Profile</h2>
+        <div class="weather-target">
+          <strong id="modelProfile">{payload["model_profile"]}</strong>
+          <small>Primary score remains daily matchup driven: hitter power, pitcher vulnerability, environment, lineup spot, and handedness. Labels add context; they do not automatically override the board.</small>
+        </div>
+      </section>
+
+      <section>
+        <h2 class="section-title">Best Weather Targets Today</h2>
+        <div class="weather-grid" id="weather"></div>
+      </section>
+
+      <section id="radar">
+        <h2 class="section-title">Game Stack Radar</h2>
+        <div class="weather-target" style="margin-bottom: 12px;">
+          <strong>Separate lens from HR Score.</strong>
+          <small>Flags games with strong weather, stack depth, or multiple playable bats without forcing every hitter upward.</small>
+        </div>
+        <div class="weather-grid" id="gameRadar"></div>
+      </section>
+
+      <section id="source">
+        <h2 class="section-title">Source Sheet Cross-Check</h2>
+        <div class="weather-grid" id="sourceEdges"></div>
+      </section>
+
+      <section id="ev">
+        <div class="top-layout">
+          <div>
+            <h2 class="section-title">Confirmed Lineup Targets</h2>
+            <div class="controls">
+              <button class="active" data-filter="all">All</button>
+              <button data-filter="BEST PICK">Best</button>
+              <button data-filter="STAR + FIRE">Great Matchup</button>
+              <button data-filter="HOT BAT">Hot Bat</button>
+              <button data-filter="EV EDGE">EV</button>
+              <button data-filter="FIRE / TOUGH SP">Tough Pitcher</button>
+              <button data-filter="SLEEPER PICK">Sleepers</button>
+              <button data-filter="WEATHER EDGE">Weather</button>
+              <button data-filter="SOURCE SHEET">Source</button>
+              <input class="search" id="search" placeholder="Search player, team, pitcher">
+            </div>
+            <table>
+              <thead>
+                <tr><th>Rank</th><th>Player</th><th>Team</th><th>Score</th><th>Order</th><th>Pitcher</th><th>Badge</th></tr>
+              </thead>
+              <tbody id="topRows"></tbody>
+            </table>
+          </div>
+
+          <div>
+            <h2 class="section-title">Source Check</h2>
+            <div class="weather-target">
+              <strong id="sourceList">{payload["sources"]}</strong>
+              <small>Lineup cross-check is active. Rows with disagreements are flagged in the CSV and Excel output.</small>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section>
+        <h2 class="section-title">Full Slate Projection</h2>
+        <div class="weather-target" style="margin-bottom: 12px;">
+          <strong>Includes projected and confirmed lineups.</strong>
+          <small>Use this for later games before lineups lock. Confirmed-lineup targets above remain the cleaner board.</small>
+        </div>
+        <table>
+          <thead>
+            <tr><th>Rank</th><th>Player</th><th>Team</th><th>Score</th><th>Order</th><th>Pitcher</th><th>Status</th><th>Badge</th></tr>
+          </thead>
+          <tbody id="projectedRows"></tbody>
+        </table>
+      </section>
+
+      <section id="pairings">
+        <h2 class="section-title">Confirmed HR Pairings</h2>
+        <div class="weather-target" style="margin-bottom: 12px;">
+          <strong>Pairings are selected with diversity controls.</strong>
+          <small>The same hitter is limited across the list so one top name does not dominate every 3-leg or 4-leg card unless the slate truly lacks alternatives.</small>
+        </div>
+        <div class="controls">
+          <button class="active" data-pairing="2">2-Leg</button>
+          <button data-pairing="3">3-Leg</button>
+          <button data-pairing="4">4-Leg</button>
+        </div>
+        <div class="pairing-grid" id="pairingCards"></div>
+      </section>
+
+      <section>
+        <h2 class="section-title">Full Slate Projection Pairings</h2>
+        <div class="controls">
+          <button class="active" data-projected-pairing="2">2-Leg</button>
+          <button data-projected-pairing="3">3-Leg</button>
+          <button data-projected-pairing="4">4-Leg</button>
+        </div>
+        <div class="pairing-grid" id="projectedPairings"></div>
+      </section>
+
+      <section id="games">
+        <h2 class="section-title">Game Boards</h2>
+        <div class="controls">
+          <button class="active" data-game-filter="all">All Games</button>
+          <button data-game-filter="warnings">Warnings</button>
+          <button data-game-filter="top">Top Targets</button>
+        </div>
+        <div class="game-list" id="games"></div>
+      </section>
+
+      <section id="review">
+        <h2 class="section-title">Daily Learning Loop</h2>
+        <div class="weather-target">
+          <strong>Post-slate review should compare model rank, labels, game radar, and actual HR results.</strong>
+          <small>This is where misses become upgrades: pitcher split gaps, BvP/pitch-mix signals, weather underweighting, hot-bat false positives, and pairing correlation issues.</small>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script>
+    let payload = {data};
+    const topRows = document.querySelector("#topRows");
+    const weather = document.querySelector("#weather");
+    const gameRadar = document.querySelector("#gameRadar");
+    const sourceEdges = document.querySelector("#sourceEdges");
+    const games = document.querySelector("#games");
+    const pairings = document.querySelector("#pairingCards");
+    const projectedRows = document.querySelector("#projectedRows");
+    const projectedPairings = document.querySelector("#projectedPairings");
+    const search = document.querySelector("#search");
+    let activeFilter = "all";
+    let activeGameFilter = "all";
+    let lastPayloadStamp = payload.generated_iso || "";
+
+    function fmt(value, fallback = "") {{
+      return value === null || value === undefined || Number.isNaN(value) ? fallback : value;
+    }}
+
+    function renderWeather() {{
+      weather.innerHTML = payload.weather.map((item, index) => `
+        <div class="weather-target">
+          <strong>#${{index + 1}} · ${{fmt(item.ballpark)}} · ${{Number(item.environment_score || 0).toFixed(1)}} ENV</strong>
+          <small>${{fmt(item.weather_temp)}}° · ${{fmt(item.wind_direction, "Wind neutral")}} · Top target: ${{fmt(item.top_player)}} (${{Number(item.top_score || 0).toFixed(1)}})</small>
+        </div>
+      `).join("");
+    }}
+
+    function updateSummaryStats() {{
+      const updatedMeta = document.querySelector("#updatedMeta");
+      if (updatedMeta) updatedMeta.textContent = `HR Research Dashboard · ${{payload.date}} · Updated ${{payload.generated_at}}`;
+      document.querySelector("#statHitters").textContent = payload.slate_projection ?? 0;
+      document.querySelector("#statGames").textContent = payload.games_count ?? 0;
+      document.querySelector("#statConfirmed").textContent = payload.confirmed_count ?? 0;
+      document.querySelector("#statProjected").textContent = payload.projected_count ?? 0;
+      document.querySelector("#statRotowire").textContent = `${{payload.rotowire_found ?? 0}}/${{payload.slate_size ?? 0}}`;
+      document.querySelector("#statWarnings").textContent = payload.lineup_disagreements ?? 0;
+      const modelProfile = document.querySelector("#modelProfile");
+      if (modelProfile) modelProfile.textContent = payload.model_profile || "";
+      const sourceList = document.querySelector("#sourceList");
+      if (sourceList) sourceList.textContent = payload.sources || "";
+    }}
+
+    function renderAll() {{
+      updateSummaryStats();
+      renderWeather();
+      renderGameRadar();
+      renderSourceEdges();
+      renderTop();
+      renderProjectedRows();
+      renderPairings(document.querySelector("button[data-pairing].active")?.dataset.pairing || "2");
+      renderProjectedPairings(document.querySelector("button[data-projected-pairing].active")?.dataset.projectedPairing || "2");
+      renderGames();
+    }}
+
+    async function loadLivePayload() {{
+      try {{
+        const response = await fetch(`/api/slate?ts=${{Date.now()}}`, {{ cache: "no-store" }});
+        if (!response.ok) return;
+        const nextPayload = await response.json();
+        const nextStamp = nextPayload.generated_iso || nextPayload.generated_at || "";
+        if (nextStamp && nextStamp !== lastPayloadStamp) {{
+          payload = nextPayload;
+          lastPayloadStamp = nextStamp;
+          renderAll();
+        }}
+      }} catch (error) {{
+        // Static fallback remains usable if the live API is unavailable.
+      }}
+    }}
+
+    function renderGameRadar() {{
+      gameRadar.innerHTML = payload.game_watch.map((game, index) => `
+        <div class="weather-target">
+          <strong>#${{index + 1}} · ${{game.teams}} · ${{Number(game.environment_score || 0).toFixed(1)}} ENV</strong>
+          <small>${{game.ballpark}} · ${{fmt(game.temp)}}° · ${{fmt(game.wind, "Wind neutral")}} · ${{game.game_tags}}</small>
+          <small>${{game.players.map(player => `#${{player.rank}} ${{player.player}} (${{player.score.toFixed(1)}})`).join(" · ")}}</small>
+        </div>
+      `).join("");
+    }}
+
+    function renderSourceEdges() {{
+      sourceEdges.innerHTML = (payload.source_edges || []).map(edge => `
+        <div class="weather-target">
+          <strong>${{edge.game}} · Ballpark HR ${{edge.ballpark_hr_rank}}</strong>
+          <small>${{edge.source_wind}} · ${{edge.notes}}</small>
+          <small>${{edge.edge_players}}</small>
+        </div>
+      `).join("") || `<div class="weather-target"><strong>No source sheet edges loaded.</strong></div>`;
+    }}
+
+    function matchesSearch(row) {{
+      const query = (search?.value || "").trim().toLowerCase();
+      if (!query) return true;
+      return [row.player, row.team, row.opponent, row.pitcher, row.badge_summary]
+        .join(" ")
+        .toLowerCase()
+        .includes(query);
+    }}
+
+    function renderTop(filter = activeFilter) {{
+      activeFilter = filter;
+      const rows = payload.top20.filter(row => (filter === "all" || (row.badges || []).includes(filter)) && matchesSearch(row));
+      topRows.innerHTML = rows.map(row => `
+        <tr>
+          <td class="rank">${{row.rank}}</td>
+          <td><strong>${{row.player}}</strong></td>
+          <td>${{row.team}}</td>
+          <td class="score">${{Number(row.hr_score || 0).toFixed(1)}}</td>
+          <td>${{row.batting_order}}</td>
+          <td>${{row.pitcher}}</td>
+          <td>${{(row.badges || ["WATCH"]).map((badge, idx) => `<span class="badge ${{(row.badge_classes || ["muted"])[idx] || "muted"}}">${{badge}}</span>`).join(" ")}}</td>
+        </tr>
+      `).join("") || `<tr><td colspan="7">No targets in this filter.</td></tr>`;
+    }}
+
+    function renderProjectedRows() {{
+      projectedRows.innerHTML = payload.projected_top20.map(row => `
+        <tr>
+          <td class="rank">${{row.rank}}</td>
+          <td><strong>${{row.player}}</strong></td>
+          <td>${{row.team}}</td>
+          <td class="score">${{Number(row.hr_score || 0).toFixed(1)}}</td>
+          <td>${{row.batting_order}}</td>
+          <td>${{row.pitcher}}</td>
+          <td>${{String(row.confirmed_lineup || "").toLowerCase() === "yes" ? "Confirmed" : "Projected"}}</td>
+          <td>${{(row.badges || ["WATCH"]).map((badge, idx) => `<span class="badge ${{(row.badge_classes || ["muted"])[idx] || "muted"}}">${{badge}}</span>`).join(" ")}}</td>
+        </tr>
+      `).join("") || `<tr><td colspan="8">No projection targets available.</td></tr>`;
+    }}
+
+    function renderPairings(size = "2") {{
+      const rows = payload.pairings[size] || [];
+      pairings.innerHTML = rows.map((row, index) => `
+        <div class="pairing">
+          <strong>#${{index + 1}} · ${{row.names}}</strong>
+          <small>Avg HR Score: ${{Number(row.avg_score || 0).toFixed(1)}} · ${{row.risk}} · ${{row.reason || "balanced edge mix"}} · ${{row.badges}}</small>
+        </div>
+      `).join("");
+    }}
+
+    function renderProjectedPairings(size = "2") {{
+      const rows = payload.projected_pairings[size] || [];
+      projectedPairings.innerHTML = rows.map((row, index) => `
+        <div class="pairing">
+          <strong>#${{index + 1}} · ${{row.names}}</strong>
+          <small>Avg HR Score: ${{Number(row.avg_score || 0).toFixed(1)}} · ${{row.risk}} · ${{row.reason || "balanced edge mix"}} · ${{row.badges}}</small>
+        </div>
+      `).join("");
+    }}
+
+    function renderGames(filter = activeGameFilter) {{
+      activeGameFilter = filter;
+      const visibleGames = payload.games.filter(game => {{
+        if (filter === "warnings") return game.disagreement_count > 0;
+        if (filter === "top") return game.players.some(player => player.rank <= 10);
+        return true;
+      }});
+      games.innerHTML = visibleGames.map(game => `
+        <article class="game">
+          <div class="game-head">
+            <div class="game-title">${{game.teams}}</div>
+            <div class="meta">${{game.ballpark}}</div>
+            <div class="meta">${{game.temp}}°</div>
+            <div class="meta">${{game.wind}}</div>
+            <span class="badge ${{game.disagreement_count ? "red" : "green"}}">${{game.disagreement_count ? game.disagreement_count + " lineup warnings" : "lineups matched"}}</span>
+          </div>
+          <div class="player-pills">
+            ${{game.players.map(player => `
+              <div class="pill">
+                <strong>#${{player.rank}} ${{player.player}}</strong>
+                <span>${{player.team}} · order ${{player.order}} · ${{player.score.toFixed(1)}} HR · ${{player.badge_summary}}</span>
+              </div>
+            `).join("")}}
+          </div>
+        </article>
+      `).join("") || `<div class="weather-target"><strong>No games match this filter.</strong></div>`;
+    }}
+
+    document.querySelectorAll("button[data-filter]").forEach(button => {{
+      button.addEventListener("click", () => {{
+        document.querySelectorAll("button[data-filter]").forEach(item => item.classList.remove("active"));
+        button.classList.add("active");
+        renderTop(button.dataset.filter);
+      }});
+    }});
+
+    document.querySelectorAll("button[data-pairing]").forEach(button => {{
+      button.addEventListener("click", () => {{
+        document.querySelectorAll("button[data-pairing]").forEach(item => item.classList.remove("active"));
+        button.classList.add("active");
+        renderPairings(button.dataset.pairing);
+      }});
+    }});
+
+    document.querySelectorAll("button[data-projected-pairing]").forEach(button => {{
+      button.addEventListener("click", () => {{
+        document.querySelectorAll("button[data-projected-pairing]").forEach(item => item.classList.remove("active"));
+        button.classList.add("active");
+        renderProjectedPairings(button.dataset.projectedPairing);
+      }});
+    }});
+
+    document.querySelectorAll("button[data-game-filter]").forEach(button => {{
+      button.addEventListener("click", () => {{
+        document.querySelectorAll("button[data-game-filter]").forEach(item => item.classList.remove("active"));
+        button.classList.add("active");
+        renderGames(button.dataset.gameFilter);
+      }});
+    }});
+
+    search?.addEventListener("input", () => renderTop(activeFilter));
+
+    renderAll();
+    setInterval(loadLivePayload, 60000);
+    loadLivePayload();
+  </script>
+</body>
+</html>
+"""
+
+
+def main():
+    payload = build_payload()
+    DASHBOARD_HTML.write_text(render_html(payload), encoding="utf-8")
+    print(f"Wrote {DASHBOARD_HTML}")
+
+
+if __name__ == "__main__":
+    main()

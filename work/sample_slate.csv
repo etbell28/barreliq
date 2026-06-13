@@ -1,0 +1,11 @@
+player,team,opponent,pitcher,hitter_hand,pitcher_hand,barrel_pct,iso,avg_exit_velocity,hard_hit_pct,hr_total,pitcher_barrel_pct_allowed,pitcher_hr_allowed,pitcher_hr_allowed_vs_lhh,pitcher_hr_allowed_vs_rhh,ballpark,park_hr_factor,weather_temp,wind_speed,wind_direction,batting_order,confirmed_lineup,public_attention,odds
+Shohei Ohtani,LAD,SF,Logan Webb,L,R,15.1,0.330,94.2,58.1,44,7.5,19,8,11,Dodger Stadium,104,78,7,out to center,1,Yes,High,290
+Aaron Judge,NYY,BOS,Brayan Bello,R,R,26.0,0.420,96.1,61.0,58,8.9,21,9,12,Yankee Stadium,119,81,10,out to right,2,Yes,High,250
+Gabriel Moreno,ARI,COL,Kyle Freeland,R,L,8.2,0.160,89.1,41.0,8,10.5,25,11,14,Chase Field,101,84,5,neutral,5,Yes,Low,750
+Coby Mayo,BAL,TB,Zack Littell,R,R,13.4,0.240,91.3,49.5,12,11.2,28,12,16,Camden Yards,108,82,9,out to left,6,Yes,Low,650
+Jackson Merrill,SD,CHC,Jameson Taillon,L,R,11.1,0.220,90.5,44.2,24,9.7,27,15,12,Petco Park,91,72,8,out to right,3,Yes,Medium,500
+Nick Kurtz,ATH,TEX,Jack Leiter,L,R,16.8,0.310,93.4,55.6,22,12.7,31,18,13,Sutter Health Park,106,88,12,out to center,4,Yes,Medium,450
+Eric Haase,MIL,PIT,Mitch Keller,R,R,10.5,0.210,90.0,43.7,13,9.1,23,10,13,PNC Park,94,76,11,out to left,7,Yes,Low,850
+Juan Soto,NYM,PHI,Zack Wheeler,L,R,14.5,0.280,92.5,51.1,41,6.1,14,7,7,Citizens Bank Park,112,80,6,in from right,2,Yes,High,310
+Yordan Alvarez,HOU,SEA,Logan Gilbert,L,R,17.5,0.315,93.1,53.4,35,6.4,16,6,10,Minute Maid Park,103,79,3,neutral,3,No,High,330
+Cal Raleigh,SEA,HOU,Hunter Brown,S,R,15.3,0.300,91.9,48.8,34,10.1,26,12,14,T-Mobile Park,96,70,4,neutral,4,Yes,Medium,420

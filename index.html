@@ -1,0 +1,551 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>BarrelIQ</title>
+  <style>
+    :root {
+      --bg: #050806;
+      --panel: #0b120e;
+      --panel2: #101b14;
+      --line: rgba(34, 197, 94, .3);
+      --line2: rgba(45, 212, 191, .24);
+      --text: #eef8f0;
+      --muted: #90a99a;
+      --green: #22c55e;
+      --mint: #2dd4bf;
+      --gold: #f8d66d;
+      --orange: #fb923c;
+      --red: #fb7185;
+      --blue: #60a5fa;
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background:
+        radial-gradient(circle at 12% -10%, rgba(34,197,94,.18), transparent 32%),
+        radial-gradient(circle at 90% 0%, rgba(45,212,191,.11), transparent 30%),
+        var(--bg);
+      color: var(--text);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      letter-spacing: 0;
+    }
+
+    header {
+      position: relative;
+      padding: 18px clamp(14px, 3vw, 34px);
+      border-bottom: 1px solid rgba(255,255,255,.08);
+      background: rgba(5, 8, 6, .96);
+    }
+
+    .topline {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 14px;
+      flex-wrap: wrap;
+    }
+
+    .brand {
+      display: flex;
+      gap: 12px;
+      align-items: center;
+    }
+
+    .mark {
+      width: 46px;
+      height: 46px;
+      display: grid;
+      place-items: center;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      color: var(--green);
+      font-weight: 950;
+      background: linear-gradient(135deg, rgba(34,197,94,.16), rgba(45,212,191,.08));
+      box-shadow: 0 0 28px rgba(34,197,94,.12);
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(34px, 5vw, 64px);
+      line-height: .9;
+      text-transform: uppercase;
+    }
+
+    .sub {
+      margin-top: 8px;
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 850;
+      text-transform: uppercase;
+    }
+
+    .live {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      color: var(--green);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: rgba(34,197,94,.07);
+      padding: 9px 11px;
+      font-size: 12px;
+      font-weight: 950;
+      text-transform: uppercase;
+    }
+
+    .dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--green);
+      box-shadow: 0 0 18px var(--green);
+    }
+
+    nav {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-top: 14px;
+    }
+
+    nav a {
+      color: var(--muted);
+      text-decoration: none;
+      border: 1px solid rgba(255,255,255,.1);
+      background: rgba(255,255,255,.035);
+      padding: 8px 10px;
+      border-radius: 7px;
+      font-size: 12px;
+      font-weight: 900;
+    }
+
+    main { padding: 18px clamp(14px, 3vw, 34px) 34px; }
+
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(6, minmax(118px, 1fr));
+      gap: 10px;
+      margin-bottom: 18px;
+    }
+
+    .stat, .card, .game, table {
+      border: 1px solid rgba(255,255,255,.09);
+      background: rgba(11, 18, 14, .92);
+      border-radius: 8px;
+    }
+
+    .stat {
+      padding: 12px;
+      min-height: 72px;
+    }
+
+    .stat b {
+      display: block;
+      color: var(--gold);
+      font-size: 24px;
+      line-height: 1;
+    }
+
+    .stat span {
+      display: block;
+      margin-top: 8px;
+      color: var(--muted);
+      font-size: 11px;
+      font-weight: 850;
+      text-transform: uppercase;
+    }
+
+    section { margin-top: 22px; }
+
+    .section-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: end;
+      gap: 12px;
+      margin-bottom: 10px;
+    }
+
+    h2 {
+      margin: 0;
+      color: var(--green);
+      font-size: 18px;
+      text-transform: uppercase;
+    }
+
+    .hint {
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 750;
+    }
+
+    .layout {
+      display: grid;
+      grid-template-columns: minmax(0, 1.35fr) minmax(310px, .65fr);
+      gap: 14px;
+      align-items: start;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      overflow: hidden;
+    }
+
+    th, td {
+      padding: 10px 9px;
+      border-bottom: 1px solid rgba(255,255,255,.07);
+      text-align: left;
+      font-size: 13px;
+      vertical-align: top;
+    }
+
+    th {
+      color: var(--muted);
+      background: rgba(255,255,255,.035);
+      font-size: 11px;
+      text-transform: uppercase;
+    }
+
+    .score { color: var(--gold); font-weight: 950; }
+    .cards, .games { display: grid; gap: 10px; }
+    .card, .game { padding: 12px; }
+    .card strong, .game strong { display: block; margin-bottom: 5px; }
+    .card small, .game small { display: block; color: var(--muted); line-height: 1.45; }
+
+    .badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px;
+    }
+
+    .badge {
+      display: inline-flex;
+      min-height: 24px;
+      align-items: center;
+      padding: 4px 7px;
+      border-radius: 5px;
+      border: 1px solid rgba(255,255,255,.18);
+      font-size: 10px;
+      font-weight: 950;
+      text-transform: uppercase;
+      white-space: nowrap;
+    }
+
+    .gold { color: var(--gold); border-color: rgba(248,214,109,.72); }
+    .green { color: var(--green); border-color: rgba(34,197,94,.68); }
+    .teal { color: var(--mint); border-color: rgba(45,212,191,.68); }
+    .blue { color: var(--blue); border-color: rgba(96,165,250,.68); }
+    .red { color: var(--red); border-color: rgba(251,113,133,.72); }
+    .orange { color: var(--orange); border-color: rgba(251,146,60,.72); }
+    .muted { color: var(--muted); border-color: rgba(144,169,154,.36); }
+
+    .toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 10px;
+    }
+
+    button {
+      color: var(--muted);
+      background: rgba(255,255,255,.04);
+      border: 1px solid rgba(255,255,255,.12);
+      border-radius: 7px;
+      padding: 8px 10px;
+      font-weight: 900;
+      cursor: pointer;
+    }
+
+    button.active { color: var(--green); border-color: var(--line); }
+
+    .game-title {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+      color: var(--gold);
+      font-weight: 950;
+      text-transform: uppercase;
+      margin-bottom: 8px;
+    }
+
+    .pill-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 10px;
+    }
+
+    .pill {
+      min-width: 190px;
+      border: 1px solid var(--line2);
+      border-radius: 7px;
+      background: rgba(45,212,191,.055);
+      padding: 8px 9px;
+    }
+
+    .pill strong { color: var(--text); font-size: 12px; }
+    .pill span { display: block; color: var(--muted); font-size: 11px; margin-top: 3px; }
+    .error { color: var(--red); }
+
+    @media (max-width: 900px) {
+      .stats { grid-template-columns: repeat(2, 1fr); }
+      .layout { grid-template-columns: 1fr; }
+      th:nth-child(5), td:nth-child(5),
+      th:nth-child(6), td:nth-child(6) { display: none; }
+      header, main { padding-left: 14px; padding-right: 14px; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="topline">
+      <div class="brand">
+        <div class="mark">BIQ</div>
+        <div>
+          <h1>BarrelIQ</h1>
+          <div class="sub" id="updated">Loading live slate...</div>
+        </div>
+      </div>
+      <div class="live"><span class="dot"></span><span id="liveStatus">Live Data</span></div>
+    </div>
+    <nav>
+      <a href="#targets">Targets</a>
+      <a href="#weather">Weather Edge</a>
+      <a href="#pairings">Pairings</a>
+      <a href="#games">Game Boards</a>
+    </nav>
+  </header>
+
+  <main>
+    <div class="stats">
+      <div class="stat"><b id="hitters">-</b><span>Hitters Scanned</span></div>
+      <div class="stat"><b id="gamesCount">-</b><span>Games</span></div>
+      <div class="stat"><b id="confirmed">-</b><span>Confirmed Hitters</span></div>
+      <div class="stat"><b id="projected">-</b><span>Projected Hitters</span></div>
+      <div class="stat"><b id="warnings">-</b><span>Lineup Warnings</span></div>
+      <div class="stat"><b id="matches">-</b><span>RotoWire Matches</span></div>
+    </div>
+
+    <section id="targets">
+      <div class="section-head">
+        <h2>Top HR Targets</h2>
+        <div class="hint">Objective slate ranking, not reputation ranking.</div>
+      </div>
+      <div class="layout">
+        <table>
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Player</th>
+              <th>Matchup</th>
+              <th>HR</th>
+              <th>Order</th>
+              <th>Pitcher</th>
+              <th>Signals</th>
+            </tr>
+          </thead>
+          <tbody id="topRows"><tr><td colspan="7">Loading...</td></tr></tbody>
+        </table>
+        <div class="cards" id="modelCards"></div>
+      </div>
+    </section>
+
+    <section id="weather">
+      <div class="section-head">
+        <h2>Weather Edge</h2>
+        <div class="hint">Park and weather context layered onto hitter/pitcher math.</div>
+      </div>
+      <div class="cards" id="weatherCards"></div>
+    </section>
+
+    <section id="pairings">
+      <div class="section-head">
+        <h2>Pairings</h2>
+        <div class="hint">Balanced combinations, not just top-player repetition.</div>
+      </div>
+      <div class="toolbar">
+        <button class="active" data-size="2">2-leg</button>
+        <button data-size="3">3-leg</button>
+        <button data-size="4">4-leg</button>
+      </div>
+      <div class="cards" id="pairingCards"></div>
+    </section>
+
+    <section id="games">
+      <div class="section-head">
+        <h2>Game Boards</h2>
+        <div class="hint">Fast scan by game, environment, and best targets.</div>
+      </div>
+      <div class="games" id="gameCards"></div>
+    </section>
+  </main>
+
+  <script>
+    const DATA_URLS = [
+      "/outputs/live_payload.json",
+      "https://raw.githubusercontent.com/etbell28/barreliq/main/outputs/live_payload.json"
+    ];
+    let payload = null;
+    let activePairingSize = "2";
+
+    const classes = {
+      "BEST PICK": "gold",
+      "STAR + FIRE": "orange",
+      "FIRE / TOUGH SP": "red",
+      "HOT BAT": "orange",
+      "EV EDGE": "blue",
+      "SLEEPER PICK": "teal",
+      "WEATHER EDGE": "green",
+      "PITCHER TARGET": "red",
+      "SOURCE SHEET": "gold",
+      "WATCH": "muted"
+    };
+
+    function clean(value, fallback = "") {
+      return value === null || value === undefined || Number.isNaN(value) ? fallback : value;
+    }
+
+    function n(value) {
+      const parsed = Number(value || 0);
+      return Number.isFinite(parsed) ? parsed : 0;
+    }
+
+    function badgeHtml(row) {
+      const items = row.badges || [row.badge || "WATCH"];
+      const badgeClasses = row.badge_classes || items.map(item => classes[item] || "muted");
+      return `<div class="badges">${items.map((item, index) => `<span class="badge ${badgeClasses[index] || classes[item] || "muted"}">${item}</span>`).join("")}</div>`;
+    }
+
+    async function loadPayload() {
+      let lastError = null;
+      for (const url of DATA_URLS) {
+        try {
+          const response = await fetch(`${url}?ts=${Date.now()}`, { cache: "no-store" });
+          if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
+          return await response.json();
+        } catch (error) {
+          lastError = error;
+        }
+      }
+      throw lastError || new Error("No live data source responded.");
+    }
+
+    function renderStats() {
+      document.querySelector("#updated").textContent = `${payload.date || ""} · Updated ${payload.generated_at || ""}`;
+      document.querySelector("#hitters").textContent = clean(payload.slate_projection, 0);
+      document.querySelector("#gamesCount").textContent = clean(payload.games_count, 0);
+      document.querySelector("#confirmed").textContent = clean(payload.confirmed_count, 0);
+      document.querySelector("#projected").textContent = clean(payload.projected_count, 0);
+      document.querySelector("#warnings").textContent = clean(payload.lineup_disagreements, 0);
+      document.querySelector("#matches").textContent = `${clean(payload.rotowire_found, 0)}/${clean(payload.slate_size, 0)}`;
+      document.querySelector("#liveStatus").textContent = payload.generated_iso ? "Live JSON Loaded" : "Loaded";
+    }
+
+    function renderTop() {
+      const rows = (payload.top20 && payload.top20.length ? payload.top20 : payload.projected_top20) || [];
+      document.querySelector("#topRows").innerHTML = rows.map(row => `
+        <tr>
+          <td>${clean(row.rank)}</td>
+          <td><strong>${clean(row.player)}</strong></td>
+          <td>${clean(row.team)} vs ${clean(row.opponent)}</td>
+          <td class="score">${n(row.hr_score).toFixed(1)}</td>
+          <td>${clean(row.batting_order)}</td>
+          <td>${clean(row.pitcher)}</td>
+          <td>${badgeHtml(row)}</td>
+        </tr>
+      `).join("") || `<tr><td colspan="7">No targets loaded.</td></tr>`;
+    }
+
+    function renderModelCards() {
+      const cards = [
+        ["Model", payload.model_profile || "2026/2025 weighted Statcast model."],
+        ["Sources", payload.sources || "Baseball Savant; MLB Stats API; RotoWire"],
+        ["Refresh Logic", "GitHub Actions updates data. The dashboard checks for fresh JSON every 60 seconds."]
+      ];
+      document.querySelector("#modelCards").innerHTML = cards.map(card => `<div class="card"><strong>${card[0]}</strong><small>${card[1]}</small></div>`).join("");
+    }
+
+    function renderWeather() {
+      const rows = payload.weather || [];
+      document.querySelector("#weatherCards").innerHTML = rows.map((item, index) => `
+        <div class="card">
+          <strong>#${index + 1} ${clean(item.ballpark)} · ${n(item.environment_score).toFixed(1)} ENV</strong>
+          <small>${clean(item.weather_temp)} degrees · ${clean(item.wind_direction, "Wind neutral")} · Top target: ${clean(item.top_player)} (${n(item.top_score).toFixed(1)})</small>
+        </div>
+      `).join("") || `<div class="card"><strong>No weather edges loaded.</strong></div>`;
+    }
+
+    function renderPairings() {
+      const confirmedRows = (payload.pairings || {})[activePairingSize] || [];
+      const projectedRows = (payload.projected_pairings || {})[activePairingSize] || [];
+      const rows = confirmedRows.length ? confirmedRows : projectedRows;
+      document.querySelector("#pairingCards").innerHTML = rows.map((row, index) => `
+        <div class="card">
+          <strong>#${index + 1} ${clean(row.names)}</strong>
+          <small>Avg HR Score: ${n(row.avg_score).toFixed(1)} · ${clean(row.risk)} · ${clean(row.reason, "balanced edge mix")}</small>
+          <small>${clean(row.badges)}</small>
+        </div>
+      `).join("") || `<div class="card"><strong>No ${activePairingSize}-leg pairings loaded.</strong></div>`;
+    }
+
+    function renderGames() {
+      const rows = payload.games || [];
+      document.querySelector("#gameCards").innerHTML = rows.map(game => `
+        <article class="game">
+          <div class="game-title">
+            <span>${clean(game.teams)}</span>
+            <span class="badge green">${n(game.environment_score).toFixed(1)} ENV</span>
+            <span class="badge muted">${clean(game.game_tags, "monitor")}</span>
+          </div>
+          <small>${clean(game.ballpark)} · ${clean(game.temp)} degrees · ${clean(game.wind, "Wind neutral")}</small>
+          <div class="pill-row">
+            ${(game.players || []).map(player => `
+              <div class="pill">
+                <strong>#${clean(player.rank)} ${clean(player.player)}</strong>
+                <span>${clean(player.team)} · order ${clean(player.order)} · ${n(player.score).toFixed(1)} HR · ${clean(player.badge_summary)}</span>
+              </div>
+            `).join("")}
+          </div>
+        </article>
+      `).join("") || `<div class="game">No game boards loaded.</div>`;
+    }
+
+    function renderAll() {
+      renderStats();
+      renderTop();
+      renderModelCards();
+      renderWeather();
+      renderPairings();
+      renderGames();
+    }
+
+    async function refresh() {
+      try {
+        payload = await loadPayload();
+        renderAll();
+      } catch (error) {
+        document.querySelector("#liveStatus").textContent = "Live JSON Error";
+        document.querySelector("#topRows").innerHTML = `<tr><td colspan="7" class="error">Could not load live data: ${error.message}</td></tr>`;
+      }
+    }
+
+    document.querySelectorAll("button[data-size]").forEach(button => {
+      button.addEventListener("click", () => {
+        document.querySelectorAll("button[data-size]").forEach(item => item.classList.remove("active"));
+        button.classList.add("active");
+        activePairingSize = button.dataset.size;
+        renderPairings();
+      });
+    });
+
+    refresh();
+    setInterval(refresh, 60000);
+  </script>
+</body>
+</html>

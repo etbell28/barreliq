@@ -3,6 +3,7 @@ import math
 from itertools import combinations
 from datetime import datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import pandas as pd
 
@@ -354,10 +355,11 @@ def build_payload():
         reverse=True,
     )[:8]
 
-    generated_iso = datetime.now().isoformat(timespec="seconds")
+    now = datetime.now(ZoneInfo("America/New_York"))
+    generated_iso = now.isoformat(timespec="seconds")
     return {
-        "date": datetime.now().strftime("%A, %B %-d, %Y"),
-        "generated_at": datetime.now().strftime("%I:%M %p %Z"),
+        "date": now.strftime("%A, %B %-d, %Y"),
+        "generated_at": now.strftime("%I:%M %p %Z"),
         "generated_iso": generated_iso,
         "slate_projection": len(slate),
         "games_count": len(games),

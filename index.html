@@ -126,6 +126,36 @@
 
     main { padding: 18px clamp(14px, 3vw, 34px) 34px; }
 
+    .status-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(160px, 1fr));
+      gap: 10px;
+      margin-bottom: 12px;
+    }
+
+    .status-card {
+      border: 1px solid rgba(255,255,255,.09);
+      background: rgba(11, 18, 14, .72);
+      border-radius: 8px;
+      padding: 11px 12px;
+    }
+
+    .status-card span {
+      display: block;
+      color: var(--muted);
+      font-size: 10px;
+      font-weight: 900;
+      text-transform: uppercase;
+      margin-bottom: 6px;
+    }
+
+    .status-card strong {
+      display: block;
+      color: var(--text);
+      font-size: 13px;
+      line-height: 1.25;
+    }
+
     .stats {
       display: grid;
       grid-template-columns: repeat(6, minmax(118px, 1fr));
@@ -217,6 +247,19 @@
     .card strong, .game strong { display: block; margin-bottom: 5px; }
     .card small, .game small { display: block; color: var(--muted); line-height: 1.45; }
 
+    .why-card {
+      border-color: var(--line);
+      background: rgba(34,197,94,.055);
+    }
+
+    .why-card ul {
+      margin: 7px 0 0;
+      padding-left: 17px;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.45;
+    }
+
     .badges {
       display: flex;
       flex-wrap: wrap;
@@ -294,6 +337,7 @@
     .error { color: var(--red); }
 
     @media (max-width: 900px) {
+      .status-grid { grid-template-columns: 1fr; }
       .stats { grid-template-columns: repeat(2, 1fr); }
       .layout { grid-template-columns: 1fr; }
       th:nth-child(5), td:nth-child(5),
@@ -323,6 +367,13 @@
   </header>
 
   <main>
+    <div class="status-grid">
+      <div class="status-card"><span>Data Mode</span><strong id="dataMode">Loading</strong></div>
+      <div class="status-card"><span>Freshness</span><strong id="freshness">Loading</strong></div>
+      <div class="status-card"><span>Refresh System</span><strong>Page 60s · Engine 5-15m</strong></div>
+      <div class="status-card"><span>Action Rule</span><strong id="actionRule">Loading</strong></div>
+    </div>
+
     <div class="stats">
       <div class="stat"><b id="hitters">-</b><span>Hitters Scanned</span></div>
       <div class="stat"><b id="gamesCount">-</b><span>Games</span></div>
@@ -352,7 +403,10 @@
           </thead>
           <tbody id="topRows"><tr><td colspan="7">Loading...</td></tr></tbody>
         </table>
-        <div class="cards" id="modelCards"></div>
+        <div class="cards">
+          <div id="modelCards" class="cards"></div>
+          <div id="whyCards" class="cards"></div>
+        </div>
       </div>
     </section>
 
@@ -445,6 +499,21 @@
       document.querySelector("#warnings").textContent = clean(payload.lineup_disagreements, 0);
       document.querySelector("#matches").textContent = `${clean(payload.rotowire_found, 0)}/${clean(payload.slate_size, 0)}`;
       document.querySelector("#liveStatus").textContent = payload.generated_iso ? "Live JSON Loaded" : "Loaded";
+      document.querySelector("#dataMode").textContent = payload.confirmed_count > 0 ? "Confirmed-lineup board active" : "Projected-lineup board active";
+      document.querySelector("#freshness").textContent = freshnessText();
+      document.querySelector("#actionRule").textContent = payload.confirmed_count > 0 ? "Use confirmed targets first" : "Pre-lineup slate: monitor and rerun as confirmations arrive";
+    }
+
+    function freshnessText() {
+      if (!payload.generated_iso) return "Timestamp unavailable";
+      const generated = new Date(payload.generated_iso);
+      if (Number.isNaN(generated.getTime())) return `Last model run: ${payload.generated_at || "unknown"}`;
+      const minutes = Math.max(0, Math.round((Date.now() - generated.getTime()) / 60000));
+      if (minutes < 2) return "Updated just now";
+      if (minutes < 60) return `Last model run ${minutes} min ago`;
+      const hours = Math.floor(minutes / 60);
+      const remainder = minutes % 60;
+      return `Last model run ${hours}h ${remainder}m ago`;
     }
 
     function renderTop() {
@@ -466,9 +535,35 @@
       const cards = [
         ["Model", payload.model_profile || "2026/2025 weighted Statcast model."],
         ["Sources", payload.sources || "Baseball Savant; MLB Stats API; RotoWire"],
-        ["Refresh Logic", "GitHub Actions updates data. The dashboard checks for fresh JSON every 60 seconds."]
+        ["Refresh Logic", "GitHub Actions updates data. The dashboard checks for fresh JSON every 60 seconds."],
+        ["Lineup Logic", payload.confirmed_count > 0 ? "Confirmed hitters are prioritized. Projected sections remain useful for late games." : "No confirmed lineups in this run. Current board is projection-based until the next lineup refresh."]
       ];
       document.querySelector("#modelCards").innerHTML = cards.map(card => `<div class="card"><strong>${card[0]}</strong><small>${card[1]}</small></div>`).join("");
+    }
+
+    function whyLines(row) {
+      const lines = [];
+      if (row.reason_tags) lines.push(row.reason_tags);
+      const scores = [];
+      if (row.power_score !== undefined) scores.push(`Power ${n(row.power_score).toFixed(1)}`);
+      if (row.pitcher_score !== undefined) scores.push(`Pitcher ${n(row.pitcher_score).toFixed(1)}`);
+      if (row.environment_score !== undefined) scores.push(`Env ${n(row.environment_score).toFixed(1)}`);
+      if (scores.length) lines.push(scores.join(" · "));
+      if (row.recent_form_note) lines.push(row.recent_form_note);
+      if (row.split_matchup_note) lines.push(row.split_matchup_note);
+      if (row.pitch_mix_note) lines.push(row.pitch_mix_note);
+      return lines.slice(0, 4);
+    }
+
+    function renderWhyCards() {
+      const rows = ((payload.top20 && payload.top20.length ? payload.top20 : payload.projected_top20) || []).slice(0, 5);
+      document.querySelector("#whyCards").innerHTML = rows.map(row => `
+        <div class="card why-card">
+          <strong>#${clean(row.rank)} ${clean(row.player)} · ${n(row.hr_score).toFixed(1)} HR</strong>
+          <small>${clean(row.team)} vs ${clean(row.opponent)} · ${clean(row.pitcher)} · order ${clean(row.batting_order)}</small>
+          <ul>${whyLines(row).map(line => `<li>${line}</li>`).join("")}</ul>
+        </div>
+      `).join("");
     }
 
     function renderWeather() {
@@ -520,6 +615,7 @@
       renderStats();
       renderTop();
       renderModelCards();
+      renderWhyCards();
       renderWeather();
       renderPairings();
       renderGames();

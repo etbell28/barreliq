@@ -28,6 +28,8 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    env:
+      TZ: America/New_York
     steps:
       - name: Check out repo
         uses: actions/checkout@v4

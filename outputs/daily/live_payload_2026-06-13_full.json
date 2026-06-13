@@ -1,7 +1,7 @@
 {
   "date": "Saturday, June 13, 2026",
-  "generated_at": "10:49 AM ",
-  "generated_iso": "2026-06-13T10:49:50",
+  "generated_at": "03:26 PM ",
+  "generated_iso": "2026-06-13T15:26:21",
   "slate_projection": 261,
   "games_count": 15,
   "confirmed_count": 0,
@@ -1630,7 +1630,7 @@
           "order": 3,
           "pitcher": "Michael Soroka",
           "score": 53.2,
-          "rank": 42,
+          "rank": 43,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -1649,7 +1649,7 @@
           "order": 2,
           "pitcher": "Michael Soroka",
           "score": 52.2,
-          "rank": 49,
+          "rank": 50,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -1868,25 +1868,6 @@
           "source_warnings": "lineup projected / unconfirmed"
         },
         {
-          "player": "Trent Grisham",
-          "team": "NYY",
-          "order": 1,
-          "pitcher": "Kevin Gausman",
-          "score": 53.6,
-          "rank": 38,
-          "badge": "WATCH",
-          "badge_class": "muted",
-          "badges": [
-            "WATCH"
-          ],
-          "badge_classes": [
-            "muted"
-          ],
-          "badge_summary": "WATCH",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "lineup projected / unconfirmed"
-        },
-        {
           "player": "Spencer Jones",
           "team": "NYY",
           "order": 6,
@@ -1925,12 +1906,31 @@
           "source_warnings": "lineup projected / unconfirmed"
         },
         {
+          "player": "Jazz Chisholm",
+          "team": "NYY",
+          "order": 4,
+          "pitcher": "Kevin Gausman",
+          "score": 49.6,
+          "rank": 76,
+          "badge": "WATCH",
+          "badge_class": "muted",
+          "badges": [
+            "WATCH"
+          ],
+          "badge_classes": [
+            "muted"
+          ],
+          "badge_summary": "WATCH",
+          "lineup_disagreement": "Yes",
+          "source_warnings": "lineup projected / unconfirmed"
+        },
+        {
           "player": "Jesus Sanchez",
           "team": "TOR",
           "order": 6,
           "pitcher": "Cam Schlittler",
           "score": 49.3,
-          "rank": 75,
+          "rank": 77,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2114,7 +2114,7 @@
           "order": 4,
           "pitcher": "Luis Castillo",
           "score": 54.2,
-          "rank": 36,
+          "rank": 37,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2133,7 +2133,7 @@
           "order": 2,
           "pitcher": "Luis Castillo",
           "score": 53.3,
-          "rank": 41,
+          "rank": 42,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2261,7 +2261,7 @@
           "order": 6,
           "pitcher": "Griffin Jax",
           "score": 48.9,
-          "rank": 80,
+          "rank": 82,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2374,7 +2374,7 @@
           "order": 7,
           "pitcher": "Joey Estes",
           "score": 55.9,
-          "rank": 29,
+          "rank": 30,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2428,7 +2428,7 @@
           "order": 7,
           "pitcher": "Yoshinobu Yamamoto",
           "score": 55.9,
-          "rank": 28,
+          "rank": 29,
           "badge": "FIRE / TOUGH SP",
           "badge_class": "red",
           "badges": [
@@ -2449,7 +2449,7 @@
           "order": 3,
           "pitcher": "Sean Burke",
           "score": 52.6,
-          "rank": 45,
+          "rank": 46,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2487,7 +2487,7 @@
           "order": 2,
           "pitcher": "Yoshinobu Yamamoto",
           "score": 49.7,
-          "rank": 74,
+          "rank": 75,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
           "badges": [
@@ -2816,7 +2816,7 @@
           "order": 5,
           "pitcher": "Matthew Liberatore",
           "score": 52.3,
-          "rank": 47,
+          "rank": 48,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2882,25 +2882,6 @@
           "source_warnings": "lineup projected / unconfirmed"
         },
         {
-          "player": "Trent Grisham",
-          "team": "NYY",
-          "order": 1,
-          "pitcher": "Kevin Gausman",
-          "score": 53.6,
-          "rank": 38,
-          "badge": "WATCH",
-          "badge_class": "muted",
-          "badges": [
-            "WATCH"
-          ],
-          "badge_classes": [
-            "muted"
-          ],
-          "badge_summary": "WATCH",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "lineup projected / unconfirmed"
-        },
-        {
           "player": "Spencer Jones",
           "team": "NYY",
           "order": 6,
@@ -2939,12 +2920,31 @@
           "source_warnings": "lineup projected / unconfirmed"
         },
         {
+          "player": "Jazz Chisholm",
+          "team": "NYY",
+          "order": 4,
+          "pitcher": "Kevin Gausman",
+          "score": 49.6,
+          "rank": 76,
+          "badge": "WATCH",
+          "badge_class": "muted",
+          "badges": [
+            "WATCH"
+          ],
+          "badge_classes": [
+            "muted"
+          ],
+          "badge_summary": "WATCH",
+          "lineup_disagreement": "Yes",
+          "source_warnings": "lineup projected / unconfirmed"
+        },
+        {
           "player": "Jesus Sanchez",
           "team": "TOR",
           "order": 6,
           "pitcher": "Cam Schlittler",
           "score": 49.3,
-          "rank": 75,
+          "rank": 77,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3134,7 +3134,7 @@
           "order": 4,
           "pitcher": "Luis Castillo",
           "score": 54.2,
-          "rank": 36,
+          "rank": 37,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3153,7 +3153,7 @@
           "order": 2,
           "pitcher": "Luis Castillo",
           "score": 53.3,
-          "rank": 41,
+          "rank": 42,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3203,7 +3203,7 @@
           "order": 2,
           "pitcher": "Lake Bachar",
           "score": 54.6,
-          "rank": 33,
+          "rank": 34,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3222,7 +3222,7 @@
           "order": 8,
           "pitcher": "Lake Bachar",
           "score": 54.4,
-          "rank": 34,
+          "rank": 35,
           "badge": "FIRE / TOUGH SP",
           "badge_class": "red",
           "badges": [
@@ -3243,7 +3243,7 @@
           "order": 3,
           "pitcher": "Bubba Chandler",
           "score": 52.3,
-          "rank": 48,
+          "rank": 49,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -3262,7 +3262,7 @@
           "order": 3,
           "pitcher": "Lake Bachar",
           "score": 48.7,
-          "rank": 86,
+          "rank": 87,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3281,7 +3281,7 @@
           "order": 5,
           "pitcher": "Bubba Chandler",
           "score": 48.4,
-          "rank": 88,
+          "rank": 89,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -3312,7 +3312,7 @@
           "order": 3,
           "pitcher": "Michael Soroka",
           "score": 53.2,
-          "rank": 42,
+          "rank": 43,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -3331,7 +3331,7 @@
           "order": 2,
           "pitcher": "Michael Soroka",
           "score": 52.2,
-          "rank": 49,
+          "rank": 50,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3438,7 +3438,7 @@
           "order": 4,
           "pitcher": "Joey Cantillo",
           "score": 52.9,
-          "rank": 44,
+          "rank": 45,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3457,7 +3457,7 @@
           "order": 6,
           "pitcher": "Joey Cantillo",
           "score": 52.2,
-          "rank": 50,
+          "rank": 51,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3476,7 +3476,7 @@
           "order": 5,
           "pitcher": "Joey Cantillo",
           "score": 48.8,
-          "rank": 82,
+          "rank": 83,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3674,12 +3674,31 @@
           "source_warnings": "lineup projected / unconfirmed"
         },
         {
-          "player": "Jared Young",
+          "player": "Eric Wagaman",
           "team": "NYM",
-          "order": 4,
+          "order": 8,
           "pitcher": "Martín Pérez",
-          "score": 52.1,
-          "rank": 51,
+          "score": 55.9,
+          "rank": 28,
+          "badge": "EV EDGE",
+          "badge_class": "blue",
+          "badges": [
+            "EV EDGE"
+          ],
+          "badge_classes": [
+            "blue"
+          ],
+          "badge_summary": "EV EDGE",
+          "lineup_disagreement": "Yes",
+          "source_warnings": "lineup projected / unconfirmed"
+        },
+        {
+          "player": "Francisco Alvarez",
+          "team": "NYM",
+          "order": 5,
+          "pitcher": "Martín Pérez",
+          "score": 53.7,
+          "rank": 39,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3708,25 +3727,6 @@
             "orange"
           ],
           "badge_summary": "HOT BAT",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "lineup projected / unconfirmed"
-        },
-        {
-          "player": "Austin Riley",
-          "team": "ATL",
-          "order": 4,
-          "pitcher": null,
-          "score": 49.3,
-          "rank": 76,
-          "badge": "SOURCE SHEET",
-          "badge_class": "gold",
-          "badges": [
-            "SOURCE SHEET"
-          ],
-          "badge_classes": [
-            "gold"
-          ],
-          "badge_summary": "SOURCE SHEET",
           "lineup_disagreement": "Yes",
           "source_warnings": "lineup projected / unconfirmed"
         }
@@ -3771,7 +3771,7 @@
           "order": 7,
           "pitcher": "Yoshinobu Yamamoto",
           "score": 55.9,
-          "rank": 28,
+          "rank": 29,
           "badge": "FIRE / TOUGH SP",
           "badge_class": "red",
           "badges": [
@@ -3792,7 +3792,7 @@
           "order": 3,
           "pitcher": "Sean Burke",
           "score": 52.6,
-          "rank": 45,
+          "rank": 46,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3830,7 +3830,7 @@
           "order": 2,
           "pitcher": "Yoshinobu Yamamoto",
           "score": 49.7,
-          "rank": 74,
+          "rank": 75,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
           "badges": [
@@ -3907,7 +3907,7 @@
           "order": 1,
           "pitcher": "Mike Burrows",
           "score": 53.4,
-          "rank": 39,
+          "rank": 40,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
           "badges": [
@@ -3926,7 +3926,7 @@
           "order": 2,
           "pitcher": "Mike Burrows",
           "score": 53.4,
-          "rank": 40,
+          "rank": 41,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -4024,7 +4024,7 @@
           "order": 2,
           "pitcher": "Aaron Nola",
           "score": 54.1,
-          "rank": 37,
+          "rank": 38,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
           "badges": [
@@ -4175,7 +4175,7 @@
           "order": 7,
           "pitcher": "Joey Estes",
           "score": 55.9,
-          "rank": 29,
+          "rank": 30,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4246,7 +4246,7 @@
           "order": 1,
           "pitcher": "Trevor McDonald",
           "score": 48.9,
-          "rank": 79,
+          "rank": 81,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -4395,7 +4395,7 @@
           "order": 6,
           "pitcher": "Griffin Jax",
           "score": 48.9,
-          "rank": 80,
+          "rank": 82,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [

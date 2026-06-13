@@ -75,6 +75,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add outputs/live_payload.json dashboard_site/data/slate.json outputs/hr_rankings.csv outputs/hr_rankings.md outputs/hr_rankings.xlsx outputs/auto_slate_full.csv outputs/auto_slate_remaining.csv outputs/active_slate.txt outputs/daily dashboard_site/index.html
+                    git add -A outputs dashboard_site
           git commit -m "Update BarrelIQ live data" || echo "No data changes to commit"
           git push

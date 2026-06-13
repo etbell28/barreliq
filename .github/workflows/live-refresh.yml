@@ -1,0 +1,80 @@
+name: BarrelIQ Live Refresh
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Refresh mode"
+        required: true
+        default: "remaining"
+        type: choice
+        options:
+          - full
+          - remaining
+          - audit
+  schedule:
+    - cron: "7,22,37,52 12-19 * * *"
+    - cron: "3/5 20-23 * * *"
+    - cron: "3/5 0-3 * * *"
+    - cron: "33 10 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: barreliq-live-refresh
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Choose mode
+        id: choose
+        shell: bash
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "mode=${{ inputs.mode }}" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          schedule="${{ github.event.schedule }}"
+          if [ "$schedule" = "33 10 * * *" ]; then
+            echo "mode=audit" >> "$GITHUB_OUTPUT"
+          elif [ "$schedule" = "7,22,37,52 12-19 * * *" ]; then
+            echo "mode=full" >> "$GITHUB_OUTPUT"
+          else
+            echo "mode=remaining" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Build full slate
+        if: steps.choose.outputs.mode == 'full'
+        run: python run_live_refresh.py --mode full
+
+      - name: Build remaining slate
+        if: steps.choose.outputs.mode == 'remaining'
+        run: python run_live_refresh.py --mode remaining
+
+      - name: Run audit
+        if: steps.choose.outputs.mode == 'audit'
+        run: python scripts/audit_hr_results.py
+
+      - name: Commit updated data
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add outputs/live_payload.json dashboard_site/data/slate.json outputs/hr_rankings.csv outputs/hr_rankings.md outputs/hr_rankings.xlsx outputs/auto_slate_full.csv outputs/auto_slate_remaining.csv outputs/active_slate.txt outputs/daily dashboard_site/index.html
+          git commit -m "Update BarrelIQ live data" || echo "No data changes to commit"
+          git push

@@ -1,0 +1,43 @@
+date,game,player,team,opponent,hr_count,innings,event,description,appeared_in_rankings,rank,hr_score,tier,top_20,top_10
+2026-06-13,ATL@NYM,Eli White,ATL,NYM,1,4,Home Run,Eli White homers (3) on a fly ball to left field.,Yes,161,46.1,Longshot,No,No
+2026-06-13,ATL@NYM,Michael Harris II,ATL,NYM,1,8,Home Run,Michael Harris II homers (14) on a fly ball to right field.,Yes,43,58.4,Longshot,No,No
+2026-06-13,AZ@CIN,Corbin Carroll,AZ,CIN,1,1,Home Run,Corbin Carroll homers (12) on a fly ball to right center field.,Yes,23,62.4,Tier 3,No,No
+2026-06-13,AZ@CIN,Noelvi Marte,CIN,AZ,1,8,Home Run,Noelvi Marte homers (2) on a fly ball to left center field.,Yes,228,39.3,Longshot,No,No
+2026-06-13,CHC@SF,Ian Happ,CHC,SF,1,5,Home Run,Ian Happ homers (16) on a fly ball to left field.,Yes,174,44.9,Longshot,No,No
+2026-06-13,CHC@SF,Pedro Ramírez,CHC,SF,1,5,Home Run,Pedro Ramírez homers (1) on a fly ball to center field.,No,,,,No,No
+2026-06-13,CHC@SF,Pete Crow-Armstrong,CHC,SF,1,1,Home Run,Pete Crow-Armstrong homers (12) on a fly ball to left center field.,Yes,136,48.9,Longshot,No,No
+2026-06-13,COL@ATH,Brett Sullivan,COL,ATH,1,3,Home Run,Brett Sullivan homers (4) on a fly ball to right field.,No,,,,No,No
+2026-06-13,COL@ATH,Zack Gelof,ATH,COL,1,4,Home Run,Zack Gelof homers (9) on a fly ball to left center field. Henry Bolte scores.,Yes,139,48.8,Longshot,No,No
+2026-06-13,DET@CLE,Daniel Schneemann,CLE,DET,1,3,Home Run,Daniel Schneemann homers (5) on a fly ball to right center field. José Ramírez scores.,No,,,,No,No
+2026-06-13,HOU@KC,Brice Matthews,HOU,KC,1,5,Home Run,Brice Matthews homers (6) on a fly ball to center field. Jake Meyers scores.,Yes,117,50.6,Longshot,No,No
+2026-06-13,HOU@KC,Christian Walker,HOU,KC,1,4,Home Run,Christian Walker homers (18) on a line drive to left field. Yordan Alvarez scores.,Yes,45,58.4,Longshot,No,No
+2026-06-13,HOU@KC,Jake Meyers,HOU,KC,1,6,Home Run,Jake Meyers homers (3) on a fly ball to left center field.,Yes,208,41.4,Longshot,No,No
+2026-06-13,HOU@KC,Jose Altuve,HOU,KC,1,8,Home Run,Jose Altuve homers (6) on a fly ball to left field. Isaac Paredes scores.,Yes,167,45.5,Longshot,No,No
+2026-06-13,HOU@KC,Lane Thomas,KC,HOU,1,4,Home Run,Lane Thomas homers (3) on a fly ball to left center field.,Yes,225,39.5,Longshot,No,No
+2026-06-13,LAD@CWS,Max Muncy,LAD,CWS,2,"1, 8",Home Run,Max Muncy homers (15) on a fly ball to right center field. Mookie Betts scores. / Max Muncy homers (16) on a fly ball to center field. Mookie Betts scores.,Yes,31,60.7,Tier 3,No,No
+2026-06-13,LAD@CWS,Shohei Ohtani,LAD,CWS,1,1,Home Run,Shohei Ohtani homers (14) on a fly ball to right field.,Yes,5,70.1,Tier 2,Yes,Yes
+2026-06-13,LAD@CWS,Tristan Peters,CWS,LAD,1,9,Home Run,Tristan Peters homers (3) on a fly ball to right field.,Yes,249,35.1,Longshot,No,No
+2026-06-13,NYY@TOR,Jasson Domínguez,NYY,TOR,1,4,Home Run,Jasson Domínguez homers (2) on a line drive to right field.,Yes,106,51.4,Longshot,No,No
+2026-06-13,NYY@TOR,Kazuma Okamoto,TOR,NYY,1,3,Home Run,Kazuma Okamoto homers (15) on a line drive to left field.,Yes,41,59.0,Longshot,No,No
+2026-06-13,NYY@TOR,Paul Goldschmidt,NYY,TOR,1,9,Home Run,Paul Goldschmidt homers (9) on a fly ball to left field. Cody Bellinger scores.,Yes,88,53.6,Longshot,No,No
+2026-06-13,PHI@MIL,Edmundo Sosa,PHI,MIL,1,2,Home Run,Edmundo Sosa homers (4) on a fly ball to right center field.,Yes,177,44.6,Longshot,No,No
+2026-06-13,PHI@MIL,Garrett Mitchell,MIL,PHI,1,4,Home Run,Garrett Mitchell homers (4) on a fly ball to center field. William Contreras scores.,Yes,76,54.8,Longshot,No,No
+2026-06-13,PHI@MIL,J.T. Realmuto,PHI,MIL,1,6,Home Run,J.T. Realmuto homers (4) on a fly ball to left center field. Edmundo Sosa scores. Bryson Stott scores.,Yes,171,45.0,Longshot,No,No
+2026-06-13,PHI@MIL,Jackson Chourio,MIL,PHI,2,"5, 7",Home Run,Jackson Chourio homers (7) on a fly ball to center field. / Jackson Chourio homers (8) on a fly ball to center field. Christian Yelich scores.,Yes,36,60.0,Tier 3,No,No
+2026-06-13,SD@BAL,Gavin Sheets,SD,BAL,1,7,Home Run,Gavin Sheets homers (11) on a fly ball to right field.,Yes,50,57.8,Longshot,No,No
+2026-06-13,SD@BAL,Jackson Merrill,SD,BAL,1,1,Home Run,Jackson Merrill homers (7) on a fly ball to left center field. Fernando Tatis Jr. scores.,Yes,27,61.3,Tier 3,No,No
+2026-06-13,SD@BAL,Manny Machado,SD,BAL,1,9,Home Run,Manny Machado homers (12) on a fly ball to center field.,Yes,51,57.7,Longshot,No,No
+2026-06-13,SD@BAL,Pete Alonso,BAL,SD,1,1,Home Run,Pete Alonso homers (16) on a fly ball to right center field.,Yes,4,70.5,Tier 2,Yes,Yes
+2026-06-13,SD@BAL,Rodolfo Durán,SD,BAL,1,8,Home Run,Rodolfo Durán homers (2) on a fly ball to left field.,No,,,,No,No
+2026-06-13,SD@BAL,Samad Taylor,SD,BAL,1,1,Home Run,Samad Taylor homers (1) on a fly ball to center field. Xander Bogaerts scores.,Yes,205,41.9,Longshot,No,No
+2026-06-13,SEA@WSH,Colt Emerson,SEA,WSH,1,5,Home Run,Colt Emerson homers (6) on a fly ball to right field. Mitch Garver scores.,Yes,219,40.2,Longshot,No,No
+2026-06-13,SEA@WSH,Luis García Jr.,WSH,SEA,1,5,Home Run,Luis García Jr. homers (9) on a fly ball to right center field. James Wood scores.,Yes,19,63.5,Tier 3,Yes,No
+2026-06-13,STL@MIN,Blaze Jordan,STL,MIN,1,7,Home Run,Blaze Jordan homers (1) on a fly ball to left center field. Lars Nootbaar scores. Alec Burleson scores.,Yes,125,50.0,Longshot,No,No
+2026-06-13,STL@MIN,Byron Buxton,MIN,STL,1,4,Home Run,Byron Buxton homers (22) on a fly ball to center field.,Yes,2,72.3,Tier 2,Yes,Yes
+2026-06-13,STL@MIN,Iván Herrera,STL,MIN,2,"1, 7",Home Run,Iván Herrera homers (8) on a fly ball to left center field. Masyn Winn scores. / Iván Herrera homers (9) on a fly ball to left field.,Yes,59,56.9,Longshot,No,No
+2026-06-13,STL@MIN,Jordan Walker,STL,MIN,1,7,Home Run,Jordan Walker homers (18) on a fly ball to left field.,Yes,16,64.1,Tier 3,Yes,No
+2026-06-13,STL@MIN,Luke Keaschall,MIN,STL,1,5,Home Run,Luke Keaschall homers (2) on a line drive to left field. Ryan Kreidler scores.,Yes,197,42.5,Longshot,No,No
+2026-06-13,STL@MIN,Royce Lewis,MIN,STL,1,4,Home Run,Royce Lewis homers (6) on a fly ball to left field.,Yes,26,61.5,Tier 3,No,No
+2026-06-13,TB@LAA,Jose Siri,LAA,TB,1,7,Home Run,Jose Siri homers (3) on a fly ball to center field. Zach Neto scores.,No,,,,No,No
+2026-06-13,TEX@BOS,Jake Burger,TEX,BOS,1,8,Home Run,Jake Burger homers (12) on a fly ball to center field.,Yes,110,51.3,Longshot,No,No
+2026-06-13,TEX@BOS,Jarren Duran,BOS,TEX,1,8,Home Run,Jarren Duran homers (11) on a fly ball to right center field. Willson Contreras scores.,Yes,79,54.7,Longshot,No,No

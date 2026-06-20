@@ -1,0 +1,39 @@
+date,game,player,team,opponent,hr_count,innings,event,description,appeared_in_rankings,rank,hr_score,tier,top_20,top_10
+2026-06-19,BAL@LAD,Gunnar Henderson,BAL,LAD,1,6,Home Run,Gunnar Henderson homers (16) on a fly ball to right field. Jackson Holliday scores.,Yes,64,54.0,Longshot,No,No
+2026-06-19,BAL@LAD,Mookie Betts,LAD,BAL,1,9,Home Run,Mookie Betts homers (8) on a fly ball to left field.,Yes,110,48.1,Longshot,No,No
+2026-06-19,BAL@LAD,Pete Alonso,BAL,LAD,1,6,Home Run,Pete Alonso homers (17) on a fly ball to left center field.,Yes,19,60.6,Tier 3,Yes,No
+2026-06-19,BOS@SEA,Caleb Durbin,BOS,SEA,1,2,Home Run,Caleb Durbin homers (5) on a fly ball to left center field.,Yes,226,31.5,Longshot,No,No
+2026-06-19,BOS@SEA,Julio Rodríguez,SEA,BOS,1,9,Home Run,Julio Rodríguez homers (14) on a fly ball to center field. Cal Raleigh scores.,Yes,136,45.3,Longshot,No,No
+2026-06-19,CIN@NYY,Ben Rice,NYY,CIN,1,2,Home Run,Ben Rice homers (21) on a fly ball to center field. Spencer Jones scores. Anthony Volpe scores.,Yes,6,66.5,Tier 3,Yes,Yes
+2026-06-19,CIN@NYY,Jazz Chisholm Jr.,NYY,CIN,1,2,Home Run,Jazz Chisholm Jr. homers (11) on a fly ball to right field.,Yes,39,56.6,Longshot,No,No
+2026-06-19,CLE@HOU,Jeremy Peña,HOU,CLE,2,"3, 7",Home Run,"Umpire reviewed (home run), call on the field was upheld: Jeremy Peña homers (5) on a line drive to left field. / Jeremy Peña homers (6) on a fly ball to left field.",Yes,117,47.1,Longshot,No,No
+2026-06-19,CLE@HOU,Jose Altuve,HOU,CLE,1,6,Home Run,Jose Altuve homers (8) on a fly ball to left field. Yordan Alvarez scores. Isaac Paredes scores.,Yes,154,43.6,Longshot,No,No
+2026-06-19,CLE@HOU,Rhys Hoskins,CLE,HOU,1,3,Home Run,Rhys Hoskins homers (7) on a fly ball to left field. Brayan Rocchio scores.,Yes,126,46.2,Longshot,No,No
+2026-06-19,CWS@DET,Junior Perez,CWS,DET,1,6,Home Run,Junior Perez homers (1) on a line drive to left center field.,Yes,224,32.7,Longshot,No,No
+2026-06-19,CWS@DET,Matt Vierling,DET,CWS,1,1,Home Run,Matt Vierling homers (5) on a line drive to center field. Dillon Dingler scores.,Yes,121,46.6,Longshot,No,No
+2026-06-19,CWS@DET,Randal Grichuk,CWS,DET,1,1,Home Run,Randal Grichuk homers (7) on a fly ball to left field.,Yes,56,54.4,Longshot,No,No
+2026-06-19,LAA@ATH,Denzer Guzman,LAA,ATH,1,4,Home Run,Denzer Guzman homers (1) on a fly ball to left field. Oswald Peraza scores.,Yes,119,46.9,Longshot,No,No
+2026-06-19,LAA@ATH,Jacob Wilson,ATH,LAA,1,7,Home Run,Jacob Wilson homers (4) on a fly ball to left field. Tyler Soderstrom scores.,Yes,196,37.9,Longshot,No,No
+2026-06-19,LAA@ATH,Jonah Heim,ATH,LAA,1,9,Home Run,Jonah Heim homers (6) on a fly ball to right field. Tyler Soderstrom scores.,No,,,,No,No
+2026-06-19,LAA@ATH,Jose Siri,LAA,ATH,1,4,Home Run,Jose Siri homers (4) on a fly ball to left center field. Logan O'Hoppe scores. Wade Meckler scores.,Yes,62,54.0,Longshot,No,No
+2026-06-19,LAA@ATH,Lawrence Butler,ATH,LAA,1,2,Home Run,Lawrence Butler homers (5) on a fly ball to center field.,Yes,106,48.9,Longshot,No,No
+2026-06-19,LAA@ATH,Logan O'Hoppe,LAA,ATH,1,5,Home Run,Logan O'Hoppe homers (4) on a fly ball to left center field. Jo Adell scores. Oswald Peraza scores.,Yes,80,52.2,Longshot,No,No
+2026-06-19,LAA@ATH,Max Muncy,ATH,LAA,1,8,Home Run,Max Muncy homers (4) on a fly ball to center field. Lawrence Butler scores.,No,,,,No,No
+2026-06-19,LAA@ATH,Nolan Schanuel,LAA,ATH,1,6,Home Run,Nolan Schanuel homers (5) on a fly ball to right field.,No,,,,No,No
+2026-06-19,LAA@ATH,Zach Neto,LAA,ATH,1,4,Home Run,Zach Neto homers (16) on a fly ball to left center field.,Yes,23,60.3,Tier 3,No,No
+2026-06-19,MIL@ATL,Mike Yastrzemski,ATL,MIL,1,7,Home Run,Mike Yastrzemski homers (4) on a fly ball to right field.,Yes,182,39.4,Longshot,No,No
+2026-06-19,MIN@AZ,Josh Bell,MIN,AZ,1,8,Home Run,Josh Bell homers (9) on a fly ball to center field.,Yes,95,49.9,Longshot,No,No
+2026-06-19,MIN@AZ,Ketel Marte,AZ,MIN,1,6,Home Run,Ketel Marte homers (12) on a fly ball to left field.,Yes,50,55.0,Longshot,No,No
+2026-06-19,MIN@AZ,Royce Lewis,MIN,AZ,1,8,Home Run,Royce Lewis homers (7) on a fly ball to center field.,Yes,112,47.6,Longshot,No,No
+2026-06-19,MIN@AZ,Victor Caratini,MIN,AZ,1,2,Home Run,Victor Caratini homers (5) on a fly ball to right center field.,Yes,156,43.5,Longshot,No,No
+2026-06-19,PIT@COL,TJ Rumfield,COL,PIT,1,4,Home Run,TJ Rumfield homers (11) on a fly ball to right field.,Yes,93,50.1,Longshot,No,No
+2026-06-19,SD@TEX,Gavin Sheets,SD,TEX,1,8,Home Run,Gavin Sheets homers (12) on a fly ball to right field.,Yes,74,53.0,Longshot,No,No
+2026-06-19,SD@TEX,Ty France,SD,TEX,2,"1, 4",Home Run,Ty France hits a grand slam (7) to right field. Samad Taylor scores. Gavin Sheets scores. Xander Bogaerts scores. / Ty France homers (8) on a fly ball to center field.,Yes,128,46.1,Longshot,No,No
+2026-06-19,SD@TEX,Wyatt Langford,TEX,SD,1,8,Home Run,Wyatt Langford homers (5) on a fly ball to left center field.,Yes,48,55.3,Longshot,No,No
+2026-06-19,SF@MIA,Owen Caissie,MIA,SF,1,1,Home Run,Owen Caissie homers (8) on a fly ball to center field.,Yes,116,47.2,Longshot,No,No
+2026-06-19,SF@MIA,Rafael Devers,SF,MIA,1,6,Home Run,Rafael Devers homers (11) on a fly ball to right center field.,Yes,45,55.7,Longshot,No,No
+2026-06-19,STL@KC,Jac Caglianone,KC,STL,1,5,Home Run,Jac Caglianone homers (10) on a fly ball to left field.,Yes,14,61.1,Tier 3,Yes,No
+2026-06-19,WSH@TB,CJ Abrams,WSH,TB,1,2,Home Run,CJ Abrams homers (15) on a fly ball to center field.,Yes,88,50.9,Longshot,No,No
+2026-06-19,WSH@TB,Jonathan Aranda,TB,WSH,1,3,Home Run,Jonathan Aranda homers (12) on a fly ball to left field. Hunter Feduccia scores. Yandy Díaz scores.,Yes,42,56.3,Longshot,No,No
+2026-06-19,WSH@TB,Jonny DeLuca,TB,WSH,1,8,Home Run,Jonny DeLuca homers (3) on a fly ball to left field.,Yes,148,44.1,Longshot,No,No
+2026-06-19,WSH@TB,Luis García Jr.,WSH,TB,1,3,Home Run,Luis García Jr. homers (10) on a fly ball to left field.,Yes,72,53.0,Longshot,No,No

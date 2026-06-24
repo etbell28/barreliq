@@ -1,0 +1,39 @@
+date,game,player,team,opponent,hr_count,innings,event,description,appeared_in_rankings,rank,hr_score,tier,top_20,top_10
+2026-06-23,ATH@SF,Jung Hoo Lee,SF,ATH,1,2,Home Run,Jung Hoo Lee homers (5) on a fly ball to right center field.,Yes,139,47.2,Longshot,No,No
+2026-06-23,ATL@SD,Fernando Tatis Jr.,SD,ATL,1,7,Home Run,Fernando Tatis Jr. homers (3) on a fly ball to center field.,Yes,97,50.6,Longshot,No,No
+2026-06-23,ATL@SD,Mauricio Dubón,ATL,SD,1,5,Home Run,Mauricio Dubón homers (8) on a fly ball to left field.,Yes,222,37.4,Longshot,No,No
+2026-06-23,BAL@LAA,Nolan Schanuel,LAA,BAL,1,1,Home Run,Nolan Schanuel homers (6) on a fly ball to right center field. Zach Neto scores.,Yes,137,47.3,Longshot,No,No
+2026-06-23,BOS@COL,Ezequiel Tovar,COL,BOS,1,9,Home Run,Ezequiel Tovar homers (6) on a fly ball to left field.,Yes,204,40.4,Longshot,No,No
+2026-06-23,BOS@COL,Willi Castro,COL,BOS,1,2,Home Run,Willi Castro homers (6) on a fly ball to right field.,Yes,173,44.3,Longshot,No,No
+2026-06-23,BOS@COL,Wilyer Abreu,BOS,COL,1,5,Home Run,Wilyer Abreu homers (10) on a fly ball to center field.,Yes,123,48.4,Longshot,No,No
+2026-06-23,CHC@NYM,Bo Bichette,NYM,CHC,1,9,Home Run,Bo Bichette homers (9) on a fly ball to right center field. Carson Benge scores.,Yes,105,49.9,Longshot,No,No
+2026-06-23,CHC@NYM,Dansby Swanson,CHC,NYM,1,4,Home Run,Dansby Swanson homers (9) on a fly ball to left field. Carson Kelly scores.,Yes,206,40.2,Longshot,No,No
+2026-06-23,CHC@NYM,Francisco Alvarez,NYM,CHC,1,7,Home Run,Francisco Alvarez homers (6) on a fly ball to center field.,Yes,126,48.0,Longshot,No,No
+2026-06-23,CHC@NYM,Pete Crow-Armstrong,CHC,NYM,1,2,Home Run,Pete Crow-Armstrong homers (17) on a fly ball to right center field. Matt Shaw scores. Carson Kelly scores.,Yes,17,59.9,Longshot,Yes,No
+2026-06-23,CLE@CWS,Kahlil Watson,CLE,CWS,1,5,Home Run,Kahlil Watson homers (1) on a fly ball to right field.,Yes,208,40.1,Longshot,No,No
+2026-06-23,CLE@CWS,Miguel Vargas,CWS,CLE,1,6,Home Run,Miguel Vargas homers (17) on a fly ball to left field.,Yes,118,48.7,Longshot,No,No
+2026-06-23,HOU@TOR,Cam Smith,HOU,TOR,1,4,Home Run,Cam Smith homers (8) on a fly ball to center field.,Yes,66,53.0,Longshot,No,No
+2026-06-23,HOU@TOR,Daulton Varsho,TOR,HOU,1,7,Home Run,Daulton Varsho homers (7) on a fly ball to right field. Kazuma Okamoto scores.,Yes,124,48.1,Longshot,No,No
+2026-06-23,HOU@TOR,Joey Loperfido,HOU,TOR,1,11,Home Run,Joey Loperfido homers (1) on a fly ball to right field. Jose Altuve scores. Yordan Alvarez scores.,Yes,104,49.9,Longshot,No,No
+2026-06-23,HOU@TOR,Luis Urías,TOR,HOU,1,4,Home Run,Luis Urías homers (1) on a fly ball to left field. Daulton Varsho scores.,Yes,232,35.6,Longshot,No,No
+2026-06-23,HOU@TOR,Taylor Trammell,HOU,TOR,1,4,Home Run,Taylor Trammell homers (1) on a fly ball to right field.,Yes,130,47.8,Longshot,No,No
+2026-06-23,HOU@TOR,Yainer Diaz,HOU,TOR,1,4,Home Run,Yainer Diaz homers (3) on a fly ball to left field.,Yes,109,49.7,Longshot,No,No
+2026-06-23,KC@TB,Jac Caglianone,KC,TB,2,"1, 5",Home Run,Jac Caglianone homers (13) on a fly ball to right field. / Jac Caglianone homers (14) on a fly ball to left center field. Nick Loftin scores.,Yes,23,58.5,Longshot,No,No
+2026-06-23,KC@TB,Junior Caminero,TB,KC,1,8,Home Run,Junior Caminero homers (16) on a fly ball to left center field.,Yes,116,48.8,Longshot,No,No
+2026-06-23,KC@TB,Nick Loftin,KC,TB,1,1,Home Run,Nick Loftin homers (3) on a fly ball to left field.,Yes,140,47.0,Longshot,No,No
+2026-06-23,LAD@MIN,Alex Call,LAD,MIN,1,9,Home Run,Alex Call homers (1) on a fly ball to left field.,Yes,268,28.0,Longshot,No,No
+2026-06-23,LAD@MIN,Brooks Lee,MIN,LAD,1,9,Home Run,Brooks Lee homers (13) on a fly ball to right field.,Yes,193,41.7,Longshot,No,No
+2026-06-23,LAD@MIN,Victor Caratini,MIN,LAD,1,2,Home Run,Victor Caratini homers (6) on a fly ball to left center field.,Yes,152,46.1,Longshot,No,No
+2026-06-23,NYY@DET,Jazz Chisholm Jr.,NYY,DET,1,6,Home Run,Jazz Chisholm Jr. homers (12) on a fly ball to right center field. Paul Goldschmidt scores.,Yes,80,52.0,Longshot,No,No
+2026-06-23,PHI@WSH,Brandon Marsh,PHI,WSH,1,9,Home Run,Brandon Marsh homers (11) on a fly ball to right field. Trea Turner scores.,Yes,60,53.4,Longshot,No,No
+2026-06-23,PHI@WSH,Bryson Stott,PHI,WSH,1,9,Home Run,Bryson Stott homers (7) on a fly ball to right field. Bryce Harper scores. Derek Hill scores.,Yes,143,46.5,Longshot,No,No
+2026-06-23,PHI@WSH,Edmundo Sosa,PHI,WSH,1,5,Home Run,Edmundo Sosa homers (5) on a fly ball to center field. Bryson Stott scores.,Yes,168,44.5,Longshot,No,No
+2026-06-23,PHI@WSH,Jorbit Vivas,WSH,PHI,1,8,Home Run,Jorbit Vivas homers (2) on a fly ball to center field. Luis García Jr. scores. Dylan Crews scores.,Yes,242,34.2,Longshot,No,No
+2026-06-23,PHI@WSH,Luis García Jr.,WSH,PHI,1,9,Home Run,Luis García Jr. homers (12) on a fly ball to center field.,No,,,,No,No
+2026-06-23,SEA@PIT,Cal Raleigh,SEA,PIT,1,4,Home Run,Cal Raleigh homers (8) on a fly ball to right center field.,Yes,41,55.4,Longshot,No,No
+2026-06-23,SEA@PIT,Cole Young,SEA,PIT,1,7,Home Run,Cole Young homers (7) on a fly ball to right field. Luke Raley scores.,Yes,192,41.7,Longshot,No,No
+2026-06-23,TEX@MIA,Brandon Nimmo,TEX,MIA,1,8,Home Run,Brandon Nimmo homers (8) on a fly ball to right center field.,Yes,57,53.8,Longshot,No,No
+2026-06-23,TEX@MIA,Heriberto Hernández,MIA,TEX,1,2,Home Run,Heriberto Hernández homers (8) on a fly ball to center field.,Yes,65,53.1,Longshot,No,No
+2026-06-23,TEX@MIA,Joc Pederson,TEX,MIA,1,9,Home Run,Joc Pederson homers (10) on a fly ball to right center field.,Yes,122,48.4,Longshot,No,No
+2026-06-23,TEX@MIA,Joe Mack,MIA,TEX,1,4,Home Run,Joe Mack homers (4) on a fly ball to right center field.,Yes,131,47.8,Longshot,No,No
+2026-06-23,TEX@MIA,Owen Caissie,MIA,TEX,1,5,Home Run,Owen Caissie homers (9) on a fly ball to right field. Otto Lopez scores. Xavier Edwards scores.,Yes,42,55.1,Longshot,No,No

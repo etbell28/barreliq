@@ -1,0 +1,15 @@
+date,game,player,team,opponent,hr_count,innings,event,description,appeared_in_rankings,rank,hr_score,tier,top_20,top_10
+2026-06-25,CHC@NYM,Eric Wagaman,NYM,CHC,1,6,Home Run,Eric Wagaman homers (2) on a fly ball to left field. A.J. Ewing scores.,No,,,,No,No
+2026-06-25,CHC@NYM,Jared Young,NYM,CHC,1,7,Home Run,Jared Young homers (6) on a fly ball to right center field.,No,,,,No,No
+2026-06-25,HOU@DET,Dillon Dingler,DET,HOU,1,9,Home Run,Dillon Dingler homers (19) on a fly ball to center field.,Yes,13,59.7,Longshot,Yes,No
+2026-06-25,HOU@DET,Taylor Trammell,HOU,DET,1,6,Home Run,Taylor Trammell homers (2) on a fly ball to right field.,Yes,63,44.9,Longshot,No,No
+2026-06-25,NYY@BOS,Caleb Durbin,BOS,NYY,1,5,Home Run,Caleb Durbin homers (6) on a fly ball to left field. Willson Contreras scores.,Yes,96,37.8,Longshot,No,No
+2026-06-25,NYY@BOS,José Caballero,NYY,BOS,1,4,Home Run,José Caballero homers (8) on a line drive to left center field.,Yes,103,37.1,Longshot,No,No
+2026-06-25,PHI@WSH,Brandon Marsh,PHI,WSH,1,6,Home Run,Brandon Marsh homers (12) on a fly ball to right center field. Bryce Harper scores.,Yes,33,54.6,Longshot,No,No
+2026-06-25,PHI@WSH,Bryce Harper,PHI,WSH,1,9,Home Run,Bryce Harper homers (18) on a fly ball to left center field. Garrett Stubbs scores.,Yes,10,60.8,Tier 3,Yes,Yes
+2026-06-25,PHI@WSH,Curtis Mead,WSH,PHI,1,1,Home Run,Curtis Mead homers (14) on a fly ball to left center field.,Yes,29,55.4,Longshot,No,No
+2026-06-25,PHI@WSH,Derek Hill,PHI,WSH,1,9,Home Run,Derek Hill homers (6) on a fly ball to left center field. J.T. Realmuto scores.,No,,,,No,No
+2026-06-25,TEX@TOR,Jake Burger,TEX,TOR,1,3,Home Run,Jake Burger homers (14) on a fly ball to left field. Corey Seager scores.,Yes,42,52.0,Longshot,No,No
+2026-06-25,TEX@TOR,Joc Pederson,TEX,TOR,1,1,Home Run,Joc Pederson homers (12) on a fly ball to right field.,Yes,27,55.9,Longshot,No,No
+2026-06-25,TEX@TOR,Kazuma Okamoto,TOR,TEX,1,9,Home Run,Kazuma Okamoto homers (18) on a fly ball to center field. Ernie Clement scores.,Yes,6,62.2,Tier 3,Yes,Yes
+2026-06-25,TEX@TOR,Wyatt Langford,TEX,TOR,1,3,Home Run,Wyatt Langford homers (8) on a fly ball to left center field. Nicky Lopez scores. Joc Pederson scores.,Yes,39,53.2,Longshot,No,No

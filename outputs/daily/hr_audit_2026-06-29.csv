@@ -1,0 +1,34 @@
+date,game,player,team,opponent,hr_count,innings,event,description,appeared_in_rankings,rank,hr_score,tier,top_20,top_10
+2026-06-29,CIN@MIL,Brice Turang,MIL,CIN,1,7,Home Run,Brice Turang homers (12) on a fly ball to center field.,Yes,82,51.8,Longshot,No,No
+2026-06-29,CIN@MIL,Elly De La Cruz,CIN,MIL,1,5,Home Run,Elly De La Cruz homers (13) on a fly ball to left center field. Edwin Arroyo scores.,Yes,55,54.3,Longshot,No,No
+2026-06-29,CIN@MIL,Joey Ortiz,MIL,CIN,1,8,Home Run,Joey Ortiz homers (2) on a fly ball to center field. Sal Frelick scores.,Yes,214,36.2,Longshot,No,No
+2026-06-29,DET@NYY,Amed Rosario,NYY,DET,1,8,Home Run,Amed Rosario homers (8) on a line drive to left center field. Jasson Domínguez scores. Spencer Jones scores.,No,,,,No,No
+2026-06-29,LAA@SEA,Cole Young,SEA,LAA,2,"3, 6",Home Run,Cole Young homers (8) on a fly ball to center field. / Cole Young homers (9) on a fly ball to right field. Josh Naylor scores.,Yes,153,44.5,Longshot,No,No
+2026-06-29,LAA@SEA,Dominic Canzone,SEA,LAA,1,6,Home Run,Dominic Canzone homers (13) on a fly ball to right center field.,Yes,20,61.7,Tier 3,Yes,No
+2026-06-29,LAA@SEA,Zach Neto,LAA,SEA,1,3,Home Run,Zach Neto homers (18) on a fly ball to left center field.,Yes,71,52.8,Longshot,No,No
+2026-06-29,LAD@ATH,Andy Pages,LAD,ATH,1,4,Home Run,Andy Pages homers (16) on a fly ball to left field. Miguel Rojas scores.,Yes,107,49.0,Longshot,No,No
+2026-06-29,LAD@ATH,Colby Thomas,ATH,LAD,1,2,Home Run,Colby Thomas homers (3) on a fly ball to right center field.,Yes,31,59.3,Longshot,No,No
+2026-06-29,LAD@ATH,Max Muncy,LAD,ATH,1,4,Home Run,Max Muncy homers (17) on a fly ball to right center field.,Yes,122,47.6,Longshot,No,No
+2026-06-29,LAD@ATH,Shohei Ohtani,LAD,ATH,1,6,Home Run,Shohei Ohtani homers (18) on a line drive to right field. Miguel Rojas scores. Dalton Rushing scores.,Yes,23,60.7,Tier 3,No,No
+2026-06-29,MIA@COL,Griffin Conine,MIA,COL,1,5,Home Run,Griffin Conine homers (3) on a fly ball to right field. Xavier Edwards scores. Kyle Stowers scores.,No,,,,No,No
+2026-06-29,MIA@COL,Hunter Goodman,COL,MIA,1,7,Home Run,Hunter Goodman homers (26) on a fly ball to left center field.,Yes,13,62.9,Tier 3,Yes,No
+2026-06-29,MIA@COL,Otto Lopez,MIA,COL,1,5,Home Run,Otto Lopez homers (7) on a fly ball to right center field.,Yes,79,52.0,Longshot,No,No
+2026-06-29,MIN@HOU,Cam Smith,HOU,MIN,2,"5, 9",Home Run,Cam Smith homers (10) on a fly ball to left field. / Cam Smith homers (11) on a fly ball to left center field.,Yes,97,50.4,Longshot,No,No
+2026-06-29,MIN@HOU,Josh Bell,MIN,HOU,1,6,Home Run,Josh Bell homers (10) on a fly ball to right center field. Brooks Lee scores.,Yes,113,48.4,Longshot,No,No
+2026-06-29,MIN@HOU,Royce Lewis,MIN,HOU,1,4,Home Run,Royce Lewis homers (8) on a fly ball to left field.,Yes,145,44.9,Longshot,No,No
+2026-06-29,MIN@HOU,Taylor Trammell,HOU,MIN,1,9,Home Run,Taylor Trammell homers (3) on a fly ball to right field. Isaac Paredes scores.,Yes,91,50.9,Longshot,No,No
+2026-06-29,MIN@HOU,Victor Caratini,MIN,HOU,1,4,Home Run,Victor Caratini homers (7) on a fly ball to center field.,Yes,143,45.2,Longshot,No,No
+2026-06-29,NYM@TOR,Francisco Lindor,NYM,TOR,1,7,Home Run,Francisco Lindor homers (3) on a fly ball to right field.,Yes,93,50.6,Longshot,No,No
+2026-06-29,PIT@PHI,Brandon Marsh,PHI,PIT,2,"1, 8",Home Run,Brandon Marsh homers (13) on a fly ball to left center field. / Brandon Marsh homers (14) on a fly ball to right center field.,Yes,49,55.0,Longshot,No,No
+2026-06-29,PIT@PHI,Bryce Harper,PHI,PIT,1,3,Home Run,Bryce Harper homers (20) on a fly ball to right field. Trea Turner scores.,Yes,27,59.7,Longshot,No,No
+2026-06-29,PIT@PHI,Endy Rodríguez,PIT,PHI,1,9,Home Run,Endy Rodríguez homers (4) on a fly ball to right center field. Ryan O'Hearn scores. Billy Cook scores.,Yes,58,54.0,Longshot,No,No
+2026-06-29,PIT@PHI,Esmerlyn Valdez,PIT,PHI,1,4,Home Run,Esmerlyn Valdez homers (6) on a fly ball to left field. Bryan Reynolds scores.,Yes,1,74.8,Tier 2,Yes,Yes
+2026-06-29,PIT@PHI,Jared Triolo,PIT,PHI,1,5,Home Run,Jared Triolo homers (1) on a fly ball to center field.,Yes,195,40.1,Longshot,No,No
+2026-06-29,PIT@PHI,Trea Turner,PHI,PIT,1,1,Home Run,Trea Turner homers (8) on a fly ball to left field.,Yes,162,43.7,Longshot,No,No
+2026-06-29,SF@AZ,Heliot Ramos,SF,AZ,1,9,Home Run,Heliot Ramos homers (5) on a fly ball to left center field.,Yes,68,53.2,Longshot,No,No
+2026-06-29,SF@AZ,Ketel Marte,AZ,SF,1,1,Home Run,Ketel Marte homers (16) on a fly ball to right field.,Yes,36,58.2,Longshot,No,No
+2026-06-29,SF@AZ,Nolan Arenado,AZ,SF,1,6,Home Run,Nolan Arenado homers (9) on a fly ball to left field.,Yes,210,36.5,Longshot,No,No
+2026-06-29,TEX@CLE,Gabriel Arias,CLE,TEX,1,5,Home Run,Gabriel Arias homers (3) on a fly ball to center field.,Yes,201,38.6,Longshot,No,No
+2026-06-29,WSH@BOS,Caleb Durbin,BOS,WSH,1,1,Home Run,Caleb Durbin homers (7) on a fly ball to left field.,Yes,194,40.7,Longshot,No,No
+2026-06-29,WSH@BOS,James Wood,WSH,BOS,1,1,Home Run,James Wood homers (21) on a fly ball to right field.,Yes,46,55.6,Longshot,No,No
+2026-06-29,WSH@BOS,Willson Contreras,BOS,WSH,1,1,Home Run,Willson Contreras homers (18) on a fly ball to left center field. Ceddanne Rafaela scores. Wilyer Abreu scores.,Yes,33,59.0,Longshot,No,No

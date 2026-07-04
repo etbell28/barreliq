@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Esmerlyn Valdez | PIT | Zack Littell | 4 | 72.2 | Tier 2 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Hot Hitter/Streak |
-| 2 | Byron Buxton | MIN | Brendan Beck | 2 | 69.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
-| 3 | Dominic Canzone | SEA | Shane Bieber | 3 | 68.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 4 | Rafael Devers | SF | Tomoyuki Sugano | 4 | 67.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 5 | Bryce Eldridge | SF | Tomoyuki Sugano | 6 | 64.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Platoon Edge |
-| 6 | Nelson Velazquez | STL | Shota Imanaga | 4 | 64.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 7 | Hunter Goodman | COL | Robbie Ray | 3 | 63.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 8 | Victor Bericoto | SF | Tomoyuki Sugano | 8 | 62.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Hot Hitter/Streak |
-| 9 | Josh Bell | MIN | Brendan Beck | 5 | 62.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Platoon Edge |
-| 10 | Yordan Alvarez | HOU | Drew Rasmussen | 2 | 62.2 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Ben Rice | NYY | Zebby Matthews | 2 | 62.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | James Wood | WSH | Braxton Ashcraft | 1 | 61.6 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 13 | Luke Raley | SEA | Shane Bieber | 6 | 61.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Platoon Edge |
-| 14 | Brandon Lowe | PIT | Zack Littell | 2 | 61.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 15 | Cal Raleigh | SEA | Shane Bieber | 4 | 61.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 16 | Kyle Stowers | MIA | Aaron Civale | 3 | 61.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 17 | Nick Kurtz | ATH | Sandy Alcantara | 2 | 61.1 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Jake Bauers | MIL | Merrill Kelly | 5 | 61.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 19 | Kyle Schwarber | PHI | Michael Wacha | 2 | 60.1 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Trent Grisham | NYY | Zebby Matthews | 1 | 59.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 1 | Kyle Stowers | MIA | Aaron Civale | 2 | 69.5 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 2 | Hunter Goodman | COL | Robbie Ray | 3 | 68.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 3 | Nick Kurtz | ATH | Sandy Alcantara | 1 | 67.6 | Tier 3 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 4 | Kyle Schwarber | PHI | Michael Wacha | 2 | 66.5 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 5 | Jake Bauers | MIL | Merrill Kelly | 3 | 65.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 6 | Griffin Conine | MIA | Aaron Civale | 5 | 64.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Platoon Edge |
+| 7 | Willson Contreras | BOS | Sam Aldegheri | 4 | 63.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 8 | Garrett Mitchell | MIL | Merrill Kelly | 5 | 63.1 | Tier 3 | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 9 | Owen Caissie | MIA | Aaron Civale | 6 | 61.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Platoon Edge |
+| 10 | Matt Olson | ATL | Sean Manaea | 4 | 59.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 11 | Bryce Harper | PHI | Michael Wacha | 3 | 59.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Bobby Witt Jr. | KC | Jesús Luzardo | 2 | 58.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 13 | Brice Turang | MIL | Merrill Kelly | 1 | 58.7 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 14 | Rafael Devers | SF | Sean Sullivan | 4 | 58.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 15 | Juan Soto | NYM | Chris Sale | 2 | 57.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 16 | Heliot Ramos | SF | Sean Sullivan | 1 | 57.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Ketel Marte | AZ | Brandon Woodruff | 1 | 56.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 18 | Victor Bericoto | SF | Sean Sullivan | 8 | 56.4 | Longshot | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 19 | Kyle Karros | COL | Robbie Ray | 2 | 56.2 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 20 | Otto Lopez | MIA | Aaron Civale | 3 | 56.2 | Longshot | Watch List | Good Environment, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
-- Esmerlyn Valdez + Byron Buxton | Avg HR Score: 70.6
-- Byron Buxton + Dominic Canzone | Avg HR Score: 68.5
-- Dominic Canzone + Rafael Devers | Avg HR Score: 67.7
-- Rafael Devers + Bryce Eldridge | Avg HR Score: 66.1
-- Bryce Eldridge + Nelson Velazquez | Avg HR Score: 64.7
+- Kyle Stowers + Hunter Goodman | Avg HR Score: 68.8
+- Hunter Goodman + Nick Kurtz | Avg HR Score: 67.9
+- Nick Kurtz + Kyle Schwarber | Avg HR Score: 67.0
+- Kyle Schwarber + Jake Bauers | Avg HR Score: 65.9
+- Jake Bauers + Griffin Conine | Avg HR Score: 64.8
 
 ## Best 3-Leg Pairings
 
-- Esmerlyn Valdez + Byron Buxton + Dominic Canzone | Avg HR Score: 69.7
-- Byron Buxton + Dominic Canzone + Rafael Devers | Avg HR Score: 68.1
-- Dominic Canzone + Rafael Devers + Bryce Eldridge | Avg HR Score: 66.7
-- Rafael Devers + Bryce Eldridge + Nelson Velazquez | Avg HR Score: 65.5
-- Bryce Eldridge + Nelson Velazquez + Hunter Goodman | Avg HR Score: 64.1
+- Kyle Stowers + Hunter Goodman + Nick Kurtz | Avg HR Score: 68.4
+- Hunter Goodman + Nick Kurtz + Kyle Schwarber | Avg HR Score: 67.4
+- Nick Kurtz + Kyle Schwarber + Jake Bauers | Avg HR Score: 66.5
+- Kyle Schwarber + Jake Bauers + Griffin Conine | Avg HR Score: 65.3
+- Jake Bauers + Griffin Conine + Willson Contreras | Avg HR Score: 64.3
 
 ## Best 4-Leg Pairings
 
-- Esmerlyn Valdez + Byron Buxton + Dominic Canzone + Rafael Devers | Avg HR Score: 69.1
-- Byron Buxton + Dominic Canzone + Rafael Devers + Bryce Eldridge | Avg HR Score: 67.3
-- Dominic Canzone + Rafael Devers + Bryce Eldridge + Nelson Velazquez | Avg HR Score: 66.2
-- Rafael Devers + Bryce Eldridge + Nelson Velazquez + Hunter Goodman | Avg HR Score: 64.9
-- Bryce Eldridge + Nelson Velazquez + Hunter Goodman + Victor Bericoto | Avg HR Score: 63.8
+- Kyle Stowers + Hunter Goodman + Nick Kurtz + Kyle Schwarber | Avg HR Score: 68.0
+- Hunter Goodman + Nick Kurtz + Kyle Schwarber + Jake Bauers | Avg HR Score: 66.9
+- Nick Kurtz + Kyle Schwarber + Jake Bauers + Griffin Conine | Avg HR Score: 65.9
+- Kyle Schwarber + Jake Bauers + Griffin Conine + Willson Contreras | Avg HR Score: 64.8
+- Jake Bauers + Griffin Conine + Willson Contreras + Garrett Mitchell | Avg HR Score: 64.0

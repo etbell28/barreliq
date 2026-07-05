@@ -2,47 +2,45 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Nick Kurtz | ATH | Eury Pérez | 2 | 67.3 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 2 | Shohei Ohtani | LAD | JP Sears | 1 | 67.3 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
-| 3 | Yordan Alvarez | HOU |  | 2 | 65.9 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 4 | Rafael Devers | SF | Tanner Gordon | 4 | 65.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 5 | James Wood | WSH | Bubba Chandler | 1 | 65.3 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 6 | Byron Buxton | MIN | Ryan Weathers | 2 | 64.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 7 | Bryce Eldridge | SF | Tanner Gordon | 6 | 64.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 8 | Pete Alonso | BAL | Nick Lodolo | 4 | 61.0 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Ben Rice | NYY | Joe Ryan | 2 | 60.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Esmerlyn Valdez | PIT | Cade Cavalli | 4 | 60.6 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 11 | Freddie Freeman | LAD | JP Sears | 3 | 59.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Hot Hitter/Streak |
-| 12 | Mickey Moniak | COL | Tyler Mahle | 2 | 59.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 13 | Juan Soto | NYM | Martín Pérez | 3 | 58.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 14 | Riley Greene | DET | Kumar Rocker | 4 | 58.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 15 | Kyle Schwarber | PHI | Luinder Avila | 2 | 57.9 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Hunter Goodman | COL | Tyler Mahle | 3 | 57.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 17 | Andy Pages | LAD | JP Sears | 2 | 57.8 | Longshot | Watch List | Projected Lineup, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 18 | Trent Grisham | NYY | Joe Ryan | 1 | 57.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Teoscar Hernandez | LAD | JP Sears | 5 | 57.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Platoon Edge |
-| 20 | Victor Bericoto | SF | Tanner Gordon | 8 | 57.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Hot Hitter/Streak |
+| 1 | Willson Contreras | BOS | Ryan Johnson | 4 | 59.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 2 | Wilyer Abreu | BOS | Ryan Johnson | 3 | 56.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 3 | Zach Neto | LAA | Ranger Suarez | 1 | 52.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Jorge Soler | LAA | Ranger Suarez | 4 | 48.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 5 | Jo Adell | LAA | Ranger Suarez | 6 | 48.7 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 6 | Jarren Duran | BOS | Ryan Johnson | 7 | 48.2 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 7 | Jose Siri | LAA | Ranger Suarez | 7 | 48.2 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 8 | Denzer Guzman | LAA | Ranger Suarez | 2 | 47.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | Masataka Yoshida | BOS | Ryan Johnson | 5 | 47.2 | Longshot | Watch List | Platoon Edge |
+| 10 | Vaughn Grissom | LAA | Ranger Suarez | 3 | 47.1 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 11 | Anthony Seigler | BOS | Ryan Johnson | 1 | 46.8 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 12 | Ceddanne Rafaela | BOS | Ryan Johnson | 2 | 46.1 | Longshot | Watch List | Premium Lineup Spot |
+| 13 | Carlos Narváez | BOS | Ryan Johnson | 8 | 42.3 | Longshot | Watch List | No major boost |
+| 14 | Oswald Peraza | LAA | Ranger Suarez | 5 | 41.9 | Longshot | Watch List | Platoon Edge |
+| 15 | Tsung-Che Cheng | BOS | Ryan Johnson | 9 | 40.7 | Longshot | Watch List | Platoon Edge |
+| 16 | Logan O'Hoppe | LAA | Ranger Suarez | 8 | 40.7 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 17 | Josh Lowe | LAA | Ranger Suarez | 9 | 40.5 | Longshot | Watch List | Hot Hitter/Streak |
+| 18 | Caleb Durbin | BOS | Ryan Johnson | 6 | 39.2 | Longshot | Watch List | No major boost |
 
 ## Best 2-Leg Pairings
 
-- Nick Kurtz + Shohei Ohtani | Avg HR Score: 67.3
-- Shohei Ohtani + Yordan Alvarez | Avg HR Score: 66.6
-- Yordan Alvarez + Rafael Devers | Avg HR Score: 65.8
-- Rafael Devers + James Wood | Avg HR Score: 65.5
-- James Wood + Byron Buxton | Avg HR Score: 64.7
+- Willson Contreras + Wilyer Abreu | Avg HR Score: 58.2
+- Wilyer Abreu + Zach Neto | Avg HR Score: 54.5
+- Zach Neto + Jorge Soler | Avg HR Score: 50.5
+- Jorge Soler + Jo Adell | Avg HR Score: 48.8
+- Jo Adell + Jarren Duran | Avg HR Score: 48.5
 
 ## Best 3-Leg Pairings
 
-- Nick Kurtz + Shohei Ohtani + Yordan Alvarez | Avg HR Score: 66.8
-- Shohei Ohtani + Yordan Alvarez + Rafael Devers | Avg HR Score: 66.3
-- Yordan Alvarez + Rafael Devers + James Wood | Avg HR Score: 65.6
-- Rafael Devers + James Wood + Byron Buxton | Avg HR Score: 65.0
-- James Wood + Byron Buxton + Bryce Eldridge | Avg HR Score: 64.4
+- Willson Contreras + Wilyer Abreu + Zach Neto | Avg HR Score: 56.3
+- Wilyer Abreu + Zach Neto + Jorge Soler | Avg HR Score: 52.6
+- Zach Neto + Jorge Soler + Jo Adell | Avg HR Score: 49.9
+- Jorge Soler + Jo Adell + Jarren Duran | Avg HR Score: 48.6
+- Jo Adell + Jarren Duran + Jose Siri | Avg HR Score: 48.4
 
 ## Best 4-Leg Pairings
 
-- Nick Kurtz + Shohei Ohtani + Yordan Alvarez + Rafael Devers | Avg HR Score: 66.5
-- Shohei Ohtani + Yordan Alvarez + Rafael Devers + James Wood | Avg HR Score: 66.0
-- Yordan Alvarez + Rafael Devers + James Wood + Byron Buxton | Avg HR Score: 65.2
-- Rafael Devers + James Wood + Byron Buxton + Bryce Eldridge | Avg HR Score: 64.8
-- James Wood + Byron Buxton + Bryce Eldridge + Pete Alonso | Avg HR Score: 63.6
+- Willson Contreras + Wilyer Abreu + Zach Neto + Jorge Soler | Avg HR Score: 54.4
+- Wilyer Abreu + Zach Neto + Jorge Soler + Jo Adell | Avg HR Score: 51.6
+- Zach Neto + Jorge Soler + Jo Adell + Jarren Duran | Avg HR Score: 49.5
+- Jorge Soler + Jo Adell + Jarren Duran + Jose Siri | Avg HR Score: 48.5
+- Jo Adell + Jarren Duran + Jose Siri + Denzer Guzman | Avg HR Score: 48.1

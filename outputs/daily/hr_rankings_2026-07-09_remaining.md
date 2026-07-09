@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Kyle Schwarber | PHI | Brady Singer | 2 | 70.7 | Tier 2 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 2 | Kody Clemens | MIN | Gavin Williams | 3 | 61.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 3 | Juan Soto | NYM | Michael Wacha | 2 | 60.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 4 | Mike Trout | LAA | Nathan Eovaldi | 2 | 60.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 5 | Matt Olson | ATL | Mitch Keller | 3 | 59.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 6 | Jackson Merrill | SD | Merrill Kelly | 2 | 59.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 7 | Pete Alonso | BAL | David Peterson | 4 | 58.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 8 | Bryce Harper | PHI | Brady Singer | 3 | 58.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Nick Kurtz | ATH | Framber Valdez | 2 | 57.6 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 10 | Riley Greene | DET | Jack Perkins | 3 | 57.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 11 | Josh Bell | MIN | Gavin Williams | 4 | 57.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 12 | Ben Rice | NYY | Drew Rasmussen | 2 | 57.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 13 | Dominic Canzone | SEA | Janson Junk | 3 | 56.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Willson Contreras | BOS | Anthony Kay | 4 | 56.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Kyle Stowers | MIA | Bryce Miller | 2 | 56.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 16 | Manny Machado | SD | Merrill Kelly | 4 | 56.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
-| 17 | Rafael Devers | SF | Ryan Feltner | 4 | 55.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 18 | Fernando Tatis | SD | Merrill Kelly | 1 | 55.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
-| 19 | Sal Stewart | CIN | Jesús Luzardo | 2 | 55.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 20 | Drake Baldwin | ATL | Mitch Keller | 4 | 55.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 1 | Kyle Schwarber | PHI | Brady Singer | 2 | 77.4 | Tier 2 | Best Overall | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 2 | Jackson Merrill | SD | Merrill Kelly | 2 | 65.0 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
+| 3 | Bryce Harper | PHI | Brady Singer | 3 | 64.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 4 | Nick Kurtz | ATH | Framber Valdez | 2 | 64.0 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
+| 5 | Mike Trout | LAA | Nathan Eovaldi | 2 | 62.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 6 | Manny Machado | SD | Merrill Kelly | 4 | 62.2 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
+| 7 | Sal Stewart | CIN | Jesús Luzardo | 2 | 62.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 8 | Rafael Devers | SF | Ryan Feltner | 4 | 61.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 9 | Fernando Tatis Jr. | SD | Merrill Kelly | 1 | 61.6 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
+| 10 | Brandon Marsh | PHI | Brady Singer | 4 | 61.3 | Tier 3 | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
+| 11 | Bryce Eldridge | SF | Ryan Feltner | 6 | 61.2 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
+| 12 | Shea Langeliers | ATH | Framber Valdez | 3 | 60.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Dominic Canzone | SEA | Janson Junk | 3 | 59.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Jordan Walker | STL | Logan Henderson | 4 | 59.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 15 | Hunter Goodman | COL | Carson Whisenhunt | 4 | 58.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Heliot Ramos | SF | Ryan Feltner | 1 | 58.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 17 | Kyle Stowers | MIA | Bryce Miller | 4 | 58.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 18 | Gavin Sheets | SD | Merrill Kelly | 5 | 58.3 | Longshot | Watch List | Pitcher Vulnerable, Platoon Edge |
+| 19 | Alec Burleson | STL | Logan Henderson | 3 | 57.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Elly De La Cruz | CIN | Jesús Luzardo | 1 | 57.8 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Kyle Schwarber + Kody Clemens | Avg HR Score: 66.2
-- Kody Clemens + Juan Soto | Avg HR Score: 61.0
-- Juan Soto + Mike Trout | Avg HR Score: 60.3
-- Mike Trout + Matt Olson | Avg HR Score: 59.9
-- Matt Olson + Jackson Merrill | Avg HR Score: 59.3
+- Kyle Schwarber + Jackson Merrill | Avg HR Score: 71.2
+- Jackson Merrill + Bryce Harper | Avg HR Score: 65.0
+- Bryce Harper + Nick Kurtz | Avg HR Score: 64.5
+- Nick Kurtz + Mike Trout | Avg HR Score: 63.4
+- Mike Trout + Manny Machado | Avg HR Score: 62.5
 
 ## Best 3-Leg Pairings
 
-- Kyle Schwarber + Kody Clemens + Juan Soto | Avg HR Score: 64.2
-- Kody Clemens + Juan Soto + Mike Trout | Avg HR Score: 60.7
-- Juan Soto + Mike Trout + Matt Olson | Avg HR Score: 60.1
-- Mike Trout + Matt Olson + Jackson Merrill | Avg HR Score: 59.6
-- Matt Olson + Jackson Merrill + Pete Alonso | Avg HR Score: 58.9
+- Kyle Schwarber + Jackson Merrill + Bryce Harper | Avg HR Score: 69.1
+- Jackson Merrill + Bryce Harper + Nick Kurtz | Avg HR Score: 64.6
+- Bryce Harper + Nick Kurtz + Mike Trout | Avg HR Score: 63.9
+- Nick Kurtz + Mike Trout + Manny Machado | Avg HR Score: 63.0
+- Mike Trout + Manny Machado + Sal Stewart | Avg HR Score: 62.4
 
 ## Best 4-Leg Pairings
 
-- Kyle Schwarber + Kody Clemens + Juan Soto + Mike Trout | Avg HR Score: 63.2
-- Kody Clemens + Juan Soto + Mike Trout + Matt Olson | Avg HR Score: 60.5
-- Juan Soto + Mike Trout + Matt Olson + Jackson Merrill | Avg HR Score: 59.8
-- Mike Trout + Matt Olson + Jackson Merrill + Pete Alonso | Avg HR Score: 59.2
-- Matt Olson + Jackson Merrill + Pete Alonso + Bryce Harper | Avg HR Score: 58.8
+- Kyle Schwarber + Jackson Merrill + Bryce Harper + Nick Kurtz | Avg HR Score: 67.8
+- Jackson Merrill + Bryce Harper + Nick Kurtz + Mike Trout | Avg HR Score: 64.2
+- Bryce Harper + Nick Kurtz + Mike Trout + Manny Machado | Avg HR Score: 63.5
+- Nick Kurtz + Mike Trout + Manny Machado + Sal Stewart | Avg HR Score: 62.8
+- Mike Trout + Manny Machado + Sal Stewart + Rafael Devers | Avg HR Score: 62.2

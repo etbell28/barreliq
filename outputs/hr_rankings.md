@@ -2,47 +2,45 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Bryce Eldridge | SF | Tanner Gordon | 6 | 69.8 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
-| 2 | Rafael Devers | SF | Tanner Gordon | 4 | 68.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 3 | Shohei Ohtani | LAD | Eduardo Rodriguez | 1 | 67.4 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
-| 4 | Jackson Merrill | SD | Shane Bieber | 2 | 66.8 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 5 | Manny Machado | SD | Shane Bieber | 4 | 66.8 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Hot Hitter/Streak |
-| 6 | Kazuma Okamoto | TOR | JP Sears | 3 | 65.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 7 | Fernando Tatis Jr. | SD | Shane Bieber | 1 | 64.7 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
-| 8 | Heliot Ramos | SF | Tanner Gordon | 1 | 63.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 9 | Hunter Goodman | COL | Robbie Ray | 4 | 63.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Casey Schmitt | SF | Tanner Gordon | 3 | 61.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 11 | Gavin Sheets | SD | Shane Bieber | 5 | 61.1 | Tier 3 | Watch List | Pitcher Vulnerable, Platoon Edge |
-| 12 | Vladimir Guerrero Jr. | TOR | JP Sears | 2 | 59.4 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 13 | George Springer | TOR | JP Sears | 4 | 58.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Ty France | SD | Shane Bieber | 6 | 58.6 | Longshot | Watch List | Pitcher Vulnerable |
-| 15 | Freddie Freeman | LAD | Eduardo Rodriguez | 3 | 56.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 16 | Willy Adames | SF | Tanner Gordon | 5 | 56.2 | Longshot | Watch List | Strong Barrel |
-| 17 | Xander Bogaerts | SD | Shane Bieber | 3 | 56.0 | Longshot | Watch List | Pitcher Vulnerable, Premium Lineup Spot |
-| 18 | Andy Pages | LAD | Eduardo Rodriguez | 2 | 54.6 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 19 | Corbin Carroll | AZ | Kyle Hurt | 3 | 54.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Mookie Betts | LAD | Eduardo Rodriguez | 4 | 53.9 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 1 | Bryce Eldridge | SF | Tanner Gordon | 6 | 67.6 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
+| 2 | Rafael Devers | SF | Tanner Gordon | 4 | 66.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 3 | Heliot Ramos | SF | Tanner Gordon | 1 | 61.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 4 | Hunter Goodman | COL | Robbie Ray | 4 | 60.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 5 | Casey Schmitt | SF | Tanner Gordon | 3 | 59.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 6 | Willy Adames | SF | Tanner Gordon | 5 | 54.0 | Longshot | Watch List | Strong Barrel |
+| 7 | Kyle Karros | COL | Robbie Ray | 2 | 51.0 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 8 | Mickey Moniak | COL | Robbie Ray | 8 | 50.6 | Longshot | Watch List | Strong Barrel |
+| 9 | Cole Carrigg | COL | Robbie Ray | 3 | 50.4 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 10 | Luis Arraez | SF | Tanner Gordon | 2 | 47.4 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 11 | Drew Cavanaugh | SF | Tanner Gordon | 9 | 44.6 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 12 | Jake McCarthy | COL | Robbie Ray | 1 | 44.2 | Longshot | Watch List | Premium Lineup Spot |
+| 13 | Willi Castro | COL | Robbie Ray | 7 | 43.9 | Longshot | Watch List | Platoon Edge |
+| 14 | Ezequiel Tovar | COL | Robbie Ray | 9 | 43.4 | Longshot | Watch List | Platoon Edge |
+| 15 | Jung Hoo Lee | SF | Tanner Gordon | 7 | 42.7 | Longshot | Watch List | Platoon Edge |
+| 16 | Drew Gilbert | SF | Tanner Gordon | 8 | 42.3 | Longshot | Watch List | Platoon Edge |
+| 17 | Tyler Freeman | COL | Robbie Ray | 6 | 41.8 | Longshot | Watch List | Platoon Edge |
+| 18 | TJ Rumfield | COL | Robbie Ray | 5 | 41.2 | Longshot | Watch List | No major boost |
 
 ## Best 2-Leg Pairings
 
-- Bryce Eldridge + Rafael Devers | Avg HR Score: 69.1
-- Rafael Devers + Shohei Ohtani | Avg HR Score: 67.9
-- Shohei Ohtani + Jackson Merrill | Avg HR Score: 67.1
-- Jackson Merrill + Manny Machado | Avg HR Score: 66.8
-- Manny Machado + Kazuma Okamoto | Avg HR Score: 66.3
+- Bryce Eldridge + Rafael Devers | Avg HR Score: 66.9
+- Rafael Devers + Heliot Ramos | Avg HR Score: 63.8
+- Heliot Ramos + Hunter Goodman | Avg HR Score: 61.1
+- Hunter Goodman + Casey Schmitt | Avg HR Score: 60.2
+- Casey Schmitt + Willy Adames | Avg HR Score: 56.8
 
 ## Best 3-Leg Pairings
 
-- Bryce Eldridge + Rafael Devers + Shohei Ohtani | Avg HR Score: 68.5
-- Rafael Devers + Shohei Ohtani + Jackson Merrill | Avg HR Score: 67.5
-- Shohei Ohtani + Jackson Merrill + Manny Machado | Avg HR Score: 67.0
-- Jackson Merrill + Manny Machado + Kazuma Okamoto | Avg HR Score: 66.5
-- Manny Machado + Kazuma Okamoto + Fernando Tatis Jr. | Avg HR Score: 65.8
+- Bryce Eldridge + Rafael Devers + Heliot Ramos | Avg HR Score: 65.1
+- Rafael Devers + Heliot Ramos + Hunter Goodman | Avg HR Score: 62.8
+- Heliot Ramos + Hunter Goodman + Casey Schmitt | Avg HR Score: 60.6
+- Hunter Goodman + Casey Schmitt + Willy Adames | Avg HR Score: 58.2
+- Casey Schmitt + Willy Adames + Kyle Karros | Avg HR Score: 54.9
 
 ## Best 4-Leg Pairings
 
-- Bryce Eldridge + Rafael Devers + Shohei Ohtani + Jackson Merrill | Avg HR Score: 68.1
-- Rafael Devers + Shohei Ohtani + Jackson Merrill + Manny Machado | Avg HR Score: 67.3
-- Shohei Ohtani + Jackson Merrill + Manny Machado + Kazuma Okamoto | Avg HR Score: 66.7
-- Jackson Merrill + Manny Machado + Kazuma Okamoto + Fernando Tatis Jr. | Avg HR Score: 66.0
-- Manny Machado + Kazuma Okamoto + Fernando Tatis Jr. + Heliot Ramos | Avg HR Score: 65.2
+- Bryce Eldridge + Rafael Devers + Heliot Ramos + Hunter Goodman | Avg HR Score: 64.0
+- Rafael Devers + Heliot Ramos + Hunter Goodman + Casey Schmitt | Avg HR Score: 62.0
+- Heliot Ramos + Hunter Goodman + Casey Schmitt + Willy Adames | Avg HR Score: 59.0
+- Hunter Goodman + Casey Schmitt + Willy Adames + Kyle Karros | Avg HR Score: 56.4
+- Casey Schmitt + Willy Adames + Kyle Karros + Mickey Moniak | Avg HR Score: 53.8

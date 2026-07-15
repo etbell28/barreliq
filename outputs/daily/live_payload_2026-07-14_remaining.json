@@ -1,7 +1,7 @@
 {
   "date": "Tuesday, July 14, 2026",
-  "generated_at": "07:11 PM EDT",
-  "generated_iso": "2026-07-14T19:11:14-04:00",
+  "generated_at": "08:05 PM EDT",
+  "generated_iso": "2026-07-14T20:05:33-04:00",
   "slate_projection": 18,
   "games_count": 1,
   "confirmed_count": 18,
@@ -14,18 +14,18 @@
       "team": "AL",
       "opponent": "NL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 2,
       "pitcher": "Cristopher Sánchez",
       "pitcher_id": 650911,
       "pitcher_hand": "L",
-      "hr_score": 68.1,
+      "hr_score": 69.0,
       "tier": "Tier 3",
       "play_type": "Watch List",
-      "reason_tags": "Elite Power, Strong Barrel, Premium Lineup Spot",
+      "reason_tags": "Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot",
       "power_score": 85.2,
       "pitcher_score": 35.9,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 100.0,
       "platoon_score": 50.0,
       "recent_form_score": 56.2,
@@ -66,23 +66,25 @@
       "pitcher_xslg_allowed": 0.3611,
       "pitcher_xiso_allowed": 0.1312,
       "pitcher_fb_pct_allowed": 18.09,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
         "FIRE / TOUGH SP",
         "HOT BAT",
-        "EV EDGE"
+        "EV EDGE",
+        "WEATHER EDGE"
       ],
       "badge": "FIRE / TOUGH SP",
       "badge_class": "red",
-      "badge_summary": "FIRE / TOUGH SP + HOT BAT + EV EDGE",
+      "badge_summary": "FIRE / TOUGH SP + HOT BAT + EV EDGE + WEATHER EDGE",
       "badge_classes": [
         "red",
         "orange",
-        "blue"
+        "blue",
+        "green"
       ]
     },
     {
@@ -92,18 +94,18 @@
       "team": "AL",
       "opponent": "NL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 1,
       "pitcher": "Cristopher Sánchez",
       "pitcher_id": 650911,
       "pitcher_hand": "L",
-      "hr_score": 66.6,
+      "hr_score": 67.5,
       "tier": "Tier 3",
       "play_type": "Watch List",
-      "reason_tags": "Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak",
+      "reason_tags": "Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak",
       "power_score": 70.9,
       "pitcher_score": 35.9,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 93.2,
       "platoon_score": 78.0,
       "recent_form_score": 88.7,
@@ -144,21 +146,23 @@
       "pitcher_xslg_allowed": 0.3611,
       "pitcher_xiso_allowed": 0.1312,
       "pitcher_fb_pct_allowed": 18.09,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
         "HOT BAT",
-        "EV EDGE"
+        "EV EDGE",
+        "WEATHER EDGE"
       ],
       "badge": "HOT BAT",
       "badge_class": "orange",
-      "badge_summary": "HOT BAT + EV EDGE",
+      "badge_summary": "HOT BAT + EV EDGE + WEATHER EDGE",
       "badge_classes": [
         "orange",
-        "blue"
+        "blue",
+        "green"
       ]
     },
     {
@@ -168,18 +172,18 @@
       "team": "NL",
       "opponent": "AL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 1,
       "pitcher": "Dylan Cease",
       "pitcher_id": 656302,
       "pitcher_hand": "R",
-      "hr_score": 64.5,
+      "hr_score": 65.4,
       "tier": "Tier 3",
       "play_type": "Watch List",
-      "reason_tags": "Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge",
+      "reason_tags": "Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge",
       "power_score": 81.6,
       "pitcher_score": 18.2,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 93.2,
       "platoon_score": 80.0,
       "recent_form_score": 57.6,
@@ -220,23 +224,25 @@
       "pitcher_xslg_allowed": 0.3058,
       "pitcher_xiso_allowed": 0.1051,
       "pitcher_fb_pct_allowed": 23.37,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
         "FIRE / TOUGH SP",
         "HOT BAT",
-        "EV EDGE"
+        "EV EDGE",
+        "WEATHER EDGE"
       ],
       "badge": "FIRE / TOUGH SP",
       "badge_class": "red",
-      "badge_summary": "FIRE / TOUGH SP + HOT BAT + EV EDGE",
+      "badge_summary": "FIRE / TOUGH SP + HOT BAT + EV EDGE + WEATHER EDGE",
       "badge_classes": [
         "red",
         "orange",
-        "blue"
+        "blue",
+        "green"
       ]
     },
     {
@@ -246,18 +252,18 @@
       "team": "NL",
       "opponent": "AL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 2,
       "pitcher": "Dylan Cease",
       "pitcher_id": 656302,
       "pitcher_hand": "R",
-      "hr_score": 63.2,
+      "hr_score": 64.1,
       "tier": "Tier 3",
       "play_type": "Watch List",
-      "reason_tags": "Strong Barrel, Premium Lineup Spot, Platoon Edge",
+      "reason_tags": "Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge",
       "power_score": 73.6,
       "pitcher_score": 18.2,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 100.0,
       "platoon_score": 80.0,
       "recent_form_score": 64.3,
@@ -298,21 +304,23 @@
       "pitcher_xslg_allowed": 0.3058,
       "pitcher_xiso_allowed": 0.1051,
       "pitcher_fb_pct_allowed": 23.37,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
         "HOT BAT",
-        "EV EDGE"
+        "EV EDGE",
+        "WEATHER EDGE"
       ],
       "badge": "HOT BAT",
       "badge_class": "orange",
-      "badge_summary": "HOT BAT + EV EDGE",
+      "badge_summary": "HOT BAT + EV EDGE + WEATHER EDGE",
       "badge_classes": [
         "orange",
-        "blue"
+        "blue",
+        "green"
       ]
     },
     {
@@ -322,18 +330,18 @@
       "team": "AL",
       "opponent": "NL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 4,
       "pitcher": "Cristopher Sánchez",
       "pitcher_id": 650911,
       "pitcher_hand": "L",
-      "hr_score": 62.4,
+      "hr_score": 63.3,
       "tier": "Tier 3",
       "play_type": "Watch List",
-      "reason_tags": "Strong Barrel, Premium Lineup Spot, Platoon Edge",
+      "reason_tags": "Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge",
       "power_score": 64.3,
       "pitcher_score": 35.9,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 94.9,
       "platoon_score": 78.0,
       "recent_form_score": 42.7,
@@ -374,21 +382,23 @@
       "pitcher_xslg_allowed": 0.3611,
       "pitcher_xiso_allowed": 0.1312,
       "pitcher_fb_pct_allowed": 18.09,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
         "HOT BAT",
-        "EV EDGE"
+        "EV EDGE",
+        "WEATHER EDGE"
       ],
       "badge": "HOT BAT",
       "badge_class": "orange",
-      "badge_summary": "HOT BAT + EV EDGE",
+      "badge_summary": "HOT BAT + EV EDGE + WEATHER EDGE",
       "badge_classes": [
         "orange",
-        "blue"
+        "blue",
+        "green"
       ]
     },
     {
@@ -398,18 +408,18 @@
       "team": "AL",
       "opponent": "NL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 3,
       "pitcher": "Cristopher Sánchez",
       "pitcher_id": 650911,
       "pitcher_hand": "L",
-      "hr_score": 59.4,
-      "tier": "Longshot",
+      "hr_score": 60.3,
+      "tier": "Tier 3",
       "play_type": "Watch List",
-      "reason_tags": "Strong Barrel, Premium Lineup Spot, Platoon Edge",
+      "reason_tags": "Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge",
       "power_score": 57.8,
       "pitcher_score": 35.9,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 96.6,
       "platoon_score": 78.0,
       "recent_form_score": 20.8,
@@ -450,18 +460,20 @@
       "pitcher_xslg_allowed": 0.3611,
       "pitcher_xiso_allowed": 0.1312,
       "pitcher_fb_pct_allowed": 18.09,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": true,
       "badges": [
+        "WEATHER EDGE",
         "SOURCE SHEET"
       ],
-      "badge": "SOURCE SHEET",
-      "badge_class": "gold",
-      "badge_summary": "SOURCE SHEET",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE + SOURCE SHEET",
       "badge_classes": [
+        "green",
         "gold"
       ]
     },
@@ -472,18 +484,18 @@
       "team": "AL",
       "opponent": "NL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 5,
       "pitcher": "Cristopher Sánchez",
       "pitcher_id": 650911,
       "pitcher_hand": "L",
-      "hr_score": 59.0,
+      "hr_score": 59.9,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Strong Barrel, Platoon Edge",
+      "reason_tags": "Strong Barrel, Good Environment, Platoon Edge",
       "power_score": 58.4,
       "pitcher_score": 35.9,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 86.4,
       "platoon_score": 78.0,
       "recent_form_score": 37.8,
@@ -524,22 +536,24 @@
       "pitcher_xslg_allowed": 0.3611,
       "pitcher_xiso_allowed": 0.1312,
       "pitcher_fb_pct_allowed": 18.09,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": true,
       "badges": [
         "EV EDGE",
         "SLEEPER PICK",
+        "WEATHER EDGE",
         "SOURCE SHEET"
       ],
       "badge": "EV EDGE",
       "badge_class": "blue",
-      "badge_summary": "EV EDGE + SLEEPER PICK + SOURCE SHEET",
+      "badge_summary": "EV EDGE + SLEEPER PICK + WEATHER EDGE + SOURCE SHEET",
       "badge_classes": [
         "blue",
         "teal",
+        "green",
         "gold"
       ]
     },
@@ -550,18 +564,18 @@
       "team": "AL",
       "opponent": "NL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 7,
       "pitcher": "Cristopher Sánchez",
       "pitcher_id": 650911,
       "pitcher_hand": "L",
-      "hr_score": 58.6,
+      "hr_score": 59.5,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Strong Barrel, Hot Hitter/Streak",
+      "reason_tags": "Strong Barrel, Good Environment, Hot Hitter/Streak",
       "power_score": 64.8,
       "pitcher_score": 35.9,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 64.3,
       "platoon_score": 50.0,
       "recent_form_score": 100.0,
@@ -602,23 +616,25 @@
       "pitcher_xslg_allowed": 0.3611,
       "pitcher_xiso_allowed": 0.1312,
       "pitcher_fb_pct_allowed": 18.09,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
         "HOT BAT",
         "EV EDGE",
-        "SLEEPER PICK"
+        "SLEEPER PICK",
+        "WEATHER EDGE"
       ],
       "badge": "HOT BAT",
       "badge_class": "orange",
-      "badge_summary": "HOT BAT + EV EDGE + SLEEPER PICK",
+      "badge_summary": "HOT BAT + EV EDGE + SLEEPER PICK + WEATHER EDGE",
       "badge_classes": [
         "orange",
         "blue",
-        "teal"
+        "teal",
+        "green"
       ]
     },
     {
@@ -628,18 +644,18 @@
       "team": "AL",
       "opponent": "NL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 8,
       "pitcher": "Cristopher Sánchez",
       "pitcher_id": 650911,
       "pitcher_hand": "L",
-      "hr_score": 52.8,
+      "hr_score": 53.7,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Strong Barrel",
+      "reason_tags": "Strong Barrel, Good Environment",
       "power_score": 60.4,
       "pitcher_score": 35.9,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 52.4,
       "platoon_score": 50.0,
       "recent_form_score": 46.0,
@@ -680,19 +696,19 @@
       "pitcher_xslg_allowed": 0.3611,
       "pitcher_xiso_allowed": 0.1312,
       "pitcher_fb_pct_allowed": 18.09,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -702,18 +718,18 @@
       "team": "NL",
       "opponent": "AL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 5,
       "pitcher": "Dylan Cease",
       "pitcher_id": 656302,
       "pitcher_hand": "R",
-      "hr_score": 52.5,
+      "hr_score": 53.4,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Strong Barrel, Platoon Edge",
+      "reason_tags": "Strong Barrel, Good Environment, Platoon Edge",
       "power_score": 56.3,
       "pitcher_score": 18.2,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 86.4,
       "platoon_score": 80.0,
       "recent_form_score": 3.4,
@@ -754,18 +770,20 @@
       "pitcher_xslg_allowed": 0.3058,
       "pitcher_xiso_allowed": 0.1051,
       "pitcher_fb_pct_allowed": 23.37,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": true,
       "badges": [
+        "WEATHER EDGE",
         "SOURCE SHEET"
       ],
-      "badge": "SOURCE SHEET",
-      "badge_class": "gold",
-      "badge_summary": "SOURCE SHEET",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE + SOURCE SHEET",
       "badge_classes": [
+        "green",
         "gold"
       ]
     },
@@ -776,18 +794,18 @@
       "team": "NL",
       "opponent": "AL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 3,
       "pitcher": "Dylan Cease",
       "pitcher_id": 656302,
       "pitcher_hand": "R",
-      "hr_score": 51.5,
+      "hr_score": 52.4,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Strong Barrel, Premium Lineup Spot, Platoon Edge",
+      "reason_tags": "Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge",
       "power_score": 47.4,
       "pitcher_score": 18.2,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 96.6,
       "platoon_score": 80.0,
       "recent_form_score": 14.1,
@@ -828,19 +846,19 @@
       "pitcher_xslg_allowed": 0.3058,
       "pitcher_xiso_allowed": 0.1051,
       "pitcher_fb_pct_allowed": 23.37,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -850,18 +868,18 @@
       "team": "NL",
       "opponent": "AL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 4,
       "pitcher": "Dylan Cease",
       "pitcher_id": 656302,
       "pitcher_hand": "R",
-      "hr_score": 51.4,
+      "hr_score": 52.3,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak",
+      "reason_tags": "Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak",
       "power_score": 39.3,
       "pitcher_score": 18.2,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 94.9,
       "platoon_score": 80.0,
       "recent_form_score": 70.6,
@@ -902,19 +920,21 @@
       "pitcher_xslg_allowed": 0.3058,
       "pitcher_xiso_allowed": 0.1051,
       "pitcher_fb_pct_allowed": 23.37,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "HOT BAT"
+        "HOT BAT",
+        "WEATHER EDGE"
       ],
       "badge": "HOT BAT",
       "badge_class": "orange",
-      "badge_summary": "HOT BAT",
+      "badge_summary": "HOT BAT + WEATHER EDGE",
       "badge_classes": [
-        "orange"
+        "orange",
+        "green"
       ]
     },
     {
@@ -924,18 +944,18 @@
       "team": "NL",
       "opponent": "AL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 9,
       "pitcher": "Dylan Cease",
       "pitcher_id": 656302,
       "pitcher_hand": "R",
-      "hr_score": 48.8,
+      "hr_score": 49.7,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Strong Barrel, Platoon Edge",
+      "reason_tags": "Strong Barrel, Good Environment, Platoon Edge",
       "power_score": 59.4,
       "pitcher_score": 18.2,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 44.8,
       "platoon_score": 80.0,
       "recent_form_score": 25.8,
@@ -976,19 +996,21 @@
       "pitcher_xslg_allowed": 0.3058,
       "pitcher_xiso_allowed": 0.1051,
       "pitcher_fb_pct_allowed": 23.37,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "EV EDGE"
+        "EV EDGE",
+        "WEATHER EDGE"
       ],
       "badge": "EV EDGE",
       "badge_class": "blue",
-      "badge_summary": "EV EDGE",
+      "badge_summary": "EV EDGE + WEATHER EDGE",
       "badge_classes": [
-        "blue"
+        "blue",
+        "green"
       ]
     },
     {
@@ -998,18 +1020,18 @@
       "team": "AL",
       "opponent": "NL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 6,
       "pitcher": "Cristopher Sánchez",
       "pitcher_id": 650911,
       "pitcher_hand": "L",
-      "hr_score": 45.2,
+      "hr_score": 46.1,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "No major boost",
+      "reason_tags": "Good Environment",
       "power_score": 30.4,
       "pitcher_score": 35.9,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 76.2,
       "platoon_score": 50.0,
       "recent_form_score": 24.9,
@@ -1050,19 +1072,19 @@
       "pitcher_xslg_allowed": 0.3611,
       "pitcher_xiso_allowed": 0.1312,
       "pitcher_fb_pct_allowed": 18.09,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -1072,18 +1094,18 @@
       "team": "NL",
       "opponent": "AL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 7,
       "pitcher": "Dylan Cease",
       "pitcher_id": 656302,
       "pitcher_hand": "R",
-      "hr_score": 44.5,
+      "hr_score": 45.4,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Platoon Edge",
+      "reason_tags": "Good Environment, Platoon Edge",
       "power_score": 40.6,
       "pitcher_score": 18.2,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 64.3,
       "platoon_score": 80.0,
       "recent_form_score": 9.3,
@@ -1124,19 +1146,19 @@
       "pitcher_xslg_allowed": 0.3058,
       "pitcher_xiso_allowed": 0.1051,
       "pitcher_fb_pct_allowed": 23.37,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -1146,18 +1168,18 @@
       "team": "NL",
       "opponent": "AL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 8,
       "pitcher": "Dylan Cease",
       "pitcher_id": 656302,
       "pitcher_hand": "R",
-      "hr_score": 41.3,
+      "hr_score": 42.2,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "No major boost",
+      "reason_tags": "Good Environment",
       "power_score": 38.9,
       "pitcher_score": 18.2,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 52.4,
       "platoon_score": 50.0,
       "recent_form_score": 43.2,
@@ -1198,19 +1220,19 @@
       "pitcher_xslg_allowed": 0.3058,
       "pitcher_xiso_allowed": 0.1051,
       "pitcher_fb_pct_allowed": 23.37,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -1220,18 +1242,18 @@
       "team": "NL",
       "opponent": "AL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 6,
       "pitcher": "Dylan Cease",
       "pitcher_id": 656302,
       "pitcher_hand": "R",
-      "hr_score": 37.9,
+      "hr_score": 38.8,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Platoon Edge",
+      "reason_tags": "Good Environment, Platoon Edge",
       "power_score": 16.9,
       "pitcher_score": 17.2,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 76.2,
       "platoon_score": 75.0,
       "recent_form_score": 14.1,
@@ -1272,19 +1294,19 @@
       "pitcher_xslg_allowed": 0.3058,
       "pitcher_xiso_allowed": 0.1051,
       "pitcher_fb_pct_allowed": 23.37,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -1294,18 +1316,18 @@
       "team": "AL",
       "opponent": "NL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 9,
       "pitcher": "Cristopher Sánchez",
       "pitcher_id": 650911,
       "pitcher_hand": "L",
-      "hr_score": 36.7,
+      "hr_score": 37.6,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Platoon Edge",
+      "reason_tags": "Good Environment, Platoon Edge",
       "power_score": 6.7,
       "pitcher_score": 35.9,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 44.8,
       "platoon_score": 78.0,
       "recent_form_score": 50.3,
@@ -1346,19 +1368,19 @@
       "pitcher_xslg_allowed": 0.3611,
       "pitcher_xiso_allowed": 0.1312,
       "pitcher_fb_pct_allowed": 18.09,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     }
   ],
@@ -1370,18 +1392,18 @@
       "team": "AL",
       "opponent": "NL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 2,
       "pitcher": "Cristopher Sánchez",
       "pitcher_id": 650911,
       "pitcher_hand": "L",
-      "hr_score": 68.1,
+      "hr_score": 69.0,
       "tier": "Tier 3",
       "play_type": "Watch List",
-      "reason_tags": "Elite Power, Strong Barrel, Premium Lineup Spot",
+      "reason_tags": "Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot",
       "power_score": 85.2,
       "pitcher_score": 35.9,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 100.0,
       "platoon_score": 50.0,
       "recent_form_score": 56.2,
@@ -1422,23 +1444,25 @@
       "pitcher_xslg_allowed": 0.3611,
       "pitcher_xiso_allowed": 0.1312,
       "pitcher_fb_pct_allowed": 18.09,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
         "FIRE / TOUGH SP",
         "HOT BAT",
-        "EV EDGE"
+        "EV EDGE",
+        "WEATHER EDGE"
       ],
       "badge": "FIRE / TOUGH SP",
       "badge_class": "red",
-      "badge_summary": "FIRE / TOUGH SP + HOT BAT + EV EDGE",
+      "badge_summary": "FIRE / TOUGH SP + HOT BAT + EV EDGE + WEATHER EDGE",
       "badge_classes": [
         "red",
         "orange",
-        "blue"
+        "blue",
+        "green"
       ]
     },
     {
@@ -1448,18 +1472,18 @@
       "team": "AL",
       "opponent": "NL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 1,
       "pitcher": "Cristopher Sánchez",
       "pitcher_id": 650911,
       "pitcher_hand": "L",
-      "hr_score": 66.6,
+      "hr_score": 67.5,
       "tier": "Tier 3",
       "play_type": "Watch List",
-      "reason_tags": "Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak",
+      "reason_tags": "Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak",
       "power_score": 70.9,
       "pitcher_score": 35.9,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 93.2,
       "platoon_score": 78.0,
       "recent_form_score": 88.7,
@@ -1500,21 +1524,23 @@
       "pitcher_xslg_allowed": 0.3611,
       "pitcher_xiso_allowed": 0.1312,
       "pitcher_fb_pct_allowed": 18.09,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
         "HOT BAT",
-        "EV EDGE"
+        "EV EDGE",
+        "WEATHER EDGE"
       ],
       "badge": "HOT BAT",
       "badge_class": "orange",
-      "badge_summary": "HOT BAT + EV EDGE",
+      "badge_summary": "HOT BAT + EV EDGE + WEATHER EDGE",
       "badge_classes": [
         "orange",
-        "blue"
+        "blue",
+        "green"
       ]
     },
     {
@@ -1524,18 +1550,18 @@
       "team": "NL",
       "opponent": "AL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 1,
       "pitcher": "Dylan Cease",
       "pitcher_id": 656302,
       "pitcher_hand": "R",
-      "hr_score": 64.5,
+      "hr_score": 65.4,
       "tier": "Tier 3",
       "play_type": "Watch List",
-      "reason_tags": "Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge",
+      "reason_tags": "Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge",
       "power_score": 81.6,
       "pitcher_score": 18.2,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 93.2,
       "platoon_score": 80.0,
       "recent_form_score": 57.6,
@@ -1576,23 +1602,25 @@
       "pitcher_xslg_allowed": 0.3058,
       "pitcher_xiso_allowed": 0.1051,
       "pitcher_fb_pct_allowed": 23.37,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
         "FIRE / TOUGH SP",
         "HOT BAT",
-        "EV EDGE"
+        "EV EDGE",
+        "WEATHER EDGE"
       ],
       "badge": "FIRE / TOUGH SP",
       "badge_class": "red",
-      "badge_summary": "FIRE / TOUGH SP + HOT BAT + EV EDGE",
+      "badge_summary": "FIRE / TOUGH SP + HOT BAT + EV EDGE + WEATHER EDGE",
       "badge_classes": [
         "red",
         "orange",
-        "blue"
+        "blue",
+        "green"
       ]
     },
     {
@@ -1602,18 +1630,18 @@
       "team": "NL",
       "opponent": "AL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 2,
       "pitcher": "Dylan Cease",
       "pitcher_id": 656302,
       "pitcher_hand": "R",
-      "hr_score": 63.2,
+      "hr_score": 64.1,
       "tier": "Tier 3",
       "play_type": "Watch List",
-      "reason_tags": "Strong Barrel, Premium Lineup Spot, Platoon Edge",
+      "reason_tags": "Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge",
       "power_score": 73.6,
       "pitcher_score": 18.2,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 100.0,
       "platoon_score": 80.0,
       "recent_form_score": 64.3,
@@ -1654,21 +1682,23 @@
       "pitcher_xslg_allowed": 0.3058,
       "pitcher_xiso_allowed": 0.1051,
       "pitcher_fb_pct_allowed": 23.37,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
         "HOT BAT",
-        "EV EDGE"
+        "EV EDGE",
+        "WEATHER EDGE"
       ],
       "badge": "HOT BAT",
       "badge_class": "orange",
-      "badge_summary": "HOT BAT + EV EDGE",
+      "badge_summary": "HOT BAT + EV EDGE + WEATHER EDGE",
       "badge_classes": [
         "orange",
-        "blue"
+        "blue",
+        "green"
       ]
     },
     {
@@ -1678,18 +1708,18 @@
       "team": "AL",
       "opponent": "NL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 4,
       "pitcher": "Cristopher Sánchez",
       "pitcher_id": 650911,
       "pitcher_hand": "L",
-      "hr_score": 62.4,
+      "hr_score": 63.3,
       "tier": "Tier 3",
       "play_type": "Watch List",
-      "reason_tags": "Strong Barrel, Premium Lineup Spot, Platoon Edge",
+      "reason_tags": "Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge",
       "power_score": 64.3,
       "pitcher_score": 35.9,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 94.9,
       "platoon_score": 78.0,
       "recent_form_score": 42.7,
@@ -1730,21 +1760,23 @@
       "pitcher_xslg_allowed": 0.3611,
       "pitcher_xiso_allowed": 0.1312,
       "pitcher_fb_pct_allowed": 18.09,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
         "HOT BAT",
-        "EV EDGE"
+        "EV EDGE",
+        "WEATHER EDGE"
       ],
       "badge": "HOT BAT",
       "badge_class": "orange",
-      "badge_summary": "HOT BAT + EV EDGE",
+      "badge_summary": "HOT BAT + EV EDGE + WEATHER EDGE",
       "badge_classes": [
         "orange",
-        "blue"
+        "blue",
+        "green"
       ]
     },
     {
@@ -1754,18 +1786,18 @@
       "team": "AL",
       "opponent": "NL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 3,
       "pitcher": "Cristopher Sánchez",
       "pitcher_id": 650911,
       "pitcher_hand": "L",
-      "hr_score": 59.4,
-      "tier": "Longshot",
+      "hr_score": 60.3,
+      "tier": "Tier 3",
       "play_type": "Watch List",
-      "reason_tags": "Strong Barrel, Premium Lineup Spot, Platoon Edge",
+      "reason_tags": "Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge",
       "power_score": 57.8,
       "pitcher_score": 35.9,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 96.6,
       "platoon_score": 78.0,
       "recent_form_score": 20.8,
@@ -1806,18 +1838,20 @@
       "pitcher_xslg_allowed": 0.3611,
       "pitcher_xiso_allowed": 0.1312,
       "pitcher_fb_pct_allowed": 18.09,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": true,
       "badges": [
+        "WEATHER EDGE",
         "SOURCE SHEET"
       ],
-      "badge": "SOURCE SHEET",
-      "badge_class": "gold",
-      "badge_summary": "SOURCE SHEET",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE + SOURCE SHEET",
       "badge_classes": [
+        "green",
         "gold"
       ]
     },
@@ -1828,18 +1862,18 @@
       "team": "AL",
       "opponent": "NL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 5,
       "pitcher": "Cristopher Sánchez",
       "pitcher_id": 650911,
       "pitcher_hand": "L",
-      "hr_score": 59.0,
+      "hr_score": 59.9,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Strong Barrel, Platoon Edge",
+      "reason_tags": "Strong Barrel, Good Environment, Platoon Edge",
       "power_score": 58.4,
       "pitcher_score": 35.9,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 86.4,
       "platoon_score": 78.0,
       "recent_form_score": 37.8,
@@ -1880,22 +1914,24 @@
       "pitcher_xslg_allowed": 0.3611,
       "pitcher_xiso_allowed": 0.1312,
       "pitcher_fb_pct_allowed": 18.09,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": true,
       "badges": [
         "EV EDGE",
         "SLEEPER PICK",
+        "WEATHER EDGE",
         "SOURCE SHEET"
       ],
       "badge": "EV EDGE",
       "badge_class": "blue",
-      "badge_summary": "EV EDGE + SLEEPER PICK + SOURCE SHEET",
+      "badge_summary": "EV EDGE + SLEEPER PICK + WEATHER EDGE + SOURCE SHEET",
       "badge_classes": [
         "blue",
         "teal",
+        "green",
         "gold"
       ]
     },
@@ -1906,18 +1942,18 @@
       "team": "AL",
       "opponent": "NL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 7,
       "pitcher": "Cristopher Sánchez",
       "pitcher_id": 650911,
       "pitcher_hand": "L",
-      "hr_score": 58.6,
+      "hr_score": 59.5,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Strong Barrel, Hot Hitter/Streak",
+      "reason_tags": "Strong Barrel, Good Environment, Hot Hitter/Streak",
       "power_score": 64.8,
       "pitcher_score": 35.9,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 64.3,
       "platoon_score": 50.0,
       "recent_form_score": 100.0,
@@ -1958,23 +1994,25 @@
       "pitcher_xslg_allowed": 0.3611,
       "pitcher_xiso_allowed": 0.1312,
       "pitcher_fb_pct_allowed": 18.09,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
         "HOT BAT",
         "EV EDGE",
-        "SLEEPER PICK"
+        "SLEEPER PICK",
+        "WEATHER EDGE"
       ],
       "badge": "HOT BAT",
       "badge_class": "orange",
-      "badge_summary": "HOT BAT + EV EDGE + SLEEPER PICK",
+      "badge_summary": "HOT BAT + EV EDGE + SLEEPER PICK + WEATHER EDGE",
       "badge_classes": [
         "orange",
         "blue",
-        "teal"
+        "teal",
+        "green"
       ]
     },
     {
@@ -1984,18 +2022,18 @@
       "team": "AL",
       "opponent": "NL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 8,
       "pitcher": "Cristopher Sánchez",
       "pitcher_id": 650911,
       "pitcher_hand": "L",
-      "hr_score": 52.8,
+      "hr_score": 53.7,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Strong Barrel",
+      "reason_tags": "Strong Barrel, Good Environment",
       "power_score": 60.4,
       "pitcher_score": 35.9,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 52.4,
       "platoon_score": 50.0,
       "recent_form_score": 46.0,
@@ -2036,19 +2074,19 @@
       "pitcher_xslg_allowed": 0.3611,
       "pitcher_xiso_allowed": 0.1312,
       "pitcher_fb_pct_allowed": 18.09,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -2058,18 +2096,18 @@
       "team": "NL",
       "opponent": "AL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 5,
       "pitcher": "Dylan Cease",
       "pitcher_id": 656302,
       "pitcher_hand": "R",
-      "hr_score": 52.5,
+      "hr_score": 53.4,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Strong Barrel, Platoon Edge",
+      "reason_tags": "Strong Barrel, Good Environment, Platoon Edge",
       "power_score": 56.3,
       "pitcher_score": 18.2,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 86.4,
       "platoon_score": 80.0,
       "recent_form_score": 3.4,
@@ -2110,18 +2148,20 @@
       "pitcher_xslg_allowed": 0.3058,
       "pitcher_xiso_allowed": 0.1051,
       "pitcher_fb_pct_allowed": 23.37,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": true,
       "badges": [
+        "WEATHER EDGE",
         "SOURCE SHEET"
       ],
-      "badge": "SOURCE SHEET",
-      "badge_class": "gold",
-      "badge_summary": "SOURCE SHEET",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE + SOURCE SHEET",
       "badge_classes": [
+        "green",
         "gold"
       ]
     },
@@ -2132,18 +2172,18 @@
       "team": "NL",
       "opponent": "AL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 3,
       "pitcher": "Dylan Cease",
       "pitcher_id": 656302,
       "pitcher_hand": "R",
-      "hr_score": 51.5,
+      "hr_score": 52.4,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Strong Barrel, Premium Lineup Spot, Platoon Edge",
+      "reason_tags": "Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge",
       "power_score": 47.4,
       "pitcher_score": 18.2,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 96.6,
       "platoon_score": 80.0,
       "recent_form_score": 14.1,
@@ -2184,19 +2224,19 @@
       "pitcher_xslg_allowed": 0.3058,
       "pitcher_xiso_allowed": 0.1051,
       "pitcher_fb_pct_allowed": 23.37,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -2206,18 +2246,18 @@
       "team": "NL",
       "opponent": "AL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 4,
       "pitcher": "Dylan Cease",
       "pitcher_id": 656302,
       "pitcher_hand": "R",
-      "hr_score": 51.4,
+      "hr_score": 52.3,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak",
+      "reason_tags": "Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak",
       "power_score": 39.3,
       "pitcher_score": 18.2,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 94.9,
       "platoon_score": 80.0,
       "recent_form_score": 70.6,
@@ -2258,19 +2298,21 @@
       "pitcher_xslg_allowed": 0.3058,
       "pitcher_xiso_allowed": 0.1051,
       "pitcher_fb_pct_allowed": 23.37,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "HOT BAT"
+        "HOT BAT",
+        "WEATHER EDGE"
       ],
       "badge": "HOT BAT",
       "badge_class": "orange",
-      "badge_summary": "HOT BAT",
+      "badge_summary": "HOT BAT + WEATHER EDGE",
       "badge_classes": [
-        "orange"
+        "orange",
+        "green"
       ]
     },
     {
@@ -2280,18 +2322,18 @@
       "team": "NL",
       "opponent": "AL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 9,
       "pitcher": "Dylan Cease",
       "pitcher_id": 656302,
       "pitcher_hand": "R",
-      "hr_score": 48.8,
+      "hr_score": 49.7,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Strong Barrel, Platoon Edge",
+      "reason_tags": "Strong Barrel, Good Environment, Platoon Edge",
       "power_score": 59.4,
       "pitcher_score": 18.2,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 44.8,
       "platoon_score": 80.0,
       "recent_form_score": 25.8,
@@ -2332,19 +2374,21 @@
       "pitcher_xslg_allowed": 0.3058,
       "pitcher_xiso_allowed": 0.1051,
       "pitcher_fb_pct_allowed": 23.37,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "EV EDGE"
+        "EV EDGE",
+        "WEATHER EDGE"
       ],
       "badge": "EV EDGE",
       "badge_class": "blue",
-      "badge_summary": "EV EDGE",
+      "badge_summary": "EV EDGE + WEATHER EDGE",
       "badge_classes": [
-        "blue"
+        "blue",
+        "green"
       ]
     },
     {
@@ -2354,18 +2398,18 @@
       "team": "AL",
       "opponent": "NL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 6,
       "pitcher": "Cristopher Sánchez",
       "pitcher_id": 650911,
       "pitcher_hand": "L",
-      "hr_score": 45.2,
+      "hr_score": 46.1,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "No major boost",
+      "reason_tags": "Good Environment",
       "power_score": 30.4,
       "pitcher_score": 35.9,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 76.2,
       "platoon_score": 50.0,
       "recent_form_score": 24.9,
@@ -2406,19 +2450,19 @@
       "pitcher_xslg_allowed": 0.3611,
       "pitcher_xiso_allowed": 0.1312,
       "pitcher_fb_pct_allowed": 18.09,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -2428,18 +2472,18 @@
       "team": "NL",
       "opponent": "AL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 7,
       "pitcher": "Dylan Cease",
       "pitcher_id": 656302,
       "pitcher_hand": "R",
-      "hr_score": 44.5,
+      "hr_score": 45.4,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Platoon Edge",
+      "reason_tags": "Good Environment, Platoon Edge",
       "power_score": 40.6,
       "pitcher_score": 18.2,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 64.3,
       "platoon_score": 80.0,
       "recent_form_score": 9.3,
@@ -2480,19 +2524,19 @@
       "pitcher_xslg_allowed": 0.3058,
       "pitcher_xiso_allowed": 0.1051,
       "pitcher_fb_pct_allowed": 23.37,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -2502,18 +2546,18 @@
       "team": "NL",
       "opponent": "AL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 8,
       "pitcher": "Dylan Cease",
       "pitcher_id": 656302,
       "pitcher_hand": "R",
-      "hr_score": 41.3,
+      "hr_score": 42.2,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "No major boost",
+      "reason_tags": "Good Environment",
       "power_score": 38.9,
       "pitcher_score": 18.2,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 52.4,
       "platoon_score": 50.0,
       "recent_form_score": 43.2,
@@ -2554,19 +2598,19 @@
       "pitcher_xslg_allowed": 0.3058,
       "pitcher_xiso_allowed": 0.1051,
       "pitcher_fb_pct_allowed": 23.37,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -2576,18 +2620,18 @@
       "team": "NL",
       "opponent": "AL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 6,
       "pitcher": "Dylan Cease",
       "pitcher_id": 656302,
       "pitcher_hand": "R",
-      "hr_score": 37.9,
+      "hr_score": 38.8,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Platoon Edge",
+      "reason_tags": "Good Environment, Platoon Edge",
       "power_score": 16.9,
       "pitcher_score": 17.2,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 76.2,
       "platoon_score": 75.0,
       "recent_form_score": 14.1,
@@ -2628,19 +2672,19 @@
       "pitcher_xslg_allowed": 0.3058,
       "pitcher_xiso_allowed": 0.1051,
       "pitcher_fb_pct_allowed": 23.37,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     },
     {
@@ -2650,18 +2694,18 @@
       "team": "AL",
       "opponent": "NL",
       "game_start_time": "2026-07-15T00:00:00Z",
-      "game_status": "Pre-Game",
+      "game_status": "Warmup",
       "batting_order": 9,
       "pitcher": "Cristopher Sánchez",
       "pitcher_id": 650911,
       "pitcher_hand": "L",
-      "hr_score": 36.7,
+      "hr_score": 37.6,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Platoon Edge",
+      "reason_tags": "Good Environment, Platoon Edge",
       "power_score": 6.7,
       "pitcher_score": 35.9,
-      "environment_score": 67.3,
+      "environment_score": 73.3,
       "lineup_score": 44.8,
       "platoon_score": 78.0,
       "recent_form_score": 50.3,
@@ -2702,30 +2746,30 @@
       "pitcher_xslg_allowed": 0.3611,
       "pitcher_xiso_allowed": 0.1312,
       "pitcher_fb_pct_allowed": 18.09,
-      "wind_direction": "Varies",
-      "weather_temp": 89,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
       "ballpark": "Citizens Bank Park",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "WATCH"
+        "WEATHER EDGE"
       ],
-      "badge": "WATCH",
-      "badge_class": "muted",
-      "badge_summary": "WATCH",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "muted"
+        "green"
       ]
     }
   ],
   "weather": [
     {
       "ballpark": "Citizens Bank Park",
-      "wind_direction": "Varies",
-      "weather_temp": 89,
-      "environment_score": 67.3,
+      "wind_direction": "Out To CF",
+      "weather_temp": 88,
+      "environment_score": 73.3,
       "top_player": "Yordan Alvarez",
-      "top_score": 68.1,
+      "top_score": 69.0,
       "teams": "AL / NL"
     }
   ],
@@ -2733,11 +2777,11 @@
     {
       "teams": "AL vs NL",
       "ballpark": "Citizens Bank Park",
-      "temp": 89,
-      "wind": "Varies",
-      "environment_score": 67.3,
-      "top_score": 68.1,
-      "game_tags": "top-25 target · deep stack",
+      "temp": 88,
+      "wind": "Out To CF",
+      "environment_score": 73.3,
+      "top_score": 69.0,
+      "game_tags": "weather watch · top-25 target · deep stack",
       "disagreement_count": 0,
       "players": [
         {
@@ -2745,21 +2789,23 @@
           "team": "AL",
           "order": 2,
           "pitcher": "Cristopher Sánchez",
-          "score": 68.1,
+          "score": 69.0,
           "rank": 1,
           "badge": "FIRE / TOUGH SP",
           "badge_class": "red",
           "badges": [
             "FIRE / TOUGH SP",
             "HOT BAT",
-            "EV EDGE"
+            "EV EDGE",
+            "WEATHER EDGE"
           ],
           "badge_classes": [
             "red",
             "orange",
-            "blue"
+            "blue",
+            "green"
           ],
-          "badge_summary": "FIRE / TOUGH SP + HOT BAT + EV EDGE",
+          "badge_summary": "FIRE / TOUGH SP + HOT BAT + EV EDGE + WEATHER EDGE",
           "lineup_disagreement": "No",
           "source_warnings": ""
         },
@@ -2768,19 +2814,21 @@
           "team": "AL",
           "order": 1,
           "pitcher": "Cristopher Sánchez",
-          "score": 66.6,
+          "score": 67.5,
           "rank": 2,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
             "HOT BAT",
-            "EV EDGE"
+            "EV EDGE",
+            "WEATHER EDGE"
           ],
           "badge_classes": [
             "orange",
-            "blue"
+            "blue",
+            "green"
           ],
-          "badge_summary": "HOT BAT + EV EDGE",
+          "badge_summary": "HOT BAT + EV EDGE + WEATHER EDGE",
           "lineup_disagreement": "No",
           "source_warnings": ""
         },
@@ -2789,21 +2837,23 @@
           "team": "NL",
           "order": 1,
           "pitcher": "Dylan Cease",
-          "score": 64.5,
+          "score": 65.4,
           "rank": 3,
           "badge": "FIRE / TOUGH SP",
           "badge_class": "red",
           "badges": [
             "FIRE / TOUGH SP",
             "HOT BAT",
-            "EV EDGE"
+            "EV EDGE",
+            "WEATHER EDGE"
           ],
           "badge_classes": [
             "red",
             "orange",
-            "blue"
+            "blue",
+            "green"
           ],
-          "badge_summary": "FIRE / TOUGH SP + HOT BAT + EV EDGE",
+          "badge_summary": "FIRE / TOUGH SP + HOT BAT + EV EDGE + WEATHER EDGE",
           "lineup_disagreement": "No",
           "source_warnings": ""
         },
@@ -2812,19 +2862,21 @@
           "team": "NL",
           "order": 2,
           "pitcher": "Dylan Cease",
-          "score": 63.2,
+          "score": 64.1,
           "rank": 4,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
             "HOT BAT",
-            "EV EDGE"
+            "EV EDGE",
+            "WEATHER EDGE"
           ],
           "badge_classes": [
             "orange",
-            "blue"
+            "blue",
+            "green"
           ],
-          "badge_summary": "HOT BAT + EV EDGE",
+          "badge_summary": "HOT BAT + EV EDGE + WEATHER EDGE",
           "lineup_disagreement": "No",
           "source_warnings": ""
         },
@@ -2833,19 +2885,21 @@
           "team": "AL",
           "order": 4,
           "pitcher": "Cristopher Sánchez",
-          "score": 62.4,
+          "score": 63.3,
           "rank": 5,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
             "HOT BAT",
-            "EV EDGE"
+            "EV EDGE",
+            "WEATHER EDGE"
           ],
           "badge_classes": [
             "orange",
-            "blue"
+            "blue",
+            "green"
           ],
-          "badge_summary": "HOT BAT + EV EDGE",
+          "badge_summary": "HOT BAT + EV EDGE + WEATHER EDGE",
           "lineup_disagreement": "No",
           "source_warnings": ""
         }
@@ -2896,11 +2950,11 @@
     {
       "teams": "AL vs NL",
       "ballpark": "Citizens Bank Park",
-      "temp": 89,
-      "wind": "Varies",
-      "environment_score": 67.3,
-      "top_score": 68.1,
-      "game_tags": "top-25 target · deep stack",
+      "temp": 88,
+      "wind": "Out To CF",
+      "environment_score": 73.3,
+      "top_score": 69.0,
+      "game_tags": "weather watch · top-25 target · deep stack",
       "disagreement_count": 0,
       "players": [
         {
@@ -2908,21 +2962,23 @@
           "team": "AL",
           "order": 2,
           "pitcher": "Cristopher Sánchez",
-          "score": 68.1,
+          "score": 69.0,
           "rank": 1,
           "badge": "FIRE / TOUGH SP",
           "badge_class": "red",
           "badges": [
             "FIRE / TOUGH SP",
             "HOT BAT",
-            "EV EDGE"
+            "EV EDGE",
+            "WEATHER EDGE"
           ],
           "badge_classes": [
             "red",
             "orange",
-            "blue"
+            "blue",
+            "green"
           ],
-          "badge_summary": "FIRE / TOUGH SP + HOT BAT + EV EDGE",
+          "badge_summary": "FIRE / TOUGH SP + HOT BAT + EV EDGE + WEATHER EDGE",
           "lineup_disagreement": "No",
           "source_warnings": ""
         },
@@ -2931,19 +2987,21 @@
           "team": "AL",
           "order": 1,
           "pitcher": "Cristopher Sánchez",
-          "score": 66.6,
+          "score": 67.5,
           "rank": 2,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
             "HOT BAT",
-            "EV EDGE"
+            "EV EDGE",
+            "WEATHER EDGE"
           ],
           "badge_classes": [
             "orange",
-            "blue"
+            "blue",
+            "green"
           ],
-          "badge_summary": "HOT BAT + EV EDGE",
+          "badge_summary": "HOT BAT + EV EDGE + WEATHER EDGE",
           "lineup_disagreement": "No",
           "source_warnings": ""
         },
@@ -2952,21 +3010,23 @@
           "team": "NL",
           "order": 1,
           "pitcher": "Dylan Cease",
-          "score": 64.5,
+          "score": 65.4,
           "rank": 3,
           "badge": "FIRE / TOUGH SP",
           "badge_class": "red",
           "badges": [
             "FIRE / TOUGH SP",
             "HOT BAT",
-            "EV EDGE"
+            "EV EDGE",
+            "WEATHER EDGE"
           ],
           "badge_classes": [
             "red",
             "orange",
-            "blue"
+            "blue",
+            "green"
           ],
-          "badge_summary": "FIRE / TOUGH SP + HOT BAT + EV EDGE",
+          "badge_summary": "FIRE / TOUGH SP + HOT BAT + EV EDGE + WEATHER EDGE",
           "lineup_disagreement": "No",
           "source_warnings": ""
         },
@@ -2975,19 +3035,21 @@
           "team": "NL",
           "order": 2,
           "pitcher": "Dylan Cease",
-          "score": 63.2,
+          "score": 64.1,
           "rank": 4,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
             "HOT BAT",
-            "EV EDGE"
+            "EV EDGE",
+            "WEATHER EDGE"
           ],
           "badge_classes": [
             "orange",
-            "blue"
+            "blue",
+            "green"
           ],
-          "badge_summary": "HOT BAT + EV EDGE",
+          "badge_summary": "HOT BAT + EV EDGE + WEATHER EDGE",
           "lineup_disagreement": "No",
           "source_warnings": ""
         },
@@ -2996,19 +3058,21 @@
           "team": "AL",
           "order": 4,
           "pitcher": "Cristopher Sánchez",
-          "score": 62.4,
+          "score": 63.3,
           "rank": 5,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
             "HOT BAT",
-            "EV EDGE"
+            "EV EDGE",
+            "WEATHER EDGE"
           ],
           "badge_classes": [
             "orange",
-            "blue"
+            "blue",
+            "green"
           ],
-          "badge_summary": "HOT BAT + EV EDGE",
+          "badge_summary": "HOT BAT + EV EDGE + WEATHER EDGE",
           "lineup_disagreement": "No",
           "source_warnings": ""
         }

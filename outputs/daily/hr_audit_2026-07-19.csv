@@ -1,0 +1,35 @@
+date,game,player,team,opponent,hr_count,innings,event,description,appeared_in_rankings,rank,hr_score,tier,top_20,top_10
+2026-07-19,BAL@HOU,Coby Mayo,BAL,HOU,1,6,Home Run,Coby Mayo homers (13) on a fly ball to right center field.,Yes,200,40.4,Longshot,No,No
+2026-07-19,BAL@HOU,Jose Altuve,HOU,BAL,1,8,Home Run,Jose Altuve homers (12) on a fly ball to left field.,Yes,192,41.0,Longshot,No,No
+2026-07-19,CIN@COL,Hunter Goodman,COL,CIN,3,"1, 6, 8",Home Run,Hunter Goodman homers (28) on a fly ball to center field. / Hunter Goodman homers (29) on a fly ball to left center field. Jake McCarthy scores. / Hunter Goodman homers (30) on a fly ball to center field. Mickey Moniak scores.,Yes,21,61.0,Tier 3,No,No
+2026-07-19,CIN@COL,Nathaniel Lowe,CIN,COL,1,1,Home Run,Nathaniel Lowe homers (11) on a fly ball to right field. Elly De La Cruz scores. JJ Bleday scores.,Yes,38,57.3,Longshot,No,No
+2026-07-19,CIN@COL,Sal Stewart,CIN,COL,1,2,Home Run,Sal Stewart homers (20) on a fly ball to center field. Dane Myers scores. Elly De La Cruz scores.,Yes,13,62.8,Tier 3,Yes,No
+2026-07-19,CIN@COL,Tyler Stephenson,CIN,COL,2,"1, 5",Home Run,Tyler Stephenson homers (7) on a fly ball to left center field. Eugenio Suárez scores. / Tyler Stephenson homers (8) on a fly ball to left center field.,Yes,77,52.9,Longshot,No,No
+2026-07-19,CIN@COL,Willi Castro,COL,CIN,1,9,Home Run,Willi Castro homers (9) on a fly ball to right field.,Yes,84,51.4,Longshot,No,No
+2026-07-19,DET@LAA,Kevin McGonigle,DET,LAA,1,1,Home Run,Kevin McGonigle homers (9) on a fly ball to left center field.,Yes,70,53.4,Longshot,No,No
+2026-07-19,DET@LAA,Riley Greene,DET,LAA,1,9,Home Run,Riley Greene homers (14) on a fly ball to right center field.,Yes,18,61.7,Tier 3,Yes,No
+2026-07-19,LAD@NYY,Jazz Chisholm Jr.,NYY,LAD,1,8,Home Run,Jazz Chisholm Jr. homers (14) on a fly ball to left center field.,No,,,,No,No
+2026-07-19,LAD@NYY,Tommy Edman,LAD,NYY,1,8,Home Run,Tommy Edman homers (2) on a fly ball to right center field.,Yes,217,38.6,Longshot,No,No
+2026-07-19,LAD@NYY,Trent Grisham,NYY,LAD,1,4,Home Run,Trent Grisham homers (11) on a fly ball to right field.,Yes,71,53.1,Longshot,No,No
+2026-07-19,MIA@MIL,Esteury Ruiz,MIA,MIL,1,3,Home Run,Esteury Ruiz homers (5) on a fly ball to left field.,Yes,228,37.7,Longshot,No,No
+2026-07-19,MIA@MIL,William Contreras,MIL,MIA,1,9,Home Run,William Contreras homers (10) on a fly ball to center field. Jackson Chourio scores. Brice Turang scores.,No,,,,No,No
+2026-07-19,MIN@CHC,Alex Bregman,CHC,MIN,1,1,Home Run,Alex Bregman homers (10) on a fly ball to left field. Seiya Suzuki scores.,Yes,103,49.2,Longshot,No,No
+2026-07-19,NYM@PHI,Alec Bohm,PHI,NYM,1,7,Home Run,Alec Bohm homers (12) on a fly ball to left field.,Yes,194,40.9,Longshot,No,No
+2026-07-19,NYM@PHI,Francisco Lindor,NYM,PHI,1,1,Home Run,Francisco Lindor homers (6) on a fly ball to right field. Bo Bichette scores.,Yes,58,54.5,Longshot,No,No
+2026-07-19,PIT@CLE,Esmerlyn Valdez,PIT,CLE,1,9,Home Run,Esmerlyn Valdez homers (12) on a fly ball to left field. Jared Triolo scores.,Yes,3,66.6,Tier 3,Yes,Yes
+2026-07-19,SD@KC,Fernando Tatis Jr.,SD,KC,1,6,Home Run,Fernando Tatis Jr. homers (7) on a line drive to left field.,Yes,40,57.2,Longshot,No,No
+2026-07-19,SD@KC,Jac Caglianone,KC,SD,1,1,Home Run,Jac Caglianone homers (16) on a fly ball to right field.,Yes,4,65.7,Tier 3,Yes,Yes
+2026-07-19,SD@KC,Jackson Merrill,SD,KC,2,"4, 9",Home Run,Jackson Merrill homers (11) on a fly ball to left center field. / Jackson Merrill homers (12) on a fly ball to right field. Sung-Mun Song scores.,Yes,78,52.7,Longshot,No,No
+2026-07-19,SD@KC,Ty France,SD,KC,2,"8, 9",Home Run,Ty France hits a grand slam (13) to left field. Sung-Mun Song scores. Fernando Tatis Jr. scores. Manny Machado scores. / Ty France homers (14) on a fly ball to left center field.,Yes,35,57.5,Longshot,No,No
+2026-07-19,SF@SEA,Bryce Eldridge,SF,SEA,1,1,Home Run,Bryce Eldridge homers (10) on a fly ball to center field.,Yes,2,67.1,Tier 3,Yes,Yes
+2026-07-19,SF@SEA,Cole Young,SEA,SF,1,7,Home Run,Cole Young homers (13) on a fly ball to right field. Julio Rodríguez scores.,Yes,115,48.0,Longshot,No,No
+2026-07-19,SF@SEA,Luke Raley,SEA,SF,1,6,Home Run,Luke Raley homers (15) on a fly ball to right center field.,No,,,,No,No
+2026-07-19,STL@AZ,Geraldo Perdomo,AZ,STL,1,7,Home Run,Geraldo Perdomo hits an inside-the-park home run (7) on a line drive to left field. Adrian Del Castillo scores.,Yes,223,38.2,Longshot,No,No
+2026-07-19,STL@AZ,Nolan Arenado,AZ,STL,1,8,Home Run,Nolan Arenado homers (13) on a fly ball to left center field. Tyler Locklear scores.,Yes,233,36.7,Longshot,No,No
+2026-07-19,TB@BOS,Victor Mesa Jr.,TB,BOS,1,2,Home Run,Victor Mesa Jr. hits an inside-the-park home run (7) on a line drive to right-center field.,Yes,86,51.1,Longshot,No,No
+2026-07-19,TB@BOS,Willson Contreras,BOS,TB,1,5,Home Run,Willson Contreras homers (22) on a fly ball to right center field. Ceddanne Rafaela scores.,Yes,20,61.0,Tier 3,Yes,No
+2026-07-19,TEX@ATL,Austin Riley,ATL,TEX,2,"2, 4",Home Run,Austin Riley homers (11) on a fly ball to left field. / Austin Riley homers (12) on a line drive to center field.,Yes,82,52.0,Longshot,No,No
+2026-07-19,TEX@ATL,Drake Baldwin,ATL,TEX,2,"3, 8",Home Run,Drake Baldwin homers (17) on a fly ball to right center field. / Drake Baldwin homers (18) on a fly ball to center field.,Yes,10,64.4,Tier 3,Yes,Yes
+2026-07-19,TEX@ATL,Wyatt Langford,TEX,ATL,1,9,Home Run,Wyatt Langford homers (10) on a fly ball to left field.,Yes,46,56.7,Longshot,No,No
+2026-07-19,WSH@ATH,CJ Abrams,WSH,ATH,1,5,Home Run,CJ Abrams homers (21) on a fly ball to center field. Curtis Mead scores.,Yes,113,48.2,Longshot,No,No
+2026-07-19,WSH@ATH,Dylan Crews,WSH,ATH,1,5,Home Run,Dylan Crews homers (7) on a fly ball to left field.,Yes,120,47.4,Longshot,No,No

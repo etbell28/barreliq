@@ -17,11 +17,11 @@
 | 13 | Matt Olson | ATL | JP Sears | 3 | 59.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 | 14 | Andres Chaparro | WSH | Kyle Freeland | 3 | 59.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 15 | Harry Ford | WSH | Kyle Freeland | 6 | 59.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 16 | Curtis Mead | WSH | Kyle Freeland | 2 | 57.4 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 17 | Colson Montgomery | CWS | Jacob deGrom | 4 | 56.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Wilyer Abreu | BOS | Shane Baz | 3 | 56.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 19 | Spencer Torkelson | DET | Jameson Taillon | 5 | 56.2 | Longshot | Watch List | Projected Lineup, Strong Barrel |
-| 20 | Hunter Goodman | COL | Andrew Alvarez | 4 | 55.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 16 | Byron Buxton | MIN | Tanner Bibee | 2 | 57.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 17 | Curtis Mead | WSH | Kyle Freeland | 2 | 57.4 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 18 | Colson Montgomery | CWS | Jacob deGrom | 4 | 56.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Wilyer Abreu | BOS | Shane Baz | 3 | 56.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 20 | Spencer Torkelson | DET | Jameson Taillon | 5 | 56.2 | Longshot | Watch List | Projected Lineup, Strong Barrel |
 
 ## Best 2-Leg Pairings
 

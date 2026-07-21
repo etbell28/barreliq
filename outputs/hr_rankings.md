@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | James Wood | WSH | Kyle Freeland | 1 | 75.2 | Tier 2 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
-| 2 | Riley Greene | DET | Jameson Taillon | 4 | 69.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 3 | Yordan Alvarez | HOU | Janson Junk | 2 | 69.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 4 | Mike Trout | LAA | Kyle Leahy | 2 | 66.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 5 | Bryce Eldridge | SF | Michael Wacha | 2 | 66.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 6 | Munetaka Murakami | CWS | Jacob deGrom | 2 | 66.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 7 | Andrés Chaparro | WSH | Kyle Freeland | 3 | 65.5 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 8 | Harry Ford | WSH | Kyle Freeland | 7 | 63.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Platoon Edge |
-| 9 | Curtis Mead | WSH | Kyle Freeland | 2 | 63.0 | Tier 3 | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 10 | Shea Langeliers | ATH | Mitch Bratt | 3 | 63.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Colt Keith | DET | Jameson Taillon | 3 | 62.5 | Tier 3 | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
-| 12 | Michael Busch | CHC | Jack Flaherty | 3 | 62.5 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 13 | Kevin McGonigle | DET | Jameson Taillon | 1 | 61.3 | Tier 3 | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
-| 14 | Hunter Goodman | COL | Andrew Alvarez | 4 | 61.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 15 | Kerry Carpenter | DET | Jameson Taillon | 6 | 61.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Platoon Edge |
-| 16 | Spencer Torkelson | DET | Jameson Taillon | 7 | 60.9 | Tier 3 | Watch List | Strong Barrel, Good Environment |
-| 17 | Pete Crow-Armstrong | CHC | Jack Flaherty | 1 | 60.6 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 18 | Seiya Suzuki | CHC | Jack Flaherty | 2 | 60.4 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 19 | Dillon Dingler | DET | Jameson Taillon | 5 | 60.3 | Tier 3 | Watch List | Strong Barrel, Good Environment |
-| 20 | Juan Soto | NYM | Jacob Misiorowski | 2 | 59.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 1 | Mike Trout | LAA | Kyle Leahy | 2 | 67.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 2 | Shea Langeliers | ATH | Mitch Bratt | 3 | 63.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 3 | Tyler Soderstrom | ATH | Mitch Bratt | 2 | 58.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 4 | Zach Neto | LAA | Kyle Leahy | 1 | 58.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 5 | Alec Burleson | STL | José Soriano | 3 | 58.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 6 | Jordan Walker | STL | José Soriano | 4 | 57.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 7 | Elly De La Cruz | CIN | George Kirby | 1 | 57.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 8 | Sal Stewart | CIN | George Kirby | 2 | 56.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 9 | Colby Thomas | ATH | Mitch Bratt | 4 | 55.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Dominic Canzone | SEA | Andrew Abbott | 3 | 55.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 11 | Lars Nootbaar | STL | José Soriano | 5 | 55.0 | Longshot | Watch List | Platoon Edge |
+| 12 | Jorge Soler | LAA | Kyle Leahy | 4 | 54.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 13 | Ketel Marte | AZ | Jeffrey Springs | 1 | 54.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Josh Lowe | LAA | Kyle Leahy | 6 | 54.2 | Longshot | Watch List | Platoon Edge |
+| 15 | Vaughn Grissom | LAA | Kyle Leahy | 5 | 54.0 | Longshot | Watch List | No major boost |
+| 16 | Julio Rodríguez | SEA | Andrew Abbott | 2 | 53.8 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 17 | JJ Wetherholt | STL | José Soriano | 1 | 53.7 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 18 | Jo Adell | LAA | Kyle Leahy | 7 | 53.5 | Longshot | Watch List | Strong Barrel |
+| 19 | Tim Tawa | AZ | Jeffrey Springs | 3 | 52.1 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 20 | JJ Bleday | CIN | George Kirby | 3 | 52.0 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- James Wood + Riley Greene | Avg HR Score: 72.2
-- Riley Greene + Yordan Alvarez | Avg HR Score: 69.2
-- Yordan Alvarez + Mike Trout | Avg HR Score: 67.9
-- Mike Trout + Bryce Eldridge | Avg HR Score: 66.6
-- Bryce Eldridge + Munetaka Murakami | Avg HR Score: 66.3
+- Mike Trout + Shea Langeliers | Avg HR Score: 65.0
+- Shea Langeliers + Tyler Soderstrom | Avg HR Score: 60.6
+- Tyler Soderstrom + Zach Neto | Avg HR Score: 58.3
+- Zach Neto + Alec Burleson | Avg HR Score: 58.2
+- Alec Burleson + Jordan Walker | Avg HR Score: 58.0
 
 ## Best 3-Leg Pairings
 
-- James Wood + Riley Greene + Yordan Alvarez | Avg HR Score: 71.2
-- Riley Greene + Yordan Alvarez + Mike Trout | Avg HR Score: 68.3
-- Yordan Alvarez + Mike Trout + Bryce Eldridge | Avg HR Score: 67.4
-- Mike Trout + Bryce Eldridge + Munetaka Murakami | Avg HR Score: 66.5
-- Bryce Eldridge + Munetaka Murakami + Andrés Chaparro | Avg HR Score: 66.1
+- Mike Trout + Shea Langeliers + Tyler Soderstrom | Avg HR Score: 62.8
+- Shea Langeliers + Tyler Soderstrom + Zach Neto | Avg HR Score: 59.9
+- Tyler Soderstrom + Zach Neto + Alec Burleson | Avg HR Score: 58.2
+- Zach Neto + Alec Burleson + Jordan Walker | Avg HR Score: 58.1
+- Alec Burleson + Jordan Walker + Elly De La Cruz | Avg HR Score: 57.8
 
 ## Best 4-Leg Pairings
 
-- James Wood + Riley Greene + Yordan Alvarez + Mike Trout | Avg HR Score: 70.0
-- Riley Greene + Yordan Alvarez + Mike Trout + Bryce Eldridge | Avg HR Score: 67.9
-- Yordan Alvarez + Mike Trout + Bryce Eldridge + Munetaka Murakami | Avg HR Score: 67.1
-- Mike Trout + Bryce Eldridge + Munetaka Murakami + Andrés Chaparro | Avg HR Score: 66.2
-- Bryce Eldridge + Munetaka Murakami + Andrés Chaparro + Harry Ford | Avg HR Score: 65.5
+- Mike Trout + Shea Langeliers + Tyler Soderstrom + Zach Neto | Avg HR Score: 61.6
+- Shea Langeliers + Tyler Soderstrom + Zach Neto + Alec Burleson | Avg HR Score: 59.4
+- Tyler Soderstrom + Zach Neto + Alec Burleson + Jordan Walker | Avg HR Score: 58.1
+- Zach Neto + Alec Burleson + Jordan Walker + Elly De La Cruz | Avg HR Score: 57.9
+- Alec Burleson + Jordan Walker + Elly De La Cruz + Sal Stewart | Avg HR Score: 57.4

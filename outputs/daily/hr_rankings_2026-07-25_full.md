@@ -8,10 +8,10 @@
 | 4 | James Wood | WSH | Mitch Bratt | 1 | 61.1 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
 | 5 | Bryce Eldridge | SF | Ryan Johnson | 2 | 60.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 6 | Heriberto Hernandez | MIA | Randy Vásquez | 2 | 59.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 7 | Kyle Stowers | MIA | Randy Vásquez | 3 | 59.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 8 | Drake Baldwin | ATL | Brandon Young | 1 | 58.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 9 | Mike Trout | LAA | Robbie Ray | 2 | 58.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Byron Buxton | MIN | Mason Barnett | 2 | 58.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 7 | Byron Buxton | MIN | Brady Basso | 2 | 59.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 8 | Kyle Stowers | MIA | Randy Vásquez | 3 | 59.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | Drake Baldwin | ATL | Brandon Young | 1 | 58.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 10 | Mike Trout | LAA | Robbie Ray | 2 | 58.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 11 | Riley Greene | DET | Michael Wacha | 5 | 58.1 | Longshot | Watch List | Strong Barrel, Platoon Edge |
 | 12 | Christian Encarnacion-Strand | BAL | Bryce Elder | 7 | 58.1 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Hot Hitter/Streak |
 | 13 | Andres Chaparro | WSH | Mitch Bratt | 3 | 57.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
@@ -37,12 +37,12 @@
 - Esmerlyn Valdez + Kyle Schwarber + James Wood | Avg HR Score: 63.6
 - Kyle Schwarber + James Wood + Bryce Eldridge | Avg HR Score: 61.4
 - James Wood + Bryce Eldridge + Heriberto Hernandez | Avg HR Score: 60.2
-- Bryce Eldridge + Heriberto Hernandez + Kyle Stowers | Avg HR Score: 59.5
+- Bryce Eldridge + Heriberto Hernandez + Byron Buxton | Avg HR Score: 59.7
 
 ## Best 4-Leg Pairings
 
 - Yordan Alvarez + Esmerlyn Valdez + Kyle Schwarber + James Wood | Avg HR Score: 64.7
 - Esmerlyn Valdez + Kyle Schwarber + James Wood + Bryce Eldridge | Avg HR Score: 62.7
 - Kyle Schwarber + James Wood + Bryce Eldridge + Heriberto Hernandez | Avg HR Score: 60.9
-- James Wood + Bryce Eldridge + Heriberto Hernandez + Kyle Stowers | Avg HR Score: 59.9
-- Bryce Eldridge + Heriberto Hernandez + Kyle Stowers + Drake Baldwin | Avg HR Score: 59.4
+- James Wood + Bryce Eldridge + Heriberto Hernandez + Byron Buxton | Avg HR Score: 60.1
+- Bryce Eldridge + Heriberto Hernandez + Byron Buxton + Kyle Stowers | Avg HR Score: 59.5

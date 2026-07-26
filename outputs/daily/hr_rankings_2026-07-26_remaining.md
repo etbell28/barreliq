@@ -2,47 +2,45 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Munetaka Murakami | CWS | Ronel Blanco | 2 | 73.4 | Tier 2 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 2 | Yordan Alvarez | HOU | Erick Fedde | 2 | 67.9 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 3 | Esmerlyn Valdez | PIT | Jameson Taillon | 4 | 67.3 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 4 | Bryan De La Cruz | PHI | Will Warren | 6 | 65.5 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel |
-| 5 | Colson Montgomery | CWS | Ronel Blanco | 4 | 64.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 6 | Kyle Schwarber | PHI | Will Warren | 2 | 64.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 7 | James Wood | WSH | Kohl Drake | 1 | 61.8 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 8 | Miguel Vargas | CWS | Ronel Blanco | 3 | 61.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
-| 9 | Christian Encarnacion-Strand | BAL | Reynaldo López | 5 | 61.1 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Hot Hitter/Streak |
-| 10 | Byron Buxton | MIN | Jeffrey Springs | 2 | 60.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Andres Chaparro | WSH | Kohl Drake | 2 | 58.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 12 | Mike Trout | LAA | Carson Whisenhunt | 2 | 58.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Drake Baldwin | ATL | Shane Baz | 1 | 58.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 14 | Shohei Ohtani | LAD | Freddy Peralta | 1 | 58.6 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Nick Kurtz | ATH | Connor Prielipp | 2 | 58.6 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 16 | Matt Olson | ATL | Shane Baz | 3 | 58.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Bryce Eldridge | SF | José Soriano | 3 | 57.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Andrew Benintendi | CWS | Ronel Blanco | 5 | 57.4 | Longshot | Watch List | Projected Lineup, Pitcher Vulnerable, Platoon Edge |
-| 19 | Jackson Chourio | MIL | Kyle Freeland | 2 | 57.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Sal Stewart | CIN | Kyle Leahy | 2 | 57.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 1 | Kyle Schwarber | PHI | Will Warren | 2 | 70.5 | Tier 2 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 2 | Ben Rice | NYY | Cristopher Sánchez | 2 | 60.6 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 3 | Bryce Harper | PHI | Will Warren | 3 | 60.6 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 4 | Brandon Marsh | PHI | Will Warren | 4 | 56.6 | Longshot | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
+| 5 | Paul Goldschmidt | NYY | Cristopher Sánchez | 1 | 54.0 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 6 | Amed Rosario | NYY | Cristopher Sánchez | 3 | 53.2 | Longshot | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
+| 7 | Trea Turner | PHI | Will Warren | 1 | 53.2 | Longshot | Watch List | Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
+| 8 | Trent Grisham | NYY | Cristopher Sánchez | 6 | 51.7 | Longshot | Watch List | Strong Barrel, Good Environment |
+| 9 | Alec Bohm | PHI | Will Warren | 5 | 51.5 | Longshot | Watch List | Good Environment |
+| 10 | Jasson Domínguez | NYY | Cristopher Sánchez | 4 | 50.3 | Longshot | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
+| 11 | Bryson Stott | PHI | Will Warren | 6 | 49.5 | Longshot | Watch List | Good Environment, Platoon Edge |
+| 12 | Gabriel Rincones Jr. | PHI | Will Warren | 8 | 47.9 | Longshot | Watch List | Strong Barrel, Good Environment, Platoon Edge |
+| 13 | J.T. Realmuto | PHI | Will Warren | 7 | 47.4 | Longshot | Watch List | Good Environment |
+| 14 | Max Schuemann | NYY | Cristopher Sánchez | 7 | 47.2 | Longshot | Watch List | Good Environment, Platoon Edge |
+| 15 | Anthony Volpe | NYY | Cristopher Sánchez | 5 | 46.5 | Longshot | Watch List | Good Environment, Platoon Edge |
+| 16 | Justin Crawford | PHI | Will Warren | 9 | 37.9 | Longshot | Watch List | Good Environment, Platoon Edge |
+| 17 | José Caballero | NYY | Cristopher Sánchez | 8 | 36.5 | Longshot | Watch List | Good Environment, Platoon Edge |
+| 18 | Ali Sánchez | NYY | Cristopher Sánchez | 9 | 35.1 | Longshot | Watch List | Good Environment, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Munetaka Murakami + Yordan Alvarez | Avg HR Score: 70.7
-- Yordan Alvarez + Esmerlyn Valdez | Avg HR Score: 67.6
-- Esmerlyn Valdez + Bryan De La Cruz | Avg HR Score: 66.4
-- Bryan De La Cruz + Colson Montgomery | Avg HR Score: 65.2
-- Colson Montgomery + Kyle Schwarber | Avg HR Score: 64.7
+- Kyle Schwarber + Ben Rice | Avg HR Score: 65.5
+- Ben Rice + Bryce Harper | Avg HR Score: 60.6
+- Bryce Harper + Brandon Marsh | Avg HR Score: 58.6
+- Brandon Marsh + Paul Goldschmidt | Avg HR Score: 55.3
+- Paul Goldschmidt + Amed Rosario | Avg HR Score: 53.6
 
 ## Best 3-Leg Pairings
 
-- Munetaka Murakami + Yordan Alvarez + Esmerlyn Valdez | Avg HR Score: 69.5
-- Yordan Alvarez + Esmerlyn Valdez + Bryan De La Cruz | Avg HR Score: 66.9
-- Esmerlyn Valdez + Bryan De La Cruz + Colson Montgomery | Avg HR Score: 65.9
-- Bryan De La Cruz + Colson Montgomery + Kyle Schwarber | Avg HR Score: 64.9
-- Colson Montgomery + Kyle Schwarber + James Wood | Avg HR Score: 63.7
+- Kyle Schwarber + Ben Rice + Bryce Harper | Avg HR Score: 63.9
+- Ben Rice + Bryce Harper + Brandon Marsh | Avg HR Score: 59.3
+- Bryce Harper + Brandon Marsh + Paul Goldschmidt | Avg HR Score: 57.1
+- Brandon Marsh + Paul Goldschmidt + Amed Rosario | Avg HR Score: 54.6
+- Paul Goldschmidt + Amed Rosario + Trea Turner | Avg HR Score: 53.5
 
 ## Best 4-Leg Pairings
 
-- Munetaka Murakami + Yordan Alvarez + Esmerlyn Valdez + Bryan De La Cruz | Avg HR Score: 68.5
-- Yordan Alvarez + Esmerlyn Valdez + Bryan De La Cruz + Colson Montgomery | Avg HR Score: 66.4
-- Esmerlyn Valdez + Bryan De La Cruz + Colson Montgomery + Kyle Schwarber | Avg HR Score: 65.5
-- Bryan De La Cruz + Colson Montgomery + Kyle Schwarber + James Wood | Avg HR Score: 64.2
-- Colson Montgomery + Kyle Schwarber + James Wood + Miguel Vargas | Avg HR Score: 63.2
+- Kyle Schwarber + Ben Rice + Bryce Harper + Brandon Marsh | Avg HR Score: 62.1
+- Ben Rice + Bryce Harper + Brandon Marsh + Paul Goldschmidt | Avg HR Score: 58.0
+- Bryce Harper + Brandon Marsh + Paul Goldschmidt + Amed Rosario | Avg HR Score: 56.1
+- Brandon Marsh + Paul Goldschmidt + Amed Rosario + Trea Turner | Avg HR Score: 54.2
+- Paul Goldschmidt + Amed Rosario + Trea Turner + Trent Grisham | Avg HR Score: 53.0

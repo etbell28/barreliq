@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | James Wood | WSH | Max Scherzer | 1 | 76.2 | Tier 2 | Best Overall | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 2 | Esmerlyn Valdez | PIT | Merrill Kelly | 4 | 75.7 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 3 | Ben Rice | NYY | Noah Schultz | 2 | 66.6 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 4 | Yordan Alvarez | HOU | Walbert Ureña | 2 | 66.6 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 5 | Brandon Lowe | PIT | Merrill Kelly | 2 | 65.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 6 | CJ Abrams | WSH | Max Scherzer | 4 | 65.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 7 | Mike Trout | LAA | Tatsuya Imai | 2 | 65.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 8 | Luis García Jr. | WSH | Max Scherzer | 2 | 64.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Matt Olson | ATL | Zac Thornton | 3 | 64.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 10 | Drake Baldwin | ATL | Zac Thornton | 2 | 64.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 11 | Ronald Acuña Jr. | ATL | Zac Thornton | 1 | 63.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Pete Alonso | BAL | Keider Montero | 2 | 63.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 13 | Seiya Suzuki | CHC | Matthew Liberatore | 2 | 63.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Bryce Eldridge | SF | Brandon Sproat | 3 | 63.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Munetaka Murakami | CWS | Max Fried | 2 | 62.9 | Tier 3 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot |
-| 16 | Riley Greene | DET | Kyle Bradish | 4 | 62.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 17 | Kyle Schwarber | PHI | Tyler Phillips | 2 | 62.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Francisco Alvarez | NYM | Martín Pérez | 5 | 62.2 | Tier 3 | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 19 | Bryan Reynolds | PIT | Merrill Kelly | 3 | 61.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Pete Crow-Armstrong | CHC | Matthew Liberatore | 1 | 61.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 1 | Yordan Alvarez | HOU | Walbert Ureña | 2 | 67.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 2 | Mike Trout | LAA | Tatsuya Imai | 2 | 65.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 3 | Bryce Eldridge | SF | Brandon Sproat | 3 | 63.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Willson Contreras | BOS | Jack Perkins | 3 | 61.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 5 | Rafael Devers | SF | Brandon Sproat | 4 | 60.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 6 | Wilyer Abreu | BOS | Jack Perkins | 4 | 58.4 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 7 | Jake Bauers | MIL | Tyler Mahle | 5 | 57.7 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 8 | Jo Adell | LAA | Tatsuya Imai | 7 | 57.6 | Longshot | Watch List | Strong Barrel, Hot Hitter/Streak |
+| 9 | Zach Neto | LAA | Tatsuya Imai | 1 | 57.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 10 | Jorge Soler | LAA | Tatsuya Imai | 4 | 55.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 11 | Heliot Ramos | SF | Brandon Sproat | 2 | 54.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 12 | Jackson Chourio | MIL | Tyler Mahle | 2 | 53.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 13 | Josh Lowe | LAA | Tatsuya Imai | 6 | 53.6 | Longshot | Watch List | Platoon Edge |
+| 14 | Brice Turang | MIL | Tyler Mahle | 3 | 53.6 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 15 | Tyler Soderstrom | ATH | Payton Tolle | 2 | 53.4 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 16 | Colby Thomas | ATH | Payton Tolle | 4 | 53.2 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 17 | Curtis Mead | BOS | Jack Perkins | 2 | 52.7 | Longshot | Watch List | Good Environment, Premium Lineup Spot |
+| 18 | Christian Yelich | MIL | Tyler Mahle | 1 | 52.1 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 19 | Casey Schmitt | SF | Brandon Sproat | 5 | 52.1 | Longshot | Watch List | Strong Barrel |
+| 20 | Vaughn Grissom | LAA | Tatsuya Imai | 5 | 52.0 | Longshot | Watch List | No major boost |
 
 ## Best 2-Leg Pairings
 
-- James Wood + Esmerlyn Valdez | Avg HR Score: 76.0
-- Esmerlyn Valdez + Ben Rice | Avg HR Score: 71.2
-- Ben Rice + Yordan Alvarez | Avg HR Score: 66.6
-- Yordan Alvarez + Brandon Lowe | Avg HR Score: 66.2
-- Brandon Lowe + CJ Abrams | Avg HR Score: 65.7
+- Yordan Alvarez + Mike Trout | Avg HR Score: 66.2
+- Mike Trout + Bryce Eldridge | Avg HR Score: 64.2
+- Bryce Eldridge + Willson Contreras | Avg HR Score: 62.2
+- Willson Contreras + Rafael Devers | Avg HR Score: 60.7
+- Rafael Devers + Wilyer Abreu | Avg HR Score: 59.2
 
 ## Best 3-Leg Pairings
 
-- James Wood + Esmerlyn Valdez + Ben Rice | Avg HR Score: 72.8
-- Esmerlyn Valdez + Ben Rice + Yordan Alvarez | Avg HR Score: 69.6
-- Ben Rice + Yordan Alvarez + Brandon Lowe | Avg HR Score: 66.4
-- Yordan Alvarez + Brandon Lowe + CJ Abrams | Avg HR Score: 66.0
-- Brandon Lowe + CJ Abrams + Mike Trout | Avg HR Score: 65.5
+- Yordan Alvarez + Mike Trout + Bryce Eldridge | Avg HR Score: 65.2
+- Mike Trout + Bryce Eldridge + Willson Contreras | Avg HR Score: 63.2
+- Bryce Eldridge + Willson Contreras + Rafael Devers | Avg HR Score: 61.5
+- Willson Contreras + Rafael Devers + Wilyer Abreu | Avg HR Score: 59.9
+- Rafael Devers + Wilyer Abreu + Jake Bauers | Avg HR Score: 58.7
 
 ## Best 4-Leg Pairings
 
-- James Wood + Esmerlyn Valdez + Ben Rice + Yordan Alvarez | Avg HR Score: 71.3
-- Esmerlyn Valdez + Ben Rice + Yordan Alvarez + Brandon Lowe | Avg HR Score: 68.7
-- Ben Rice + Yordan Alvarez + Brandon Lowe + CJ Abrams | Avg HR Score: 66.1
-- Yordan Alvarez + Brandon Lowe + CJ Abrams + Mike Trout | Avg HR Score: 65.8
-- Brandon Lowe + CJ Abrams + Mike Trout + Luis García Jr. | Avg HR Score: 65.3
+- Yordan Alvarez + Mike Trout + Bryce Eldridge + Willson Contreras | Avg HR Score: 64.2
+- Mike Trout + Bryce Eldridge + Willson Contreras + Rafael Devers | Avg HR Score: 62.5
+- Bryce Eldridge + Willson Contreras + Rafael Devers + Wilyer Abreu | Avg HR Score: 60.7
+- Willson Contreras + Rafael Devers + Wilyer Abreu + Jake Bauers | Avg HR Score: 59.4
+- Rafael Devers + Wilyer Abreu + Jake Bauers + Jo Adell | Avg HR Score: 58.5

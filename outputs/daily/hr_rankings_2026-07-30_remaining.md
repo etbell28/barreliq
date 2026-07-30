@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | James Wood | WSH | Grant Holmes | 1 | 73.7 | Tier 2 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 2 | Matt Olson | ATL | Jake Irvin | 3 | 71.0 | Tier 2 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 3 | Drake Baldwin | ATL | Jake Irvin | 1 | 69.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 4 | Esmerlyn Valdez | PIT | Rhett Lowder | 4 | 67.9 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
-| 5 | Dominic Canzone | SEA | Roki Sasaki | 3 | 67.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 6 | Michael Harris II | ATL | Jake Irvin | 4 | 65.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 7 | Ronald Acuña Jr. | ATL | Jake Irvin | 2 | 65.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 8 | Luis García Jr. | WSH | Grant Holmes | 2 | 63.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 9 | Brandon Lowe | PIT | Rhett Lowder | 2 | 63.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | CJ Abrams | WSH | Grant Holmes | 4 | 62.6 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 11 | Bryce Eldridge | SF | JP Sears | 3 | 62.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 12 | Max Muncy | LAD | Bryan Woo | 4 | 60.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Enrique Hernández | LAD | Bryan Woo | 9 | 59.5 | Longshot | Watch List | Elite Power, Strong Barrel |
-| 14 | Dylan Crews | WSH | Grant Holmes | 3 | 59.4 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
-| 15 | Willson Contreras | BOS | Mason Barnett | 4 | 59.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 16 | Rafael Devers | SF | JP Sears | 4 | 59.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 17 | Wilyer Abreu | BOS | Mason Barnett | 3 | 58.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Bryan Reynolds | PIT | Rhett Lowder | 3 | 58.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Heliot Ramos | SF | JP Sears | 2 | 58.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Sal Stewart | CIN | Yohan Ramírez | 2 | 57.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 1 | Dominic Canzone | SEA | Roki Sasaki | 3 | 67.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 2 | Nick Kurtz | ATH | Sonny Gray | 1 | 65.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 3 | Bryce Eldridge | SF | JP Sears | 3 | 62.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 4 | Max Muncy | LAD | Bryan Woo | 4 | 60.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 5 | Enrique Hernández | LAD | Bryan Woo | 9 | 59.5 | Longshot | Watch List | Elite Power, Strong Barrel |
+| 6 | Willson Contreras | BOS | Mason Barnett | 4 | 59.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 7 | Rafael Devers | SF | JP Sears | 4 | 59.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 8 | Wilyer Abreu | BOS | Mason Barnett | 3 | 58.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | Heliot Ramos | SF | JP Sears | 2 | 58.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Cal Raleigh | SEA | Roki Sasaki | 6 | 57.7 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 11 | Julio Rodríguez | SEA | Roki Sasaki | 4 | 57.0 | Longshot | Watch List | Premium Lineup Spot |
+| 12 | Tyler Soderstrom | ATH | Sonny Gray | 3 | 56.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Randy Arozarena | SEA | Roki Sasaki | 2 | 56.5 | Longshot | Watch List | Premium Lineup Spot |
+| 14 | Luke Raley | SEA | Roki Sasaki | 7 | 56.5 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 15 | Freddie Freeman | LAD | Bryan Woo | 3 | 55.6 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 16 | Manny Machado | SD |  | 3 | 55.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 17 | Jackson Merrill | SD |  | 5 | 54.0 | Longshot | Watch List | Strong Barrel, Hot Hitter/Streak |
+| 18 | Fernando Tatis Jr. | SD |  | 1 | 53.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 19 | Ty France | SD |  | 4 | 53.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 20 | Cole Young | SEA | Roki Sasaki | 1 | 52.5 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- James Wood + Matt Olson | Avg HR Score: 72.3
-- Matt Olson + Drake Baldwin | Avg HR Score: 70.3
-- Drake Baldwin + Esmerlyn Valdez | Avg HR Score: 68.8
-- Esmerlyn Valdez + Dominic Canzone | Avg HR Score: 67.6
-- Dominic Canzone + Michael Harris II | Avg HR Score: 66.2
+- Dominic Canzone + Nick Kurtz | Avg HR Score: 66.8
+- Nick Kurtz + Bryce Eldridge | Avg HR Score: 63.9
+- Bryce Eldridge + Max Muncy | Avg HR Score: 61.4
+- Max Muncy + Enrique Hernández | Avg HR Score: 60.0
+- Enrique Hernández + Willson Contreras | Avg HR Score: 59.5
 
 ## Best 3-Leg Pairings
 
-- James Wood + Matt Olson + Drake Baldwin | Avg HR Score: 71.5
-- Matt Olson + Drake Baldwin + Esmerlyn Valdez | Avg HR Score: 69.5
-- Drake Baldwin + Esmerlyn Valdez + Dominic Canzone | Avg HR Score: 68.3
-- Esmerlyn Valdez + Dominic Canzone + Michael Harris II | Avg HR Score: 66.8
-- Dominic Canzone + Michael Harris II + Ronald Acuña Jr. | Avg HR Score: 65.8
+- Dominic Canzone + Nick Kurtz + Bryce Eldridge | Avg HR Score: 65.2
+- Nick Kurtz + Bryce Eldridge + Max Muncy | Avg HR Score: 62.8
+- Bryce Eldridge + Max Muncy + Enrique Hernández | Avg HR Score: 60.7
+- Max Muncy + Enrique Hernández + Willson Contreras | Avg HR Score: 59.8
+- Enrique Hernández + Willson Contreras + Rafael Devers | Avg HR Score: 59.4
 
 ## Best 4-Leg Pairings
 
-- James Wood + Matt Olson + Drake Baldwin + Esmerlyn Valdez | Avg HR Score: 70.6
-- Matt Olson + Drake Baldwin + Esmerlyn Valdez + Dominic Canzone | Avg HR Score: 69.0
-- Drake Baldwin + Esmerlyn Valdez + Dominic Canzone + Michael Harris II | Avg HR Score: 67.5
-- Esmerlyn Valdez + Dominic Canzone + Michael Harris II + Ronald Acuña Jr. | Avg HR Score: 66.3
-- Dominic Canzone + Michael Harris II + Ronald Acuña Jr. + Luis García Jr. | Avg HR Score: 65.2
+- Dominic Canzone + Nick Kurtz + Bryce Eldridge + Max Muncy | Avg HR Score: 64.0
+- Nick Kurtz + Bryce Eldridge + Max Muncy + Enrique Hernández | Avg HR Score: 62.0
+- Bryce Eldridge + Max Muncy + Enrique Hernández + Willson Contreras | Avg HR Score: 60.4
+- Max Muncy + Enrique Hernández + Willson Contreras + Rafael Devers | Avg HR Score: 59.7
+- Enrique Hernández + Willson Contreras + Rafael Devers + Wilyer Abreu | Avg HR Score: 59.3

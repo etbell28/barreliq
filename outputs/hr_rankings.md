@@ -12,16 +12,16 @@
 | 8 | Carter Jensen | KC | Tomoyuki Sugano | 1 | 64.6 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
 | 9 | Esmerlyn Valdez | PIT | Hunter Greene | 4 | 64.5 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
 | 10 | Griffin Conine | MIA | Kodai Senga | 5 | 64.1 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
-| 11 | Ben Rice | NYY | Shota Imanaga | 2 | 62.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 12 | Pete Alonso | BAL | Andrew Painter | 2 | 62.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 13 | Luis García Jr. | WSH | Bryce Elder | 2 | 61.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 14 | Matt Olson | ATL | Foster Griffin | 3 | 61.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 15 | Ronald Acuña Jr. | ATL | Foster Griffin | 1 | 61.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Dominic Canzone | SEA | Zebby Matthews | 3 | 61.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 17 | Brandon Lowe | PIT | Hunter Greene | 2 | 61.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 18 | Salvador Perez | KC | Tomoyuki Sugano | 4 | 61.1 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
+| 11 | Pete Alonso | BAL | Andrew Painter | 2 | 62.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 12 | Luis García Jr. | WSH | Bryce Elder | 2 | 61.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 13 | Matt Olson | ATL | Foster Griffin | 3 | 61.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 14 | Ronald Acuña Jr. | ATL | Foster Griffin | 1 | 61.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 15 | Dominic Canzone | SEA | Zebby Matthews | 3 | 61.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 16 | Brandon Lowe | PIT | Hunter Greene | 2 | 61.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 17 | Salvador Perez | KC | Tomoyuki Sugano | 4 | 61.1 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
+| 18 | Manny Machado | SD | Carson Whisenhunt | 3 | 61.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 19 | Drake Baldwin | ATL | Foster Griffin | 2 | 60.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 20 | Pete Crow-Armstrong | CHC | Will Warren | 1 | 60.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Heriberto Hernández | MIA | Kodai Senga | 6 | 59.3 | Longshot | Watch List | Strong Barrel |
 
 ## Best 2-Leg Pairings
 

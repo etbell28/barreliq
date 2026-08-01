@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Yordan Alvarez | HOU | Jacob deGrom | 2 | 67.0 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 2 | Corey Seager | TEX | Ronel Blanco | 3 | 64.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 3 | James Wood | WSH | Reynaldo López | 1 | 64.5 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 4 | Munetaka Murakami | CWS | Drew Rasmussen | 2 | 63.8 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 5 | Esmerlyn Valdez | PIT | Andrew Abbott | 4 | 63.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 6 | Matt Olson | ATL | Miles Mikolas | 3 | 62.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 7 | John Rave | KC | Ryan Feltner | 7 | 62.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Platoon Edge |
-| 8 | Joc Pederson | TEX | Ronel Blanco | 1 | 62.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 9 | Kyle Schwarber | PHI | Shane Baz | 2 | 62.0 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Drake Baldwin | ATL | Miles Mikolas | 2 | 60.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Rhys Hoskins | CLE | Kohl Drake | 4 | 59.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 12 | Brandon Nimmo | TEX | Ronel Blanco | 4 | 59.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 13 | Kyle Stowers | MIA | Zac Thornton | 4 | 59.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 14 | Pete Alonso | BAL | Cristopher Sánchez | 2 | 59.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Jac Caglianone | KC | Ryan Feltner | 3 | 58.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Bryce Eldridge | SF | Walker Buehler | 3 | 58.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Shohei Ohtani | LAD | Payton Tolle | 1 | 58.7 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 18 | Ronald Acuna | ATL | Miles Mikolas | 1 | 57.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 19 | Carter Jensen | KC | Ryan Feltner | 1 | 56.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Dominic Canzone | SEA | Connor Prielipp | 3 | 56.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 1 | Yordan Alvarez | HOU | Jacob deGrom | 2 | 69.6 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Kyle Schwarber | PHI | Shane Baz | 2 | 69.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 3 | Corey Seager | TEX | Ronel Blanco | 3 | 67.6 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
+| 4 | James Wood | WSH | Reynaldo López | 1 | 67.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 5 | Esmerlyn Valdez | PIT | Andrew Abbott | 4 | 66.3 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 6 | Matt Olson | ATL | Miles Mikolas | 3 | 65.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 7 | Pete Alonso | BAL | Cristopher Sánchez | 4 | 65.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 8 | Shohei Ohtani | LAD | Payton Tolle | 1 | 65.7 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 9 | Joc Pederson | TEX | Ronel Blanco | 1 | 65.3 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 10 | Enrique Hernández | LAD | Payton Tolle | 5 | 65.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
+| 11 | Rhys Hoskins | CLE | Kohl Drake | 4 | 64.4 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
+| 12 | John Rave | KC | Ryan Feltner | 8 | 64.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
+| 13 | Jac Caglianone | KC | Ryan Feltner | 3 | 64.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Drake Baldwin | ATL | Miles Mikolas | 1 | 62.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 15 | Carter Jensen | KC | Ryan Feltner | 1 | 62.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Brandon Nimmo | TEX | Ronel Blanco | 4 | 61.7 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
+| 17 | Christian Encarnacion-Strand | BAL | Cristopher Sánchez | 6 | 61.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Platoon Edge |
+| 18 | Bryce Harper | PHI | Shane Baz | 3 | 60.8 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 19 | Ronald Acuña Jr. | ATL | Miles Mikolas | 2 | 60.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 20 | José Ramírez | CLE | Kohl Drake | 2 | 60.2 | Tier 3 | Watch List | Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Yordan Alvarez + Corey Seager | Avg HR Score: 65.8
-- Corey Seager + James Wood | Avg HR Score: 64.5
-- James Wood + Munetaka Murakami | Avg HR Score: 64.2
-- Munetaka Murakami + Esmerlyn Valdez | Avg HR Score: 63.6
-- Esmerlyn Valdez + Matt Olson | Avg HR Score: 63.0
+- Yordan Alvarez + Kyle Schwarber | Avg HR Score: 69.3
+- Kyle Schwarber + Corey Seager | Avg HR Score: 68.3
+- Corey Seager + James Wood | Avg HR Score: 67.4
+- James Wood + Esmerlyn Valdez | Avg HR Score: 66.8
+- Esmerlyn Valdez + Matt Olson | Avg HR Score: 66.0
 
 ## Best 3-Leg Pairings
 
-- Yordan Alvarez + Corey Seager + James Wood | Avg HR Score: 65.3
-- Corey Seager + James Wood + Munetaka Murakami | Avg HR Score: 64.3
-- James Wood + Munetaka Murakami + Esmerlyn Valdez | Avg HR Score: 63.9
-- Munetaka Murakami + Esmerlyn Valdez + Matt Olson | Avg HR Score: 63.3
-- Esmerlyn Valdez + Matt Olson + John Rave | Avg HR Score: 62.8
+- Yordan Alvarez + Kyle Schwarber + Corey Seager | Avg HR Score: 68.8
+- Kyle Schwarber + Corey Seager + James Wood | Avg HR Score: 68.0
+- Corey Seager + James Wood + Esmerlyn Valdez | Avg HR Score: 67.0
+- James Wood + Esmerlyn Valdez + Matt Olson | Avg HR Score: 66.4
+- Esmerlyn Valdez + Matt Olson + Pete Alonso | Avg HR Score: 65.9
 
 ## Best 4-Leg Pairings
 
-- Yordan Alvarez + Corey Seager + James Wood + Munetaka Murakami | Avg HR Score: 65.0
-- Corey Seager + James Wood + Munetaka Murakami + Esmerlyn Valdez | Avg HR Score: 64.0
-- James Wood + Munetaka Murakami + Esmerlyn Valdez + Matt Olson | Avg HR Score: 63.6
-- Munetaka Murakami + Esmerlyn Valdez + Matt Olson + John Rave | Avg HR Score: 63.1
-- Esmerlyn Valdez + Matt Olson + John Rave + Joc Pederson | Avg HR Score: 62.7
+- Yordan Alvarez + Kyle Schwarber + Corey Seager + James Wood | Avg HR Score: 68.4
+- Kyle Schwarber + Corey Seager + James Wood + Esmerlyn Valdez | Avg HR Score: 67.5
+- Corey Seager + James Wood + Esmerlyn Valdez + Matt Olson | Avg HR Score: 66.7
+- James Wood + Esmerlyn Valdez + Matt Olson + Pete Alonso | Avg HR Score: 66.2
+- Esmerlyn Valdez + Matt Olson + Pete Alonso + Shohei Ohtani | Avg HR Score: 65.9

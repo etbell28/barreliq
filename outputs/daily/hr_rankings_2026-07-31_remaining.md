@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | John Rave | KC | Tomoyuki Sugano | 7 | 71.1 | Tier 2 | Watch List | Elite Power, Strong Barrel, Pitcher Vulnerable, Platoon Edge |
-| 2 | Yordan Alvarez | HOU | Nathan Eovaldi | 2 | 68.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Jac Caglianone | KC | Tomoyuki Sugano | 3 | 67.9 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 4 | Carter Jensen | KC | Tomoyuki Sugano | 1 | 64.6 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 5 | Dominic Canzone | SEA | Zebby Matthews | 3 | 64.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 6 | Mike Trout | LAA | Shane Drohan | 2 | 62.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 7 | Riley Greene | DET | Jeffrey Springs | 4 | 62.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 8 | Nick Kurtz | ATH | Tyler Holton | 1 | 61.5 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 9 | Shohei Ohtani | LAD | Ranger Suarez | 1 | 61.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
-| 10 | Salvador Perez | KC | Tomoyuki Sugano | 4 | 61.1 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot |
-| 11 | Jake Bauers | MIL | Ryan Johnson | 5 | 61.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Platoon Edge |
-| 12 | Manny Machado | SD | Carson Whisenhunt | 3 | 61.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Dillon Dingler | DET | Jeffrey Springs | 3 | 60.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 14 | Spencer Torkelson | DET | Jeffrey Springs | 6 | 59.5 | Longshot | Watch List | Strong Barrel, Good Environment, Platoon Edge |
-| 15 | Fernando Tatis Jr. | SD | Carson Whisenhunt | 1 | 59.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Ty France | SD | Carson Whisenhunt | 4 | 59.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Mickey Moniak | COL | Michael Wacha | 2 | 58.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Michael Massey | KC | Tomoyuki Sugano | 5 | 56.9 | Longshot | Watch List | Pitcher Vulnerable, Platoon Edge |
-| 19 | Hao-Yu Lee | DET | Jeffrey Springs | 5 | 56.9 | Longshot | Watch List | Good Environment, Platoon Edge |
-| 20 | Jackson Merrill | SD | Carson Whisenhunt | 5 | 56.6 | Longshot | Watch List | Strong Barrel |
+| 1 | Dominic Canzone | SEA | Zebby Matthews | 3 | 64.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 2 | Mike Trout | LAA | Shane Drohan | 2 | 62.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 3 | Riley Greene | DET | Jeffrey Springs | 4 | 62.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 4 | Nick Kurtz | ATH | Tyler Holton | 1 | 61.5 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 5 | Shohei Ohtani | LAD | Ranger Suarez | 1 | 61.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
+| 6 | Jake Bauers | MIL | Ryan Johnson | 5 | 61.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Platoon Edge |
+| 7 | Manny Machado | SD | Carson Whisenhunt | 3 | 61.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 8 | Dillon Dingler | DET | Jeffrey Springs | 3 | 60.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 9 | Spencer Torkelson | DET | Jeffrey Springs | 6 | 59.5 | Longshot | Watch List | Strong Barrel, Good Environment, Platoon Edge |
+| 10 | Fernando Tatis Jr. | SD | Carson Whisenhunt | 1 | 59.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Ty France | SD | Carson Whisenhunt | 4 | 59.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Hao-Yu Lee | DET | Jeffrey Springs | 5 | 56.9 | Longshot | Watch List | Good Environment, Platoon Edge |
+| 13 | Jackson Merrill | SD | Carson Whisenhunt | 5 | 56.6 | Longshot | Watch List | Strong Barrel |
+| 14 | Brice Turang | MIL | Ryan Johnson | 1 | 55.9 | Longshot | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
+| 15 | Enrique Hernández | LAD | Ranger Suarez | 8 | 55.9 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 16 | Jackson Chourio | MIL | Ryan Johnson | 2 | 55.4 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 17 | Jo Adell | LAA | Shane Drohan | 6 | 55.2 | Longshot | Watch List | Strong Barrel, Good Environment, Platoon Edge |
+| 18 | Kody Clemens | MIN | Bryce Miller | 3 | 55.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Zach Neto | LAA | Shane Drohan | 1 | 54.8 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 20 | Christian Yelich | MIL | Ryan Johnson | 3 | 54.5 | Longshot | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- John Rave + Yordan Alvarez | Avg HR Score: 69.7
-- Yordan Alvarez + Jac Caglianone | Avg HR Score: 68.1
-- Jac Caglianone + Carter Jensen | Avg HR Score: 66.2
-- Carter Jensen + Dominic Canzone | Avg HR Score: 64.5
-- Dominic Canzone + Mike Trout | Avg HR Score: 63.7
+- Dominic Canzone + Mike Trout | Avg HR Score: 63.6
+- Mike Trout + Riley Greene | Avg HR Score: 62.6
+- Riley Greene + Nick Kurtz | Avg HR Score: 61.9
+- Nick Kurtz + Shohei Ohtani | Avg HR Score: 61.4
+- Shohei Ohtani + Jake Bauers | Avg HR Score: 61.1
 
 ## Best 3-Leg Pairings
 
-- John Rave + Yordan Alvarez + Jac Caglianone | Avg HR Score: 69.1
-- Yordan Alvarez + Jac Caglianone + Carter Jensen | Avg HR Score: 66.9
-- Jac Caglianone + Carter Jensen + Dominic Canzone | Avg HR Score: 65.6
-- Carter Jensen + Dominic Canzone + Mike Trout | Avg HR Score: 64.0
 - Dominic Canzone + Mike Trout + Riley Greene | Avg HR Score: 63.2
+- Mike Trout + Riley Greene + Nick Kurtz | Avg HR Score: 62.2
+- Riley Greene + Nick Kurtz + Shohei Ohtani | Avg HR Score: 61.7
+- Nick Kurtz + Shohei Ohtani + Jake Bauers | Avg HR Score: 61.2
+- Shohei Ohtani + Jake Bauers + Manny Machado | Avg HR Score: 61.1
 
 ## Best 4-Leg Pairings
 
-- John Rave + Yordan Alvarez + Jac Caglianone + Carter Jensen | Avg HR Score: 68.0
-- Yordan Alvarez + Jac Caglianone + Carter Jensen + Dominic Canzone | Avg HR Score: 66.3
-- Jac Caglianone + Carter Jensen + Dominic Canzone + Mike Trout | Avg HR Score: 65.0
-- Carter Jensen + Dominic Canzone + Mike Trout + Riley Greene | Avg HR Score: 63.5
 - Dominic Canzone + Mike Trout + Riley Greene + Nick Kurtz | Avg HR Score: 62.8
+- Mike Trout + Riley Greene + Nick Kurtz + Shohei Ohtani | Avg HR Score: 62.0
+- Riley Greene + Nick Kurtz + Shohei Ohtani + Jake Bauers | Avg HR Score: 61.5
+- Nick Kurtz + Shohei Ohtani + Jake Bauers + Manny Machado | Avg HR Score: 61.2
+- Shohei Ohtani + Jake Bauers + Manny Machado + Dillon Dingler | Avg HR Score: 60.8

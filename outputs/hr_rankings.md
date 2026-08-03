@@ -8,11 +8,11 @@
 | 4 | Ben Rice | NYY | Michael McGreevy | 2 | 68.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 5 | Shohei Ohtani | LAD | Matthew Boyd | 1 | 66.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 6 | Luis García Jr. | NYY | Michael McGreevy | 3 | 66.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 7 | Osleivis Basabe | SF | Cal Quantrill | 9 | 62.6 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel |
+| 7 | Osleivis Basabe | SF | Cal Quantrill | 8 | 63.7 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel |
 | 8 | Bryce Eldridge | SF | Cal Quantrill | 1 | 62.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 9 | Kyle Schwarber | PHI | Andrew Alvarez | 2 | 61.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot |
 | 10 | Trent Grisham | NYY | Michael McGreevy | 1 | 61.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 11 | Rafael Devers | SF | Cal Quantrill | 4 | 59.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Rafael Devers | SF | Cal Quantrill | 3 | 59.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 12 | Alec Burleson | STL | Cam Schlittler | 3 | 58.9 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 13 | Junior Caminero | TB | Michael Lorenzen | 3 | 58.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 | 14 | Abimelec Ortiz | WSH | Aaron Nola | 6 | 58.2 | Longshot | Watch List | Projected Lineup, Good Environment, Platoon Edge |
@@ -37,12 +37,12 @@
 - Yordan Alvarez + James Wood + Ben Rice | Avg HR Score: 69.7
 - James Wood + Ben Rice + Shohei Ohtani | Avg HR Score: 68.1
 - Ben Rice + Shohei Ohtani + Luis García Jr. | Avg HR Score: 66.8
-- Shohei Ohtani + Luis García Jr. + Osleivis Basabe | Avg HR Score: 65.0
+- Shohei Ohtani + Luis García Jr. + Osleivis Basabe | Avg HR Score: 65.3
 
 ## Best 4-Leg Pairings
 
 - Spencer Jones + Yordan Alvarez + James Wood + Ben Rice | Avg HR Score: 70.0
 - Yordan Alvarez + James Wood + Ben Rice + Shohei Ohtani | Avg HR Score: 68.8
 - James Wood + Ben Rice + Shohei Ohtani + Luis García Jr. | Avg HR Score: 67.6
-- Ben Rice + Shohei Ohtani + Luis García Jr. + Osleivis Basabe | Avg HR Score: 65.8
-- Shohei Ohtani + Luis García Jr. + Osleivis Basabe + Bryce Eldridge | Avg HR Score: 64.3
+- Ben Rice + Shohei Ohtani + Luis García Jr. + Osleivis Basabe | Avg HR Score: 66.0
+- Shohei Ohtani + Luis García Jr. + Osleivis Basabe + Bryce Eldridge | Avg HR Score: 64.5

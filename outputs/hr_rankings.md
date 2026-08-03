@@ -3,46 +3,46 @@
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
 | 1 | Yordan Alvarez | HOU | Shane Bieber | 2 | 71.0 | Tier 2 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 2 | James Wood | WSH | Aaron Nola | 1 | 64.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Spencer Jones | NYY | Michael McGreevy | 5 | 63.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 4 | Shohei Ohtani | LAD | Matthew Boyd | 1 | 62.3 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 5 | Ben Rice | NYY | Michael McGreevy | 2 | 61.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 6 | Osleivis Basabe | SF |  | 9 | 59.5 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel |
-| 7 | Luis Garcia | NYY | Michael McGreevy | 4 | 59.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 8 | Junior Caminero | TB | Michael Lorenzen | 3 | 58.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 9 | Hunter Goodman | COL | Ian Seymour | 4 | 57.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Bryce Eldridge | SF |  | 1 | 56.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 11 | Jonathan Aranda | TB | Michael Lorenzen | 2 | 56.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Esmerlyn Valdez | PIT | Brandon Sproat | 4 | 56.2 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 13 | Jake Bauers | MIL | Bubba Chandler | 5 | 55.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 14 | Brandon Lowe | PIT | Brandon Sproat | 2 | 54.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 15 | Kyle Schwarber | PHI | Andrew Alvarez | 3 | 54.6 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 16 | Trent Grisham | NYY | Michael McGreevy | 1 | 54.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Christian Walker | HOU | Shane Bieber | 4 | 53.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 18 | Jackson Merrill | SD | Brandon Pfaadt | 5 | 53.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 19 | Rafael Devers | SF |  | 4 | 53.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 20 | Corey Seager | TEX | Logan Webb | 3 | 52.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | James Wood | WSH | Aaron Nola | 1 | 70.0 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 3 | Spencer Jones | NYY | Michael McGreevy | 5 | 69.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Good Environment, Platoon Edge, Hot Hitter/Streak |
+| 4 | Ben Rice | NYY | Michael McGreevy | 2 | 67.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 5 | Luis Garcia | NYY | Michael McGreevy | 4 | 65.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 6 | Shohei Ohtani | LAD | Matthew Boyd | 1 | 62.3 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 7 | Kyle Schwarber | PHI | Andrew Alvarez | 2 | 61.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot |
+| 8 | Trent Grisham | NYY | Michael McGreevy | 1 | 60.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 9 | Osleivis Basabe | SF |  | 9 | 59.5 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel |
+| 10 | Alec Burleson | STL | Cam Schlittler | 3 | 58.9 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 11 | Junior Caminero | TB | Michael Lorenzen | 3 | 58.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 12 | Abimelec Ortiz | WSH | Aaron Nola | 6 | 58.2 | Longshot | Watch List | Projected Lineup, Good Environment, Platoon Edge |
+| 13 | Jordan Walker | STL | Cam Schlittler | 2 | 58.0 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 14 | Hunter Goodman | COL | Ian Seymour | 4 | 57.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 15 | CJ Abrams | WSH | Aaron Nola | 4 | 57.5 | Longshot | Watch List | Projected Lineup, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 16 | Ryan McMahon | NYY | Michael McGreevy | 7 | 57.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Good Environment, Platoon Edge |
+| 17 | Jazz Chisholm | NYY | Michael McGreevy | 6 | 56.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Good Environment, Platoon Edge |
+| 18 | Daylen Lile | WSH | Aaron Nola | 2 | 56.8 | Longshot | Watch List | Projected Lineup, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 19 | Dylan Crews | WSH | Aaron Nola | 3 | 56.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Good Environment, Premium Lineup Spot |
+| 20 | Bryce Eldridge | SF |  | 1 | 56.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
-- Yordan Alvarez + James Wood | Avg HR Score: 67.7
-- James Wood + Spencer Jones | Avg HR Score: 63.9
-- Spencer Jones + Shohei Ohtani | Avg HR Score: 62.8
-- Shohei Ohtani + Ben Rice | Avg HR Score: 61.9
-- Ben Rice + Osleivis Basabe | Avg HR Score: 60.5
+- Yordan Alvarez + James Wood | Avg HR Score: 70.5
+- James Wood + Spencer Jones | Avg HR Score: 69.6
+- Spencer Jones + Ben Rice | Avg HR Score: 68.3
+- Ben Rice + Luis Garcia | Avg HR Score: 66.3
+- Luis Garcia + Shohei Ohtani | Avg HR Score: 63.8
 
 ## Best 3-Leg Pairings
 
-- Yordan Alvarez + James Wood + Spencer Jones | Avg HR Score: 66.2
-- James Wood + Spencer Jones + Shohei Ohtani | Avg HR Score: 63.3
-- Spencer Jones + Shohei Ohtani + Ben Rice | Avg HR Score: 62.4
-- Shohei Ohtani + Ben Rice + Osleivis Basabe | Avg HR Score: 61.1
-- Ben Rice + Osleivis Basabe + Luis Garcia | Avg HR Score: 60.1
+- Yordan Alvarez + James Wood + Spencer Jones | Avg HR Score: 70.1
+- James Wood + Spencer Jones + Ben Rice | Avg HR Score: 68.9
+- Spencer Jones + Ben Rice + Luis Garcia | Avg HR Score: 67.3
+- Ben Rice + Luis Garcia + Shohei Ohtani | Avg HR Score: 65.0
+- Luis Garcia + Shohei Ohtani + Kyle Schwarber | Avg HR Score: 62.9
 
 ## Best 4-Leg Pairings
 
-- Yordan Alvarez + James Wood + Spencer Jones + Shohei Ohtani | Avg HR Score: 65.2
-- James Wood + Spencer Jones + Shohei Ohtani + Ben Rice | Avg HR Score: 62.9
-- Spencer Jones + Shohei Ohtani + Ben Rice + Osleivis Basabe | Avg HR Score: 61.6
-- Shohei Ohtani + Ben Rice + Osleivis Basabe + Luis Garcia | Avg HR Score: 60.6
-- Ben Rice + Osleivis Basabe + Luis Garcia + Junior Caminero | Avg HR Score: 59.7
+- Yordan Alvarez + James Wood + Spencer Jones + Ben Rice | Avg HR Score: 69.4
+- James Wood + Spencer Jones + Ben Rice + Luis Garcia | Avg HR Score: 68.0
+- Spencer Jones + Ben Rice + Luis Garcia + Shohei Ohtani | Avg HR Score: 66.0
+- Ben Rice + Luis Garcia + Shohei Ohtani + Kyle Schwarber | Avg HR Score: 64.0
+- Luis Garcia + Shohei Ohtani + Kyle Schwarber + Trent Grisham | Avg HR Score: 62.2

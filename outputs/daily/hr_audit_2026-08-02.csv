@@ -1,0 +1,31 @@
+date,game,player,team,opponent,hr_count,innings,event,description,appeared_in_rankings,rank,hr_score,tier,top_20,top_10
+2026-08-02,AZ@CLE,Patrick Bailey,CLE,AZ,1,3,Home Run,Patrick Bailey homers (6) on a fly ball to center field.,Yes,136,47.8,Longshot,No,No
+2026-08-02,BOS@LAD,Ceddanne Rafaela,BOS,LAD,1,3,Home Run,Ceddanne Rafaela homers (15) on a fly ball to left center field.,Yes,84,52.4,Longshot,No,No
+2026-08-02,BOS@LAD,Jarren Duran,BOS,LAD,1,6,Home Run,Jarren Duran homers (14) on a fly ball to center field.,Yes,116,49.6,Longshot,No,No
+2026-08-02,BOS@LAD,Masataka Yoshida,BOS,LAD,1,3,Home Run,Masataka Yoshida homers (5) on a fly ball to right field.,Yes,125,48.8,Longshot,No,No
+2026-08-02,BOS@LAD,Wilyer Abreu,BOS,LAD,1,3,Home Run,Wilyer Abreu homers (17) on a fly ball to right center field.,Yes,24,60.0,Tier 3,No,No
+2026-08-02,CWS@TB,Andrew Benintendi,CWS,TB,1,4,Home Run,Andrew Benintendi homers (12) on a fly ball to right center field.,Yes,90,51.9,Longshot,No,No
+2026-08-02,CWS@TB,Ben Williamson,TB,CWS,1,9,Home Run,Ben Williamson homers (3) on a line drive to left field.,Yes,237,36.2,Longshot,No,No
+2026-08-02,CWS@TB,Everson Pereira,CWS,TB,1,9,Home Run,Everson Pereira homers (4) on a fly ball to center field. Chase Meidroth scores.,Yes,203,40.7,Longshot,No,No
+2026-08-02,CWS@TB,Miguel Vargas,CWS,TB,1,9,Home Run,Miguel Vargas homers (24) on a fly ball to left center field. Luisangel Acuña scores.,Yes,64,54.2,Longshot,No,No
+2026-08-02,DET@ATH,James Outman,DET,ATH,1,9,Home Run,James Outman homers (5) on a fly ball to center field.,No,,,,No,No
+2026-08-02,KC@COL,Jake McCarthy,COL,KC,1,6,Home Run,Jake McCarthy homers (11) on a fly ball to right field. Edouard Julien scores. Brett Sullivan scores.,Yes,110,50.3,Longshot,No,No
+2026-08-02,MIA@NYM,Joe Mack,MIA,NYM,1,5,Home Run,Joe Mack homers (11) on a fly ball to center field.,Yes,19,61.0,Tier 3,Yes,No
+2026-08-02,MIL@LAA,Wade Meckler,LAA,MIL,1,2,Home Run,Wade Meckler homers (3) on a fly ball to right center field. Vaughn Grissom scores.,Yes,236,36.3,Longshot,No,No
+2026-08-02,MIN@SEA,Cal Raleigh,SEA,MIN,1,7,Home Run,Cal Raleigh homers (12) on a fly ball to left center field. Dominic Canzone scores. Julio Rodríguez scores.,Yes,76,53.3,Longshot,No,No
+2026-08-02,MIN@SEA,Luke Keaschall,MIN,SEA,1,9,Home Run,Luke Keaschall homers (6) on a fly ball to right center field.,Yes,256,33.7,Longshot,No,No
+2026-08-02,MIN@SEA,Royce Lewis,MIN,SEA,1,8,Home Run,Royce Lewis homers (12) on a fly ball to center field. Josh Bell scores. Kody Clemens scores.,Yes,121,49.2,Longshot,No,No
+2026-08-02,MIN@SEA,Trevor Larnach,MIN,SEA,1,8,Home Run,Trevor Larnach homers (10) on a fly ball to right field. Ryan Kreidler scores.,Yes,137,47.8,Longshot,No,No
+2026-08-02,NYY@CHC,José Caballero,NYY,CHC,1,3,Home Run,José Caballero homers (11) on a fly ball to center field. Ryan McMahon scores.,Yes,243,35.9,Longshot,No,No
+2026-08-02,PHI@BAL,Bryan De La Cruz,PHI,BAL,1,3,Home Run,Bryan De La Cruz homers (2) on a fly ball to center field. Justin Crawford scores.,Yes,214,39.7,Longshot,No,No
+2026-08-02,PHI@BAL,Bryce Harper,PHI,BAL,1,5,Home Run,Bryce Harper homers (23) on a fly ball to right center field.,Yes,36,57.8,Longshot,No,No
+2026-08-02,PIT@CIN,Ke'Bryan Hayes,CIN,PIT,1,2,Home Run,Ke'Bryan Hayes homers (4) on a fly ball to center field.,Yes,211,40.0,Longshot,No,No
+2026-08-02,PIT@CIN,Sal Stewart,CIN,PIT,1,1,Home Run,Sal Stewart homers (24) on a fly ball to left field.,Yes,23,60.3,Tier 3,No,No
+2026-08-02,PIT@CIN,Tyler Stephenson,CIN,PIT,1,8,Home Run,Tyler Stephenson homers (9) on a fly ball to right field.,Yes,79,52.9,Longshot,No,No
+2026-08-02,SF@SD,Jackson Merrill,SD,SF,1,2,Home Run,Jackson Merrill homers (16) on a fly ball to center field. Ty France scores.,Yes,111,50.0,Longshot,No,No
+2026-08-02,SF@SD,Osleivis Basabe,SF,SD,1,5,Home Run,Osleivis Basabe homers (2) on a fly ball to center field.,Yes,28,59.5,Longshot,No,No
+2026-08-02,SF@SD,Rafael Devers,SF,SD,1,8,Home Run,Rafael Devers homers (23) on a fly ball to left field.,Yes,88,52.0,Longshot,No,No
+2026-08-02,TEX@HOU,Brandon Nimmo,TEX,HOU,1,7,Home Run,Brandon Nimmo homers (11) on a fly ball to right field.,Yes,86,52.2,Longshot,No,No
+2026-08-02,TEX@HOU,Jeremy Peña,HOU,TEX,1,4,Home Run,Jeremy Peña homers (13) on a line drive to left field. Cam Smith scores.,Yes,109,50.3,Longshot,No,No
+2026-08-02,WSH@ATL,Matt Olson,ATL,WSH,1,4,Home Run,Matt Olson homers (31) on a fly ball to right field.,Yes,17,62.6,Tier 3,Yes,No
+2026-08-02,WSH@ATL,Mike Yastrzemski,ATL,WSH,1,3,Home Run,Mike Yastrzemski homers (8) on a fly ball to right center field.,Yes,149,47.2,Longshot,No,No

@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Shohei Ohtani | LAD | Javier Assad | 1 | 70.5 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 2 | Osleivis Basabe | SF | MacKenzie Gore | 1 | 67.7 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Yordan Alvarez | HOU | Trey Yesavage | 2 | 66.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 4 | Jac Caglianone | KC | Joe Ryan | 3 | 63.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 5 | Corbin Carroll | AZ | Randy Vásquez | 1 | 62.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 6 | Max Muncy | LAD | Javier Assad | 4 | 60.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 7 | Bobby Witt Jr. | KC | Joe Ryan | 2 | 59.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 8 | Carter Jensen | KC | Joe Ryan | 1 | 59.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Riley Greene | DET | Emerson Hancock | 4 | 58.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | John Rave | KC | Joe Ryan | 8 | 58.5 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 11 | Ketel Marte | AZ | Randy Vásquez | 4 | 58.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Mickey Moniak | COL | Freddy Peralta | 3 | 57.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Dominic Canzone | SEA | Troy Melton | 3 | 57.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Hunter Goodman | COL | Freddy Peralta | 4 | 57.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 15 | Esmerlyn Valdez | PIT | Logan Henderson | 4 | 57.0 | Longshot | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
-| 16 | Max Kepler | AZ | Randy Vásquez | 3 | 56.9 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 17 | Freddie Freeman | LAD | Javier Assad | 3 | 56.7 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 18 | Rafael Devers | SF | MacKenzie Gore | 4 | 56.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 19 | Kody Clemens | MIN | Randy Dobnak | 4 | 56.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Salvador Perez | KC | Joe Ryan | 4 | 56.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 1 | Corbin Carroll | AZ | Randy Vásquez | 1 | 63.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Riley Greene | DET | Emerson Hancock | 4 | 60.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 3 | Dominic Canzone | SEA | Troy Melton | 3 | 59.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Ketel Marte | AZ | Randy Vásquez | 4 | 59.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 5 | Max Kepler | AZ | Randy Vásquez | 3 | 57.4 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 6 | Lars Nootbaar | AZ | Randy Vásquez | 6 | 56.2 | Longshot | Watch List | Platoon Edge |
+| 7 | Fernando Tatis Jr. | SD | Eduardo Rodriguez | 1 | 55.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 8 | Manny Machado | SD | Eduardo Rodriguez | 3 | 54.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | Dillon Dingler | DET | Emerson Hancock | 3 | 54.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 10 | Ty France | SD | Eduardo Rodriguez | 4 | 54.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Kevin McGonigle | DET | Emerson Hancock | 1 | 54.4 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 12 | Spencer Torkelson | DET | Emerson Hancock | 6 | 54.2 | Longshot | Watch List | Strong Barrel |
+| 13 | Cal Raleigh | SEA | Troy Melton | 6 | 53.0 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 14 | Colt Keith | DET | Emerson Hancock | 5 | 52.8 | Longshot | Watch List | Platoon Edge |
+| 15 | Jackson Merrill | SD | Eduardo Rodriguez | 5 | 52.0 | Longshot | Watch List | Strong Barrel |
+| 16 | Max Clark | DET | Emerson Hancock | 7 | 51.3 | Longshot | Watch List | Platoon Edge |
+| 17 | Julio Rodríguez | SEA | Troy Melton | 4 | 50.6 | Longshot | Watch List | Premium Lineup Spot |
+| 18 | Randy Arozarena | SEA | Troy Melton | 2 | 50.5 | Longshot | Watch List | Premium Lineup Spot |
+| 19 | James McCann | AZ | Randy Vásquez | 8 | 50.4 | Longshot | Watch List | Hot Hitter/Streak |
+| 20 | Geraldo Perdomo | AZ | Randy Vásquez | 2 | 50.1 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Shohei Ohtani + Osleivis Basabe | Avg HR Score: 69.1
-- Osleivis Basabe + Yordan Alvarez | Avg HR Score: 67.0
-- Yordan Alvarez + Jac Caglianone | Avg HR Score: 65.0
-- Jac Caglianone + Corbin Carroll | Avg HR Score: 63.1
-- Corbin Carroll + Max Muncy | Avg HR Score: 61.2
+- Corbin Carroll + Riley Greene | Avg HR Score: 61.8
+- Riley Greene + Dominic Canzone | Avg HR Score: 59.9
+- Dominic Canzone + Ketel Marte | Avg HR Score: 59.1
+- Ketel Marte + Max Kepler | Avg HR Score: 58.2
+- Max Kepler + Lars Nootbaar | Avg HR Score: 56.8
 
 ## Best 3-Leg Pairings
 
-- Shohei Ohtani + Osleivis Basabe + Yordan Alvarez | Avg HR Score: 68.1
-- Osleivis Basabe + Yordan Alvarez + Jac Caglianone | Avg HR Score: 65.9
-- Yordan Alvarez + Jac Caglianone + Corbin Carroll | Avg HR Score: 64.1
-- Jac Caglianone + Corbin Carroll + Max Muncy | Avg HR Score: 62.1
-- Corbin Carroll + Max Muncy + Bobby Witt Jr. | Avg HR Score: 60.8
+- Corbin Carroll + Riley Greene + Dominic Canzone | Avg HR Score: 60.9
+- Riley Greene + Dominic Canzone + Ketel Marte | Avg HR Score: 59.6
+- Dominic Canzone + Ketel Marte + Max Kepler | Avg HR Score: 58.6
+- Ketel Marte + Max Kepler + Lars Nootbaar | Avg HR Score: 57.5
+- Max Kepler + Lars Nootbaar + Fernando Tatis Jr. | Avg HR Score: 56.2
 
 ## Best 4-Leg Pairings
 
-- Shohei Ohtani + Osleivis Basabe + Yordan Alvarez + Jac Caglianone | Avg HR Score: 67.0
-- Osleivis Basabe + Yordan Alvarez + Jac Caglianone + Corbin Carroll | Avg HR Score: 65.0
-- Yordan Alvarez + Jac Caglianone + Corbin Carroll + Max Muncy | Avg HR Score: 63.1
-- Jac Caglianone + Corbin Carroll + Max Muncy + Bobby Witt Jr. | Avg HR Score: 61.5
-- Corbin Carroll + Max Muncy + Bobby Witt Jr. + Carter Jensen | Avg HR Score: 60.5
+- Corbin Carroll + Riley Greene + Dominic Canzone + Ketel Marte | Avg HR Score: 60.5
+- Riley Greene + Dominic Canzone + Ketel Marte + Max Kepler | Avg HR Score: 59.0
+- Dominic Canzone + Ketel Marte + Max Kepler + Lars Nootbaar | Avg HR Score: 58.0
+- Ketel Marte + Max Kepler + Lars Nootbaar + Fernando Tatis Jr. | Avg HR Score: 56.9
+- Max Kepler + Lars Nootbaar + Fernando Tatis Jr. + Manny Machado | Avg HR Score: 55.9

@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Yordan Alvarez | HOU | Jameson Taillon | 2 | 72.4 | Tier 2 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 2 | Kyle Schwarber | PHI | Jake Irvin | 1 | 66.9 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Junior Caminero | TB | Tomoyuki Sugano | 3 | 66.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Hot Hitter/Streak |
-| 4 | Shohei Ohtani | LAD | Shota Imanaga | 1 | 64.7 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 5 | Munetaka Murakami | CWS | Sonny Gray | 2 | 64.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 6 | Osleivis Basabe | SF | Cody Bradford | 1 | 64.0 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 7 | Bryce Harper | PHI | Jake Irvin | 3 | 62.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 8 | Jonathan Aranda | TB | Tomoyuki Sugano | 2 | 62.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 9 | Matt Olson | ATL | Eury Pérez | 3 | 62.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 10 | Corey Seager | TEX | Carson Whisenhunt | 3 | 59.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 11 | Pete Alonso | BAL | Reid Detmers | 2 | 59.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Griffin Conine | MIA | Bryce Elder | 2 | 58.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Kyle Stowers | MIA | Bryce Elder | 1 | 58.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 14 | Esmerlyn Valdez | PIT | Kyle Harrison | 4 | 57.6 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Brandon Nimmo | TEX | Carson Whisenhunt | 4 | 57.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 16 | Jac Caglianone | KC | Dean Kremer | 3 | 57.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Wyatt Langford | TEX | Carson Whisenhunt | 2 | 56.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Victor Mesa | TB | Tomoyuki Sugano | 5 | 56.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Platoon Edge |
-| 19 | Seiya Suzuki | CHC | Eric Lauer | 2 | 56.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Yandy Diaz | TB | Tomoyuki Sugano | 1 | 56.1 | Longshot | Watch List | Projected Lineup, Pitcher Vulnerable, Premium Lineup Spot |
+| 1 | Abimelec Ortiz | WSH | Andrew Painter | 2 | 76.1 | Tier 2 | Best Overall | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 2 | Kyle Schwarber | PHI | Jake Irvin | 1 | 72.9 | Tier 2 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 3 | Munetaka Murakami | CWS | Sonny Gray | 2 | 70.8 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Bryce Harper | PHI | Jake Irvin | 3 | 68.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 5 | Matt Olson | ATL | Eury Pérez | 3 | 64.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 6 | Pete Alonso | BAL | Reid Detmers | 2 | 63.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 7 | Alec Burleson | STL | Will Warren | 3 | 63.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 8 | Wilyer Abreu | BOS | Sean Burke | 3 | 62.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 9 | Kyle Stowers | MIA | Bryce Elder | 2 | 61.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 10 | Mike Trout | LAA | Trevor Rogers | 2 | 60.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Sal Stewart | CIN | Jacob Lopez | 2 | 60.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 12 | Willson Contreras | BOS | Sean Burke | 4 | 60.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 13 | Griffin Conine | MIA | Bryce Elder | 4 | 60.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Jac Caglianone | KC | Dean Kremer | 3 | 59.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 15 | Spencer Jones | NYY | Andre Pallante | 5 | 59.4 | Longshot | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 16 | Esmerlyn Valdez | PIT | Kyle Harrison | 4 | 59.3 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Trea Turner | PHI | Jake Irvin | 2 | 59.0 | Longshot | Watch List | Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
+| 18 | Ben Rice | NYY | Andre Pallante | 2 | 58.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Brandon Marsh | PHI | Jake Irvin | 6 | 58.3 | Longshot | Watch List | Good Environment, Platoon Edge |
+| 20 | Ronald Acuña Jr. | ATL | Eury Pérez | 2 | 58.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
-- Yordan Alvarez + Kyle Schwarber | Avg HR Score: 69.7
-- Kyle Schwarber + Junior Caminero | Avg HR Score: 66.7
-- Junior Caminero + Shohei Ohtani | Avg HR Score: 65.6
-- Shohei Ohtani + Munetaka Murakami | Avg HR Score: 64.6
-- Munetaka Murakami + Osleivis Basabe | Avg HR Score: 64.2
+- Abimelec Ortiz + Kyle Schwarber | Avg HR Score: 74.5
+- Kyle Schwarber + Munetaka Murakami | Avg HR Score: 71.8
+- Munetaka Murakami + Bryce Harper | Avg HR Score: 69.8
+- Bryce Harper + Matt Olson | Avg HR Score: 66.5
+- Matt Olson + Pete Alonso | Avg HR Score: 64.1
 
 ## Best 3-Leg Pairings
 
-- Yordan Alvarez + Kyle Schwarber + Junior Caminero | Avg HR Score: 68.6
-- Kyle Schwarber + Junior Caminero + Shohei Ohtani | Avg HR Score: 66.0
-- Junior Caminero + Shohei Ohtani + Munetaka Murakami | Avg HR Score: 65.2
-- Shohei Ohtani + Munetaka Murakami + Osleivis Basabe | Avg HR Score: 64.4
-- Munetaka Murakami + Osleivis Basabe + Bryce Harper | Avg HR Score: 63.6
+- Abimelec Ortiz + Kyle Schwarber + Munetaka Murakami | Avg HR Score: 73.3
+- Kyle Schwarber + Munetaka Murakami + Bryce Harper | Avg HR Score: 70.8
+- Munetaka Murakami + Bryce Harper + Matt Olson | Avg HR Score: 67.9
+- Bryce Harper + Matt Olson + Pete Alonso | Avg HR Score: 65.6
+- Matt Olson + Pete Alonso + Alec Burleson | Avg HR Score: 64.0
 
 ## Best 4-Leg Pairings
 
-- Yordan Alvarez + Kyle Schwarber + Junior Caminero + Shohei Ohtani | Avg HR Score: 67.6
-- Kyle Schwarber + Junior Caminero + Shohei Ohtani + Munetaka Murakami | Avg HR Score: 65.6
-- Junior Caminero + Shohei Ohtani + Munetaka Murakami + Osleivis Basabe | Avg HR Score: 64.9
-- Shohei Ohtani + Munetaka Murakami + Osleivis Basabe + Bryce Harper | Avg HR Score: 63.9
-- Munetaka Murakami + Osleivis Basabe + Bryce Harper + Jonathan Aranda | Avg HR Score: 63.3
+- Abimelec Ortiz + Kyle Schwarber + Munetaka Murakami + Bryce Harper | Avg HR Score: 72.1
+- Kyle Schwarber + Munetaka Murakami + Bryce Harper + Matt Olson | Avg HR Score: 69.2
+- Munetaka Murakami + Bryce Harper + Matt Olson + Pete Alonso | Avg HR Score: 66.9
+- Bryce Harper + Matt Olson + Pete Alonso + Alec Burleson | Avg HR Score: 65.2
+- Matt Olson + Pete Alonso + Alec Burleson + Wilyer Abreu | Avg HR Score: 63.6

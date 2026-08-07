@@ -10,18 +10,18 @@
 | 6 | Esmerlyn Valdez | PIT | Zac Thornton | 4 | 60.1 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 7 | Kyle Schwarber | PHI | José Soriano | 1 | 58.7 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 8 | Junior Caminero | TB | Logan Gilbert | 3 | 58.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 9 | Alec Burleson | STL | Ryan Feltner | 3 | 57.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 10 | Freddie Freeman | LAD | Merrill Kelly | 3 | 57.2 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
-| 11 | Pete Alonso | BAL | Nathan Eovaldi | 2 | 56.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 12 | Ben Rice | NYY | Tyler Mahle | 2 | 56.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Mickey Moniak | COL | Kyle Leahy | 3 | 56.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Wilyer Abreu | BOS | Jack Perkins | 3 | 55.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 15 | Jackson Chourio | MIL | Zebby Matthews | 2 | 55.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 16 | Bryce Eldridge | SF | Keider Montero | 1 | 55.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Owen Caissie | MIA | George Klassen | 6 | 55.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Platoon Edge |
-| 18 | Heriberto Hernandez | MIA | George Klassen | 5 | 55.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable |
-| 19 | Corey Seager | TEX | Shane Baz | 3 | 55.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Hunter Goodman | COL | Kyle Leahy | 4 | 55.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 9 | Abimelec Ortiz | WSH | Chase Petty | 2 | 57.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Alec Burleson | STL | Ryan Feltner | 3 | 57.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 11 | Freddie Freeman | LAD | Merrill Kelly | 3 | 57.2 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 12 | Pete Alonso | BAL | Nathan Eovaldi | 2 | 56.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 13 | Ben Rice | NYY | Tyler Mahle | 2 | 56.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Mickey Moniak | COL | Kyle Leahy | 3 | 56.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 15 | Wilyer Abreu | BOS | Jack Perkins | 3 | 55.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 16 | Jackson Chourio | MIL | Zebby Matthews | 2 | 55.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 17 | Bryce Eldridge | SF | Keider Montero | 1 | 55.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Owen Caissie | MIA | George Klassen | 6 | 55.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable, Platoon Edge |
+| 19 | Heriberto Hernandez | MIA | George Klassen | 5 | 55.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Pitcher Vulnerable |
+| 20 | Corey Seager | TEX | Shane Baz | 3 | 55.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 

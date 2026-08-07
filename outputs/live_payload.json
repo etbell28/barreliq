@@ -1,7 +1,7 @@
 {
   "date": "Friday, August 7, 2026",
-  "generated_at": "10:28 AM EDT",
-  "generated_iso": "2026-08-07T10:28:11-04:00",
+  "generated_at": "11:27 AM EDT",
+  "generated_iso": "2026-08-07T11:27:34-04:00",
   "slate_projection": 261,
   "games_count": 15,
   "confirmed_count": 0,
@@ -10,7 +10,7 @@
   "projected_top20": [
     {
       "rank": 1,
-      "hitter_id": 660271,
+      "hitter_id": 660271.0,
       "player": "Shohei Ohtani",
       "team": "LAD",
       "opponent": "AZ",
@@ -41,10 +41,10 @@
       "bvp_pa": null,
       "bvp_hr": null,
       "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
-      "recent_games": 7,
-      "recent_hits": 12,
-      "recent_abs": 27,
-      "recent_hr": 3,
+      "recent_games": 7.0,
+      "recent_hits": 12.0,
+      "recent_abs": 27.0,
+      "recent_hr": 3.0,
       "recent_form_note": "Hot streak: 3 HR in last 7 games",
       "split_matchup_note": "platoon edge; pitcher baseline 12.0% barrel, 23.0 HR allowed",
       "pitch_mix_note": "lift-pull EV profile; pitcher fly-ball pressure modest",
@@ -90,7 +90,7 @@
     },
     {
       "rank": 2,
-      "hitter_id": 669065,
+      "hitter_id": 669065.0,
       "player": "Kyle Stowers",
       "team": "MIA",
       "opponent": "LAA",
@@ -121,10 +121,10 @@
       "bvp_pa": null,
       "bvp_hr": null,
       "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
-      "recent_games": 7,
-      "recent_hits": 6,
-      "recent_abs": 26,
-      "recent_hr": 2,
+      "recent_games": 7.0,
+      "recent_hits": 6.0,
+      "recent_abs": 26.0,
+      "recent_hr": 2.0,
       "recent_form_note": "Hot streak: 2 HR in last 7 games",
       "split_matchup_note": "platoon edge; pitcher baseline 25.0% barrel, 1.0 HR allowed",
       "pitch_mix_note": "neutral batted-ball profile; pitcher fly-ball pressure modest",
@@ -166,7 +166,7 @@
     },
     {
       "rank": 3,
-      "hitter_id": 670541,
+      "hitter_id": 670541.0,
       "player": "Yordan Alvarez",
       "team": "HOU",
       "opponent": "SD",
@@ -197,10 +197,10 @@
       "bvp_pa": null,
       "bvp_hr": null,
       "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
-      "recent_games": 7,
-      "recent_hits": 10,
-      "recent_abs": 26,
-      "recent_hr": 0,
+      "recent_games": 7.0,
+      "recent_hits": 10.0,
+      "recent_abs": 26.0,
+      "recent_hr": 0.0,
       "recent_form_note": "Contact streak: 10/26 over last 7 games",
       "split_matchup_note": "same-side matchup; pitcher baseline 8.8% barrel, 17.1 HR allowed",
       "pitch_mix_note": "lift-pull EV profile; pitcher allows elevated contact",
@@ -242,7 +242,7 @@
     },
     {
       "rank": 4,
-      "hitter_id": 665052,
+      "hitter_id": 665052.0,
       "player": "Griffin Conine",
       "team": "MIA",
       "opponent": "LAA",
@@ -273,10 +273,10 @@
       "bvp_pa": null,
       "bvp_hr": null,
       "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
-      "recent_games": 7,
-      "recent_hits": 4,
-      "recent_abs": 24,
-      "recent_hr": 1,
+      "recent_games": 7.0,
+      "recent_hits": 4.0,
+      "recent_abs": 24.0,
+      "recent_hr": 1.0,
       "recent_form_note": "Last 7 games: 4/24, 1 HR",
       "split_matchup_note": "platoon edge; pitcher baseline 25.0% barrel, 1.0 HR allowed",
       "pitch_mix_note": "neutral batted-ball profile; pitcher fly-ball pressure modest",
@@ -318,7 +318,7 @@
     },
     {
       "rank": 5,
-      "hitter_id": 571970,
+      "hitter_id": 571970.0,
       "player": "Max Muncy",
       "team": "LAD",
       "opponent": "AZ",
@@ -349,10 +349,10 @@
       "bvp_pa": null,
       "bvp_hr": null,
       "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
-      "recent_games": 7,
-      "recent_hits": 5,
-      "recent_abs": 24,
-      "recent_hr": 1,
+      "recent_games": 7.0,
+      "recent_hits": 5.0,
+      "recent_abs": 24.0,
+      "recent_hr": 1.0,
       "recent_form_note": "Last 7 games: 5/24, 1 HR",
       "split_matchup_note": "platoon edge; pitcher baseline 12.0% barrel, 23.0 HR allowed",
       "pitch_mix_note": "fly-ball profile; pitcher fly-ball pressure modest",
@@ -394,7 +394,7 @@
     },
     {
       "rank": 6,
-      "hitter_id": 699013,
+      "hitter_id": 699013.0,
       "player": "Esmerlyn Valdez",
       "team": "PIT",
       "opponent": "NYM",
@@ -425,10 +425,10 @@
       "bvp_pa": null,
       "bvp_hr": null,
       "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
-      "recent_games": 7,
-      "recent_hits": 1,
-      "recent_abs": 20,
-      "recent_hr": 0,
+      "recent_games": 7.0,
+      "recent_hits": 1.0,
+      "recent_abs": 20.0,
+      "recent_hr": 0.0,
       "recent_form_note": "Last 7 games: 1/20, 0 HR",
       "split_matchup_note": "platoon edge; pitcher baseline 10.1% barrel, 3.0 HR allowed",
       "pitch_mix_note": "EV profile; pitcher allows elevated contact",
@@ -468,7 +468,7 @@
     },
     {
       "rank": 7,
-      "hitter_id": 656941,
+      "hitter_id": 656941.0,
       "player": "Kyle Schwarber",
       "team": "PHI",
       "opponent": "TOR",
@@ -499,10 +499,10 @@
       "bvp_pa": null,
       "bvp_hr": null,
       "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
-      "recent_games": 7,
-      "recent_hits": 2,
-      "recent_abs": 22,
-      "recent_hr": 0,
+      "recent_games": 7.0,
+      "recent_hits": 2.0,
+      "recent_abs": 22.0,
+      "recent_hr": 0.0,
       "recent_form_note": "Last 7 games: 2/22, 0 HR",
       "split_matchup_note": "platoon edge; pitcher baseline 7.8% barrel, 12.0 HR allowed",
       "pitch_mix_note": "lift-pull EV profile; pitcher fly-ball pressure modest",
@@ -546,7 +546,7 @@
     },
     {
       "rank": 8,
-      "hitter_id": 691406,
+      "hitter_id": 691406.0,
       "player": "Junior Caminero",
       "team": "TB",
       "opponent": "SEA",
@@ -577,10 +577,10 @@
       "bvp_pa": null,
       "bvp_hr": null,
       "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
-      "recent_games": 7,
-      "recent_hits": 8,
-      "recent_abs": 26,
-      "recent_hr": 4,
+      "recent_games": 7.0,
+      "recent_hits": 8.0,
+      "recent_abs": 26.0,
+      "recent_hr": 4.0,
       "recent_form_note": "Hot streak: 4 HR in last 7 games",
       "split_matchup_note": "same-side matchup; pitcher baseline 9.8% barrel, 17.9 HR allowed",
       "pitch_mix_note": "EV profile; pitcher fly-ball pressure modest",
@@ -622,7 +622,81 @@
     },
     {
       "rank": 9,
-      "hitter_id": 676475,
+      "hitter_id": 694673.0,
+      "player": "Abimelec Ortiz",
+      "team": "WSH",
+      "opponent": "CIN",
+      "game_start_time": "2026-08-07T22:45:00Z",
+      "game_status": "Scheduled",
+      "batting_order": 2,
+      "pitcher": "Chase Petty",
+      "pitcher_id": 695534.0,
+      "pitcher_hand": "R",
+      "hr_score": 57.5,
+      "tier": "Longshot",
+      "play_type": "Watch List",
+      "reason_tags": "Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge",
+      "power_score": 59.1,
+      "pitcher_score": 47.3,
+      "environment_score": 28.2,
+      "lineup_score": 95.5,
+      "platoon_score": 80.0,
+      "recent_form_score": 37.8,
+      "confirmed_lineup": "No",
+      "rotowire_confirmed_lineup": "No",
+      "rotowire_batting_order": 2,
+      "rotowire_player_found": "Yes",
+      "lineup_disagreement": "Yes",
+      "lineup_sources_used": "RotoWire projected lineup; MLB probable pitchers",
+      "source_warnings": "lineup projected / unconfirmed",
+      "stat_years_used": "H:2026 P:2026/2025",
+      "bvp_pa": null,
+      "bvp_hr": null,
+      "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
+      "recent_games": 5.0,
+      "recent_hits": 3.0,
+      "recent_abs": 12.0,
+      "recent_hr": 1.0,
+      "recent_form_note": "Last 5 games: 3/12, 1 HR",
+      "split_matchup_note": "platoon edge; pitcher baseline 9.2% barrel, 4.4 HR allowed",
+      "pitch_mix_note": "fly-ball profile; pitcher fly-ball pressure modest",
+      "barrel_pct": 10.0,
+      "hard_hit_pct": 40.0,
+      "avg_exit_velocity": 90.2,
+      "ev50": 100.2609,
+      "xslg": 0.567,
+      "xiso": 0.29,
+      "xwoba": 0.355,
+      "bat_speed": 75.5,
+      "fast_swing_pct": 62.5,
+      "pull_pct": 60.0,
+      "fb_pct": 50.0,
+      "hr_total": 1.0,
+      "iso": 0.333,
+      "pitcher_barrel_pct_allowed": 9.21,
+      "pitcher_hard_hit_pct_allowed": 37.85,
+      "pitcher_avg_exit_velocity_allowed": 89.03,
+      "pitcher_xslg_allowed": 0.4955,
+      "pitcher_xiso_allowed": 0.203,
+      "pitcher_fb_pct_allowed": 23.77,
+      "wind_direction": null,
+      "weather_temp": null,
+      "ballpark": "Nationals Park",
+      "odds": null,
+      "source_sheet_edge": false,
+      "badges": [
+        "WATCH"
+      ],
+      "badge": "WATCH",
+      "badge_class": "muted",
+      "badge_summary": "WATCH",
+      "badge_classes": [
+        "muted"
+      ]
+    },
+    {
+      "rank": 10,
+      "hitter_id": 676475.0,
       "player": "Alec Burleson",
       "team": "STL",
       "opponent": "COL",
@@ -653,10 +727,10 @@
       "bvp_pa": null,
       "bvp_hr": null,
       "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
-      "recent_games": 7,
-      "recent_hits": 9,
-      "recent_abs": 24,
-      "recent_hr": 3,
+      "recent_games": 7.0,
+      "recent_hits": 9.0,
+      "recent_abs": 24.0,
+      "recent_hr": 3.0,
       "recent_form_note": "Hot streak: 3 HR in last 7 games",
       "split_matchup_note": "platoon edge; pitcher baseline 9.2% barrel, 13.1 HR allowed",
       "pitch_mix_note": "neutral batted-ball profile; pitcher fly-ball pressure modest",
@@ -695,8 +769,8 @@
       ]
     },
     {
-      "rank": 10,
-      "hitter_id": 518692,
+      "rank": 11,
+      "hitter_id": 518692.0,
       "player": "Freddie Freeman",
       "team": "LAD",
       "opponent": "AZ",
@@ -727,10 +801,10 @@
       "bvp_pa": null,
       "bvp_hr": null,
       "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
-      "recent_games": 7,
-      "recent_hits": 11,
-      "recent_abs": 25,
-      "recent_hr": 0,
+      "recent_games": 7.0,
+      "recent_hits": 11.0,
+      "recent_abs": 25.0,
+      "recent_hr": 0.0,
       "recent_form_note": "Contact streak: 11/25 over last 7 games",
       "split_matchup_note": "platoon edge; pitcher baseline 12.0% barrel, 23.0 HR allowed",
       "pitch_mix_note": "neutral batted-ball profile; pitcher fly-ball pressure modest",
@@ -769,8 +843,8 @@
       ]
     },
     {
-      "rank": 11,
-      "hitter_id": 624413,
+      "rank": 12,
+      "hitter_id": 624413.0,
       "player": "Pete Alonso",
       "team": "BAL",
       "opponent": "TEX",
@@ -801,10 +875,10 @@
       "bvp_pa": null,
       "bvp_hr": null,
       "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
-      "recent_games": 7,
-      "recent_hits": 6,
-      "recent_abs": 26,
-      "recent_hr": 1,
+      "recent_games": 7.0,
+      "recent_hits": 6.0,
+      "recent_abs": 26.0,
+      "recent_hr": 1.0,
       "recent_form_note": "Last 7 games: 6/26, 1 HR",
       "split_matchup_note": "same-side matchup; pitcher baseline 8.2% barrel, 19.8 HR allowed",
       "pitch_mix_note": "EV profile; pitcher fly-ball pressure modest",
@@ -845,8 +919,8 @@
       ]
     },
     {
-      "rank": 12,
-      "hitter_id": 700250,
+      "rank": 13,
+      "hitter_id": 700250.0,
       "player": "Ben Rice",
       "team": "NYY",
       "opponent": "ATL",
@@ -877,10 +951,10 @@
       "bvp_pa": null,
       "bvp_hr": null,
       "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
-      "recent_games": 7,
-      "recent_hits": 1,
-      "recent_abs": 20,
-      "recent_hr": 0,
+      "recent_games": 7.0,
+      "recent_hits": 1.0,
+      "recent_abs": 20.0,
+      "recent_hr": 0.0,
       "recent_form_note": "Last 7 games: 1/20, 0 HR",
       "split_matchup_note": "platoon edge; pitcher baseline 7.2% barrel, 11.3 HR allowed",
       "pitch_mix_note": "EV profile; pitcher fly-ball pressure modest",
@@ -921,8 +995,8 @@
       ]
     },
     {
-      "rank": 13,
-      "hitter_id": 666160,
+      "rank": 14,
+      "hitter_id": 666160.0,
       "player": "Mickey Moniak",
       "team": "COL",
       "opponent": "STL",
@@ -953,10 +1027,10 @@
       "bvp_pa": null,
       "bvp_hr": null,
       "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
-      "recent_games": 7,
-      "recent_hits": 7,
-      "recent_abs": 26,
-      "recent_hr": 2,
+      "recent_games": 7.0,
+      "recent_hits": 7.0,
+      "recent_abs": 26.0,
+      "recent_hr": 2.0,
       "recent_form_note": "Hot streak: 2 HR in last 7 games",
       "split_matchup_note": "platoon edge; pitcher baseline 10.3% barrel, 9.9 HR allowed",
       "pitch_mix_note": "fly-ball profile; pitcher fly-ball pressure modest",
@@ -995,8 +1069,8 @@
       ]
     },
     {
-      "rank": 14,
-      "hitter_id": 677800,
+      "rank": 15,
+      "hitter_id": 677800.0,
       "player": "Wilyer Abreu",
       "team": "BOS",
       "opponent": "ATH",
@@ -1027,10 +1101,10 @@
       "bvp_pa": null,
       "bvp_hr": null,
       "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
-      "recent_games": 7,
-      "recent_hits": 9,
-      "recent_abs": 28,
-      "recent_hr": 5,
+      "recent_games": 7.0,
+      "recent_hits": 9.0,
+      "recent_abs": 28.0,
+      "recent_hr": 5.0,
       "recent_form_note": "Hot streak: 5 HR in last 7 games",
       "split_matchup_note": "platoon edge; pitcher baseline 8.7% barrel, 11.0 HR allowed",
       "pitch_mix_note": "fly-ball profile; pitcher allows elevated contact",
@@ -1069,8 +1143,8 @@
       ]
     },
     {
-      "rank": 15,
-      "hitter_id": 694192,
+      "rank": 16,
+      "hitter_id": 694192.0,
       "player": "Jackson Chourio",
       "team": "MIL",
       "opponent": "MIN",
@@ -1101,10 +1175,10 @@
       "bvp_pa": null,
       "bvp_hr": null,
       "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
-      "recent_games": 7,
-      "recent_hits": 8,
-      "recent_abs": 26,
-      "recent_hr": 2,
+      "recent_games": 7.0,
+      "recent_hits": 8.0,
+      "recent_abs": 26.0,
+      "recent_hr": 2.0,
       "recent_form_note": "Hot streak: 2 HR in last 7 games",
       "split_matchup_note": "same-side matchup; pitcher baseline 11.7% barrel, 14.8 HR allowed",
       "pitch_mix_note": "neutral batted-ball profile; pitcher fly-ball pressure modest",
@@ -1143,8 +1217,8 @@
       ]
     },
     {
-      "rank": 16,
-      "hitter_id": 805811,
+      "rank": 17,
+      "hitter_id": 805811.0,
       "player": "Bryce Eldridge",
       "team": "SF",
       "opponent": "DET",
@@ -1175,10 +1249,10 @@
       "bvp_pa": null,
       "bvp_hr": null,
       "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
-      "recent_games": 7,
-      "recent_hits": 7,
-      "recent_abs": 28,
-      "recent_hr": 0,
+      "recent_games": 7.0,
+      "recent_hits": 7.0,
+      "recent_abs": 28.0,
+      "recent_hr": 0.0,
       "recent_form_note": "Last 7 games: 7/28, 0 HR",
       "split_matchup_note": "platoon edge; pitcher baseline 7.4% barrel, 12.5 HR allowed",
       "pitch_mix_note": "lift-pull EV profile; pitcher fly-ball pressure modest",
@@ -1217,8 +1291,8 @@
       ]
     },
     {
-      "rank": 17,
-      "hitter_id": 683357,
+      "rank": 18,
+      "hitter_id": 683357.0,
       "player": "Owen Caissie",
       "team": "MIA",
       "opponent": "LAA",
@@ -1249,10 +1323,10 @@
       "bvp_pa": null,
       "bvp_hr": null,
       "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
-      "recent_games": 7,
-      "recent_hits": 2,
-      "recent_abs": 19,
-      "recent_hr": 2,
+      "recent_games": 7.0,
+      "recent_hits": 2.0,
+      "recent_abs": 19.0,
+      "recent_hr": 2.0,
       "recent_form_note": "Hot streak: 2 HR in last 7 games",
       "split_matchup_note": "platoon edge; pitcher baseline 25.0% barrel, 1.0 HR allowed",
       "pitch_mix_note": "neutral batted-ball profile; pitcher fly-ball pressure modest",
@@ -1291,8 +1365,8 @@
       ]
     },
     {
-      "rank": 18,
-      "hitter_id": 681715,
+      "rank": 19,
+      "hitter_id": 681715.0,
       "player": "Heriberto Hernandez",
       "team": "MIA",
       "opponent": "LAA",
@@ -1323,10 +1397,10 @@
       "bvp_pa": null,
       "bvp_hr": null,
       "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
-      "recent_games": 7,
-      "recent_hits": 3,
-      "recent_abs": 26,
-      "recent_hr": 1,
+      "recent_games": 7.0,
+      "recent_hits": 3.0,
+      "recent_abs": 26.0,
+      "recent_hr": 1.0,
       "recent_form_note": "Last 7 games: 3/26, 1 HR",
       "split_matchup_note": "same-side matchup; pitcher baseline 25.0% barrel, 1.0 HR allowed",
       "pitch_mix_note": "neutral batted-ball profile; pitcher fly-ball pressure modest",
@@ -1365,8 +1439,8 @@
       ]
     },
     {
-      "rank": 19,
-      "hitter_id": 608369,
+      "rank": 20,
+      "hitter_id": 608369.0,
       "player": "Corey Seager",
       "team": "TEX",
       "opponent": "BAL",
@@ -1397,10 +1471,10 @@
       "bvp_pa": null,
       "bvp_hr": null,
       "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
-      "recent_games": 7,
-      "recent_hits": 7,
-      "recent_abs": 20,
-      "recent_hr": 0,
+      "recent_games": 7.0,
+      "recent_hits": 7.0,
+      "recent_abs": 20.0,
+      "recent_hr": 0.0,
       "recent_form_note": "Contact streak: 7/20 over last 7 games",
       "split_matchup_note": "platoon edge; pitcher baseline 7.5% barrel, 14.1 HR allowed",
       "pitch_mix_note": "neutral batted-ball profile; pitcher fly-ball pressure modest",
@@ -1426,80 +1500,6 @@
       "wind_direction": null,
       "weather_temp": null,
       "ballpark": "Globe Life Field",
-      "odds": null,
-      "source_sheet_edge": true,
-      "badges": [
-        "SOURCE SHEET"
-      ],
-      "badge": "SOURCE SHEET",
-      "badge_class": "gold",
-      "badge_summary": "SOURCE SHEET",
-      "badge_classes": [
-        "gold"
-      ]
-    },
-    {
-      "rank": 20,
-      "hitter_id": 696100,
-      "player": "Hunter Goodman",
-      "team": "COL",
-      "opponent": "STL",
-      "game_start_time": "2026-08-08T00:15:00Z",
-      "game_status": "Scheduled",
-      "batting_order": 4,
-      "pitcher": "Kyle Leahy",
-      "pitcher_id": 681517.0,
-      "pitcher_hand": "R",
-      "hr_score": 55.2,
-      "tier": "Longshot",
-      "play_type": "Watch List",
-      "reason_tags": "Projected Lineup, Strong Barrel, Premium Lineup Spot",
-      "power_score": 58.8,
-      "pitcher_score": 54.1,
-      "environment_score": 22.1,
-      "lineup_score": 90.4,
-      "platoon_score": 50.0,
-      "recent_form_score": 46.4,
-      "confirmed_lineup": "No",
-      "rotowire_confirmed_lineup": "No",
-      "rotowire_batting_order": 4,
-      "rotowire_player_found": "Yes",
-      "lineup_disagreement": "Yes",
-      "lineup_sources_used": "RotoWire projected lineup; MLB probable pitchers",
-      "source_warnings": "lineup projected / unconfirmed",
-      "stat_years_used": "H:2026/2025 P:2026/2025",
-      "bvp_pa": null,
-      "bvp_hr": null,
-      "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
-      "recent_games": 7,
-      "recent_hits": 5,
-      "recent_abs": 27,
-      "recent_hr": 2,
-      "recent_form_note": "Hot streak: 2 HR in last 7 games",
-      "split_matchup_note": "same-side matchup; pitcher baseline 10.3% barrel, 9.9 HR allowed",
-      "pitch_mix_note": "neutral batted-ball profile; pitcher fly-ball pressure modest",
-      "barrel_pct": 15.49,
-      "hard_hit_pct": 45.85,
-      "avg_exit_velocity": 90.59,
-      "ev50": 102.7179,
-      "xslg": 0.4609,
-      "xiso": 0.2287,
-      "xwoba": 0.3241,
-      "bat_speed": 75.0,
-      "fast_swing_pct": 49.79,
-      "pull_pct": 48.35,
-      "fb_pct": 32.76,
-      "hr_total": 32.4,
-      "iso": 0.2777,
-      "pitcher_barrel_pct_allowed": 10.29,
-      "pitcher_hard_hit_pct_allowed": 47.39,
-      "pitcher_avg_exit_velocity_allowed": 90.78,
-      "pitcher_xslg_allowed": 0.4475,
-      "pitcher_xiso_allowed": 0.1761,
-      "pitcher_fb_pct_allowed": 22.26,
-      "wind_direction": null,
-      "weather_temp": null,
-      "ballpark": "Busch Stadium",
       "odds": null,
       "source_sheet_edge": true,
       "badges": [
@@ -1555,8 +1555,8 @@
       "wind_direction": null,
       "weather_temp": null,
       "environment_score": 28.2,
-      "top_player": "Sal Stewart",
-      "top_score": 54.4,
+      "top_player": "Abimelec Ortiz",
+      "top_score": 57.5,
       "teams": "CIN / WSH"
     },
     {
@@ -1604,7 +1604,7 @@
           "order": 2,
           "pitcher": "Tyler Mahle",
           "score": 56.4,
-          "rank": 12,
+          "rank": 13,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -1620,12 +1620,50 @@
           "source_warnings": "lineup projected / unconfirmed"
         },
         {
+          "player": "Spencer Jones",
+          "team": "NYY",
+          "order": 5,
+          "pitcher": "Tyler Mahle",
+          "score": 55.3,
+          "rank": 21,
+          "badge": "EV EDGE",
+          "badge_class": "blue",
+          "badges": [
+            "EV EDGE"
+          ],
+          "badge_classes": [
+            "blue"
+          ],
+          "badge_summary": "EV EDGE",
+          "lineup_disagreement": "Yes",
+          "source_warnings": "lineup projected / unconfirmed"
+        },
+        {
+          "player": "Luis Garcia",
+          "team": "NYY",
+          "order": 3,
+          "pitcher": "Tyler Mahle",
+          "score": 54.3,
+          "rank": 28,
+          "badge": "WATCH",
+          "badge_class": "muted",
+          "badges": [
+            "WATCH"
+          ],
+          "badge_classes": [
+            "muted"
+          ],
+          "badge_summary": "WATCH",
+          "lineup_disagreement": "Yes",
+          "source_warnings": "lineup projected / unconfirmed"
+        },
+        {
           "player": "Matt Olson",
           "team": "ATL",
           "order": 3,
           "pitcher": "Max Fried",
           "score": 52.1,
-          "rank": 39,
+          "rank": 41,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -1648,7 +1686,7 @@
           "order": 1,
           "pitcher": "Max Fried",
           "score": 51.7,
-          "rank": 43,
+          "rank": 47,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -1658,44 +1696,6 @@
             "orange"
           ],
           "badge_summary": "HOT BAT",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "lineup projected / unconfirmed"
-        },
-        {
-          "player": "Heliot Ramos",
-          "team": "NYY",
-          "order": 4,
-          "pitcher": "Tyler Mahle",
-          "score": 49.1,
-          "rank": 61,
-          "badge": "WATCH",
-          "badge_class": "muted",
-          "badges": [
-            "WATCH"
-          ],
-          "badge_classes": [
-            "muted"
-          ],
-          "badge_summary": "WATCH",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "lineup projected / unconfirmed"
-        },
-        {
-          "player": "George Lombard",
-          "team": "NYY",
-          "order": 7,
-          "pitcher": "Tyler Mahle",
-          "score": 48.0,
-          "rank": 76,
-          "badge": "EV EDGE",
-          "badge_class": "blue",
-          "badges": [
-            "EV EDGE"
-          ],
-          "badge_classes": [
-            "blue"
-          ],
-          "badge_summary": "EV EDGE",
           "lineup_disagreement": "Yes",
           "source_warnings": "lineup projected / unconfirmed"
         }
@@ -1740,7 +1740,7 @@
           "order": 3,
           "pitcher": "José Soriano",
           "score": 54.8,
-          "rank": 21,
+          "rank": 23,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -1759,7 +1759,7 @@
           "order": 3,
           "pitcher": "Zack Wheeler",
           "score": 45.4,
-          "rank": 101,
+          "rank": 105,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -1778,7 +1778,7 @@
           "order": 6,
           "pitcher": "José Soriano",
           "score": 45.1,
-          "rank": 105,
+          "rank": 109,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -1797,7 +1797,7 @@
           "order": 6,
           "pitcher": "Zack Wheeler",
           "score": 44.8,
-          "rank": 112,
+          "rank": 115,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -1828,7 +1828,7 @@
           "order": 3,
           "pitcher": "Jack Perkins",
           "score": 55.8,
-          "rank": 14,
+          "rank": 15,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -1847,7 +1847,7 @@
           "order": 4,
           "pitcher": "Jack Perkins",
           "score": 53.1,
-          "rank": 32,
+          "rank": 34,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -1861,12 +1861,31 @@
           "source_warnings": "lineup projected / unconfirmed"
         },
         {
+          "player": "Max Muncy",
+          "team": "ATH",
+          "order": 5,
+          "pitcher": "Payton Tolle",
+          "score": 48.1,
+          "rank": 80,
+          "badge": "SOURCE SHEET",
+          "badge_class": "gold",
+          "badges": [
+            "SOURCE SHEET"
+          ],
+          "badge_classes": [
+            "gold"
+          ],
+          "badge_summary": "SOURCE SHEET",
+          "lineup_disagreement": "Yes",
+          "source_warnings": "lineup projected / unconfirmed"
+        },
+        {
           "player": "Jarren Duran",
           "team": "BOS",
           "order": 7,
           "pitcher": "Jack Perkins",
           "score": 45.0,
-          "rank": 108,
+          "rank": 111,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -1882,10 +1901,10 @@
         {
           "player": "Tyler Soderstrom",
           "team": "ATH",
-          "order": 3,
+          "order": 4,
           "pitcher": "Payton Tolle",
-          "score": 44.7,
-          "rank": 113,
+          "score": 44.4,
+          "rank": 119,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
           "badges": [
@@ -1895,25 +1914,6 @@
             "gold"
           ],
           "badge_summary": "SOURCE SHEET",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "lineup projected / unconfirmed"
-        },
-        {
-          "player": "Ceddanne Rafaela",
-          "team": "BOS",
-          "order": 2,
-          "pitcher": "Jack Perkins",
-          "score": 43.9,
-          "rank": 124,
-          "badge": "HOT BAT",
-          "badge_class": "orange",
-          "badges": [
-            "HOT BAT"
-          ],
-          "badge_classes": [
-            "orange"
-          ],
-          "badge_summary": "HOT BAT",
           "lineup_disagreement": "Yes",
           "source_warnings": "lineup projected / unconfirmed"
         }
@@ -1981,26 +1981,7 @@
           "order": 3,
           "pitcher": "Merrill Kelly",
           "score": 57.2,
-          "rank": 10,
-          "badge": "PITCHER TARGET",
-          "badge_class": "red",
-          "badges": [
-            "PITCHER TARGET"
-          ],
-          "badge_classes": [
-            "red"
-          ],
-          "badge_summary": "PITCHER TARGET",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "lineup projected / unconfirmed"
-        },
-        {
-          "player": "Andy Pages",
-          "team": "LAD",
-          "order": 2,
-          "pitcher": "Merrill Kelly",
-          "score": 51.4,
-          "rank": 49,
+          "rank": 11,
           "badge": "PITCHER TARGET",
           "badge_class": "red",
           "badges": [
@@ -2016,10 +1997,10 @@
         {
           "player": "Kyle Tucker",
           "team": "LAD",
-          "order": 7,
+          "order": 6,
           "pitcher": "Merrill Kelly",
-          "score": 50.2,
-          "rank": 54,
+          "score": 51.9,
+          "rank": 45,
           "badge": "PITCHER TARGET",
           "badge_class": "red",
           "badges": [
@@ -2031,6 +2012,27 @@
           "badge_summary": "PITCHER TARGET",
           "lineup_disagreement": "Yes",
           "source_warnings": "lineup projected / unconfirmed"
+        },
+        {
+          "player": "Teoscar Hernandez",
+          "team": "LAD",
+          "order": 7,
+          "pitcher": "Merrill Kelly",
+          "score": 51.8,
+          "rank": 46,
+          "badge": "HOT BAT",
+          "badge_class": "orange",
+          "badges": [
+            "HOT BAT",
+            "PITCHER TARGET"
+          ],
+          "badge_classes": [
+            "orange",
+            "red"
+          ],
+          "badge_summary": "HOT BAT + PITCHER TARGET",
+          "lineup_disagreement": "Yes",
+          "source_warnings": "lineup projected / unconfirmed"
         }
       ]
     },
@@ -2040,17 +2042,36 @@
       "temp": "",
       "wind": "",
       "environment_score": 28.2,
-      "top_score": 54.4,
+      "top_score": 57.5,
       "game_tags": "lineup caution",
       "disagreement_count": 18,
       "players": [
+        {
+          "player": "Abimelec Ortiz",
+          "team": "WSH",
+          "order": 2,
+          "pitcher": "Chase Petty",
+          "score": 57.5,
+          "rank": 9,
+          "badge": "WATCH",
+          "badge_class": "muted",
+          "badges": [
+            "WATCH"
+          ],
+          "badge_classes": [
+            "muted"
+          ],
+          "badge_summary": "WATCH",
+          "lineup_disagreement": "Yes",
+          "source_warnings": "lineup projected / unconfirmed"
+        },
         {
           "player": "Sal Stewart",
           "team": "CIN",
           "order": 2,
           "pitcher": "Cade Cavalli",
           "score": 54.4,
-          "rank": 25,
+          "rank": 27,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -2066,31 +2087,12 @@
           "source_warnings": "lineup projected / unconfirmed"
         },
         {
-          "player": "Abimelec Ortiz",
-          "team": "WSH",
-          "order": 2,
-          "pitcher": null,
-          "score": 54.3,
-          "rank": 26,
-          "badge": "WATCH",
-          "badge_class": "muted",
-          "badges": [
-            "WATCH"
-          ],
-          "badge_classes": [
-            "muted"
-          ],
-          "badge_summary": "WATCH",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "lineup projected / unconfirmed"
-        },
-        {
           "player": "Elly De La Cruz",
           "team": "CIN",
           "order": 1,
           "pitcher": "Cade Cavalli",
           "score": 51.9,
-          "rank": 41,
+          "rank": 43,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -2104,12 +2106,12 @@
           "source_warnings": "lineup projected / unconfirmed"
         },
         {
-          "player": "Tyler Stephenson",
-          "team": "CIN",
-          "order": 4,
-          "pitcher": "Cade Cavalli",
-          "score": 49.6,
-          "rank": 58,
+          "player": "CJ Abrams",
+          "team": "WSH",
+          "order": 1,
+          "pitcher": "Chase Petty",
+          "score": 50.9,
+          "rank": 56,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2123,12 +2125,12 @@
           "source_warnings": "lineup projected / unconfirmed"
         },
         {
-          "player": "JJ Bleday",
+          "player": "Tyler Stephenson",
           "team": "CIN",
-          "order": 3,
+          "order": 4,
           "pitcher": "Cade Cavalli",
-          "score": 48.2,
-          "rank": 71,
+          "score": 49.6,
+          "rank": 62,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2159,7 +2161,7 @@
           "order": 2,
           "pitcher": "Nathan Eovaldi",
           "score": 56.8,
-          "rank": 11,
+          "rank": 12,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -2180,7 +2182,7 @@
           "order": 3,
           "pitcher": "Shane Baz",
           "score": 55.4,
-          "rank": 19,
+          "rank": 20,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
           "badges": [
@@ -2199,7 +2201,7 @@
           "order": 4,
           "pitcher": "Nathan Eovaldi",
           "score": 54.8,
-          "rank": 22,
+          "rank": 24,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -2218,7 +2220,7 @@
           "order": 4,
           "pitcher": "Shane Baz",
           "score": 54.0,
-          "rank": 28,
+          "rank": 30,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -2241,7 +2243,7 @@
           "order": 1,
           "pitcher": "Shane Baz",
           "score": 50.9,
-          "rank": 52,
+          "rank": 57,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2272,7 +2274,7 @@
           "order": 2,
           "pitcher": "Zebby Matthews",
           "score": 55.7,
-          "rank": 15,
+          "rank": 16,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
           "badges": [
@@ -2291,7 +2293,7 @@
           "order": 4,
           "pitcher": "Shane Drohan",
           "score": 51.7,
-          "rank": 44,
+          "rank": 48,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -2310,7 +2312,7 @@
           "order": 3,
           "pitcher": "Zebby Matthews",
           "score": 51.5,
-          "rank": 46,
+          "rank": 50,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
           "badges": [
@@ -2329,7 +2331,7 @@
           "order": 1,
           "pitcher": "Zebby Matthews",
           "score": 49.2,
-          "rank": 60,
+          "rank": 64,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2348,7 +2350,7 @@
           "order": 7,
           "pitcher": "Zebby Matthews",
           "score": 49.1,
-          "rank": 62,
+          "rank": 66,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -2381,7 +2383,7 @@
           "order": 2,
           "pitcher": "Parker Messick",
           "score": 54.6,
-          "rank": 23,
+          "rank": 25,
           "badge": "FIRE / TOUGH SP",
           "badge_class": "red",
           "badges": [
@@ -2404,7 +2406,7 @@
           "order": 4,
           "pitcher": "Noah Schultz",
           "score": 53.2,
-          "rank": 31,
+          "rank": 33,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2423,7 +2425,7 @@
           "order": 5,
           "pitcher": "Noah Schultz",
           "score": 49.2,
-          "rank": 59,
+          "rank": 63,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2442,7 +2444,7 @@
           "order": 3,
           "pitcher": "Parker Messick",
           "score": 48.5,
-          "rank": 66,
+          "rank": 71,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
           "badges": [
@@ -2458,10 +2460,10 @@
         {
           "player": "Randal Grichuk",
           "team": "CWS",
-          "order": 1,
+          "order": 4,
           "pitcher": "Parker Messick",
-          "score": 47.1,
-          "rank": 85,
+          "score": 47.3,
+          "rank": 88,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2621,28 +2623,28 @@
         "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET"
       },
       {
-        "names": "Kyle Schwarber + Junior Caminero + Alec Burleson",
+        "names": "Kyle Schwarber + Junior Caminero + Abimelec Ortiz",
         "avg_score": 58.3,
         "combo_score": 60.3,
         "risk": "Aggressive / Projected",
-        "badges": "FIRE / TOUGH SP + HOT BAT + EV EDGE / HOT BAT + EV EDGE / HOT BAT",
+        "badges": "FIRE / TOUGH SP + HOT BAT + EV EDGE / HOT BAT + EV EDGE / WATCH",
         "reason": "different games · EV EDGE, HOT BAT"
       },
       {
-        "names": "Alec Burleson + Freddie Freeman + Pete Alonso",
-        "avg_score": 57.2,
+        "names": "Abimelec Ortiz + Alec Burleson + Freddie Freeman",
+        "avg_score": 57.4,
         "combo_score": 59.3,
         "risk": "Aggressive / Projected",
-        "badges": "HOT BAT / PITCHER TARGET / HOT BAT + EV EDGE",
-        "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET"
+        "badges": "WATCH / HOT BAT / PITCHER TARGET",
+        "reason": "different games · HOT BAT, PITCHER TARGET"
       },
       {
-        "names": "Pete Alonso + Ben Rice + Owen Caissie",
-        "avg_score": 56.2,
-        "combo_score": 58.0,
+        "names": "Alec Burleson + Pete Alonso + Ben Rice",
+        "avg_score": 56.9,
+        "combo_score": 58.5,
         "risk": "Aggressive / Projected",
-        "badges": "HOT BAT + EV EDGE / HOT BAT + EV EDGE / PITCHER TARGET",
-        "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET"
+        "badges": "HOT BAT / HOT BAT + EV EDGE / HOT BAT + EV EDGE",
+        "reason": "different games · EV EDGE, HOT BAT"
       }
     ],
     "4": [
@@ -2679,36 +2681,36 @@
         "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET"
       },
       {
-        "names": "Alec Burleson + Freddie Freeman + Pete Alonso + Ben Rice",
-        "avg_score": 57.0,
-        "combo_score": 59.7,
+        "names": "Abimelec Ortiz + Alec Burleson + Freddie Freeman + Pete Alonso",
+        "avg_score": 57.2,
+        "combo_score": 60.1,
         "risk": "Aggressive / Projected",
-        "badges": "HOT BAT / PITCHER TARGET / HOT BAT + EV EDGE / HOT BAT + EV EDGE",
+        "badges": "WATCH / HOT BAT / PITCHER TARGET / HOT BAT + EV EDGE",
         "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET"
       },
       {
-        "names": "Alec Burleson + Freddie Freeman + Pete Alonso + Wilyer Abreu",
-        "avg_score": 56.8,
-        "combo_score": 59.3,
+        "names": "Abimelec Ortiz + Alec Burleson + Freddie Freeman + Ben Rice",
+        "avg_score": 57.1,
+        "combo_score": 59.8,
         "risk": "Aggressive / Projected",
-        "badges": "HOT BAT / PITCHER TARGET / HOT BAT + EV EDGE / HOT BAT",
+        "badges": "WATCH / HOT BAT / PITCHER TARGET / HOT BAT + EV EDGE",
         "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET"
       },
       {
-        "names": "Ben Rice + Mickey Moniak + Wilyer Abreu + Owen Caissie",
-        "avg_score": 55.9,
-        "combo_score": 58.3,
+        "names": "Pete Alonso + Ben Rice + Mickey Moniak + Owen Caissie",
+        "avg_score": 56.2,
+        "combo_score": 58.5,
         "risk": "Aggressive / Projected",
-        "badges": "HOT BAT + EV EDGE / WATCH / HOT BAT / PITCHER TARGET",
+        "badges": "HOT BAT + EV EDGE / HOT BAT + EV EDGE / WATCH / PITCHER TARGET",
         "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET"
       },
       {
-        "names": "Mickey Moniak + Jackson Chourio + Bryce Eldridge + Owen Caissie",
-        "avg_score": 55.7,
-        "combo_score": 57.6,
+        "names": "Mickey Moniak + Wilyer Abreu + Bryce Eldridge + Owen Caissie",
+        "avg_score": 55.8,
+        "combo_score": 58.1,
         "risk": "Aggressive / Projected",
-        "badges": "WATCH / SOURCE SHEET / EV EDGE / PITCHER TARGET",
-        "reason": "different games · EV EDGE, PITCHER TARGET"
+        "badges": "WATCH / HOT BAT / EV EDGE / PITCHER TARGET",
+        "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET"
       }
     ]
   },
@@ -2748,7 +2750,7 @@
           "order": 2,
           "pitcher": "Zac Thornton",
           "score": 52.8,
-          "rank": 36,
+          "rank": 38,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2767,7 +2769,7 @@
           "order": 2,
           "pitcher": "Carmen Mlodzinski",
           "score": 51.4,
-          "rank": 48,
+          "rank": 52,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2786,7 +2788,7 @@
           "order": 3,
           "pitcher": "Zac Thornton",
           "score": 50.9,
-          "rank": 51,
+          "rank": 55,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2805,7 +2807,7 @@
           "order": 6,
           "pitcher": "Zac Thornton",
           "score": 48.4,
-          "rank": 67,
+          "rank": 72,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -2859,7 +2861,7 @@
           "order": 3,
           "pitcher": "José Soriano",
           "score": 54.8,
-          "rank": 21,
+          "rank": 23,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2878,7 +2880,7 @@
           "order": 3,
           "pitcher": "Zack Wheeler",
           "score": 45.4,
-          "rank": 101,
+          "rank": 105,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2897,7 +2899,7 @@
           "order": 6,
           "pitcher": "José Soriano",
           "score": 45.1,
-          "rank": 105,
+          "rank": 109,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2916,7 +2918,7 @@
           "order": 6,
           "pitcher": "Zack Wheeler",
           "score": 44.8,
-          "rank": 112,
+          "rank": 115,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2937,17 +2939,36 @@
       "temp": "",
       "wind": "",
       "environment_score": 28.2,
-      "top_score": 54.4,
+      "top_score": 57.5,
       "game_tags": "lineup caution",
       "disagreement_count": 18,
       "players": [
+        {
+          "player": "Abimelec Ortiz",
+          "team": "WSH",
+          "order": 2,
+          "pitcher": "Chase Petty",
+          "score": 57.5,
+          "rank": 9,
+          "badge": "WATCH",
+          "badge_class": "muted",
+          "badges": [
+            "WATCH"
+          ],
+          "badge_classes": [
+            "muted"
+          ],
+          "badge_summary": "WATCH",
+          "lineup_disagreement": "Yes",
+          "source_warnings": "lineup projected / unconfirmed"
+        },
         {
           "player": "Sal Stewart",
           "team": "CIN",
           "order": 2,
           "pitcher": "Cade Cavalli",
           "score": 54.4,
-          "rank": 25,
+          "rank": 27,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -2963,31 +2984,12 @@
           "source_warnings": "lineup projected / unconfirmed"
         },
         {
-          "player": "Abimelec Ortiz",
-          "team": "WSH",
-          "order": 2,
-          "pitcher": null,
-          "score": 54.3,
-          "rank": 26,
-          "badge": "WATCH",
-          "badge_class": "muted",
-          "badges": [
-            "WATCH"
-          ],
-          "badge_classes": [
-            "muted"
-          ],
-          "badge_summary": "WATCH",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "lineup projected / unconfirmed"
-        },
-        {
           "player": "Elly De La Cruz",
           "team": "CIN",
           "order": 1,
           "pitcher": "Cade Cavalli",
           "score": 51.9,
-          "rank": 41,
+          "rank": 43,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -3001,12 +3003,12 @@
           "source_warnings": "lineup projected / unconfirmed"
         },
         {
-          "player": "Tyler Stephenson",
-          "team": "CIN",
-          "order": 4,
-          "pitcher": "Cade Cavalli",
-          "score": 49.6,
-          "rank": 58,
+          "player": "CJ Abrams",
+          "team": "WSH",
+          "order": 1,
+          "pitcher": "Chase Petty",
+          "score": 50.9,
+          "rank": 56,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3020,12 +3022,12 @@
           "source_warnings": "lineup projected / unconfirmed"
         },
         {
-          "player": "JJ Bleday",
+          "player": "Tyler Stephenson",
           "team": "CIN",
-          "order": 3,
+          "order": 4,
           "pitcher": "Cade Cavalli",
-          "score": 48.2,
-          "rank": 71,
+          "score": 49.6,
+          "rank": 62,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3056,7 +3058,7 @@
           "order": 2,
           "pitcher": "Tyler Mahle",
           "score": 56.4,
-          "rank": 12,
+          "rank": 13,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -3072,12 +3074,50 @@
           "source_warnings": "lineup projected / unconfirmed"
         },
         {
+          "player": "Spencer Jones",
+          "team": "NYY",
+          "order": 5,
+          "pitcher": "Tyler Mahle",
+          "score": 55.3,
+          "rank": 21,
+          "badge": "EV EDGE",
+          "badge_class": "blue",
+          "badges": [
+            "EV EDGE"
+          ],
+          "badge_classes": [
+            "blue"
+          ],
+          "badge_summary": "EV EDGE",
+          "lineup_disagreement": "Yes",
+          "source_warnings": "lineup projected / unconfirmed"
+        },
+        {
+          "player": "Luis Garcia",
+          "team": "NYY",
+          "order": 3,
+          "pitcher": "Tyler Mahle",
+          "score": 54.3,
+          "rank": 28,
+          "badge": "WATCH",
+          "badge_class": "muted",
+          "badges": [
+            "WATCH"
+          ],
+          "badge_classes": [
+            "muted"
+          ],
+          "badge_summary": "WATCH",
+          "lineup_disagreement": "Yes",
+          "source_warnings": "lineup projected / unconfirmed"
+        },
+        {
           "player": "Matt Olson",
           "team": "ATL",
           "order": 3,
           "pitcher": "Max Fried",
           "score": 52.1,
-          "rank": 39,
+          "rank": 41,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -3100,7 +3140,7 @@
           "order": 1,
           "pitcher": "Max Fried",
           "score": 51.7,
-          "rank": 43,
+          "rank": 47,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -3110,44 +3150,6 @@
             "orange"
           ],
           "badge_summary": "HOT BAT",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "lineup projected / unconfirmed"
-        },
-        {
-          "player": "Heliot Ramos",
-          "team": "NYY",
-          "order": 4,
-          "pitcher": "Tyler Mahle",
-          "score": 49.1,
-          "rank": 61,
-          "badge": "WATCH",
-          "badge_class": "muted",
-          "badges": [
-            "WATCH"
-          ],
-          "badge_classes": [
-            "muted"
-          ],
-          "badge_summary": "WATCH",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "lineup projected / unconfirmed"
-        },
-        {
-          "player": "George Lombard",
-          "team": "NYY",
-          "order": 7,
-          "pitcher": "Tyler Mahle",
-          "score": 48.0,
-          "rank": 76,
-          "badge": "EV EDGE",
-          "badge_class": "blue",
-          "badges": [
-            "EV EDGE"
-          ],
-          "badge_classes": [
-            "blue"
-          ],
-          "badge_summary": "EV EDGE",
           "lineup_disagreement": "Yes",
           "source_warnings": "lineup projected / unconfirmed"
         }
@@ -3169,7 +3171,7 @@
           "order": 3,
           "pitcher": "Jack Perkins",
           "score": 55.8,
-          "rank": 14,
+          "rank": 15,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -3188,7 +3190,7 @@
           "order": 4,
           "pitcher": "Jack Perkins",
           "score": 53.1,
-          "rank": 32,
+          "rank": 34,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -3202,12 +3204,31 @@
           "source_warnings": "lineup projected / unconfirmed"
         },
         {
+          "player": "Max Muncy",
+          "team": "ATH",
+          "order": 5,
+          "pitcher": "Payton Tolle",
+          "score": 48.1,
+          "rank": 80,
+          "badge": "SOURCE SHEET",
+          "badge_class": "gold",
+          "badges": [
+            "SOURCE SHEET"
+          ],
+          "badge_classes": [
+            "gold"
+          ],
+          "badge_summary": "SOURCE SHEET",
+          "lineup_disagreement": "Yes",
+          "source_warnings": "lineup projected / unconfirmed"
+        },
+        {
           "player": "Jarren Duran",
           "team": "BOS",
           "order": 7,
           "pitcher": "Jack Perkins",
           "score": 45.0,
-          "rank": 108,
+          "rank": 111,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3223,10 +3244,10 @@
         {
           "player": "Tyler Soderstrom",
           "team": "ATH",
-          "order": 3,
+          "order": 4,
           "pitcher": "Payton Tolle",
-          "score": 44.7,
-          "rank": 113,
+          "score": 44.4,
+          "rank": 119,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
           "badges": [
@@ -3236,25 +3257,6 @@
             "gold"
           ],
           "badge_summary": "SOURCE SHEET",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "lineup projected / unconfirmed"
-        },
-        {
-          "player": "Ceddanne Rafaela",
-          "team": "BOS",
-          "order": 2,
-          "pitcher": "Jack Perkins",
-          "score": 43.9,
-          "rank": 124,
-          "badge": "HOT BAT",
-          "badge_class": "orange",
-          "badges": [
-            "HOT BAT"
-          ],
-          "badge_classes": [
-            "orange"
-          ],
-          "badge_summary": "HOT BAT",
           "lineup_disagreement": "Yes",
           "source_warnings": "lineup projected / unconfirmed"
         }
@@ -3318,7 +3320,7 @@
           "order": 6,
           "pitcher": "George Klassen",
           "score": 55.5,
-          "rank": 17,
+          "rank": 18,
           "badge": "PITCHER TARGET",
           "badge_class": "red",
           "badges": [
@@ -3337,7 +3339,7 @@
           "order": 5,
           "pitcher": "George Klassen",
           "score": 55.4,
-          "rank": 18,
+          "rank": 19,
           "badge": "PITCHER TARGET",
           "badge_class": "red",
           "badges": [
@@ -3356,7 +3358,7 @@
           "order": 2,
           "pitcher": "Tyler Phillips",
           "score": 51.9,
-          "rank": 42,
+          "rank": 44,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -3387,7 +3389,7 @@
           "order": 2,
           "pitcher": "Parker Messick",
           "score": 54.6,
-          "rank": 23,
+          "rank": 25,
           "badge": "FIRE / TOUGH SP",
           "badge_class": "red",
           "badges": [
@@ -3410,7 +3412,7 @@
           "order": 4,
           "pitcher": "Noah Schultz",
           "score": 53.2,
-          "rank": 31,
+          "rank": 33,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3429,7 +3431,7 @@
           "order": 5,
           "pitcher": "Noah Schultz",
           "score": 49.2,
-          "rank": 59,
+          "rank": 63,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3448,7 +3450,7 @@
           "order": 3,
           "pitcher": "Parker Messick",
           "score": 48.5,
-          "rank": 66,
+          "rank": 71,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
           "badges": [
@@ -3464,10 +3466,10 @@
         {
           "player": "Randal Grichuk",
           "team": "CWS",
-          "order": 1,
+          "order": 4,
           "pitcher": "Parker Messick",
-          "score": 47.1,
-          "rank": 85,
+          "score": 47.3,
+          "rank": 88,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3498,7 +3500,7 @@
           "order": 2,
           "pitcher": "Zebby Matthews",
           "score": 55.7,
-          "rank": 15,
+          "rank": 16,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
           "badges": [
@@ -3517,7 +3519,7 @@
           "order": 4,
           "pitcher": "Shane Drohan",
           "score": 51.7,
-          "rank": 44,
+          "rank": 48,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -3536,7 +3538,7 @@
           "order": 3,
           "pitcher": "Zebby Matthews",
           "score": 51.5,
-          "rank": 46,
+          "rank": 50,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
           "badges": [
@@ -3555,7 +3557,7 @@
           "order": 1,
           "pitcher": "Zebby Matthews",
           "score": 49.2,
-          "rank": 60,
+          "rank": 64,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3574,7 +3576,7 @@
           "order": 7,
           "pitcher": "Zebby Matthews",
           "score": 49.1,
-          "rank": 62,
+          "rank": 66,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -3607,7 +3609,7 @@
           "order": 3,
           "pitcher": null,
           "score": 54.0,
-          "rank": 27,
+          "rank": 29,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -3628,7 +3630,7 @@
           "order": 2,
           "pitcher": null,
           "score": 52.9,
-          "rank": 35,
+          "rank": 37,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -3647,7 +3649,7 @@
           "order": 1,
           "pitcher": null,
           "score": 50.0,
-          "rank": 56,
+          "rank": 60,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -3668,7 +3670,7 @@
           "order": 1,
           "pitcher": "Daniel Lynch IV",
           "score": 48.4,
-          "rank": 68,
+          "rank": 73,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -3689,7 +3691,7 @@
           "order": 4,
           "pitcher": null,
           "score": 48.4,
-          "rank": 69,
+          "rank": 74,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
           "badges": [
@@ -3720,7 +3722,7 @@
           "order": 3,
           "pitcher": "Ryan Feltner",
           "score": 57.5,
-          "rank": 9,
+          "rank": 10,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -3739,7 +3741,7 @@
           "order": 3,
           "pitcher": "Kyle Leahy",
           "score": 56.0,
-          "rank": 13,
+          "rank": 14,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3758,7 +3760,7 @@
           "order": 4,
           "pitcher": "Kyle Leahy",
           "score": 55.2,
-          "rank": 20,
+          "rank": 22,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
           "badges": [
@@ -3777,7 +3779,7 @@
           "order": 2,
           "pitcher": "Ryan Feltner",
           "score": 52.4,
-          "rank": 37,
+          "rank": 39,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -3796,7 +3798,7 @@
           "order": 1,
           "pitcher": "Ryan Feltner",
           "score": 48.4,
-          "rank": 70,
+          "rank": 75,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3827,7 +3829,7 @@
           "order": 2,
           "pitcher": "Nathan Eovaldi",
           "score": 56.8,
-          "rank": 11,
+          "rank": 12,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -3848,7 +3850,7 @@
           "order": 3,
           "pitcher": "Shane Baz",
           "score": 55.4,
-          "rank": 19,
+          "rank": 20,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
           "badges": [
@@ -3867,7 +3869,7 @@
           "order": 4,
           "pitcher": "Nathan Eovaldi",
           "score": 54.8,
-          "rank": 22,
+          "rank": 24,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -3886,7 +3888,7 @@
           "order": 4,
           "pitcher": "Shane Baz",
           "score": 54.0,
-          "rank": 28,
+          "rank": 30,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -3909,7 +3911,7 @@
           "order": 1,
           "pitcher": "Shane Baz",
           "score": 50.9,
-          "rank": 52,
+          "rank": 57,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3986,26 +3988,7 @@
           "order": 3,
           "pitcher": "Merrill Kelly",
           "score": 57.2,
-          "rank": 10,
-          "badge": "PITCHER TARGET",
-          "badge_class": "red",
-          "badges": [
-            "PITCHER TARGET"
-          ],
-          "badge_classes": [
-            "red"
-          ],
-          "badge_summary": "PITCHER TARGET",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "lineup projected / unconfirmed"
-        },
-        {
-          "player": "Andy Pages",
-          "team": "LAD",
-          "order": 2,
-          "pitcher": "Merrill Kelly",
-          "score": 51.4,
-          "rank": 49,
+          "rank": 11,
           "badge": "PITCHER TARGET",
           "badge_class": "red",
           "badges": [
@@ -4021,10 +4004,10 @@
         {
           "player": "Kyle Tucker",
           "team": "LAD",
-          "order": 7,
+          "order": 6,
           "pitcher": "Merrill Kelly",
-          "score": 50.2,
-          "rank": 54,
+          "score": 51.9,
+          "rank": 45,
           "badge": "PITCHER TARGET",
           "badge_class": "red",
           "badges": [
@@ -4034,6 +4017,27 @@
             "red"
           ],
           "badge_summary": "PITCHER TARGET",
+          "lineup_disagreement": "Yes",
+          "source_warnings": "lineup projected / unconfirmed"
+        },
+        {
+          "player": "Teoscar Hernandez",
+          "team": "LAD",
+          "order": 7,
+          "pitcher": "Merrill Kelly",
+          "score": 51.8,
+          "rank": 46,
+          "badge": "HOT BAT",
+          "badge_class": "orange",
+          "badges": [
+            "HOT BAT",
+            "PITCHER TARGET"
+          ],
+          "badge_classes": [
+            "orange",
+            "red"
+          ],
+          "badge_summary": "HOT BAT + PITCHER TARGET",
           "lineup_disagreement": "Yes",
           "source_warnings": "lineup projected / unconfirmed"
         }
@@ -4076,7 +4080,7 @@
           "order": 5,
           "pitcher": "Ronel Blanco",
           "score": 54.5,
-          "rank": 24,
+          "rank": 26,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4095,7 +4099,7 @@
           "order": 1,
           "pitcher": "Ronel Blanco",
           "score": 53.0,
-          "rank": 33,
+          "rank": 35,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -4114,7 +4118,7 @@
           "order": 3,
           "pitcher": "Ronel Blanco",
           "score": 52.1,
-          "rank": 40,
+          "rank": 42,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4133,7 +4137,7 @@
           "order": 4,
           "pitcher": "Ronel Blanco",
           "score": 51.5,
-          "rank": 47,
+          "rank": 51,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4185,7 +4189,7 @@
           "order": 2,
           "pitcher": "Logan Gilbert",
           "score": 53.6,
-          "rank": 30,
+          "rank": 32,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4204,7 +4208,7 @@
           "order": 3,
           "pitcher": "Drew Rasmussen",
           "score": 51.3,
-          "rank": 50,
+          "rank": 54,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4223,7 +4227,7 @@
           "order": 1,
           "pitcher": "Logan Gilbert",
           "score": 48.2,
-          "rank": 73,
+          "rank": 78,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -4242,7 +4246,7 @@
           "order": 6,
           "pitcher": "Logan Gilbert",
           "score": 47.0,
-          "rank": 89,
+          "rank": 93,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4273,7 +4277,7 @@
           "order": 1,
           "pitcher": "Keider Montero",
           "score": 55.7,
-          "rank": 16,
+          "rank": 17,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -4292,7 +4296,7 @@
           "order": 3,
           "pitcher": "Keider Montero",
           "score": 53.7,
-          "rank": 29,
+          "rank": 31,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -4311,7 +4315,7 @@
           "order": 7,
           "pitcher": "Keider Montero",
           "score": 53.0,
-          "rank": 34,
+          "rank": 36,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -4330,7 +4334,7 @@
           "order": 4,
           "pitcher": null,
           "score": 52.3,
-          "rank": 38,
+          "rank": 40,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4349,7 +4353,7 @@
           "order": 3,
           "pitcher": null,
           "score": 51.7,
-          "rank": 45,
+          "rank": 49,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [

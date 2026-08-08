@@ -5,9 +5,9 @@
 | 1 | Kyle Schwarber | PHI | Max Scherzer | 1 | 70.7 | Tier 2 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 2 | Munetaka Murakami | CWS | Gavin Williams | 2 | 70.0 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 3 | Abimelec Ortiz | WSH | Chase Burns | 2 | 69.4 | Tier 3 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 4 | Brandon Lowe | PIT | Robert Stock | 2 | 68.5 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
-| 5 | Yordan Alvarez | HOU | Michael King | 2 | 68.3 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 6 | Shohei Ohtani | LAD | Brandon Pfaadt | 1 | 67.9 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 4 | Shohei Ohtani | LAD | Brandon Pfaadt | 1 | 68.6 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 5 | Brandon Lowe | PIT | Robert Stock | 2 | 68.5 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
+| 6 | Yordan Alvarez | HOU | Michael King | 2 | 68.3 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 7 | Bryce Harper | PHI | Max Scherzer | 3 | 67.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 8 | Esmerlyn Valdez | PIT | Robert Stock | 7 | 66.4 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable |
 | 9 | Brett Bateman | TOR | Aaron Nola | 2 | 65.5 | Tier 3 | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
@@ -27,22 +27,22 @@
 
 - Kyle Schwarber + Munetaka Murakami | Avg HR Score: 70.3
 - Munetaka Murakami + Abimelec Ortiz | Avg HR Score: 69.7
-- Abimelec Ortiz + Brandon Lowe | Avg HR Score: 69.0
+- Abimelec Ortiz + Shohei Ohtani | Avg HR Score: 69.0
+- Shohei Ohtani + Brandon Lowe | Avg HR Score: 68.5
 - Brandon Lowe + Yordan Alvarez | Avg HR Score: 68.4
-- Yordan Alvarez + Shohei Ohtani | Avg HR Score: 68.1
 
 ## Best 3-Leg Pairings
 
 - Kyle Schwarber + Munetaka Murakami + Abimelec Ortiz | Avg HR Score: 70.0
-- Munetaka Murakami + Abimelec Ortiz + Brandon Lowe | Avg HR Score: 69.3
-- Abimelec Ortiz + Brandon Lowe + Yordan Alvarez | Avg HR Score: 68.7
-- Brandon Lowe + Yordan Alvarez + Shohei Ohtani | Avg HR Score: 68.2
-- Yordan Alvarez + Shohei Ohtani + Bryce Harper | Avg HR Score: 67.8
+- Munetaka Murakami + Abimelec Ortiz + Shohei Ohtani | Avg HR Score: 69.3
+- Abimelec Ortiz + Shohei Ohtani + Brandon Lowe | Avg HR Score: 68.8
+- Shohei Ohtani + Brandon Lowe + Yordan Alvarez | Avg HR Score: 68.5
+- Brandon Lowe + Yordan Alvarez + Bryce Harper | Avg HR Score: 68.0
 
 ## Best 4-Leg Pairings
 
-- Kyle Schwarber + Munetaka Murakami + Abimelec Ortiz + Brandon Lowe | Avg HR Score: 69.7
-- Munetaka Murakami + Abimelec Ortiz + Brandon Lowe + Yordan Alvarez | Avg HR Score: 69.0
-- Abimelec Ortiz + Brandon Lowe + Yordan Alvarez + Shohei Ohtani | Avg HR Score: 68.5
-- Brandon Lowe + Yordan Alvarez + Shohei Ohtani + Bryce Harper | Avg HR Score: 68.0
-- Yordan Alvarez + Shohei Ohtani + Bryce Harper + Esmerlyn Valdez | Avg HR Score: 67.4
+- Kyle Schwarber + Munetaka Murakami + Abimelec Ortiz + Shohei Ohtani | Avg HR Score: 69.7
+- Munetaka Murakami + Abimelec Ortiz + Shohei Ohtani + Brandon Lowe | Avg HR Score: 69.1
+- Abimelec Ortiz + Shohei Ohtani + Brandon Lowe + Yordan Alvarez | Avg HR Score: 68.7
+- Shohei Ohtani + Brandon Lowe + Yordan Alvarez + Bryce Harper | Avg HR Score: 68.1
+- Brandon Lowe + Yordan Alvarez + Bryce Harper + Esmerlyn Valdez | Avg HR Score: 67.6

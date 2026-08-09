@@ -8,7 +8,7 @@
 | 4 | Matt Olson | ATL | Cam Schlittler | 3 | 68.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 5 | Alec Burleson | STL | Michael Lorenzen | 3 | 65.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 6 | Spencer Jones | NYY | Grant Holmes | 6 | 65.5 | Tier 3 | Watch List | Strong Barrel, Good Environment, Platoon Edge |
-| 7 | Abimelec Ortiz | WSH | Brady Singer | 2 | 65.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 7 | Abimelec Ortiz | WSH | Brady Singer | 2 | 65.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 8 | Luis García Jr. | NYY | Grant Holmes | 4 | 64.8 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 9 | Esmerlyn Valdez | PIT | Sean Manaea | 5 | 64.6 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
 | 10 | Jac Caglianone | KC | Matthew Boyd | 3 | 64.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
@@ -37,7 +37,7 @@
 - Bryce Harper + Ben Rice + Matt Olson | Avg HR Score: 68.7
 - Ben Rice + Matt Olson + Alec Burleson | Avg HR Score: 67.4
 - Matt Olson + Alec Burleson + Spencer Jones | Avg HR Score: 66.5
-- Alec Burleson + Spencer Jones + Abimelec Ortiz | Avg HR Score: 65.5
+- Alec Burleson + Spencer Jones + Abimelec Ortiz | Avg HR Score: 65.6
 
 ## Best 4-Leg Pairings
 
@@ -45,4 +45,4 @@
 - Bryce Harper + Ben Rice + Matt Olson + Alec Burleson | Avg HR Score: 68.0
 - Ben Rice + Matt Olson + Alec Burleson + Spencer Jones | Avg HR Score: 67.0
 - Matt Olson + Alec Burleson + Spencer Jones + Abimelec Ortiz | Avg HR Score: 66.2
-- Alec Burleson + Spencer Jones + Abimelec Ortiz + Luis García Jr. | Avg HR Score: 65.3
+- Alec Burleson + Spencer Jones + Abimelec Ortiz + Luis García Jr. | Avg HR Score: 65.4

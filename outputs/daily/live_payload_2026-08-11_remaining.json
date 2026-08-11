@@ -1,11 +1,11 @@
 {
   "date": "Tuesday, August 11, 2026",
-  "generated_at": "04:56 PM EDT",
-  "generated_iso": "2026-08-11T16:56:01-04:00",
+  "generated_at": "05:47 PM EDT",
+  "generated_iso": "2026-08-11T17:47:27-04:00",
   "slate_projection": 270,
   "games_count": 15,
-  "confirmed_count": 162,
-  "projected_count": 108,
+  "confirmed_count": 189,
+  "projected_count": 81,
   "top20": [
     {
       "rank": 1,
@@ -165,6 +165,82 @@
     },
     {
       "rank": 3,
+      "hitter_id": 545361,
+      "player": "Mike Trout",
+      "team": "LAA",
+      "opponent": "TEX",
+      "game_start_time": "2026-08-12T01:38:00Z",
+      "game_status": "Pre-Game",
+      "batting_order": 2,
+      "pitcher": "Cody Bradford",
+      "pitcher_id": 674003,
+      "pitcher_hand": "L",
+      "hr_score": 64.8,
+      "tier": "Tier 3",
+      "play_type": "Watch List",
+      "reason_tags": "Strong Barrel, Premium Lineup Spot, Platoon Edge",
+      "power_score": 64.3,
+      "pitcher_score": 44.2,
+      "environment_score": 67.2,
+      "lineup_score": 100.0,
+      "platoon_score": 78.0,
+      "recent_form_score": 37.4,
+      "confirmed_lineup": "Yes",
+      "rotowire_confirmed_lineup": "Yes",
+      "rotowire_batting_order": 2.0,
+      "rotowire_player_found": "Yes",
+      "lineup_disagreement": "No",
+      "lineup_sources_used": "MLB Stats API; RotoWire",
+      "source_warnings": null,
+      "stat_years_used": "H:2026/2025 P:2026",
+      "bvp_pa": null,
+      "bvp_hr": null,
+      "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
+      "recent_games": 7,
+      "recent_hits": 3,
+      "recent_abs": 24,
+      "recent_hr": 2,
+      "recent_form_note": "Hot streak: 2 HR in last 7 games",
+      "split_matchup_note": "platoon edge; pitcher baseline 7.7% barrel, 0.0 HR allowed",
+      "pitch_mix_note": "neutral batted-ball profile; pitcher allows elevated contact",
+      "barrel_pct": 16.78,
+      "hard_hit_pct": 48.25,
+      "avg_exit_velocity": 90.48,
+      "ev50": 103.2314,
+      "xslg": 0.5006,
+      "xiso": 0.2509,
+      "xwoba": 0.3804,
+      "bat_speed": 74.7,
+      "fast_swing_pct": 49.1,
+      "pull_pct": 38.19,
+      "fb_pct": 33.1,
+      "hr_total": 21.8,
+      "iso": 0.2098,
+      "pitcher_barrel_pct_allowed": 7.7,
+      "pitcher_hard_hit_pct_allowed": 46.2,
+      "pitcher_avg_exit_velocity_allowed": 92.1,
+      "pitcher_xslg_allowed": 0.332,
+      "pitcher_xiso_allowed": 0.126,
+      "pitcher_fb_pct_allowed": 46.2,
+      "wind_direction": "Out To CF",
+      "weather_temp": 80.0,
+      "ballpark": "Angel Stadium",
+      "odds": null,
+      "source_sheet_edge": false,
+      "badges": [
+        "HOT BAT",
+        "EV EDGE"
+      ],
+      "badge": "HOT BAT",
+      "badge_class": "orange",
+      "badge_summary": "HOT BAT + EV EDGE",
+      "badge_classes": [
+        "orange",
+        "blue"
+      ]
+    },
+    {
+      "rank": 4,
       "hitter_id": 700250,
       "player": "Ben Rice",
       "team": "NYY",
@@ -175,13 +251,13 @@
       "pitcher": "Bryan Woo",
       "pitcher_id": 693433,
       "pitcher_hand": "R",
-      "hr_score": 65.0,
+      "hr_score": 64.7,
       "tier": "Tier 3",
       "play_type": "Watch List",
       "reason_tags": "Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge",
       "power_score": 65.1,
       "pitcher_score": 41.2,
-      "environment_score": 77.2,
+      "environment_score": 75.2,
       "lineup_score": 100.0,
       "platoon_score": 80.0,
       "recent_form_score": 18.3,
@@ -222,8 +298,8 @@
       "pitcher_xslg_allowed": 0.3828,
       "pitcher_xiso_allowed": 0.1499,
       "pitcher_fb_pct_allowed": 28.27,
-      "wind_direction": "Out To CF",
-      "weather_temp": 84.0,
+      "wind_direction": "Out To LF",
+      "weather_temp": 82.0,
       "ballpark": "Yankee Stadium",
       "odds": null,
       "source_sheet_edge": false,
@@ -242,7 +318,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 6,
       "hitter_id": 808959,
       "player": "Munetaka Murakami",
       "team": "CWS",
@@ -320,7 +396,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "hitter_id": 687605,
       "player": "Andrew Pinckney",
       "team": "WSH",
@@ -398,7 +474,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "hitter_id": 682998,
       "player": "Corbin Carroll",
       "team": "AZ",
@@ -472,7 +548,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "hitter_id": 624413,
       "player": "Pete Alonso",
       "team": "BAL",
@@ -548,7 +624,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 11,
       "hitter_id": 621566,
       "player": "Matt Olson",
       "team": "ATL",
@@ -626,7 +702,7 @@
       ]
     },
     {
-      "rank": 11,
+      "rank": 13,
       "hitter_id": 683737,
       "player": "Michael Busch",
       "team": "CHC",
@@ -702,7 +778,7 @@
       ]
     },
     {
-      "rank": 12,
+      "rank": 16,
       "hitter_id": 677594,
       "player": "Julio Rodríguez",
       "team": "SEA",
@@ -713,13 +789,13 @@
       "pitcher": "Ryan Weathers",
       "pitcher_id": 677960,
       "pitcher_hand": "L",
-      "hr_score": 62.4,
+      "hr_score": 62.1,
       "tier": "Tier 3",
       "play_type": "Watch List",
       "reason_tags": "Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak",
       "power_score": 46.3,
       "pitcher_score": 47.3,
-      "environment_score": 77.2,
+      "environment_score": 75.2,
       "lineup_score": 96.6,
       "platoon_score": 78.0,
       "recent_form_score": 72.7,
@@ -760,8 +836,8 @@
       "pitcher_xslg_allowed": 0.4243,
       "pitcher_xiso_allowed": 0.175,
       "pitcher_fb_pct_allowed": 25.2,
-      "wind_direction": "Out To CF",
-      "weather_temp": 84.0,
+      "wind_direction": "Out To LF",
+      "weather_temp": 82.0,
       "ballpark": "Yankee Stadium",
       "odds": null,
       "source_sheet_edge": false,
@@ -778,7 +854,7 @@
       ]
     },
     {
-      "rank": 13,
+      "rank": 18,
       "hitter_id": 606466,
       "player": "Ketel Marte",
       "team": "AZ",
@@ -852,7 +928,7 @@
       ]
     },
     {
-      "rank": 14,
+      "rank": 20,
       "hitter_id": 686527,
       "player": "Dominic Canzone",
       "team": "SEA",
@@ -863,13 +939,13 @@
       "pitcher": "Ryan Weathers",
       "pitcher_id": 677960,
       "pitcher_hand": "L",
-      "hr_score": 60.5,
+      "hr_score": 60.2,
       "tier": "Tier 3",
       "play_type": "Watch List",
       "reason_tags": "Strong Barrel, Good Environment, Premium Lineup Spot",
       "power_score": 58.5,
       "pitcher_score": 47.3,
-      "environment_score": 77.2,
+      "environment_score": 75.2,
       "lineup_score": 94.9,
       "platoon_score": 50.0,
       "recent_form_score": 8.8,
@@ -910,8 +986,8 @@
       "pitcher_xslg_allowed": 0.4243,
       "pitcher_xiso_allowed": 0.175,
       "pitcher_fb_pct_allowed": 25.2,
-      "wind_direction": "Out To CF",
-      "weather_temp": 84.0,
+      "wind_direction": "Out To LF",
+      "weather_temp": 82.0,
       "ballpark": "Yankee Stadium",
       "odds": null,
       "source_sheet_edge": false,
@@ -926,81 +1002,7 @@
       ]
     },
     {
-      "rank": 15,
-      "hitter_id": 663757,
-      "player": "Trent Grisham",
-      "team": "NYY",
-      "opponent": "SEA",
-      "game_start_time": "2026-08-11T23:05:00Z",
-      "game_status": "Pre-Game",
-      "batting_order": 1,
-      "pitcher": "Bryan Woo",
-      "pitcher_id": 693433,
-      "pitcher_hand": "R",
-      "hr_score": 60.1,
-      "tier": "Tier 3",
-      "play_type": "Watch List",
-      "reason_tags": "Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge",
-      "power_score": 48.3,
-      "pitcher_score": 41.2,
-      "environment_score": 77.2,
-      "lineup_score": 93.2,
-      "platoon_score": 80.0,
-      "recent_form_score": 49.7,
-      "confirmed_lineup": "Yes",
-      "rotowire_confirmed_lineup": "Yes",
-      "rotowire_batting_order": 1.0,
-      "rotowire_player_found": "Yes",
-      "lineup_disagreement": "No",
-      "lineup_sources_used": "MLB Stats API; RotoWire",
-      "source_warnings": null,
-      "stat_years_used": "H:2026/2025 P:2026/2025",
-      "bvp_pa": null,
-      "bvp_hr": null,
-      "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
-      "recent_games": 7,
-      "recent_hits": 6,
-      "recent_abs": 29,
-      "recent_hr": 2,
-      "recent_form_note": "Hot streak: 2 HR in last 7 games",
-      "split_matchup_note": "platoon edge; pitcher baseline 7.6% barrel, 16.9 HR allowed",
-      "pitch_mix_note": "neutral batted-ball profile; pitcher fly-ball pressure modest",
-      "barrel_pct": 11.4,
-      "hard_hit_pct": 45.21,
-      "avg_exit_velocity": 90.75,
-      "ev50": 100.833,
-      "xslg": 0.4574,
-      "xiso": 0.2094,
-      "xwoba": 0.3497,
-      "bat_speed": 70.65,
-      "fast_swing_pct": 8.88,
-      "pull_pct": 46.68,
-      "fb_pct": 30.42,
-      "hr_total": 19.3,
-      "iso": 0.1933,
-      "pitcher_barrel_pct_allowed": 7.56,
-      "pitcher_hard_hit_pct_allowed": 42.43,
-      "pitcher_avg_exit_velocity_allowed": 89.38,
-      "pitcher_xslg_allowed": 0.3828,
-      "pitcher_xiso_allowed": 0.1499,
-      "pitcher_fb_pct_allowed": 28.27,
-      "wind_direction": "Out To CF",
-      "weather_temp": 84.0,
-      "ballpark": "Yankee Stadium",
-      "odds": null,
-      "source_sheet_edge": false,
-      "badges": [
-        "WEATHER EDGE"
-      ],
-      "badge": "WEATHER EDGE",
-      "badge_class": "green",
-      "badge_summary": "WEATHER EDGE",
-      "badge_classes": [
-        "green"
-      ]
-    },
-    {
-      "rank": 16,
+      "rank": 21,
       "hitter_id": 664023,
       "player": "Ian Happ",
       "team": "CHC",
@@ -1076,7 +1078,7 @@
       ]
     },
     {
-      "rank": 17,
+      "rank": 22,
       "hitter_id": 673548,
       "player": "Seiya Suzuki",
       "team": "CHC",
@@ -1152,14 +1154,14 @@
       ]
     },
     {
-      "rank": 18,
-      "hitter_id": 671277,
-      "player": "Luis García Jr.",
+      "rank": 23,
+      "hitter_id": 663757,
+      "player": "Trent Grisham",
       "team": "NYY",
       "opponent": "SEA",
       "game_start_time": "2026-08-11T23:05:00Z",
       "game_status": "Pre-Game",
-      "batting_order": 4,
+      "batting_order": 1,
       "pitcher": "Bryan Woo",
       "pitcher_id": 693433,
       "pitcher_hand": "R",
@@ -1167,15 +1169,15 @@
       "tier": "Longshot",
       "play_type": "Watch List",
       "reason_tags": "Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge",
-      "power_score": 49.5,
+      "power_score": 48.3,
       "pitcher_score": 41.2,
-      "environment_score": 77.2,
-      "lineup_score": 94.9,
+      "environment_score": 75.2,
+      "lineup_score": 93.2,
       "platoon_score": 80.0,
-      "recent_form_score": 29.2,
+      "recent_form_score": 49.7,
       "confirmed_lineup": "Yes",
       "rotowire_confirmed_lineup": "Yes",
-      "rotowire_batting_order": 4.0,
+      "rotowire_batting_order": 1.0,
       "rotowire_player_found": "Yes",
       "lineup_disagreement": "No",
       "lineup_sources_used": "MLB Stats API; RotoWire",
@@ -1185,33 +1187,33 @@
       "bvp_hr": null,
       "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
       "recent_games": 7,
-      "recent_hits": 5,
-      "recent_abs": 26,
-      "recent_hr": 1,
-      "recent_form_note": "Last 7 games: 5/26, 1 HR",
+      "recent_hits": 6,
+      "recent_abs": 29,
+      "recent_hr": 2,
+      "recent_form_note": "Hot streak: 2 HR in last 7 games",
       "split_matchup_note": "platoon edge; pitcher baseline 7.6% barrel, 16.9 HR allowed",
       "pitch_mix_note": "neutral batted-ball profile; pitcher fly-ball pressure modest",
-      "barrel_pct": 11.24,
-      "hard_hit_pct": 45.52,
-      "avg_exit_velocity": 91.11,
-      "ev50": 101.7574,
-      "xslg": 0.4931,
-      "xiso": 0.2079,
-      "xwoba": 0.3488,
-      "bat_speed": 73.59,
-      "fast_swing_pct": 38.22,
-      "pull_pct": 41.15,
-      "fb_pct": 22.05,
-      "hr_total": 21.6,
-      "iso": 0.2384,
+      "barrel_pct": 11.4,
+      "hard_hit_pct": 45.21,
+      "avg_exit_velocity": 90.75,
+      "ev50": 100.833,
+      "xslg": 0.4574,
+      "xiso": 0.2094,
+      "xwoba": 0.3497,
+      "bat_speed": 70.65,
+      "fast_swing_pct": 8.88,
+      "pull_pct": 46.68,
+      "fb_pct": 30.42,
+      "hr_total": 19.3,
+      "iso": 0.1933,
       "pitcher_barrel_pct_allowed": 7.56,
       "pitcher_hard_hit_pct_allowed": 42.43,
       "pitcher_avg_exit_velocity_allowed": 89.38,
       "pitcher_xslg_allowed": 0.3828,
       "pitcher_xiso_allowed": 0.1499,
       "pitcher_fb_pct_allowed": 28.27,
-      "wind_direction": "Out To CF",
-      "weather_temp": 84.0,
+      "wind_direction": "Out To LF",
+      "weather_temp": 82.0,
       "ballpark": "Yankee Stadium",
       "odds": null,
       "source_sheet_edge": false,
@@ -1226,7 +1228,7 @@
       ]
     },
     {
-      "rank": 19,
+      "rank": 24,
       "hitter_id": 691023,
       "player": "Jordan Walker",
       "team": "STL",
@@ -1300,30 +1302,30 @@
       ]
     },
     {
-      "rank": 20,
-      "hitter_id": 663728,
-      "player": "Cal Raleigh",
-      "team": "SEA",
-      "opponent": "NYY",
+      "rank": 25,
+      "hitter_id": 671277,
+      "player": "Luis García Jr.",
+      "team": "NYY",
+      "opponent": "SEA",
       "game_start_time": "2026-08-11T23:05:00Z",
       "game_status": "Pre-Game",
-      "batting_order": 6,
-      "pitcher": "Ryan Weathers",
-      "pitcher_id": 677960,
-      "pitcher_hand": "L",
-      "hr_score": 59.1,
+      "batting_order": 4,
+      "pitcher": "Bryan Woo",
+      "pitcher_id": 693433,
+      "pitcher_hand": "R",
+      "hr_score": 59.5,
       "tier": "Longshot",
       "play_type": "Watch List",
-      "reason_tags": "Strong Barrel, Good Environment, Platoon Edge",
-      "power_score": 54.9,
-      "pitcher_score": 45.8,
-      "environment_score": 77.2,
-      "lineup_score": 76.2,
-      "platoon_score": 75.0,
-      "recent_form_score": 19.1,
+      "reason_tags": "Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge",
+      "power_score": 49.5,
+      "pitcher_score": 41.2,
+      "environment_score": 75.2,
+      "lineup_score": 94.9,
+      "platoon_score": 80.0,
+      "recent_form_score": 29.2,
       "confirmed_lineup": "Yes",
       "rotowire_confirmed_lineup": "Yes",
-      "rotowire_batting_order": 6.0,
+      "rotowire_batting_order": 4.0,
       "rotowire_player_found": "Yes",
       "lineup_disagreement": "No",
       "lineup_sources_used": "MLB Stats API; RotoWire",
@@ -1333,50 +1335,48 @@
       "bvp_hr": null,
       "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
       "recent_games": 7,
-      "recent_hits": 3,
-      "recent_abs": 24,
+      "recent_hits": 5,
+      "recent_abs": 26,
       "recent_hr": 1,
-      "recent_form_note": "Last 7 games: 3/24, 1 HR",
-      "split_matchup_note": "switch hitter; pitcher baseline 9.0% barrel, 14.0 HR allowed",
-      "pitch_mix_note": "fly-ball profile; pitcher fly-ball pressure modest",
-      "barrel_pct": 15.02,
-      "hard_hit_pct": 38.89,
-      "avg_exit_velocity": 89.62,
-      "ev50": 100.7036,
-      "xslg": 0.4252,
-      "xiso": 0.2299,
-      "xwoba": 0.3178,
-      "bat_speed": 75.06,
-      "fast_swing_pct": 52.88,
-      "pull_pct": 53.8,
-      "fb_pct": 41.87,
-      "hr_total": 26.4,
-      "iso": 0.202,
-      "pitcher_barrel_pct_allowed": 8.97,
-      "pitcher_hard_hit_pct_allowed": 42.2,
-      "pitcher_avg_exit_velocity_allowed": 89.74,
-      "pitcher_xslg_allowed": 0.4243,
-      "pitcher_xiso_allowed": 0.175,
-      "pitcher_fb_pct_allowed": 25.2,
-      "wind_direction": "Out To CF",
-      "weather_temp": 84.0,
+      "recent_form_note": "Last 7 games: 5/26, 1 HR",
+      "split_matchup_note": "platoon edge; pitcher baseline 7.6% barrel, 16.9 HR allowed",
+      "pitch_mix_note": "neutral batted-ball profile; pitcher fly-ball pressure modest",
+      "barrel_pct": 11.24,
+      "hard_hit_pct": 45.52,
+      "avg_exit_velocity": 91.11,
+      "ev50": 101.7574,
+      "xslg": 0.4931,
+      "xiso": 0.2079,
+      "xwoba": 0.3488,
+      "bat_speed": 73.59,
+      "fast_swing_pct": 38.22,
+      "pull_pct": 41.15,
+      "fb_pct": 22.05,
+      "hr_total": 21.6,
+      "iso": 0.2384,
+      "pitcher_barrel_pct_allowed": 7.56,
+      "pitcher_hard_hit_pct_allowed": 42.43,
+      "pitcher_avg_exit_velocity_allowed": 89.38,
+      "pitcher_xslg_allowed": 0.3828,
+      "pitcher_xiso_allowed": 0.1499,
+      "pitcher_fb_pct_allowed": 28.27,
+      "wind_direction": "Out To LF",
+      "weather_temp": 82.0,
       "ballpark": "Yankee Stadium",
       "odds": null,
       "source_sheet_edge": false,
       "badges": [
-        "SLEEPER PICK",
         "WEATHER EDGE"
       ],
-      "badge": "SLEEPER PICK",
-      "badge_class": "teal",
-      "badge_summary": "SLEEPER PICK + WEATHER EDGE",
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "teal",
         "green"
       ]
     },
     {
-      "rank": 21,
+      "rank": 26,
       "hitter_id": 663457,
       "player": "Lars Nootbaar",
       "team": "AZ",
@@ -1450,7 +1450,7 @@
       ]
     },
     {
-      "rank": 22,
+      "rank": 27,
       "hitter_id": 665953,
       "player": "Andrés Chaparro",
       "team": "WSH",
@@ -1683,6 +1683,82 @@
     },
     {
       "rank": 3,
+      "hitter_id": 545361,
+      "player": "Mike Trout",
+      "team": "LAA",
+      "opponent": "TEX",
+      "game_start_time": "2026-08-12T01:38:00Z",
+      "game_status": "Pre-Game",
+      "batting_order": 2,
+      "pitcher": "Cody Bradford",
+      "pitcher_id": 674003,
+      "pitcher_hand": "L",
+      "hr_score": 64.8,
+      "tier": "Tier 3",
+      "play_type": "Watch List",
+      "reason_tags": "Strong Barrel, Premium Lineup Spot, Platoon Edge",
+      "power_score": 64.3,
+      "pitcher_score": 44.2,
+      "environment_score": 67.2,
+      "lineup_score": 100.0,
+      "platoon_score": 78.0,
+      "recent_form_score": 37.4,
+      "confirmed_lineup": "Yes",
+      "rotowire_confirmed_lineup": "Yes",
+      "rotowire_batting_order": 2.0,
+      "rotowire_player_found": "Yes",
+      "lineup_disagreement": "No",
+      "lineup_sources_used": "MLB Stats API; RotoWire",
+      "source_warnings": null,
+      "stat_years_used": "H:2026/2025 P:2026",
+      "bvp_pa": null,
+      "bvp_hr": null,
+      "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
+      "recent_games": 7,
+      "recent_hits": 3,
+      "recent_abs": 24,
+      "recent_hr": 2,
+      "recent_form_note": "Hot streak: 2 HR in last 7 games",
+      "split_matchup_note": "platoon edge; pitcher baseline 7.7% barrel, 0.0 HR allowed",
+      "pitch_mix_note": "neutral batted-ball profile; pitcher allows elevated contact",
+      "barrel_pct": 16.78,
+      "hard_hit_pct": 48.25,
+      "avg_exit_velocity": 90.48,
+      "ev50": 103.2314,
+      "xslg": 0.5006,
+      "xiso": 0.2509,
+      "xwoba": 0.3804,
+      "bat_speed": 74.7,
+      "fast_swing_pct": 49.1,
+      "pull_pct": 38.19,
+      "fb_pct": 33.1,
+      "hr_total": 21.8,
+      "iso": 0.2098,
+      "pitcher_barrel_pct_allowed": 7.7,
+      "pitcher_hard_hit_pct_allowed": 46.2,
+      "pitcher_avg_exit_velocity_allowed": 92.1,
+      "pitcher_xslg_allowed": 0.332,
+      "pitcher_xiso_allowed": 0.126,
+      "pitcher_fb_pct_allowed": 46.2,
+      "wind_direction": "Out To CF",
+      "weather_temp": 80.0,
+      "ballpark": "Angel Stadium",
+      "odds": null,
+      "source_sheet_edge": false,
+      "badges": [
+        "HOT BAT",
+        "EV EDGE"
+      ],
+      "badge": "HOT BAT",
+      "badge_class": "orange",
+      "badge_summary": "HOT BAT + EV EDGE",
+      "badge_classes": [
+        "orange",
+        "blue"
+      ]
+    },
+    {
+      "rank": 4,
       "hitter_id": 700250,
       "player": "Ben Rice",
       "team": "NYY",
@@ -1693,13 +1769,13 @@
       "pitcher": "Bryan Woo",
       "pitcher_id": 693433,
       "pitcher_hand": "R",
-      "hr_score": 65.0,
+      "hr_score": 64.7,
       "tier": "Tier 3",
       "play_type": "Watch List",
       "reason_tags": "Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge",
       "power_score": 65.1,
       "pitcher_score": 41.2,
-      "environment_score": 77.2,
+      "environment_score": 75.2,
       "lineup_score": 100.0,
       "platoon_score": 80.0,
       "recent_form_score": 18.3,
@@ -1740,8 +1816,8 @@
       "pitcher_xslg_allowed": 0.3828,
       "pitcher_xiso_allowed": 0.1499,
       "pitcher_fb_pct_allowed": 28.27,
-      "wind_direction": "Out To CF",
-      "weather_temp": 84.0,
+      "wind_direction": "Out To LF",
+      "weather_temp": 82.0,
       "ballpark": "Yankee Stadium",
       "odds": null,
       "source_sheet_edge": false,
@@ -1760,7 +1836,85 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "hitter_id": 691406,
+      "player": "Junior Caminero",
+      "team": "TB",
+      "opponent": "ATH",
+      "game_start_time": "2026-08-12T01:40:00Z",
+      "game_status": "Pre-Game",
+      "batting_order": 4,
+      "pitcher": "Mason Barnett",
+      "pitcher_id": 686930,
+      "pitcher_hand": "R",
+      "hr_score": 64.6,
+      "tier": "Tier 3",
+      "play_type": "Watch List",
+      "reason_tags": "Projected Lineup, Strong Barrel, Good Environment, Premium Lineup Spot",
+      "power_score": 64.5,
+      "pitcher_score": 47.1,
+      "environment_score": 76.4,
+      "lineup_score": 90.4,
+      "platoon_score": 50.0,
+      "recent_form_score": 68.0,
+      "confirmed_lineup": "No",
+      "rotowire_confirmed_lineup": "No",
+      "rotowire_batting_order": 4.0,
+      "rotowire_player_found": "Yes",
+      "lineup_disagreement": "Yes",
+      "lineup_sources_used": "RotoWire projected lineup; MLB probable pitchers",
+      "source_warnings": "lineup projected / unconfirmed",
+      "stat_years_used": "H:2026/2025 P:2026/2025",
+      "bvp_pa": null,
+      "bvp_hr": null,
+      "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
+      "recent_games": 7,
+      "recent_hits": 6,
+      "recent_abs": 29,
+      "recent_hr": 4,
+      "recent_form_note": "Hot streak: 4 HR in last 7 games",
+      "split_matchup_note": "same-side matchup; pitcher baseline 10.1% barrel, 6.5 HR allowed",
+      "pitch_mix_note": "EV profile; pitcher allows elevated contact",
+      "barrel_pct": 13.86,
+      "hard_hit_pct": 50.98,
+      "avg_exit_velocity": 92.89,
+      "ev50": 105.3473,
+      "xslg": 0.5087,
+      "xiso": 0.2411,
+      "xwoba": 0.3649,
+      "bat_speed": 79.41,
+      "fast_swing_pct": 85.6,
+      "pull_pct": 45.66,
+      "fb_pct": 23.7,
+      "hr_total": 37.3,
+      "iso": 0.2717,
+      "pitcher_barrel_pct_allowed": 10.1,
+      "pitcher_hard_hit_pct_allowed": 39.56,
+      "pitcher_avg_exit_velocity_allowed": 89.2,
+      "pitcher_xslg_allowed": 0.4004,
+      "pitcher_xiso_allowed": 0.1726,
+      "pitcher_fb_pct_allowed": 33.23,
+      "wind_direction": "Out To CF",
+      "weather_temp": 91.0,
+      "ballpark": "Sutter Health Park",
+      "odds": null,
+      "source_sheet_edge": false,
+      "badges": [
+        "HOT BAT",
+        "EV EDGE",
+        "WEATHER EDGE"
+      ],
+      "badge": "HOT BAT",
+      "badge_class": "orange",
+      "badge_summary": "HOT BAT + EV EDGE + WEATHER EDGE",
+      "badge_classes": [
+        "orange",
+        "blue",
+        "green"
+      ]
+    },
+    {
+      "rank": 6,
       "hitter_id": 808959,
       "player": "Munetaka Murakami",
       "team": "CWS",
@@ -1838,7 +1992,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "hitter_id": 687605,
       "player": "Andrew Pinckney",
       "team": "WSH",
@@ -1916,7 +2070,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "hitter_id": 682998,
       "player": "Corbin Carroll",
       "team": "AZ",
@@ -1990,7 +2144,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "hitter_id": 670541,
       "player": "Yordan Alvarez",
       "team": "HOU",
@@ -2068,7 +2222,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "hitter_id": 624413,
       "player": "Pete Alonso",
       "team": "BAL",
@@ -2144,7 +2298,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 11,
       "hitter_id": 621566,
       "player": "Matt Olson",
       "team": "ATL",
@@ -2222,7 +2376,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 12,
       "hitter_id": 660271,
       "player": "Shohei Ohtani",
       "team": "LAD",
@@ -2300,7 +2454,7 @@
       ]
     },
     {
-      "rank": 11,
+      "rank": 13,
       "hitter_id": 683737,
       "player": "Michael Busch",
       "team": "CHC",
@@ -2376,7 +2530,155 @@
       ]
     },
     {
-      "rank": 12,
+      "rank": 14,
+      "hitter_id": 608369,
+      "player": "Corey Seager",
+      "team": "TEX",
+      "opponent": "LAA",
+      "game_start_time": "2026-08-12T01:38:00Z",
+      "game_status": "Pre-Game",
+      "batting_order": 3,
+      "pitcher": "Ryan Johnson",
+      "pitcher_id": 696270,
+      "pitcher_hand": "R",
+      "hr_score": 62.5,
+      "tier": "Tier 3",
+      "play_type": "Watch List",
+      "reason_tags": "Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge",
+      "power_score": 58.9,
+      "pitcher_score": 46.8,
+      "environment_score": 67.2,
+      "lineup_score": 92.1,
+      "platoon_score": 80.0,
+      "recent_form_score": 33.7,
+      "confirmed_lineup": "No",
+      "rotowire_confirmed_lineup": "No",
+      "rotowire_batting_order": 3.0,
+      "rotowire_player_found": "Yes",
+      "lineup_disagreement": "Yes",
+      "lineup_sources_used": "RotoWire projected lineup; MLB probable pitchers",
+      "source_warnings": "lineup projected / unconfirmed",
+      "stat_years_used": "H:2026/2025 P:2026/2025",
+      "bvp_pa": null,
+      "bvp_hr": null,
+      "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
+      "recent_games": 7,
+      "recent_hits": 6,
+      "recent_abs": 27,
+      "recent_hr": 1,
+      "recent_form_note": "Last 7 games: 6/27, 1 HR",
+      "split_matchup_note": "platoon edge; pitcher baseline 10.0% barrel, 10.3 HR allowed",
+      "pitch_mix_note": "neutral batted-ball profile; pitcher allows elevated contact",
+      "barrel_pct": 14.39,
+      "hard_hit_pct": 48.21,
+      "avg_exit_velocity": 91.78,
+      "ev50": 102.5152,
+      "xslg": 0.4836,
+      "xiso": 0.2364,
+      "xwoba": 0.3538,
+      "bat_speed": 71.94,
+      "fast_swing_pct": 15.51,
+      "pull_pct": 41.48,
+      "fb_pct": 31.41,
+      "hr_total": 14.0,
+      "iso": 0.1922,
+      "pitcher_barrel_pct_allowed": 9.97,
+      "pitcher_hard_hit_pct_allowed": 36.07,
+      "pitcher_avg_exit_velocity_allowed": 87.26,
+      "pitcher_xslg_allowed": 0.4535,
+      "pitcher_xiso_allowed": 0.191,
+      "pitcher_fb_pct_allowed": 32.55,
+      "wind_direction": "Out To CF",
+      "weather_temp": 80.0,
+      "ballpark": "Angel Stadium",
+      "odds": null,
+      "source_sheet_edge": true,
+      "badges": [
+        "SOURCE SHEET"
+      ],
+      "badge": "SOURCE SHEET",
+      "badge_class": "gold",
+      "badge_summary": "SOURCE SHEET",
+      "badge_classes": [
+        "gold"
+      ]
+    },
+    {
+      "rank": 15,
+      "hitter_id": 666018,
+      "player": "Jonathan Aranda",
+      "team": "TB",
+      "opponent": "ATH",
+      "game_start_time": "2026-08-12T01:40:00Z",
+      "game_status": "Pre-Game",
+      "batting_order": 2,
+      "pitcher": "Mason Barnett",
+      "pitcher_id": 686930,
+      "pitcher_hand": "R",
+      "hr_score": 62.4,
+      "tier": "Tier 3",
+      "play_type": "Watch List",
+      "reason_tags": "Projected Lineup, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge",
+      "power_score": 48.8,
+      "pitcher_score": 47.1,
+      "environment_score": 76.4,
+      "lineup_score": 95.5,
+      "platoon_score": 80.0,
+      "recent_form_score": 58.4,
+      "confirmed_lineup": "No",
+      "rotowire_confirmed_lineup": "No",
+      "rotowire_batting_order": 2.0,
+      "rotowire_player_found": "Yes",
+      "lineup_disagreement": "Yes",
+      "lineup_sources_used": "RotoWire projected lineup; MLB probable pitchers",
+      "source_warnings": "lineup projected / unconfirmed",
+      "stat_years_used": "H:2026/2025 P:2026/2025",
+      "bvp_pa": null,
+      "bvp_hr": null,
+      "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
+      "recent_games": 7,
+      "recent_hits": 12,
+      "recent_abs": 31,
+      "recent_hr": 1,
+      "recent_form_note": "Contact streak: 12/31 over last 7 games",
+      "split_matchup_note": "platoon edge; pitcher baseline 10.1% barrel, 6.5 HR allowed",
+      "pitch_mix_note": "neutral batted-ball profile; pitcher allows elevated contact",
+      "barrel_pct": 10.8,
+      "hard_hit_pct": 48.06,
+      "avg_exit_velocity": 91.53,
+      "ev50": 101.3732,
+      "xslg": 0.4709,
+      "xiso": 0.1974,
+      "xwoba": 0.3638,
+      "bat_speed": 70.15,
+      "fast_swing_pct": 12.2,
+      "pull_pct": 31.38,
+      "fb_pct": 30.34,
+      "hr_total": 14.7,
+      "iso": 0.1555,
+      "pitcher_barrel_pct_allowed": 10.1,
+      "pitcher_hard_hit_pct_allowed": 39.56,
+      "pitcher_avg_exit_velocity_allowed": 89.2,
+      "pitcher_xslg_allowed": 0.4004,
+      "pitcher_xiso_allowed": 0.1726,
+      "pitcher_fb_pct_allowed": 33.23,
+      "wind_direction": "Out To CF",
+      "weather_temp": 91.0,
+      "ballpark": "Sutter Health Park",
+      "odds": null,
+      "source_sheet_edge": false,
+      "badges": [
+        "WEATHER EDGE"
+      ],
+      "badge": "WEATHER EDGE",
+      "badge_class": "green",
+      "badge_summary": "WEATHER EDGE",
+      "badge_classes": [
+        "green"
+      ]
+    },
+    {
+      "rank": 16,
       "hitter_id": 677594,
       "player": "Julio Rodríguez",
       "team": "SEA",
@@ -2387,13 +2689,13 @@
       "pitcher": "Ryan Weathers",
       "pitcher_id": 677960,
       "pitcher_hand": "L",
-      "hr_score": 62.4,
+      "hr_score": 62.1,
       "tier": "Tier 3",
       "play_type": "Watch List",
       "reason_tags": "Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak",
       "power_score": 46.3,
       "pitcher_score": 47.3,
-      "environment_score": 77.2,
+      "environment_score": 75.2,
       "lineup_score": 96.6,
       "platoon_score": 78.0,
       "recent_form_score": 72.7,
@@ -2434,8 +2736,8 @@
       "pitcher_xslg_allowed": 0.4243,
       "pitcher_xiso_allowed": 0.175,
       "pitcher_fb_pct_allowed": 25.2,
-      "wind_direction": "Out To CF",
-      "weather_temp": 84.0,
+      "wind_direction": "Out To LF",
+      "weather_temp": 82.0,
       "ballpark": "Yankee Stadium",
       "odds": null,
       "source_sheet_edge": false,
@@ -2452,7 +2754,85 @@
       ]
     },
     {
-      "rank": 13,
+      "rank": 17,
+      "hitter_id": 607043,
+      "player": "Brandon Nimmo",
+      "team": "TEX",
+      "opponent": "LAA",
+      "game_start_time": "2026-08-12T01:38:00Z",
+      "game_status": "Pre-Game",
+      "batting_order": 4,
+      "pitcher": "Ryan Johnson",
+      "pitcher_id": 696270,
+      "pitcher_hand": "R",
+      "hr_score": 61.7,
+      "tier": "Tier 3",
+      "play_type": "Watch List",
+      "reason_tags": "Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak",
+      "power_score": 50.9,
+      "pitcher_score": 46.8,
+      "environment_score": 67.2,
+      "lineup_score": 90.4,
+      "platoon_score": 80.0,
+      "recent_form_score": 74.2,
+      "confirmed_lineup": "No",
+      "rotowire_confirmed_lineup": "No",
+      "rotowire_batting_order": 4.0,
+      "rotowire_player_found": "Yes",
+      "lineup_disagreement": "Yes",
+      "lineup_sources_used": "RotoWire projected lineup; MLB probable pitchers",
+      "source_warnings": "lineup projected / unconfirmed",
+      "stat_years_used": "H:2026/2025 P:2026/2025",
+      "bvp_pa": null,
+      "bvp_hr": null,
+      "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
+      "recent_games": 7,
+      "recent_hits": 10,
+      "recent_abs": 27,
+      "recent_hr": 2,
+      "recent_form_note": "Hot streak: 2 HR in last 7 games",
+      "split_matchup_note": "platoon edge; pitcher baseline 10.0% barrel, 10.3 HR allowed",
+      "pitch_mix_note": "EV profile; pitcher allows elevated contact",
+      "barrel_pct": 10.48,
+      "hard_hit_pct": 51.32,
+      "avg_exit_velocity": 92.04,
+      "ev50": 102.2003,
+      "xslg": 0.4785,
+      "xiso": 0.1978,
+      "xwoba": 0.3574,
+      "bat_speed": 72.2,
+      "fast_swing_pct": 27.04,
+      "pull_pct": 32.19,
+      "fb_pct": 26.19,
+      "hr_total": 16.6,
+      "iso": 0.1726,
+      "pitcher_barrel_pct_allowed": 9.97,
+      "pitcher_hard_hit_pct_allowed": 36.07,
+      "pitcher_avg_exit_velocity_allowed": 87.26,
+      "pitcher_xslg_allowed": 0.4535,
+      "pitcher_xiso_allowed": 0.191,
+      "pitcher_fb_pct_allowed": 32.55,
+      "wind_direction": "Out To CF",
+      "weather_temp": 80.0,
+      "ballpark": "Angel Stadium",
+      "odds": null,
+      "source_sheet_edge": true,
+      "badges": [
+        "HOT BAT",
+        "EV EDGE",
+        "SOURCE SHEET"
+      ],
+      "badge": "HOT BAT",
+      "badge_class": "orange",
+      "badge_summary": "HOT BAT + EV EDGE + SOURCE SHEET",
+      "badge_classes": [
+        "orange",
+        "blue",
+        "gold"
+      ]
+    },
+    {
+      "rank": 18,
       "hitter_id": 606466,
       "player": "Ketel Marte",
       "team": "AZ",
@@ -2526,7 +2906,83 @@
       ]
     },
     {
-      "rank": 14,
+      "rank": 19,
+      "hitter_id": 641343,
+      "player": "Jake Bauers",
+      "team": "MIL",
+      "opponent": "SD",
+      "game_start_time": "2026-08-12T01:40:00Z",
+      "game_status": "Pre-Game",
+      "batting_order": 3,
+      "pitcher": "Walker Buehler",
+      "pitcher_id": 621111,
+      "pitcher_hand": "R",
+      "hr_score": 60.9,
+      "tier": "Tier 3",
+      "play_type": "Watch List",
+      "reason_tags": "Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge",
+      "power_score": 61.5,
+      "pitcher_score": 43.8,
+      "environment_score": 45.6,
+      "lineup_score": 92.1,
+      "platoon_score": 80.0,
+      "recent_form_score": 62.4,
+      "confirmed_lineup": "No",
+      "rotowire_confirmed_lineup": "No",
+      "rotowire_batting_order": 3.0,
+      "rotowire_player_found": "Yes",
+      "lineup_disagreement": "Yes",
+      "lineup_sources_used": "RotoWire projected lineup; MLB probable pitchers",
+      "source_warnings": "lineup projected / unconfirmed",
+      "stat_years_used": "H:2026/2025 P:2026/2025",
+      "bvp_pa": null,
+      "bvp_hr": null,
+      "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
+      "recent_games": 7,
+      "recent_hits": 7,
+      "recent_abs": 24,
+      "recent_hr": 2,
+      "recent_form_note": "Hot streak: 2 HR in last 7 games",
+      "split_matchup_note": "platoon edge; pitcher baseline 8.8% barrel, 16.4 HR allowed",
+      "pitch_mix_note": "lift-pull EV profile; pitcher fly-ball pressure modest",
+      "barrel_pct": 13.91,
+      "hard_hit_pct": 51.2,
+      "avg_exit_velocity": 92.47,
+      "ev50": 103.1955,
+      "xslg": 0.4731,
+      "xiso": 0.2216,
+      "xwoba": 0.3638,
+      "bat_speed": 76.64,
+      "fast_swing_pct": 71.61,
+      "pull_pct": 41.11,
+      "fb_pct": 30.54,
+      "hr_total": 16.8,
+      "iso": 0.2137,
+      "pitcher_barrel_pct_allowed": 8.8,
+      "pitcher_hard_hit_pct_allowed": 39.83,
+      "pitcher_avg_exit_velocity_allowed": 89.23,
+      "pitcher_xslg_allowed": 0.4185,
+      "pitcher_xiso_allowed": 0.1617,
+      "pitcher_fb_pct_allowed": 23.37,
+      "wind_direction": "L To R",
+      "weather_temp": 75.0,
+      "ballpark": "Petco Park",
+      "odds": null,
+      "source_sheet_edge": true,
+      "badges": [
+        "EV EDGE",
+        "SOURCE SHEET"
+      ],
+      "badge": "EV EDGE",
+      "badge_class": "blue",
+      "badge_summary": "EV EDGE + SOURCE SHEET",
+      "badge_classes": [
+        "blue",
+        "gold"
+      ]
+    },
+    {
+      "rank": 20,
       "hitter_id": 686527,
       "player": "Dominic Canzone",
       "team": "SEA",
@@ -2537,13 +2993,13 @@
       "pitcher": "Ryan Weathers",
       "pitcher_id": 677960,
       "pitcher_hand": "L",
-      "hr_score": 60.5,
+      "hr_score": 60.2,
       "tier": "Tier 3",
       "play_type": "Watch List",
       "reason_tags": "Strong Barrel, Good Environment, Premium Lineup Spot",
       "power_score": 58.5,
       "pitcher_score": 47.3,
-      "environment_score": 77.2,
+      "environment_score": 75.2,
       "lineup_score": 94.9,
       "platoon_score": 50.0,
       "recent_form_score": 8.8,
@@ -2584,8 +3040,8 @@
       "pitcher_xslg_allowed": 0.4243,
       "pitcher_xiso_allowed": 0.175,
       "pitcher_fb_pct_allowed": 25.2,
-      "wind_direction": "Out To CF",
-      "weather_temp": 84.0,
+      "wind_direction": "Out To LF",
+      "weather_temp": 82.0,
       "ballpark": "Yankee Stadium",
       "odds": null,
       "source_sheet_edge": false,
@@ -2596,468 +3052,27 @@
       "badge_class": "green",
       "badge_summary": "WEATHER EDGE",
       "badge_classes": [
-        "green"
-      ]
-    },
-    {
-      "rank": 15,
-      "hitter_id": 663757,
-      "player": "Trent Grisham",
-      "team": "NYY",
-      "opponent": "SEA",
-      "game_start_time": "2026-08-11T23:05:00Z",
-      "game_status": "Pre-Game",
-      "batting_order": 1,
-      "pitcher": "Bryan Woo",
-      "pitcher_id": 693433,
-      "pitcher_hand": "R",
-      "hr_score": 60.1,
-      "tier": "Tier 3",
-      "play_type": "Watch List",
-      "reason_tags": "Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge",
-      "power_score": 48.3,
-      "pitcher_score": 41.2,
-      "environment_score": 77.2,
-      "lineup_score": 93.2,
-      "platoon_score": 80.0,
-      "recent_form_score": 49.7,
-      "confirmed_lineup": "Yes",
-      "rotowire_confirmed_lineup": "Yes",
-      "rotowire_batting_order": 1.0,
-      "rotowire_player_found": "Yes",
-      "lineup_disagreement": "No",
-      "lineup_sources_used": "MLB Stats API; RotoWire",
-      "source_warnings": null,
-      "stat_years_used": "H:2026/2025 P:2026/2025",
-      "bvp_pa": null,
-      "bvp_hr": null,
-      "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
-      "recent_games": 7,
-      "recent_hits": 6,
-      "recent_abs": 29,
-      "recent_hr": 2,
-      "recent_form_note": "Hot streak: 2 HR in last 7 games",
-      "split_matchup_note": "platoon edge; pitcher baseline 7.6% barrel, 16.9 HR allowed",
-      "pitch_mix_note": "neutral batted-ball profile; pitcher fly-ball pressure modest",
-      "barrel_pct": 11.4,
-      "hard_hit_pct": 45.21,
-      "avg_exit_velocity": 90.75,
-      "ev50": 100.833,
-      "xslg": 0.4574,
-      "xiso": 0.2094,
-      "xwoba": 0.3497,
-      "bat_speed": 70.65,
-      "fast_swing_pct": 8.88,
-      "pull_pct": 46.68,
-      "fb_pct": 30.42,
-      "hr_total": 19.3,
-      "iso": 0.1933,
-      "pitcher_barrel_pct_allowed": 7.56,
-      "pitcher_hard_hit_pct_allowed": 42.43,
-      "pitcher_avg_exit_velocity_allowed": 89.38,
-      "pitcher_xslg_allowed": 0.3828,
-      "pitcher_xiso_allowed": 0.1499,
-      "pitcher_fb_pct_allowed": 28.27,
-      "wind_direction": "Out To CF",
-      "weather_temp": 84.0,
-      "ballpark": "Yankee Stadium",
-      "odds": null,
-      "source_sheet_edge": false,
-      "badges": [
-        "WEATHER EDGE"
-      ],
-      "badge": "WEATHER EDGE",
-      "badge_class": "green",
-      "badge_summary": "WEATHER EDGE",
-      "badge_classes": [
-        "green"
-      ]
-    },
-    {
-      "rank": 16,
-      "hitter_id": 664023,
-      "player": "Ian Happ",
-      "team": "CHC",
-      "opponent": "WSH",
-      "game_start_time": "2026-08-11T22:45:00Z",
-      "game_status": "Pre-Game",
-      "batting_order": 5,
-      "pitcher": "Jake Irvin",
-      "pitcher_id": 663623,
-      "pitcher_hand": "R",
-      "hr_score": 60.0,
-      "tier": "Tier 3",
-      "play_type": "Watch List",
-      "reason_tags": "Strong Barrel, Platoon Edge",
-      "power_score": 44.3,
-      "pitcher_score": 64.8,
-      "environment_score": 55.7,
-      "lineup_score": 86.4,
-      "platoon_score": 75.0,
-      "recent_form_score": 52.8,
-      "confirmed_lineup": "Yes",
-      "rotowire_confirmed_lineup": "Yes",
-      "rotowire_batting_order": 5.0,
-      "rotowire_player_found": "Yes",
-      "lineup_disagreement": "No",
-      "lineup_sources_used": "MLB Stats API; RotoWire",
-      "source_warnings": null,
-      "stat_years_used": "H:2026/2025 P:2026/2025",
-      "bvp_pa": null,
-      "bvp_hr": null,
-      "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
-      "recent_games": 7,
-      "recent_hits": 5,
-      "recent_abs": 22,
-      "recent_hr": 2,
-      "recent_form_note": "Hot streak: 2 HR in last 7 games",
-      "split_matchup_note": "switch hitter; pitcher baseline 12.8% barrel, 18.4 HR allowed",
-      "pitch_mix_note": "neutral batted-ball profile; pitcher allows elevated contact",
-      "barrel_pct": 11.24,
-      "hard_hit_pct": 42.65,
-      "avg_exit_velocity": 89.51,
-      "ev50": 100.8917,
-      "xslg": 0.4129,
-      "xiso": 0.1958,
-      "xwoba": 0.3232,
-      "bat_speed": 71.88,
-      "fast_swing_pct": 19.06,
-      "pull_pct": 43.84,
-      "fb_pct": 33.02,
-      "hr_total": 20.9,
-      "iso": 0.1959,
-      "pitcher_barrel_pct_allowed": 12.84,
-      "pitcher_hard_hit_pct_allowed": 44.72,
-      "pitcher_avg_exit_velocity_allowed": 89.49,
-      "pitcher_xslg_allowed": 0.4798,
-      "pitcher_xiso_allowed": 0.2232,
-      "pitcher_fb_pct_allowed": 31.33,
-      "wind_direction": "L To R",
-      "weather_temp": 86.0,
-      "ballpark": "Nationals Park",
-      "odds": null,
-      "source_sheet_edge": true,
-      "badges": [
-        "SLEEPER PICK",
-        "SOURCE SHEET"
-      ],
-      "badge": "SLEEPER PICK",
-      "badge_class": "teal",
-      "badge_summary": "SLEEPER PICK + SOURCE SHEET",
-      "badge_classes": [
-        "teal",
-        "gold"
-      ]
-    },
-    {
-      "rank": 17,
-      "hitter_id": 673548,
-      "player": "Seiya Suzuki",
-      "team": "CHC",
-      "opponent": "WSH",
-      "game_start_time": "2026-08-11T22:45:00Z",
-      "game_status": "Pre-Game",
-      "batting_order": 2,
-      "pitcher": "Jake Irvin",
-      "pitcher_id": 663623,
-      "pitcher_hand": "R",
-      "hr_score": 59.9,
-      "tier": "Longshot",
-      "play_type": "Watch List",
-      "reason_tags": "Strong Barrel, Premium Lineup Spot",
-      "power_score": 45.9,
-      "pitcher_score": 66.8,
-      "environment_score": 55.7,
-      "lineup_score": 100.0,
-      "platoon_score": 50.0,
-      "recent_form_score": 37.8,
-      "confirmed_lineup": "Yes",
-      "rotowire_confirmed_lineup": "Yes",
-      "rotowire_batting_order": 2.0,
-      "rotowire_player_found": "Yes",
-      "lineup_disagreement": "No",
-      "lineup_sources_used": "MLB Stats API; RotoWire",
-      "source_warnings": null,
-      "stat_years_used": "H:2026/2025 P:2026/2025",
-      "bvp_pa": null,
-      "bvp_hr": null,
-      "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
-      "recent_games": 7,
-      "recent_hits": 7,
-      "recent_abs": 28,
-      "recent_hr": 1,
-      "recent_form_note": "Last 7 games: 7/28, 1 HR",
-      "split_matchup_note": "same-side matchup; pitcher baseline 12.8% barrel, 18.4 HR allowed",
-      "pitch_mix_note": "neutral batted-ball profile; pitcher allows elevated contact",
-      "barrel_pct": 11.91,
-      "hard_hit_pct": 41.7,
-      "avg_exit_velocity": 89.55,
-      "ev50": 101.141,
-      "xslg": 0.4398,
-      "xiso": 0.1935,
-      "xwoba": 0.338,
-      "bat_speed": 73.3,
-      "fast_swing_pct": 36.97,
-      "pull_pct": 42.46,
-      "fb_pct": 30.57,
-      "hr_total": 22.9,
-      "iso": 0.2106,
-      "pitcher_barrel_pct_allowed": 12.84,
-      "pitcher_hard_hit_pct_allowed": 44.72,
-      "pitcher_avg_exit_velocity_allowed": 89.49,
-      "pitcher_xslg_allowed": 0.4798,
-      "pitcher_xiso_allowed": 0.2232,
-      "pitcher_fb_pct_allowed": 31.33,
-      "wind_direction": "L To R",
-      "weather_temp": 86.0,
-      "ballpark": "Nationals Park",
-      "odds": null,
-      "source_sheet_edge": true,
-      "badges": [
-        "PITCHER TARGET",
-        "SOURCE SHEET"
-      ],
-      "badge": "PITCHER TARGET",
-      "badge_class": "red",
-      "badge_summary": "PITCHER TARGET + SOURCE SHEET",
-      "badge_classes": [
-        "red",
-        "gold"
-      ]
-    },
-    {
-      "rank": 18,
-      "hitter_id": 671277,
-      "player": "Luis García Jr.",
-      "team": "NYY",
-      "opponent": "SEA",
-      "game_start_time": "2026-08-11T23:05:00Z",
-      "game_status": "Pre-Game",
-      "batting_order": 4,
-      "pitcher": "Bryan Woo",
-      "pitcher_id": 693433,
-      "pitcher_hand": "R",
-      "hr_score": 59.8,
-      "tier": "Longshot",
-      "play_type": "Watch List",
-      "reason_tags": "Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge",
-      "power_score": 49.5,
-      "pitcher_score": 41.2,
-      "environment_score": 77.2,
-      "lineup_score": 94.9,
-      "platoon_score": 80.0,
-      "recent_form_score": 29.2,
-      "confirmed_lineup": "Yes",
-      "rotowire_confirmed_lineup": "Yes",
-      "rotowire_batting_order": 4.0,
-      "rotowire_player_found": "Yes",
-      "lineup_disagreement": "No",
-      "lineup_sources_used": "MLB Stats API; RotoWire",
-      "source_warnings": null,
-      "stat_years_used": "H:2026/2025 P:2026/2025",
-      "bvp_pa": null,
-      "bvp_hr": null,
-      "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
-      "recent_games": 7,
-      "recent_hits": 5,
-      "recent_abs": 26,
-      "recent_hr": 1,
-      "recent_form_note": "Last 7 games: 5/26, 1 HR",
-      "split_matchup_note": "platoon edge; pitcher baseline 7.6% barrel, 16.9 HR allowed",
-      "pitch_mix_note": "neutral batted-ball profile; pitcher fly-ball pressure modest",
-      "barrel_pct": 11.24,
-      "hard_hit_pct": 45.52,
-      "avg_exit_velocity": 91.11,
-      "ev50": 101.7574,
-      "xslg": 0.4931,
-      "xiso": 0.2079,
-      "xwoba": 0.3488,
-      "bat_speed": 73.59,
-      "fast_swing_pct": 38.22,
-      "pull_pct": 41.15,
-      "fb_pct": 22.05,
-      "hr_total": 21.6,
-      "iso": 0.2384,
-      "pitcher_barrel_pct_allowed": 7.56,
-      "pitcher_hard_hit_pct_allowed": 42.43,
-      "pitcher_avg_exit_velocity_allowed": 89.38,
-      "pitcher_xslg_allowed": 0.3828,
-      "pitcher_xiso_allowed": 0.1499,
-      "pitcher_fb_pct_allowed": 28.27,
-      "wind_direction": "Out To CF",
-      "weather_temp": 84.0,
-      "ballpark": "Yankee Stadium",
-      "odds": null,
-      "source_sheet_edge": false,
-      "badges": [
-        "WEATHER EDGE"
-      ],
-      "badge": "WEATHER EDGE",
-      "badge_class": "green",
-      "badge_summary": "WEATHER EDGE",
-      "badge_classes": [
-        "green"
-      ]
-    },
-    {
-      "rank": 19,
-      "hitter_id": 691023,
-      "player": "Jordan Walker",
-      "team": "STL",
-      "opponent": "PHI",
-      "game_start_time": "2026-08-11T23:45:00Z",
-      "game_status": "Pre-Game",
-      "batting_order": 3,
-      "pitcher": "Cristopher Sánchez",
-      "pitcher_id": 650911,
-      "pitcher_hand": "L",
-      "hr_score": 59.6,
-      "tier": "Longshot",
-      "play_type": "Watch List",
-      "reason_tags": "Strong Barrel, Premium Lineup Spot, Platoon Edge",
-      "power_score": 55.6,
-      "pitcher_score": 33.3,
-      "environment_score": 67.6,
-      "lineup_score": 96.6,
-      "platoon_score": 78.0,
-      "recent_form_score": 51.9,
-      "confirmed_lineup": "Yes",
-      "rotowire_confirmed_lineup": "Yes",
-      "rotowire_batting_order": 3.0,
-      "rotowire_player_found": "Yes",
-      "lineup_disagreement": "No",
-      "lineup_sources_used": "MLB Stats API; RotoWire",
-      "source_warnings": null,
-      "stat_years_used": "H:2026/2025 P:2026/2025",
-      "bvp_pa": null,
-      "bvp_hr": null,
-      "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
-      "recent_games": 7,
-      "recent_hits": 11,
-      "recent_abs": 32,
-      "recent_hr": 1,
-      "recent_form_note": "Contact streak: 11/32 over last 7 games",
-      "split_matchup_note": "platoon edge; pitcher baseline 7.2% barrel, 12.7 HR allowed",
-      "pitch_mix_note": "EV profile; pitcher fly-ball pressure modest",
-      "barrel_pct": 12.58,
-      "hard_hit_pct": 48.32,
-      "avg_exit_velocity": 92.58,
-      "ev50": 104.7741,
-      "xslg": 0.4498,
-      "xiso": 0.1942,
-      "xwoba": 0.3319,
-      "bat_speed": 78.87,
-      "fast_swing_pct": 83.05,
-      "pull_pct": 38.59,
-      "fb_pct": 23.42,
-      "hr_total": 17.9,
-      "iso": 0.1708,
-      "pitcher_barrel_pct_allowed": 7.17,
-      "pitcher_hard_hit_pct_allowed": 41.83,
-      "pitcher_avg_exit_velocity_allowed": 89.28,
-      "pitcher_xslg_allowed": 0.3569,
-      "pitcher_xiso_allowed": 0.1242,
-      "pitcher_fb_pct_allowed": 16.97,
-      "wind_direction": "Out To CF",
-      "weather_temp": 95.0,
-      "ballpark": "Busch Stadium",
-      "odds": null,
-      "source_sheet_edge": false,
-      "badges": [
-        "EV EDGE"
-      ],
-      "badge": "EV EDGE",
-      "badge_class": "blue",
-      "badge_summary": "EV EDGE",
-      "badge_classes": [
-        "blue"
-      ]
-    },
-    {
-      "rank": 20,
-      "hitter_id": 663728,
-      "player": "Cal Raleigh",
-      "team": "SEA",
-      "opponent": "NYY",
-      "game_start_time": "2026-08-11T23:05:00Z",
-      "game_status": "Pre-Game",
-      "batting_order": 6,
-      "pitcher": "Ryan Weathers",
-      "pitcher_id": 677960,
-      "pitcher_hand": "L",
-      "hr_score": 59.1,
-      "tier": "Longshot",
-      "play_type": "Watch List",
-      "reason_tags": "Strong Barrel, Good Environment, Platoon Edge",
-      "power_score": 54.9,
-      "pitcher_score": 45.8,
-      "environment_score": 77.2,
-      "lineup_score": 76.2,
-      "platoon_score": 75.0,
-      "recent_form_score": 19.1,
-      "confirmed_lineup": "Yes",
-      "rotowire_confirmed_lineup": "Yes",
-      "rotowire_batting_order": 6.0,
-      "rotowire_player_found": "Yes",
-      "lineup_disagreement": "No",
-      "lineup_sources_used": "MLB Stats API; RotoWire",
-      "source_warnings": null,
-      "stat_years_used": "H:2026/2025 P:2026/2025",
-      "bvp_pa": null,
-      "bvp_hr": null,
-      "bvp_note": "Direct BvP not yet weighted; 2026/2025 Statcast baseline active",
-      "recent_games": 7,
-      "recent_hits": 3,
-      "recent_abs": 24,
-      "recent_hr": 1,
-      "recent_form_note": "Last 7 games: 3/24, 1 HR",
-      "split_matchup_note": "switch hitter; pitcher baseline 9.0% barrel, 14.0 HR allowed",
-      "pitch_mix_note": "fly-ball profile; pitcher fly-ball pressure modest",
-      "barrel_pct": 15.02,
-      "hard_hit_pct": 38.89,
-      "avg_exit_velocity": 89.62,
-      "ev50": 100.7036,
-      "xslg": 0.4252,
-      "xiso": 0.2299,
-      "xwoba": 0.3178,
-      "bat_speed": 75.06,
-      "fast_swing_pct": 52.88,
-      "pull_pct": 53.8,
-      "fb_pct": 41.87,
-      "hr_total": 26.4,
-      "iso": 0.202,
-      "pitcher_barrel_pct_allowed": 8.97,
-      "pitcher_hard_hit_pct_allowed": 42.2,
-      "pitcher_avg_exit_velocity_allowed": 89.74,
-      "pitcher_xslg_allowed": 0.4243,
-      "pitcher_xiso_allowed": 0.175,
-      "pitcher_fb_pct_allowed": 25.2,
-      "wind_direction": "Out To CF",
-      "weather_temp": 84.0,
-      "ballpark": "Yankee Stadium",
-      "odds": null,
-      "source_sheet_edge": false,
-      "badges": [
-        "SLEEPER PICK",
-        "WEATHER EDGE"
-      ],
-      "badge": "SLEEPER PICK",
-      "badge_class": "teal",
-      "badge_summary": "SLEEPER PICK + WEATHER EDGE",
-      "badge_classes": [
-        "teal",
         "green"
       ]
     }
   ],
   "weather": [
     {
-      "ballpark": "Yankee Stadium",
+      "ballpark": "Sutter Health Park",
       "wind_direction": "Out To CF",
-      "weather_temp": 84.0,
-      "environment_score": 77.2,
+      "weather_temp": 91.0,
+      "environment_score": 76.4,
+      "top_player": "Junior Caminero",
+      "top_score": 64.6,
+      "teams": "ATH / TB"
+    },
+    {
+      "ballpark": "Yankee Stadium",
+      "wind_direction": "Out To LF",
+      "weather_temp": 82.0,
+      "environment_score": 75.2,
       "top_player": "Ben Rice",
-      "top_score": 65.0,
+      "top_score": 64.7,
       "teams": "NYY / SEA"
     },
     {
@@ -3068,6 +3083,15 @@
       "top_player": "Kyle Schwarber",
       "top_score": 65.9,
       "teams": "PHI / STL"
+    },
+    {
+      "ballpark": "Angel Stadium",
+      "wind_direction": "Out To CF",
+      "weather_temp": 80.0,
+      "environment_score": 67.2,
+      "top_player": "Mike Trout",
+      "top_score": 64.8,
+      "teams": "LAA / TEX"
     },
     {
       "ballpark": "Truist Park",
@@ -3088,6 +3112,15 @@
       "teams": "CHC / WSH"
     },
     {
+      "ballpark": "Petco Park",
+      "wind_direction": "L To R",
+      "weather_temp": 75.0,
+      "environment_score": 45.6,
+      "top_player": "Jake Bauers",
+      "top_score": 60.9,
+      "teams": "MIL / SD"
+    },
+    {
       "ballpark": "Chase Field",
       "wind_direction": null,
       "weather_temp": 72.0,
@@ -3095,43 +3128,129 @@
       "top_player": "Corbin Carroll",
       "top_score": 64.3,
       "teams": "AZ / COL"
-    },
-    {
-      "ballpark": "Rogers Centre",
-      "wind_direction": "In From CF",
-      "weather_temp": 74.0,
-      "environment_score": 40.4,
-      "top_player": "Wilyer Abreu",
-      "top_score": 53.5,
-      "teams": "BOS / TOR"
-    },
-    {
-      "ballpark": "Rate Field",
-      "wind_direction": "In From LF",
-      "weather_temp": 78.0,
-      "environment_score": 39.6,
-      "top_player": "Munetaka Murakami",
-      "top_score": 64.5,
-      "teams": "CIN / CWS"
-    },
-    {
-      "ballpark": "Target Field",
-      "wind_direction": "In From LF",
-      "weather_temp": 85.0,
-      "environment_score": 39.6,
-      "top_player": "Pete Alonso",
-      "top_score": 63.2,
-      "teams": "BAL / MIN"
     }
   ],
   "game_watch": [
     {
+      "teams": "TB vs ATH",
+      "ballpark": "Sutter Health Park",
+      "temp": 91.0,
+      "wind": "Out To CF",
+      "environment_score": 76.4,
+      "top_score": 64.6,
+      "game_tags": "elite weather · top-25 target · lineup caution",
+      "disagreement_count": 11,
+      "players": [
+        {
+          "player": "Junior Caminero",
+          "team": "TB",
+          "order": 4,
+          "pitcher": "Mason Barnett",
+          "score": 64.6,
+          "rank": 5,
+          "badge": "HOT BAT",
+          "badge_class": "orange",
+          "badges": [
+            "HOT BAT",
+            "EV EDGE",
+            "WEATHER EDGE"
+          ],
+          "badge_classes": [
+            "orange",
+            "blue",
+            "green"
+          ],
+          "badge_summary": "HOT BAT + EV EDGE + WEATHER EDGE",
+          "lineup_disagreement": "Yes",
+          "source_warnings": "lineup projected / unconfirmed"
+        },
+        {
+          "player": "Jonathan Aranda",
+          "team": "TB",
+          "order": 2,
+          "pitcher": "Mason Barnett",
+          "score": 62.4,
+          "rank": 15,
+          "badge": "WEATHER EDGE",
+          "badge_class": "green",
+          "badges": [
+            "WEATHER EDGE"
+          ],
+          "badge_classes": [
+            "green"
+          ],
+          "badge_summary": "WEATHER EDGE",
+          "lineup_disagreement": "Yes",
+          "source_warnings": "lineup projected / unconfirmed"
+        },
+        {
+          "player": "Victor Mesa",
+          "team": "TB",
+          "order": 6,
+          "pitcher": "Mason Barnett",
+          "score": 56.3,
+          "rank": 44,
+          "badge": "WEATHER EDGE",
+          "badge_class": "green",
+          "badges": [
+            "WEATHER EDGE"
+          ],
+          "badge_classes": [
+            "green"
+          ],
+          "badge_summary": "WEATHER EDGE",
+          "lineup_disagreement": "Yes",
+          "source_warnings": "lineup projected / unconfirmed"
+        },
+        {
+          "player": "Yandy Diaz",
+          "team": "TB",
+          "order": 1,
+          "pitcher": "Mason Barnett",
+          "score": 55.5,
+          "rank": 55,
+          "badge": "EV EDGE",
+          "badge_class": "blue",
+          "badges": [
+            "EV EDGE",
+            "WEATHER EDGE"
+          ],
+          "badge_classes": [
+            "blue",
+            "green"
+          ],
+          "badge_summary": "EV EDGE + WEATHER EDGE",
+          "lineup_disagreement": "Yes",
+          "source_warnings": "lineup projected / unconfirmed"
+        },
+        {
+          "player": "Zack Gelof",
+          "team": "ATH",
+          "order": 2,
+          "pitcher": "Nick Martinez",
+          "score": 52.4,
+          "rank": 80,
+          "badge": "WEATHER EDGE",
+          "badge_class": "green",
+          "badges": [
+            "WEATHER EDGE"
+          ],
+          "badge_classes": [
+            "green"
+          ],
+          "badge_summary": "WEATHER EDGE",
+          "lineup_disagreement": "Yes",
+          "source_warnings": "order MLB 2 vs RotoWire 9"
+        }
+      ]
+    },
+    {
       "teams": "SEA vs NYY",
       "ballpark": "Yankee Stadium",
-      "temp": 84.0,
-      "wind": "Out To CF",
-      "environment_score": 77.2,
-      "top_score": 65.0,
+      "temp": 82.0,
+      "wind": "Out To LF",
+      "environment_score": 75.2,
+      "top_score": 64.7,
       "game_tags": "elite weather · top-25 target · deep stack",
       "disagreement_count": 0,
       "players": [
@@ -3140,8 +3259,8 @@
           "team": "NYY",
           "order": 2,
           "pitcher": "Bryan Woo",
-          "score": 65.0,
-          "rank": 3,
+          "score": 64.7,
+          "rank": 4,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -3163,8 +3282,8 @@
           "team": "SEA",
           "order": 3,
           "pitcher": "Ryan Weathers",
-          "score": 62.4,
-          "rank": 12,
+          "score": 62.1,
+          "rank": 16,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -3184,8 +3303,8 @@
           "team": "SEA",
           "order": 4,
           "pitcher": "Ryan Weathers",
-          "score": 60.5,
-          "rank": 14,
+          "score": 60.2,
+          "rank": 20,
           "badge": "WEATHER EDGE",
           "badge_class": "green",
           "badges": [
@@ -3203,8 +3322,8 @@
           "team": "NYY",
           "order": 1,
           "pitcher": "Bryan Woo",
-          "score": 60.1,
-          "rank": 15,
+          "score": 59.8,
+          "rank": 23,
           "badge": "WEATHER EDGE",
           "badge_class": "green",
           "badges": [
@@ -3222,8 +3341,8 @@
           "team": "NYY",
           "order": 4,
           "pitcher": "Bryan Woo",
-          "score": 59.8,
-          "rank": 18,
+          "score": 59.5,
+          "rank": 25,
           "badge": "WEATHER EDGE",
           "badge_class": "green",
           "badges": [
@@ -3277,7 +3396,7 @@
           "order": 3,
           "pitcher": "Cristopher Sánchez",
           "score": 59.6,
-          "rank": 19,
+          "rank": 24,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -3296,7 +3415,7 @@
           "order": 4,
           "pitcher": "Cristopher Sánchez",
           "score": 57.7,
-          "rank": 30,
+          "rank": 34,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -3315,7 +3434,7 @@
           "order": 3,
           "pitcher": "Andre Pallante",
           "score": 56.5,
-          "rank": 37,
+          "rank": 42,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3334,7 +3453,120 @@
           "order": 2,
           "pitcher": "Cristopher Sánchez",
           "score": 53.6,
-          "rank": 66,
+          "rank": 71,
+          "badge": "WATCH",
+          "badge_class": "muted",
+          "badges": [
+            "WATCH"
+          ],
+          "badge_classes": [
+            "muted"
+          ],
+          "badge_summary": "WATCH",
+          "lineup_disagreement": "No",
+          "source_warnings": ""
+        }
+      ]
+    },
+    {
+      "teams": "TEX vs LAA",
+      "ballpark": "Angel Stadium",
+      "temp": 80.0,
+      "wind": "Out To CF",
+      "environment_score": 67.2,
+      "top_score": 64.8,
+      "game_tags": "top-25 target · deep stack · lineup caution",
+      "disagreement_count": 9,
+      "players": [
+        {
+          "player": "Mike Trout",
+          "team": "LAA",
+          "order": 2,
+          "pitcher": "Cody Bradford",
+          "score": 64.8,
+          "rank": 3,
+          "badge": "HOT BAT",
+          "badge_class": "orange",
+          "badges": [
+            "HOT BAT",
+            "EV EDGE"
+          ],
+          "badge_classes": [
+            "orange",
+            "blue"
+          ],
+          "badge_summary": "HOT BAT + EV EDGE",
+          "lineup_disagreement": "No",
+          "source_warnings": ""
+        },
+        {
+          "player": "Corey Seager",
+          "team": "TEX",
+          "order": 3,
+          "pitcher": "Ryan Johnson",
+          "score": 62.5,
+          "rank": 14,
+          "badge": "SOURCE SHEET",
+          "badge_class": "gold",
+          "badges": [
+            "SOURCE SHEET"
+          ],
+          "badge_classes": [
+            "gold"
+          ],
+          "badge_summary": "SOURCE SHEET",
+          "lineup_disagreement": "Yes",
+          "source_warnings": "lineup projected / unconfirmed"
+        },
+        {
+          "player": "Brandon Nimmo",
+          "team": "TEX",
+          "order": 4,
+          "pitcher": "Ryan Johnson",
+          "score": 61.7,
+          "rank": 17,
+          "badge": "HOT BAT",
+          "badge_class": "orange",
+          "badges": [
+            "HOT BAT",
+            "EV EDGE",
+            "SOURCE SHEET"
+          ],
+          "badge_classes": [
+            "orange",
+            "blue",
+            "gold"
+          ],
+          "badge_summary": "HOT BAT + EV EDGE + SOURCE SHEET",
+          "lineup_disagreement": "Yes",
+          "source_warnings": "lineup projected / unconfirmed"
+        },
+        {
+          "player": "Joc Pederson",
+          "team": "TEX",
+          "order": 1,
+          "pitcher": "Ryan Johnson",
+          "score": 58.2,
+          "rank": 32,
+          "badge": "WATCH",
+          "badge_class": "muted",
+          "badges": [
+            "WATCH"
+          ],
+          "badge_classes": [
+            "muted"
+          ],
+          "badge_summary": "WATCH",
+          "lineup_disagreement": "Yes",
+          "source_warnings": "lineup projected / unconfirmed"
+        },
+        {
+          "player": "Zach Neto",
+          "team": "LAA",
+          "order": 1,
+          "pitcher": "Cody Bradford",
+          "score": 57.4,
+          "rank": 38,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3365,7 +3597,7 @@
           "order": 3,
           "pitcher": "Nolan McLean",
           "score": 62.7,
-          "rank": 9,
+          "rank": 11,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -3388,7 +3620,7 @@
           "order": 2,
           "pitcher": "Nolan McLean",
           "score": 58.7,
-          "rank": 24,
+          "rank": 30,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -3409,7 +3641,7 @@
           "order": 2,
           "pitcher": "Martín Pérez",
           "score": 57.4,
-          "rank": 32,
+          "rank": 37,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3428,7 +3660,7 @@
           "order": 1,
           "pitcher": "Nolan McLean",
           "score": 56.2,
-          "rank": 40,
+          "rank": 46,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -3447,7 +3679,7 @@
           "order": 7,
           "pitcher": "Martín Pérez",
           "score": 55.1,
-          "rank": 51,
+          "rank": 58,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3501,7 +3733,7 @@
           "order": 9,
           "pitcher": "Shota Imanaga",
           "score": 64.3,
-          "rank": 5,
+          "rank": 7,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -3524,7 +3756,7 @@
           "order": 3,
           "pitcher": "Jake Irvin",
           "score": 62.5,
-          "rank": 11,
+          "rank": 13,
           "badge": "PITCHER TARGET",
           "badge_class": "red",
           "badges": [
@@ -3545,7 +3777,7 @@
           "order": 5,
           "pitcher": "Jake Irvin",
           "score": 60.0,
-          "rank": 16,
+          "rank": 21,
           "badge": "SLEEPER PICK",
           "badge_class": "teal",
           "badges": [
@@ -3566,7 +3798,7 @@
           "order": 2,
           "pitcher": "Jake Irvin",
           "score": 59.9,
-          "rank": 17,
+          "rank": 22,
           "badge": "PITCHER TARGET",
           "badge_class": "red",
           "badges": [
@@ -3578,6 +3810,119 @@
             "gold"
           ],
           "badge_summary": "PITCHER TARGET + SOURCE SHEET",
+          "lineup_disagreement": "No",
+          "source_warnings": ""
+        }
+      ]
+    },
+    {
+      "teams": "MIL vs SD",
+      "ballpark": "Petco Park",
+      "temp": 75.0,
+      "wind": "L To R",
+      "environment_score": 45.6,
+      "top_score": 60.9,
+      "game_tags": "lineup caution",
+      "disagreement_count": 9,
+      "players": [
+        {
+          "player": "Jake Bauers",
+          "team": "MIL",
+          "order": 3,
+          "pitcher": "Walker Buehler",
+          "score": 60.9,
+          "rank": 19,
+          "badge": "EV EDGE",
+          "badge_class": "blue",
+          "badges": [
+            "EV EDGE",
+            "SOURCE SHEET"
+          ],
+          "badge_classes": [
+            "blue",
+            "gold"
+          ],
+          "badge_summary": "EV EDGE + SOURCE SHEET",
+          "lineup_disagreement": "Yes",
+          "source_warnings": "lineup projected / unconfirmed"
+        },
+        {
+          "player": "Jackson Chourio",
+          "team": "MIL",
+          "order": 2,
+          "pitcher": "Walker Buehler",
+          "score": 57.4,
+          "rank": 39,
+          "badge": "HOT BAT",
+          "badge_class": "orange",
+          "badges": [
+            "HOT BAT",
+            "SOURCE SHEET"
+          ],
+          "badge_classes": [
+            "orange",
+            "gold"
+          ],
+          "badge_summary": "HOT BAT + SOURCE SHEET",
+          "lineup_disagreement": "Yes",
+          "source_warnings": "lineup projected / unconfirmed"
+        },
+        {
+          "player": "Fernando Tatis Jr.",
+          "team": "SD",
+          "order": 1,
+          "pitcher": "Kyle Harrison",
+          "score": 56.0,
+          "rank": 48,
+          "badge": "HOT BAT",
+          "badge_class": "orange",
+          "badges": [
+            "HOT BAT",
+            "EV EDGE"
+          ],
+          "badge_classes": [
+            "orange",
+            "blue"
+          ],
+          "badge_summary": "HOT BAT + EV EDGE",
+          "lineup_disagreement": "No",
+          "source_warnings": ""
+        },
+        {
+          "player": "Manny Machado",
+          "team": "SD",
+          "order": 3,
+          "pitcher": "Kyle Harrison",
+          "score": 52.7,
+          "rank": 76,
+          "badge": "WATCH",
+          "badge_class": "muted",
+          "badges": [
+            "WATCH"
+          ],
+          "badge_classes": [
+            "muted"
+          ],
+          "badge_summary": "WATCH",
+          "lineup_disagreement": "No",
+          "source_warnings": ""
+        },
+        {
+          "player": "Jackson Merrill",
+          "team": "SD",
+          "order": 5,
+          "pitcher": "Kyle Harrison",
+          "score": 52.5,
+          "rank": 77,
+          "badge": "HOT BAT",
+          "badge_class": "orange",
+          "badges": [
+            "HOT BAT"
+          ],
+          "badge_classes": [
+            "orange"
+          ],
+          "badge_summary": "HOT BAT",
           "lineup_disagreement": "No",
           "source_warnings": ""
         }
@@ -3599,7 +3944,7 @@
           "order": 2,
           "pitcher": "Tomoyuki Sugano",
           "score": 64.3,
-          "rank": 6,
+          "rank": 8,
           "badge": "PITCHER TARGET",
           "badge_class": "red",
           "badges": [
@@ -3618,7 +3963,7 @@
           "order": 4,
           "pitcher": "Tomoyuki Sugano",
           "score": 61.3,
-          "rank": 13,
+          "rank": 18,
           "badge": "PITCHER TARGET",
           "badge_class": "red",
           "badges": [
@@ -3637,7 +3982,7 @@
           "order": 1,
           "pitcher": "Tomoyuki Sugano",
           "score": 59.1,
-          "rank": 21,
+          "rank": 26,
           "badge": "PITCHER TARGET",
           "badge_class": "red",
           "badges": [
@@ -3656,7 +4001,7 @@
           "order": 3,
           "pitcher": "Tomoyuki Sugano",
           "score": 55.2,
-          "rank": 50,
+          "rank": 57,
           "badge": "PITCHER TARGET",
           "badge_class": "red",
           "badges": [
@@ -3675,7 +4020,7 @@
           "order": 6,
           "pitcher": "Tomoyuki Sugano",
           "score": 54.6,
-          "rank": 56,
+          "rank": 63,
           "badge": "PITCHER TARGET",
           "badge_class": "red",
           "badges": [
@@ -3687,333 +4032,6 @@
           "badge_summary": "PITCHER TARGET",
           "lineup_disagreement": "Yes",
           "source_warnings": "not found on RotoWire"
-        }
-      ]
-    },
-    {
-      "teams": "BOS vs TOR",
-      "ballpark": "Rogers Centre",
-      "temp": 74.0,
-      "wind": "In From CF",
-      "environment_score": 40.4,
-      "top_score": 53.5,
-      "game_tags": "lineup caution",
-      "disagreement_count": 9,
-      "players": [
-        {
-          "player": "Wilyer Abreu",
-          "team": "BOS",
-          "order": 3,
-          "pitcher": "Dylan Cease",
-          "score": 53.5,
-          "rank": 67,
-          "badge": "HOT BAT",
-          "badge_class": "orange",
-          "badges": [
-            "HOT BAT"
-          ],
-          "badge_classes": [
-            "orange"
-          ],
-          "badge_summary": "HOT BAT",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "lineup projected / unconfirmed"
-        },
-        {
-          "player": "Willson Contreras",
-          "team": "BOS",
-          "order": 4,
-          "pitcher": "Dylan Cease",
-          "score": 48.1,
-          "rank": 109,
-          "badge": "EV EDGE",
-          "badge_class": "blue",
-          "badges": [
-            "EV EDGE"
-          ],
-          "badge_classes": [
-            "blue"
-          ],
-          "badge_summary": "EV EDGE",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "lineup projected / unconfirmed"
-        },
-        {
-          "player": "Vladimir Guerrero Jr.",
-          "team": "TOR",
-          "order": 3,
-          "pitcher": "Patrick Sandoval",
-          "score": 45.8,
-          "rank": 131,
-          "badge": "EV EDGE",
-          "badge_class": "blue",
-          "badges": [
-            "EV EDGE"
-          ],
-          "badge_classes": [
-            "blue"
-          ],
-          "badge_summary": "EV EDGE",
-          "lineup_disagreement": "No",
-          "source_warnings": ""
-        },
-        {
-          "player": "George Springer",
-          "team": "TOR",
-          "order": 4,
-          "pitcher": "Patrick Sandoval",
-          "score": 44.6,
-          "rank": 145,
-          "badge": "WATCH",
-          "badge_class": "muted",
-          "badges": [
-            "WATCH"
-          ],
-          "badge_classes": [
-            "muted"
-          ],
-          "badge_summary": "WATCH",
-          "lineup_disagreement": "No",
-          "source_warnings": ""
-        },
-        {
-          "player": "Kazuma Okamoto",
-          "team": "TOR",
-          "order": 7,
-          "pitcher": "Patrick Sandoval",
-          "score": 43.1,
-          "rank": 157,
-          "badge": "WATCH",
-          "badge_class": "muted",
-          "badges": [
-            "WATCH"
-          ],
-          "badge_classes": [
-            "muted"
-          ],
-          "badge_summary": "WATCH",
-          "lineup_disagreement": "No",
-          "source_warnings": ""
-        }
-      ]
-    },
-    {
-      "teams": "CIN vs CWS",
-      "ballpark": "Rate Field",
-      "temp": 78.0,
-      "wind": "In From LF",
-      "environment_score": 39.6,
-      "top_score": 64.5,
-      "game_tags": "top-25 target",
-      "disagreement_count": 0,
-      "players": [
-        {
-          "player": "Munetaka Murakami",
-          "team": "CWS",
-          "order": 2,
-          "pitcher": "Nick Lodolo",
-          "score": 64.5,
-          "rank": 4,
-          "badge": "FIRE / TOUGH SP",
-          "badge_class": "red",
-          "badges": [
-            "FIRE / TOUGH SP",
-            "HOT BAT",
-            "EV EDGE"
-          ],
-          "badge_classes": [
-            "red",
-            "orange",
-            "blue"
-          ],
-          "badge_summary": "FIRE / TOUGH SP + HOT BAT + EV EDGE",
-          "lineup_disagreement": "No",
-          "source_warnings": ""
-        },
-        {
-          "player": "Sal Stewart",
-          "team": "CIN",
-          "order": 2,
-          "pitcher": "Sean Burke",
-          "score": 57.9,
-          "rank": 27,
-          "badge": "WATCH",
-          "badge_class": "muted",
-          "badges": [
-            "WATCH"
-          ],
-          "badge_classes": [
-            "muted"
-          ],
-          "badge_summary": "WATCH",
-          "lineup_disagreement": "No",
-          "source_warnings": ""
-        },
-        {
-          "player": "Elly De La Cruz",
-          "team": "CIN",
-          "order": 1,
-          "pitcher": "Sean Burke",
-          "score": 56.7,
-          "rank": 34,
-          "badge": "EV EDGE",
-          "badge_class": "blue",
-          "badges": [
-            "EV EDGE"
-          ],
-          "badge_classes": [
-            "blue"
-          ],
-          "badge_summary": "EV EDGE",
-          "lineup_disagreement": "No",
-          "source_warnings": ""
-        },
-        {
-          "player": "Miguel Vargas",
-          "team": "CWS",
-          "order": 3,
-          "pitcher": "Nick Lodolo",
-          "score": 56.2,
-          "rank": 41,
-          "badge": "SOURCE SHEET",
-          "badge_class": "gold",
-          "badges": [
-            "SOURCE SHEET"
-          ],
-          "badge_classes": [
-            "gold"
-          ],
-          "badge_summary": "SOURCE SHEET",
-          "lineup_disagreement": "No",
-          "source_warnings": ""
-        },
-        {
-          "player": "Randal Grichuk",
-          "team": "CWS",
-          "order": 4,
-          "pitcher": "Nick Lodolo",
-          "score": 55.0,
-          "rank": 53,
-          "badge": "WATCH",
-          "badge_class": "muted",
-          "badges": [
-            "WATCH"
-          ],
-          "badge_classes": [
-            "muted"
-          ],
-          "badge_summary": "WATCH",
-          "lineup_disagreement": "No",
-          "source_warnings": ""
-        }
-      ]
-    },
-    {
-      "teams": "BAL vs MIN",
-      "ballpark": "Target Field",
-      "temp": 85.0,
-      "wind": "In From LF",
-      "environment_score": 39.6,
-      "top_score": 63.2,
-      "game_tags": "top-25 target",
-      "disagreement_count": 0,
-      "players": [
-        {
-          "player": "Pete Alonso",
-          "team": "BAL",
-          "order": 2,
-          "pitcher": "Bailey Ober",
-          "score": 63.2,
-          "rank": 8,
-          "badge": "HOT BAT",
-          "badge_class": "orange",
-          "badges": [
-            "HOT BAT",
-            "EV EDGE"
-          ],
-          "badge_classes": [
-            "orange",
-            "blue"
-          ],
-          "badge_summary": "HOT BAT + EV EDGE",
-          "lineup_disagreement": "No",
-          "source_warnings": ""
-        },
-        {
-          "player": "Tyler O'Neill",
-          "team": "BAL",
-          "order": 4,
-          "pitcher": "Bailey Ober",
-          "score": 55.8,
-          "rank": 44,
-          "badge": "HOT BAT",
-          "badge_class": "orange",
-          "badges": [
-            "HOT BAT"
-          ],
-          "badge_classes": [
-            "orange"
-          ],
-          "badge_summary": "HOT BAT",
-          "lineup_disagreement": "No",
-          "source_warnings": ""
-        },
-        {
-          "player": "Christian Encarnacion-Strand",
-          "team": "BAL",
-          "order": 5,
-          "pitcher": "Bailey Ober",
-          "score": 55.8,
-          "rank": 45,
-          "badge": "WATCH",
-          "badge_class": "muted",
-          "badges": [
-            "WATCH"
-          ],
-          "badge_classes": [
-            "muted"
-          ],
-          "badge_summary": "WATCH",
-          "lineup_disagreement": "No",
-          "source_warnings": ""
-        },
-        {
-          "player": "Josh Bell",
-          "team": "MIN",
-          "order": 3,
-          "pitcher": "Brandon Young",
-          "score": 55.7,
-          "rank": 47,
-          "badge": "HOT BAT",
-          "badge_class": "orange",
-          "badges": [
-            "HOT BAT"
-          ],
-          "badge_classes": [
-            "orange"
-          ],
-          "badge_summary": "HOT BAT",
-          "lineup_disagreement": "No",
-          "source_warnings": ""
-        },
-        {
-          "player": "Kody Clemens",
-          "team": "MIN",
-          "order": 4,
-          "pitcher": "Brandon Young",
-          "score": 54.4,
-          "rank": 58,
-          "badge": "EV EDGE",
-          "badge_class": "blue",
-          "badges": [
-            "EV EDGE"
-          ],
-          "badge_classes": [
-            "blue"
-          ],
-          "badge_summary": "EV EDGE",
-          "lineup_disagreement": "No",
-          "source_warnings": ""
         }
       ]
     }
@@ -4059,28 +4077,28 @@
         "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET · score floor"
       },
       {
-        "names": "Pete Crow-Armstrong + Ben Rice",
-        "avg_score": 65.5,
+        "names": "Pete Crow-Armstrong + Mike Trout",
+        "avg_score": 65.4,
         "combo_score": 69.0,
+        "risk": "Balanced",
+        "badges": "HOT BAT + PITCHER TARGET + SOURCE SHEET / HOT BAT + EV EDGE",
+        "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET · score floor"
+      },
+      {
+        "names": "Pete Crow-Armstrong + Ben Rice",
+        "avg_score": 65.3,
+        "combo_score": 68.9,
         "risk": "Balanced",
         "badges": "HOT BAT + PITCHER TARGET + SOURCE SHEET / HOT BAT + EV EDGE + WEATHER EDGE",
         "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET, WEATHER EDGE · score floor"
       },
       {
         "names": "Kyle Schwarber + Ben Rice",
-        "avg_score": 65.5,
-        "combo_score": 69.0,
+        "avg_score": 65.3,
+        "combo_score": 68.9,
         "risk": "Balanced",
         "badges": "FIRE / TOUGH SP + HOT BAT + EV EDGE / HOT BAT + EV EDGE + WEATHER EDGE",
         "reason": "different games · EV EDGE, HOT BAT, WEATHER EDGE · score floor"
-      },
-      {
-        "names": "Pete Crow-Armstrong + Munetaka Murakami",
-        "avg_score": 65.2,
-        "combo_score": 68.8,
-        "risk": "Balanced",
-        "badges": "HOT BAT + PITCHER TARGET + SOURCE SHEET / FIRE / TOUGH SP + HOT BAT + EV EDGE",
-        "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET · score floor"
       },
       {
         "names": "Kyle Schwarber + Andrew Pinckney",
@@ -4091,12 +4109,20 @@
         "reason": "different games · EV EDGE, HOT BAT, SLEEPER PICK · score floor"
       },
       {
-        "names": "Ben Rice + Munetaka Murakami",
+        "names": "Mike Trout + Ben Rice",
         "avg_score": 64.8,
         "combo_score": 68.3,
         "risk": "Balanced",
-        "badges": "HOT BAT + EV EDGE + WEATHER EDGE / FIRE / TOUGH SP + HOT BAT + EV EDGE",
+        "badges": "HOT BAT + EV EDGE / HOT BAT + EV EDGE + WEATHER EDGE",
         "reason": "different games · EV EDGE, HOT BAT, WEATHER EDGE · score floor"
+      },
+      {
+        "names": "Mike Trout + Andrew Pinckney",
+        "avg_score": 64.5,
+        "combo_score": 68.1,
+        "risk": "Balanced",
+        "badges": "HOT BAT + EV EDGE / HOT BAT + EV EDGE + SLEEPER PICK",
+        "reason": "different games · EV EDGE, HOT BAT, SLEEPER PICK · score floor"
       },
       {
         "names": "Munetaka Murakami + Andrew Pinckney",
@@ -4105,40 +4131,40 @@
         "risk": "Balanced",
         "badges": "FIRE / TOUGH SP + HOT BAT + EV EDGE / HOT BAT + EV EDGE + SLEEPER PICK",
         "reason": "different games · EV EDGE, HOT BAT, SLEEPER PICK · score floor"
-      },
-      {
-        "names": "Andrew Pinckney + Corbin Carroll",
-        "avg_score": 64.3,
-        "combo_score": 67.8,
-        "risk": "Balanced",
-        "badges": "HOT BAT + EV EDGE + SLEEPER PICK / PITCHER TARGET",
-        "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET, SLEEPER PICK · score floor"
       }
     ],
     "3": [
       {
-        "names": "Pete Crow-Armstrong + Kyle Schwarber + Ben Rice",
+        "names": "Pete Crow-Armstrong + Kyle Schwarber + Mike Trout",
         "avg_score": 65.6,
-        "combo_score": 70.3,
+        "combo_score": 70.2,
+        "risk": "Balanced",
+        "badges": "HOT BAT + PITCHER TARGET + SOURCE SHEET / FIRE / TOUGH SP + HOT BAT + EV EDGE / HOT BAT + EV EDGE",
+        "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET · score floor"
+      },
+      {
+        "names": "Pete Crow-Armstrong + Kyle Schwarber + Ben Rice",
+        "avg_score": 65.5,
+        "combo_score": 70.2,
         "risk": "Balanced",
         "badges": "HOT BAT + PITCHER TARGET + SOURCE SHEET / FIRE / TOUGH SP + HOT BAT + EV EDGE / HOT BAT + EV EDGE + WEATHER EDGE",
         "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET, WEATHER EDGE · score floor"
       },
       {
-        "names": "Pete Crow-Armstrong + Kyle Schwarber + Munetaka Murakami",
-        "avg_score": 65.5,
-        "combo_score": 70.1,
+        "names": "Mike Trout + Ben Rice + Munetaka Murakami",
+        "avg_score": 64.7,
+        "combo_score": 69.3,
         "risk": "Balanced",
-        "badges": "HOT BAT + PITCHER TARGET + SOURCE SHEET / FIRE / TOUGH SP + HOT BAT + EV EDGE / FIRE / TOUGH SP + HOT BAT + EV EDGE",
-        "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET · score floor"
+        "badges": "HOT BAT + EV EDGE / HOT BAT + EV EDGE + WEATHER EDGE / FIRE / TOUGH SP + HOT BAT + EV EDGE",
+        "reason": "different games · EV EDGE, HOT BAT, WEATHER EDGE · score floor"
       },
       {
-        "names": "Ben Rice + Munetaka Murakami + Andrew Pinckney",
-        "avg_score": 64.6,
-        "combo_score": 69.2,
+        "names": "Munetaka Murakami + Andrew Pinckney + Corbin Carroll",
+        "avg_score": 64.4,
+        "combo_score": 69.0,
         "risk": "Balanced",
-        "badges": "HOT BAT + EV EDGE + WEATHER EDGE / FIRE / TOUGH SP + HOT BAT + EV EDGE / HOT BAT + EV EDGE + SLEEPER PICK",
-        "reason": "different games · EV EDGE, HOT BAT, SLEEPER PICK, WEATHER EDGE · score floor"
+        "badges": "FIRE / TOUGH SP + HOT BAT + EV EDGE / HOT BAT + EV EDGE + SLEEPER PICK / PITCHER TARGET",
+        "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET, SLEEPER PICK · score floor"
       },
       {
         "names": "Andrew Pinckney + Corbin Carroll + Pete Alonso",
@@ -4149,97 +4175,89 @@
         "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET, SLEEPER PICK · score floor"
       },
       {
-        "names": "Corbin Carroll + Pete Alonso + Matt Olson",
-        "avg_score": 63.4,
-        "combo_score": 68.0,
+        "names": "Pete Alonso + Matt Olson + Michael Busch",
+        "avg_score": 62.8,
+        "combo_score": 67.5,
         "risk": "Balanced",
-        "badges": "PITCHER TARGET / HOT BAT + EV EDGE / HOT BAT + EV EDGE + SOURCE SHEET",
+        "badges": "HOT BAT + EV EDGE / HOT BAT + EV EDGE + SOURCE SHEET / PITCHER TARGET + SOURCE SHEET",
         "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET · score floor"
       },
       {
         "names": "Matt Olson + Michael Busch + Julio Rodríguez",
-        "avg_score": 62.5,
-        "combo_score": 67.2,
+        "avg_score": 62.4,
+        "combo_score": 67.1,
         "risk": "Balanced",
         "badges": "HOT BAT + EV EDGE + SOURCE SHEET / PITCHER TARGET + SOURCE SHEET / HOT BAT + WEATHER EDGE",
         "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET, WEATHER EDGE · score floor"
       },
       {
-        "names": "Michael Busch + Julio Rodríguez + Ketel Marte",
-        "avg_score": 62.1,
-        "combo_score": 66.7,
+        "names": "Julio Rodríguez + Ketel Marte + Ian Happ",
+        "avg_score": 61.1,
+        "combo_score": 65.8,
         "risk": "Balanced",
-        "badges": "PITCHER TARGET + SOURCE SHEET / HOT BAT + WEATHER EDGE / PITCHER TARGET",
-        "reason": "different games · HOT BAT, PITCHER TARGET, WEATHER EDGE · score floor"
-      },
-      {
-        "names": "Ketel Marte + Dominic Canzone + Ian Happ",
-        "avg_score": 60.6,
-        "combo_score": 65.2,
-        "risk": "Balanced",
-        "badges": "PITCHER TARGET / WEATHER EDGE / SLEEPER PICK + SOURCE SHEET",
-        "reason": "different games · PITCHER TARGET, SLEEPER PICK, WEATHER EDGE · score floor"
+        "badges": "HOT BAT + WEATHER EDGE / PITCHER TARGET / SLEEPER PICK + SOURCE SHEET",
+        "reason": "different games · HOT BAT, PITCHER TARGET, SLEEPER PICK, WEATHER EDGE · score floor"
       }
     ],
     "4": [
       {
-        "names": "Pete Crow-Armstrong + Kyle Schwarber + Ben Rice + Munetaka Murakami",
+        "names": "Pete Crow-Armstrong + Kyle Schwarber + Mike Trout + Ben Rice",
         "avg_score": 65.3,
         "combo_score": 71.1,
         "risk": "Aggressive",
-        "badges": "HOT BAT + PITCHER TARGET + SOURCE SHEET / FIRE / TOUGH SP + HOT BAT + EV EDGE / HOT BAT + EV EDGE + WEATHER EDGE / FIRE / TOUGH SP + HOT BAT + EV EDGE",
+        "badges": "HOT BAT + PITCHER TARGET + SOURCE SHEET / FIRE / TOUGH SP + HOT BAT + EV EDGE / HOT BAT + EV EDGE / HOT BAT + EV EDGE + WEATHER EDGE",
         "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET, WEATHER EDGE · score floor"
       },
       {
-        "names": "Pete Crow-Armstrong + Kyle Schwarber + Ben Rice + Corbin Carroll",
+        "names": "Pete Crow-Armstrong + Kyle Schwarber + Mike Trout + Munetaka Murakami",
         "avg_score": 65.3,
         "combo_score": 71.0,
         "risk": "Aggressive",
-        "badges": "HOT BAT + PITCHER TARGET + SOURCE SHEET / FIRE / TOUGH SP + HOT BAT + EV EDGE / HOT BAT + EV EDGE + WEATHER EDGE / PITCHER TARGET",
-        "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET, WEATHER EDGE · score floor"
+        "badges": "HOT BAT + PITCHER TARGET + SOURCE SHEET / FIRE / TOUGH SP + HOT BAT + EV EDGE / HOT BAT + EV EDGE / FIRE / TOUGH SP + HOT BAT + EV EDGE",
+        "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET · score floor"
       },
       {
-        "names": "Munetaka Murakami + Andrew Pinckney + Corbin Carroll + Pete Alonso",
-        "avg_score": 64.1,
-        "combo_score": 69.8,
+        "names": "Ben Rice + Munetaka Murakami + Andrew Pinckney + Corbin Carroll",
+        "avg_score": 64.5,
+        "combo_score": 70.2,
         "risk": "Aggressive",
-        "badges": "FIRE / TOUGH SP + HOT BAT + EV EDGE / HOT BAT + EV EDGE + SLEEPER PICK / PITCHER TARGET / HOT BAT + EV EDGE",
+        "badges": "HOT BAT + EV EDGE + WEATHER EDGE / FIRE / TOUGH SP + HOT BAT + EV EDGE / HOT BAT + EV EDGE + SLEEPER PICK / PITCHER TARGET",
+        "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET, SLEEPER PICK, WEATHER EDGE · score floor"
+      },
+      {
+        "names": "Andrew Pinckney + Corbin Carroll + Pete Alonso + Matt Olson",
+        "avg_score": 63.6,
+        "combo_score": 69.4,
+        "risk": "Aggressive",
+        "badges": "HOT BAT + EV EDGE + SLEEPER PICK / PITCHER TARGET / HOT BAT + EV EDGE / HOT BAT + EV EDGE + SOURCE SHEET",
         "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET, SLEEPER PICK · score floor"
       },
       {
-        "names": "Andrew Pinckney + Pete Alonso + Matt Olson + Julio Rodríguez",
-        "avg_score": 63.1,
-        "combo_score": 68.9,
+        "names": "Pete Alonso + Matt Olson + Michael Busch + Julio Rodríguez",
+        "avg_score": 62.6,
+        "combo_score": 68.4,
         "risk": "Aggressive",
-        "badges": "HOT BAT + EV EDGE + SLEEPER PICK / HOT BAT + EV EDGE / HOT BAT + EV EDGE + SOURCE SHEET / HOT BAT + WEATHER EDGE",
-        "reason": "different games · EV EDGE, HOT BAT, SLEEPER PICK, WEATHER EDGE · score floor"
-      },
-      {
-        "names": "Matt Olson + Michael Busch + Julio Rodríguez + Ketel Marte",
-        "avg_score": 62.2,
-        "combo_score": 68.0,
-        "risk": "Aggressive",
-        "badges": "HOT BAT + EV EDGE + SOURCE SHEET / PITCHER TARGET + SOURCE SHEET / HOT BAT + WEATHER EDGE / PITCHER TARGET",
+        "badges": "HOT BAT + EV EDGE / HOT BAT + EV EDGE + SOURCE SHEET / PITCHER TARGET + SOURCE SHEET / HOT BAT + WEATHER EDGE",
         "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET, WEATHER EDGE · score floor"
       },
       {
-        "names": "Michael Busch + Ketel Marte + Dominic Canzone + Jordan Walker",
-        "avg_score": 61.0,
-        "combo_score": 66.6,
+        "names": "Michael Busch + Julio Rodríguez + Ketel Marte + Jordan Walker",
+        "avg_score": 61.4,
+        "combo_score": 67.0,
         "risk": "Aggressive",
-        "badges": "PITCHER TARGET + SOURCE SHEET / PITCHER TARGET / WEATHER EDGE / EV EDGE",
-        "reason": "different games · EV EDGE, PITCHER TARGET, WEATHER EDGE"
+        "badges": "PITCHER TARGET + SOURCE SHEET / HOT BAT + WEATHER EDGE / PITCHER TARGET / EV EDGE",
+        "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET, WEATHER EDGE"
       },
       {
-        "names": "Dominic Canzone + Ian Happ + Jordan Walker + Lars Nootbaar",
-        "avg_score": 59.8,
-        "combo_score": 65.2,
+        "names": "Ketel Marte + Dominic Canzone + Ian Happ + Jordan Walker",
+        "avg_score": 60.3,
+        "combo_score": 65.9,
         "risk": "Aggressive",
-        "badges": "WEATHER EDGE / SLEEPER PICK + SOURCE SHEET / EV EDGE / PITCHER TARGET",
+        "badges": "PITCHER TARGET / WEATHER EDGE / SLEEPER PICK + SOURCE SHEET / EV EDGE",
         "reason": "different games · EV EDGE, PITCHER TARGET, SLEEPER PICK, WEATHER EDGE"
       },
       {
-        "names": "Trent Grisham + Ian Happ + Lars Nootbaar + Riley Greene",
+        "names": "Dominic Canzone + Ian Happ + Lars Nootbaar + Riley Greene",
         "avg_score": 59.5,
         "combo_score": 64.8,
         "risk": "Aggressive",
@@ -4259,28 +4277,28 @@
         "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET · score floor"
       },
       {
-        "names": "Pete Crow-Armstrong + Ben Rice",
-        "avg_score": 65.5,
+        "names": "Pete Crow-Armstrong + Mike Trout",
+        "avg_score": 65.4,
         "combo_score": 69.0,
+        "risk": "Balanced",
+        "badges": "HOT BAT + PITCHER TARGET + SOURCE SHEET / HOT BAT + EV EDGE",
+        "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET · score floor"
+      },
+      {
+        "names": "Pete Crow-Armstrong + Ben Rice",
+        "avg_score": 65.3,
+        "combo_score": 68.9,
         "risk": "Balanced",
         "badges": "HOT BAT + PITCHER TARGET + SOURCE SHEET / HOT BAT + EV EDGE + WEATHER EDGE",
         "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET, WEATHER EDGE · score floor"
       },
       {
         "names": "Kyle Schwarber + Ben Rice",
-        "avg_score": 65.5,
-        "combo_score": 69.0,
+        "avg_score": 65.3,
+        "combo_score": 68.9,
         "risk": "Balanced",
         "badges": "FIRE / TOUGH SP + HOT BAT + EV EDGE / HOT BAT + EV EDGE + WEATHER EDGE",
         "reason": "different games · EV EDGE, HOT BAT, WEATHER EDGE · score floor"
-      },
-      {
-        "names": "Pete Crow-Armstrong + Munetaka Murakami",
-        "avg_score": 65.2,
-        "combo_score": 68.8,
-        "risk": "Balanced",
-        "badges": "HOT BAT + PITCHER TARGET + SOURCE SHEET / FIRE / TOUGH SP + HOT BAT + EV EDGE",
-        "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET · score floor"
       },
       {
         "names": "Kyle Schwarber + Andrew Pinckney",
@@ -4291,12 +4309,20 @@
         "reason": "different games · EV EDGE, HOT BAT, SLEEPER PICK · score floor"
       },
       {
-        "names": "Ben Rice + Munetaka Murakami",
+        "names": "Mike Trout + Ben Rice",
         "avg_score": 64.8,
         "combo_score": 68.3,
         "risk": "Balanced",
-        "badges": "HOT BAT + EV EDGE + WEATHER EDGE / FIRE / TOUGH SP + HOT BAT + EV EDGE",
+        "badges": "HOT BAT + EV EDGE / HOT BAT + EV EDGE + WEATHER EDGE",
         "reason": "different games · EV EDGE, HOT BAT, WEATHER EDGE · score floor"
+      },
+      {
+        "names": "Mike Trout + Andrew Pinckney",
+        "avg_score": 64.5,
+        "combo_score": 68.1,
+        "risk": "Balanced",
+        "badges": "HOT BAT + EV EDGE / HOT BAT + EV EDGE + SLEEPER PICK",
+        "reason": "different games · EV EDGE, HOT BAT, SLEEPER PICK · score floor"
       },
       {
         "names": "Munetaka Murakami + Andrew Pinckney",
@@ -4305,146 +4331,138 @@
         "risk": "Balanced",
         "badges": "FIRE / TOUGH SP + HOT BAT + EV EDGE / HOT BAT + EV EDGE + SLEEPER PICK",
         "reason": "different games · EV EDGE, HOT BAT, SLEEPER PICK · score floor"
-      },
-      {
-        "names": "Andrew Pinckney + Corbin Carroll",
-        "avg_score": 64.3,
-        "combo_score": 67.8,
-        "risk": "Balanced",
-        "badges": "HOT BAT + EV EDGE + SLEEPER PICK / PITCHER TARGET",
-        "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET, SLEEPER PICK · score floor"
       }
     ],
     "3": [
       {
-        "names": "Pete Crow-Armstrong + Kyle Schwarber + Ben Rice",
+        "names": "Pete Crow-Armstrong + Kyle Schwarber + Mike Trout",
         "avg_score": 65.6,
-        "combo_score": 70.3,
+        "combo_score": 70.2,
+        "risk": "Balanced",
+        "badges": "HOT BAT + PITCHER TARGET + SOURCE SHEET / FIRE / TOUGH SP + HOT BAT + EV EDGE / HOT BAT + EV EDGE",
+        "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET · score floor"
+      },
+      {
+        "names": "Pete Crow-Armstrong + Kyle Schwarber + Ben Rice",
+        "avg_score": 65.5,
+        "combo_score": 70.2,
         "risk": "Balanced",
         "badges": "HOT BAT + PITCHER TARGET + SOURCE SHEET / FIRE / TOUGH SP + HOT BAT + EV EDGE / HOT BAT + EV EDGE + WEATHER EDGE",
         "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET, WEATHER EDGE · score floor"
       },
       {
-        "names": "Pete Crow-Armstrong + Kyle Schwarber + Munetaka Murakami",
-        "avg_score": 65.5,
-        "combo_score": 70.1,
+        "names": "Mike Trout + Ben Rice + Munetaka Murakami",
+        "avg_score": 64.7,
+        "combo_score": 69.3,
         "risk": "Balanced",
-        "badges": "HOT BAT + PITCHER TARGET + SOURCE SHEET / FIRE / TOUGH SP + HOT BAT + EV EDGE / FIRE / TOUGH SP + HOT BAT + EV EDGE",
-        "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET · score floor"
+        "badges": "HOT BAT + EV EDGE / HOT BAT + EV EDGE + WEATHER EDGE / FIRE / TOUGH SP + HOT BAT + EV EDGE",
+        "reason": "different games · EV EDGE, HOT BAT, WEATHER EDGE · score floor"
       },
       {
-        "names": "Ben Rice + Munetaka Murakami + Andrew Pinckney",
-        "avg_score": 64.6,
-        "combo_score": 69.2,
+        "names": "Munetaka Murakami + Andrew Pinckney + Corbin Carroll",
+        "avg_score": 64.4,
+        "combo_score": 69.0,
         "risk": "Balanced",
-        "badges": "HOT BAT + EV EDGE + WEATHER EDGE / FIRE / TOUGH SP + HOT BAT + EV EDGE / HOT BAT + EV EDGE + SLEEPER PICK",
-        "reason": "different games · EV EDGE, HOT BAT, SLEEPER PICK, WEATHER EDGE · score floor"
-      },
-      {
-        "names": "Andrew Pinckney + Corbin Carroll + Pete Alonso",
-        "avg_score": 63.9,
-        "combo_score": 68.6,
-        "risk": "Balanced",
-        "badges": "HOT BAT + EV EDGE + SLEEPER PICK / PITCHER TARGET / HOT BAT + EV EDGE",
+        "badges": "FIRE / TOUGH SP + HOT BAT + EV EDGE / HOT BAT + EV EDGE + SLEEPER PICK / PITCHER TARGET",
         "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET, SLEEPER PICK · score floor"
       },
       {
-        "names": "Corbin Carroll + Yordan Alvarez + Pete Alonso",
-        "avg_score": 63.8,
-        "combo_score": 68.0,
+        "names": "Junior Caminero + Andrew Pinckney + Corbin Carroll",
+        "avg_score": 64.4,
+        "combo_score": 68.6,
         "risk": "Balanced / Projected",
-        "badges": "PITCHER TARGET / STAR + FIRE + HOT BAT + EV EDGE / HOT BAT + EV EDGE",
-        "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET, STAR + FIRE · score floor"
+        "badges": "HOT BAT + EV EDGE + WEATHER EDGE / HOT BAT + EV EDGE + SLEEPER PICK / PITCHER TARGET",
+        "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET, SLEEPER PICK, WEATHER EDGE · score floor"
       },
       {
-        "names": "Yordan Alvarez + Matt Olson + Michael Busch",
-        "avg_score": 63.1,
-        "combo_score": 67.3,
+        "names": "Junior Caminero + Yordan Alvarez + Pete Alonso",
+        "avg_score": 63.9,
+        "combo_score": 67.7,
         "risk": "Balanced / Projected",
-        "badges": "STAR + FIRE + HOT BAT + EV EDGE / HOT BAT + EV EDGE + SOURCE SHEET / PITCHER TARGET + SOURCE SHEET",
-        "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET, STAR + FIRE · score floor"
+        "badges": "HOT BAT + EV EDGE + WEATHER EDGE / STAR + FIRE + HOT BAT + EV EDGE / HOT BAT + EV EDGE",
+        "reason": "different games · EV EDGE, HOT BAT, STAR + FIRE, WEATHER EDGE · score floor"
+      },
+      {
+        "names": "Yordan Alvarez + Pete Alonso + Matt Olson",
+        "avg_score": 63.3,
+        "combo_score": 67.5,
+        "risk": "Balanced / Projected",
+        "badges": "STAR + FIRE + HOT BAT + EV EDGE / HOT BAT + EV EDGE / HOT BAT + EV EDGE + SOURCE SHEET",
+        "reason": "different games · EV EDGE, HOT BAT, STAR + FIRE · score floor"
       },
       {
         "names": "Matt Olson + Michael Busch + Julio Rodríguez",
-        "avg_score": 62.5,
-        "combo_score": 67.2,
+        "avg_score": 62.4,
+        "combo_score": 67.1,
         "risk": "Balanced",
         "badges": "HOT BAT + EV EDGE + SOURCE SHEET / PITCHER TARGET + SOURCE SHEET / HOT BAT + WEATHER EDGE",
-        "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET, WEATHER EDGE · score floor"
-      },
-      {
-        "names": "Shohei Ohtani + Julio Rodríguez + Ketel Marte",
-        "avg_score": 62.1,
-        "combo_score": 66.3,
-        "risk": "Balanced / Projected",
-        "badges": "FIRE / TOUGH SP + HOT BAT + EV EDGE / HOT BAT + WEATHER EDGE / PITCHER TARGET",
         "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET, WEATHER EDGE · score floor"
       }
     ],
     "4": [
       {
-        "names": "Pete Crow-Armstrong + Kyle Schwarber + Ben Rice + Munetaka Murakami",
+        "names": "Pete Crow-Armstrong + Kyle Schwarber + Mike Trout + Ben Rice",
         "avg_score": 65.3,
         "combo_score": 71.1,
         "risk": "Aggressive",
-        "badges": "HOT BAT + PITCHER TARGET + SOURCE SHEET / FIRE / TOUGH SP + HOT BAT + EV EDGE / HOT BAT + EV EDGE + WEATHER EDGE / FIRE / TOUGH SP + HOT BAT + EV EDGE",
+        "badges": "HOT BAT + PITCHER TARGET + SOURCE SHEET / FIRE / TOUGH SP + HOT BAT + EV EDGE / HOT BAT + EV EDGE / HOT BAT + EV EDGE + WEATHER EDGE",
         "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET, WEATHER EDGE · score floor"
       },
       {
-        "names": "Pete Crow-Armstrong + Kyle Schwarber + Ben Rice + Corbin Carroll",
+        "names": "Pete Crow-Armstrong + Kyle Schwarber + Mike Trout + Munetaka Murakami",
         "avg_score": 65.3,
         "combo_score": 71.0,
         "risk": "Aggressive",
-        "badges": "HOT BAT + PITCHER TARGET + SOURCE SHEET / FIRE / TOUGH SP + HOT BAT + EV EDGE / HOT BAT + EV EDGE + WEATHER EDGE / PITCHER TARGET",
-        "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET, WEATHER EDGE · score floor"
+        "badges": "HOT BAT + PITCHER TARGET + SOURCE SHEET / FIRE / TOUGH SP + HOT BAT + EV EDGE / HOT BAT + EV EDGE / FIRE / TOUGH SP + HOT BAT + EV EDGE",
+        "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET · score floor"
       },
       {
-        "names": "Munetaka Murakami + Andrew Pinckney + Corbin Carroll + Pete Alonso",
+        "names": "Ben Rice + Munetaka Murakami + Andrew Pinckney + Corbin Carroll",
+        "avg_score": 64.5,
+        "combo_score": 70.2,
+        "risk": "Aggressive",
+        "badges": "HOT BAT + EV EDGE + WEATHER EDGE / FIRE / TOUGH SP + HOT BAT + EV EDGE / HOT BAT + EV EDGE + SLEEPER PICK / PITCHER TARGET",
+        "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET, SLEEPER PICK, WEATHER EDGE · score floor"
+      },
+      {
+        "names": "Junior Caminero + Andrew Pinckney + Corbin Carroll + Pete Alonso",
         "avg_score": 64.1,
-        "combo_score": 69.8,
-        "risk": "Aggressive",
-        "badges": "FIRE / TOUGH SP + HOT BAT + EV EDGE / HOT BAT + EV EDGE + SLEEPER PICK / PITCHER TARGET / HOT BAT + EV EDGE",
-        "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET, SLEEPER PICK · score floor"
+        "combo_score": 69.4,
+        "risk": "Aggressive / Projected",
+        "badges": "HOT BAT + EV EDGE + WEATHER EDGE / HOT BAT + EV EDGE + SLEEPER PICK / PITCHER TARGET / HOT BAT + EV EDGE",
+        "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET, SLEEPER PICK, WEATHER EDGE · score floor"
       },
       {
-        "names": "Andrew Pinckney + Pete Alonso + Matt Olson + Julio Rodríguez",
-        "avg_score": 63.1,
-        "combo_score": 68.9,
-        "risk": "Aggressive",
-        "badges": "HOT BAT + EV EDGE + SLEEPER PICK / HOT BAT + EV EDGE / HOT BAT + EV EDGE + SOURCE SHEET / HOT BAT + WEATHER EDGE",
-        "reason": "different games · EV EDGE, HOT BAT, SLEEPER PICK, WEATHER EDGE · score floor"
+        "names": "Junior Caminero + Yordan Alvarez + Pete Alonso + Matt Olson",
+        "avg_score": 63.6,
+        "combo_score": 68.5,
+        "risk": "Aggressive / Projected",
+        "badges": "HOT BAT + EV EDGE + WEATHER EDGE / STAR + FIRE + HOT BAT + EV EDGE / HOT BAT + EV EDGE / HOT BAT + EV EDGE + SOURCE SHEET",
+        "reason": "different games · EV EDGE, HOT BAT, STAR + FIRE, WEATHER EDGE · score floor"
       },
       {
         "names": "Yordan Alvarez + Matt Olson + Michael Busch + Julio Rodríguez",
-        "avg_score": 62.9,
-        "combo_score": 68.2,
+        "avg_score": 62.8,
+        "combo_score": 68.1,
         "risk": "Aggressive / Projected",
         "badges": "STAR + FIRE + HOT BAT + EV EDGE / HOT BAT + EV EDGE + SOURCE SHEET / PITCHER TARGET + SOURCE SHEET / HOT BAT + WEATHER EDGE",
         "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET, STAR + FIRE, WEATHER EDGE · score floor"
       },
       {
-        "names": "Yordan Alvarez + Shohei Ohtani + Michael Busch + Ketel Marte",
-        "avg_score": 62.6,
+        "names": "Shohei Ohtani + Michael Busch + Julio Rodríguez + Ketel Marte",
+        "avg_score": 62.1,
         "combo_score": 67.4,
         "risk": "Aggressive / Projected",
-        "badges": "STAR + FIRE + HOT BAT + EV EDGE / FIRE / TOUGH SP + HOT BAT + EV EDGE / PITCHER TARGET + SOURCE SHEET / PITCHER TARGET",
-        "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET, STAR + FIRE · score floor"
+        "badges": "FIRE / TOUGH SP + HOT BAT + EV EDGE / PITCHER TARGET + SOURCE SHEET / HOT BAT + WEATHER EDGE / PITCHER TARGET",
+        "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET, WEATHER EDGE · score floor"
       },
       {
-        "names": "Shohei Ohtani + Ketel Marte + Dominic Canzone + Ian Happ",
-        "avg_score": 61.1,
-        "combo_score": 66.4,
+        "names": "Shohei Ohtani + Corey Seager + Jonathan Aranda + Ketel Marte",
+        "avg_score": 62.2,
+        "combo_score": 66.6,
         "risk": "Aggressive / Projected",
-        "badges": "FIRE / TOUGH SP + HOT BAT + EV EDGE / PITCHER TARGET / WEATHER EDGE / SLEEPER PICK + SOURCE SHEET",
-        "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET, SLEEPER PICK, WEATHER EDGE · score floor"
-      },
-      {
-        "names": "Dominic Canzone + Ian Happ + Jordan Walker + Lars Nootbaar",
-        "avg_score": 59.8,
-        "combo_score": 65.2,
-        "risk": "Aggressive",
-        "badges": "WEATHER EDGE / SLEEPER PICK + SOURCE SHEET / EV EDGE / PITCHER TARGET",
-        "reason": "different games · EV EDGE, PITCHER TARGET, SLEEPER PICK, WEATHER EDGE"
+        "badges": "FIRE / TOUGH SP + HOT BAT + EV EDGE / SOURCE SHEET / WEATHER EDGE / PITCHER TARGET",
+        "reason": "different games · EV EDGE, HOT BAT, PITCHER TARGET, WEATHER EDGE · score floor"
       }
     ]
   },
@@ -4465,7 +4483,7 @@
           "order": 4,
           "pitcher": "Tanner Bibee",
           "score": 58.7,
-          "rank": 23,
+          "rank": 29,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4484,7 +4502,7 @@
           "order": 3,
           "pitcher": "Tanner Bibee",
           "score": 54.6,
-          "rank": 55,
+          "rank": 62,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -4503,7 +4521,7 @@
           "order": 4,
           "pitcher": "Drew Anderson",
           "score": 50.5,
-          "rank": 85,
+          "rank": 98,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4522,7 +4540,7 @@
           "order": 6,
           "pitcher": "Tanner Bibee",
           "score": 50.2,
-          "rank": 87,
+          "rank": 100,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4541,7 +4559,7 @@
           "order": 5,
           "pitcher": "Tanner Bibee",
           "score": 49.1,
-          "rank": 96,
+          "rank": 107,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4572,7 +4590,7 @@
           "order": 2,
           "pitcher": "Eury Pérez",
           "score": 57.4,
-          "rank": 31,
+          "rank": 35,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4591,7 +4609,7 @@
           "order": 3,
           "pitcher": "Paul Skenes",
           "score": 55.0,
-          "rank": 52,
+          "rank": 59,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -4610,7 +4628,7 @@
           "order": 7,
           "pitcher": "Eury Pérez",
           "score": 54.3,
-          "rank": 59,
+          "rank": 65,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -4629,7 +4647,7 @@
           "order": 3,
           "pitcher": "Eury Pérez",
           "score": 52.2,
-          "rank": 71,
+          "rank": 81,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4648,7 +4666,7 @@
           "order": 4,
           "pitcher": "Paul Skenes",
           "score": 47.7,
-          "rank": 114,
+          "rank": 125,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4702,7 +4720,7 @@
           "order": 9,
           "pitcher": "Shota Imanaga",
           "score": 64.3,
-          "rank": 5,
+          "rank": 7,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -4725,7 +4743,7 @@
           "order": 3,
           "pitcher": "Jake Irvin",
           "score": 62.5,
-          "rank": 11,
+          "rank": 13,
           "badge": "PITCHER TARGET",
           "badge_class": "red",
           "badges": [
@@ -4746,7 +4764,7 @@
           "order": 5,
           "pitcher": "Jake Irvin",
           "score": 60.0,
-          "rank": 16,
+          "rank": 21,
           "badge": "SLEEPER PICK",
           "badge_class": "teal",
           "badges": [
@@ -4767,7 +4785,7 @@
           "order": 2,
           "pitcher": "Jake Irvin",
           "score": 59.9,
-          "rank": 17,
+          "rank": 22,
           "badge": "PITCHER TARGET",
           "badge_class": "red",
           "badges": [
@@ -4787,10 +4805,10 @@
     {
       "teams": "SEA vs NYY",
       "ballpark": "Yankee Stadium",
-      "temp": 84.0,
-      "wind": "Out To CF",
-      "environment_score": 77.2,
-      "top_score": 65.0,
+      "temp": 82.0,
+      "wind": "Out To LF",
+      "environment_score": 75.2,
+      "top_score": 64.7,
       "game_tags": "elite weather · top-25 target · deep stack",
       "disagreement_count": 0,
       "players": [
@@ -4799,8 +4817,8 @@
           "team": "NYY",
           "order": 2,
           "pitcher": "Bryan Woo",
-          "score": 65.0,
-          "rank": 3,
+          "score": 64.7,
+          "rank": 4,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -4822,8 +4840,8 @@
           "team": "SEA",
           "order": 3,
           "pitcher": "Ryan Weathers",
-          "score": 62.4,
-          "rank": 12,
+          "score": 62.1,
+          "rank": 16,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -4843,8 +4861,8 @@
           "team": "SEA",
           "order": 4,
           "pitcher": "Ryan Weathers",
-          "score": 60.5,
-          "rank": 14,
+          "score": 60.2,
+          "rank": 20,
           "badge": "WEATHER EDGE",
           "badge_class": "green",
           "badges": [
@@ -4862,8 +4880,8 @@
           "team": "NYY",
           "order": 1,
           "pitcher": "Bryan Woo",
-          "score": 60.1,
-          "rank": 15,
+          "score": 59.8,
+          "rank": 23,
           "badge": "WEATHER EDGE",
           "badge_class": "green",
           "badges": [
@@ -4881,8 +4899,8 @@
           "team": "NYY",
           "order": 4,
           "pitcher": "Bryan Woo",
-          "score": 59.8,
-          "rank": 18,
+          "score": 59.5,
+          "rank": 25,
           "badge": "WEATHER EDGE",
           "badge_class": "green",
           "badges": [
@@ -4913,7 +4931,7 @@
           "order": 3,
           "pitcher": "Dylan Cease",
           "score": 53.5,
-          "rank": 67,
+          "rank": 73,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -4932,7 +4950,7 @@
           "order": 4,
           "pitcher": "Dylan Cease",
           "score": 48.1,
-          "rank": 109,
+          "rank": 118,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -4951,7 +4969,7 @@
           "order": 3,
           "pitcher": "Patrick Sandoval",
           "score": 45.8,
-          "rank": 131,
+          "rank": 143,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -4970,7 +4988,7 @@
           "order": 4,
           "pitcher": "Patrick Sandoval",
           "score": 44.6,
-          "rank": 145,
+          "rank": 161,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4984,12 +5002,12 @@
           "source_warnings": ""
         },
         {
-          "player": "Kazuma Okamoto",
+          "player": "Charles McAdoo",
           "team": "TOR",
-          "order": 7,
+          "order": 1,
           "pitcher": "Patrick Sandoval",
-          "score": 43.1,
-          "rank": 157,
+          "score": 42.0,
+          "rank": 174,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -5020,7 +5038,7 @@
           "order": 3,
           "pitcher": "Nolan McLean",
           "score": 62.7,
-          "rank": 9,
+          "rank": 11,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -5043,7 +5061,7 @@
           "order": 2,
           "pitcher": "Nolan McLean",
           "score": 58.7,
-          "rank": 24,
+          "rank": 30,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -5064,7 +5082,7 @@
           "order": 2,
           "pitcher": "Martín Pérez",
           "score": 57.4,
-          "rank": 32,
+          "rank": 37,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -5083,7 +5101,7 @@
           "order": 1,
           "pitcher": "Nolan McLean",
           "score": 56.2,
-          "rank": 40,
+          "rank": 46,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -5102,7 +5120,7 @@
           "order": 7,
           "pitcher": "Martín Pérez",
           "score": 55.1,
-          "rank": 51,
+          "rank": 58,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -5133,7 +5151,7 @@
           "order": 2,
           "pitcher": "Bailey Ober",
           "score": 63.2,
-          "rank": 8,
+          "rank": 10,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -5154,7 +5172,7 @@
           "order": 4,
           "pitcher": "Bailey Ober",
           "score": 55.8,
-          "rank": 44,
+          "rank": 51,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -5173,7 +5191,7 @@
           "order": 5,
           "pitcher": "Bailey Ober",
           "score": 55.8,
-          "rank": 45,
+          "rank": 52,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -5192,7 +5210,7 @@
           "order": 3,
           "pitcher": "Brandon Young",
           "score": 55.7,
-          "rank": 47,
+          "rank": 53,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -5211,7 +5229,7 @@
           "order": 4,
           "pitcher": "Brandon Young",
           "score": 54.4,
-          "rank": 58,
+          "rank": 64,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -5242,7 +5260,7 @@
           "order": 2,
           "pitcher": "Nick Lodolo",
           "score": 64.5,
-          "rank": 4,
+          "rank": 6,
           "badge": "FIRE / TOUGH SP",
           "badge_class": "red",
           "badges": [
@@ -5265,7 +5283,7 @@
           "order": 2,
           "pitcher": "Sean Burke",
           "score": 57.9,
-          "rank": 27,
+          "rank": 33,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -5284,7 +5302,7 @@
           "order": 1,
           "pitcher": "Sean Burke",
           "score": 56.7,
-          "rank": 34,
+          "rank": 40,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -5303,7 +5321,7 @@
           "order": 3,
           "pitcher": "Nick Lodolo",
           "score": 56.2,
-          "rank": 41,
+          "rank": 47,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
           "badges": [
@@ -5322,7 +5340,7 @@
           "order": 4,
           "pitcher": "Nick Lodolo",
           "score": 55.0,
-          "rank": 53,
+          "rank": 60,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -5376,7 +5394,7 @@
           "order": 3,
           "pitcher": "Cristopher Sánchez",
           "score": 59.6,
-          "rank": 19,
+          "rank": 24,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -5395,7 +5413,7 @@
           "order": 4,
           "pitcher": "Cristopher Sánchez",
           "score": 57.7,
-          "rank": 30,
+          "rank": 34,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -5414,7 +5432,7 @@
           "order": 3,
           "pitcher": "Andre Pallante",
           "score": 56.5,
-          "rank": 37,
+          "rank": 42,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -5433,7 +5451,7 @@
           "order": 2,
           "pitcher": "Cristopher Sánchez",
           "score": 53.6,
-          "rank": 66,
+          "rank": 71,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -5451,20 +5469,20 @@
     {
       "teams": "TEX vs LAA",
       "ballpark": "Angel Stadium",
-      "temp": "",
-      "wind": "",
-      "environment_score": 28.2,
-      "top_score": 58.3,
-      "game_tags": "lineup caution",
-      "disagreement_count": 18,
+      "temp": 80.0,
+      "wind": "Out To CF",
+      "environment_score": 67.2,
+      "top_score": 64.8,
+      "game_tags": "top-25 target · deep stack · lineup caution",
+      "disagreement_count": 9,
       "players": [
         {
           "player": "Mike Trout",
           "team": "LAA",
           "order": 2,
           "pitcher": "Cody Bradford",
-          "score": 58.3,
-          "rank": 26,
+          "score": 64.8,
+          "rank": 3,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -5476,16 +5494,16 @@
             "blue"
           ],
           "badge_summary": "HOT BAT + EV EDGE",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "lineup projected / unconfirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         },
         {
           "player": "Corey Seager",
           "team": "TEX",
           "order": 3,
           "pitcher": "Ryan Johnson",
-          "score": 56.7,
-          "rank": 35,
+          "score": 62.5,
+          "rank": 14,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
           "badges": [
@@ -5503,8 +5521,8 @@
           "team": "TEX",
           "order": 4,
           "pitcher": "Ryan Johnson",
-          "score": 55.8,
-          "rank": 46,
+          "score": 61.7,
+          "rank": 17,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -5526,8 +5544,8 @@
           "team": "TEX",
           "order": 1,
           "pitcher": "Ryan Johnson",
-          "score": 52.4,
-          "rank": 70,
+          "score": 58.2,
+          "rank": 32,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -5545,8 +5563,8 @@
           "team": "LAA",
           "order": 1,
           "pitcher": "Cody Bradford",
-          "score": 50.9,
-          "rank": 81,
+          "score": 57.4,
+          "rank": 38,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -5556,8 +5574,8 @@
             "muted"
           ],
           "badge_summary": "WATCH",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "lineup projected / unconfirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         }
       ]
     },
@@ -5577,7 +5595,7 @@
           "order": 2,
           "pitcher": "Tomoyuki Sugano",
           "score": 64.3,
-          "rank": 6,
+          "rank": 8,
           "badge": "PITCHER TARGET",
           "badge_class": "red",
           "badges": [
@@ -5596,7 +5614,7 @@
           "order": 4,
           "pitcher": "Tomoyuki Sugano",
           "score": 61.3,
-          "rank": 13,
+          "rank": 18,
           "badge": "PITCHER TARGET",
           "badge_class": "red",
           "badges": [
@@ -5615,7 +5633,7 @@
           "order": 1,
           "pitcher": "Tomoyuki Sugano",
           "score": 59.1,
-          "rank": 21,
+          "rank": 26,
           "badge": "PITCHER TARGET",
           "badge_class": "red",
           "badges": [
@@ -5634,7 +5652,7 @@
           "order": 3,
           "pitcher": "Tomoyuki Sugano",
           "score": 55.2,
-          "rank": 50,
+          "rank": 57,
           "badge": "PITCHER TARGET",
           "badge_class": "red",
           "badges": [
@@ -5653,7 +5671,7 @@
           "order": 6,
           "pitcher": "Tomoyuki Sugano",
           "score": 54.6,
-          "rank": 56,
+          "rank": 63,
           "badge": "PITCHER TARGET",
           "badge_class": "red",
           "badges": [
@@ -5671,31 +5689,33 @@
     {
       "teams": "TB vs ATH",
       "ballpark": "Sutter Health Park",
-      "temp": "",
-      "wind": "",
-      "environment_score": 30.9,
-      "top_score": 57.8,
-      "game_tags": "lineup caution",
-      "disagreement_count": 18,
+      "temp": 91.0,
+      "wind": "Out To CF",
+      "environment_score": 76.4,
+      "top_score": 64.6,
+      "game_tags": "elite weather · top-25 target · lineup caution",
+      "disagreement_count": 11,
       "players": [
         {
           "player": "Junior Caminero",
           "team": "TB",
           "order": 4,
           "pitcher": "Mason Barnett",
-          "score": 57.8,
-          "rank": 28,
+          "score": 64.6,
+          "rank": 5,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
             "HOT BAT",
-            "EV EDGE"
+            "EV EDGE",
+            "WEATHER EDGE"
           ],
           "badge_classes": [
             "orange",
-            "blue"
+            "blue",
+            "green"
           ],
-          "badge_summary": "HOT BAT + EV EDGE",
+          "badge_summary": "HOT BAT + EV EDGE + WEATHER EDGE",
           "lineup_disagreement": "Yes",
           "source_warnings": "lineup projected / unconfirmed"
         },
@@ -5704,36 +5724,17 @@
           "team": "TB",
           "order": 2,
           "pitcher": "Mason Barnett",
-          "score": 55.5,
-          "rank": 48,
-          "badge": "WATCH",
-          "badge_class": "muted",
+          "score": 62.4,
+          "rank": 15,
+          "badge": "WEATHER EDGE",
+          "badge_class": "green",
           "badges": [
-            "WATCH"
+            "WEATHER EDGE"
           ],
           "badge_classes": [
-            "muted"
+            "green"
           ],
-          "badge_summary": "WATCH",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "lineup projected / unconfirmed"
-        },
-        {
-          "player": "Tyler Soderstrom",
-          "team": "ATH",
-          "order": 2,
-          "pitcher": "Nick Martinez",
-          "score": 51.9,
-          "rank": 75,
-          "badge": "SOURCE SHEET",
-          "badge_class": "gold",
-          "badges": [
-            "SOURCE SHEET"
-          ],
-          "badge_classes": [
-            "gold"
-          ],
-          "badge_summary": "SOURCE SHEET",
+          "badge_summary": "WEATHER EDGE",
           "lineup_disagreement": "Yes",
           "source_warnings": "lineup projected / unconfirmed"
         },
@@ -5742,17 +5743,17 @@
           "team": "TB",
           "order": 6,
           "pitcher": "Mason Barnett",
-          "score": 49.5,
-          "rank": 94,
-          "badge": "WATCH",
-          "badge_class": "muted",
+          "score": 56.3,
+          "rank": 44,
+          "badge": "WEATHER EDGE",
+          "badge_class": "green",
           "badges": [
-            "WATCH"
+            "WEATHER EDGE"
           ],
           "badge_classes": [
-            "muted"
+            "green"
           ],
-          "badge_summary": "WATCH",
+          "badge_summary": "WEATHER EDGE",
           "lineup_disagreement": "Yes",
           "source_warnings": "lineup projected / unconfirmed"
         },
@@ -5761,39 +5762,60 @@
           "team": "TB",
           "order": 1,
           "pitcher": "Mason Barnett",
-          "score": 48.6,
-          "rank": 100,
+          "score": 55.5,
+          "rank": 55,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
-            "EV EDGE"
+            "EV EDGE",
+            "WEATHER EDGE"
           ],
           "badge_classes": [
-            "blue"
+            "blue",
+            "green"
           ],
-          "badge_summary": "EV EDGE",
+          "badge_summary": "EV EDGE + WEATHER EDGE",
           "lineup_disagreement": "Yes",
           "source_warnings": "lineup projected / unconfirmed"
+        },
+        {
+          "player": "Zack Gelof",
+          "team": "ATH",
+          "order": 2,
+          "pitcher": "Nick Martinez",
+          "score": 52.4,
+          "rank": 80,
+          "badge": "WEATHER EDGE",
+          "badge_class": "green",
+          "badges": [
+            "WEATHER EDGE"
+          ],
+          "badge_classes": [
+            "green"
+          ],
+          "badge_summary": "WEATHER EDGE",
+          "lineup_disagreement": "Yes",
+          "source_warnings": "order MLB 2 vs RotoWire 9"
         }
       ]
     },
     {
       "teams": "MIL vs SD",
       "ballpark": "Petco Park",
-      "temp": "",
-      "wind": "",
-      "environment_score": 22.6,
-      "top_score": 57.4,
+      "temp": 75.0,
+      "wind": "L To R",
+      "environment_score": 45.6,
+      "top_score": 60.9,
       "game_tags": "lineup caution",
-      "disagreement_count": 18,
+      "disagreement_count": 9,
       "players": [
         {
           "player": "Jake Bauers",
           "team": "MIL",
           "order": 3,
           "pitcher": "Walker Buehler",
-          "score": 57.4,
-          "rank": 33,
+          "score": 60.9,
+          "rank": 19,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -5813,8 +5835,8 @@
           "team": "MIL",
           "order": 2,
           "pitcher": "Walker Buehler",
-          "score": 54.0,
-          "rank": 64,
+          "score": 57.4,
+          "rank": 39,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -5830,12 +5852,12 @@
           "source_warnings": "lineup projected / unconfirmed"
         },
         {
-          "player": "Fernando Tatis",
+          "player": "Fernando Tatis Jr.",
           "team": "SD",
           "order": 1,
           "pitcher": "Kyle Harrison",
-          "score": 51.9,
-          "rank": 76,
+          "score": 56.0,
+          "rank": 48,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -5847,16 +5869,16 @@
             "blue"
           ],
           "badge_summary": "HOT BAT + EV EDGE",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "lineup projected / unconfirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         },
         {
           "player": "Manny Machado",
           "team": "SD",
           "order": 3,
           "pitcher": "Kyle Harrison",
-          "score": 48.6,
-          "rank": 101,
+          "score": 52.7,
+          "rank": 76,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -5866,29 +5888,27 @@
             "muted"
           ],
           "badge_summary": "WATCH",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "lineup projected / unconfirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         },
         {
-          "player": "Garrett Mitchell",
-          "team": "MIL",
+          "player": "Jackson Merrill",
+          "team": "SD",
           "order": 5,
-          "pitcher": "Walker Buehler",
-          "score": 48.5,
-          "rank": 104,
-          "badge": "EV EDGE",
-          "badge_class": "blue",
+          "pitcher": "Kyle Harrison",
+          "score": 52.5,
+          "rank": 77,
+          "badge": "HOT BAT",
+          "badge_class": "orange",
           "badges": [
-            "EV EDGE",
-            "SOURCE SHEET"
+            "HOT BAT"
           ],
           "badge_classes": [
-            "blue",
-            "gold"
+            "orange"
           ],
-          "badge_summary": "EV EDGE + SOURCE SHEET",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "lineup projected / unconfirmed"
+          "badge_summary": "HOT BAT",
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         }
       ]
     },
@@ -5908,7 +5928,7 @@
           "order": 2,
           "pitcher": "Carson Whisenhunt",
           "score": 64.0,
-          "rank": 7,
+          "rank": 9,
           "badge": "STAR + FIRE",
           "badge_class": "fire",
           "badges": [
@@ -5931,7 +5951,7 @@
           "order": 7,
           "pitcher": "Carson Whisenhunt",
           "score": 56.3,
-          "rank": 39,
+          "rank": 45,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -5950,7 +5970,7 @@
           "order": 5,
           "pitcher": "Carson Whisenhunt",
           "score": 51.6,
-          "rank": 77,
+          "rank": 87,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -5969,7 +5989,7 @@
           "order": 1,
           "pitcher": "Hunter Brown",
           "score": 51.2,
-          "rank": 79,
+          "rank": 91,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -5988,7 +6008,7 @@
           "order": 9,
           "pitcher": "Carson Whisenhunt",
           "score": 49.8,
-          "rank": 90,
+          "rank": 103,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -6019,7 +6039,7 @@
           "order": 1,
           "pitcher": "Michael Wacha",
           "score": 62.6,
-          "rank": 10,
+          "rank": 12,
           "badge": "FIRE / TOUGH SP",
           "badge_class": "red",
           "badges": [
@@ -6042,7 +6062,7 @@
           "order": 3,
           "pitcher": "Michael Wacha",
           "score": 48.4,
-          "rank": 106,
+          "rank": 114,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -6061,7 +6081,7 @@
           "order": 3,
           "pitcher": "Blake Snell",
           "score": 46.6,
-          "rank": 124,
+          "rank": 133,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -6084,7 +6104,7 @@
           "order": 2,
           "pitcher": "Blake Snell",
           "score": 45.3,
-          "rank": 138,
+          "rank": 151,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -6103,7 +6123,7 @@
           "order": 6,
           "pitcher": "Michael Wacha",
           "score": 45.2,
-          "rank": 139,
+          "rank": 153,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -6119,8 +6139,8 @@
       ]
     }
   ],
-  "lineup_disagreements": 117,
-  "rotowire_found": 261,
+  "lineup_disagreements": 92,
+  "rotowire_found": 260,
   "slate_size": 270,
   "sources": "Baseball Savant; MLB Stats API; RotoWire",
   "model_profile": "Weighted Statcast baseline: 2026 70% / 2025 30%. Streak context is noted but does not override daily matchup math."

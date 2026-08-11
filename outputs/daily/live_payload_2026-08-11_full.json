@@ -1,7 +1,7 @@
 {
   "date": "Tuesday, August 11, 2026",
-  "generated_at": "10:33 AM EDT",
-  "generated_iso": "2026-08-11T10:33:26-04:00",
+  "generated_at": "11:30 AM EDT",
+  "generated_iso": "2026-08-11T11:30:34-04:00",
   "slate_projection": 261,
   "games_count": 15,
   "confirmed_count": 0,
@@ -2226,7 +2226,7 @@
           "order": 1,
           "pitcher": "Ryan Johnson",
           "score": 52.4,
-          "rank": 35,
+          "rank": 34,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2276,7 +2276,7 @@
           "order": 4,
           "pitcher": "Mitch Bratt",
           "score": 52.3,
-          "rank": 36,
+          "rank": 35,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
           "badges": [
@@ -2754,7 +2754,7 @@
           "order": 3,
           "pitcher": "Tanner Bibee",
           "score": 52.2,
-          "rank": 37,
+          "rank": 36,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -3627,10 +3627,10 @@
         {
           "player": "Jordan Walker",
           "team": "STL",
-          "order": 2,
+          "order": 3,
           "pitcher": "Cristopher Sánchez",
-          "score": 52.6,
-          "rank": 34,
+          "score": 52.2,
+          "rank": 37,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -3684,10 +3684,10 @@
         {
           "player": "Ivan Herrera",
           "team": "STL",
-          "order": 3,
+          "order": 2,
           "pitcher": "Cristopher Sánchez",
-          "score": 45.6,
-          "rank": 98,
+          "score": 46.1,
+          "rank": 94,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3781,7 +3781,7 @@
           "order": 1,
           "pitcher": "Ryan Johnson",
           "score": 52.4,
-          "rank": 35,
+          "rank": 34,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3831,7 +3831,7 @@
           "order": 4,
           "pitcher": "Mitch Bratt",
           "score": 52.3,
-          "rank": 36,
+          "rank": 35,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
           "badges": [

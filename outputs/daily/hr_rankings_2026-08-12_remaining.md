@@ -13,15 +13,15 @@
 | 9 | Andrew Pinckney | WSH | David Peterson | 6 | 60.5 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
 | 10 | Griffin Conine | MIA | Carmen Mlodzinski | 3 | 59.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 11 | Trent Grisham | NYY | Bryce Miller | 1 | 59.8 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 12 | Wilyer Abreu | BOS | José Soriano | 5 | 59.8 | Longshot | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 13 | Jac Caglianone | KC | Eric Lauer | 3 | 59.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 14 | Luis García Jr. | NYY | Bryce Miller | 4 | 59.5 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 15 | Drake Baldwin | ATL | Zac Thornton | 2 | 59.5 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 16 | Colson Montgomery | CWS | Rhett Lowder | 5 | 59.5 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 17 | Francisco Lindor | NYM | Tyler Mahle | 2 | 59.3 | Longshot | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
-| 18 | Dillon Dingler | DET | Foster Griffin | 2 | 58.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 19 | Eugenio Suárez | CIN | Luis Castillo | 4 | 58.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 20 | Bobby Witt | KC | Eric Lauer | 2 | 58.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Jac Caglianone | KC | Eric Lauer | 3 | 59.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 13 | Luis García Jr. | NYY | Bryce Miller | 4 | 59.5 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 14 | Drake Baldwin | ATL | Zac Thornton | 2 | 59.5 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 15 | Colson Montgomery | CWS | Rhett Lowder | 5 | 59.5 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 16 | Francisco Lindor | NYM | Tyler Mahle | 2 | 59.3 | Longshot | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
+| 17 | Dillon Dingler | DET | Foster Griffin | 2 | 58.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 18 | Eugenio Suárez | CIN | Luis Castillo | 4 | 58.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 19 | Bobby Witt | KC | Eric Lauer | 2 | 58.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Julio Rodríguez | SEA | Will Warren | 5 | 58.0 | Longshot | Watch List | Good Environment |
 
 ## Best 2-Leg Pairings
 

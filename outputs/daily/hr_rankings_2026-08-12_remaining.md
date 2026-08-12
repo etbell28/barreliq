@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Munetaka Murakami | CWS | Rhett Lowder | 2 | 66.3 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 2 | Kyle Schwarber | PHI | Kyle Leahy | 1 | 65.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 3 | Pete Alonso | BAL | Zebby Matthews | 2 | 63.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 4 | Jac Caglianone | KC | Eric Lauer | 3 | 59.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 5 | Yordan Alvarez | HOU |  | 2 | 59.5 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 6 | Ronald Acuna | ATL | Zac Thornton | 2 | 59.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 7 | Bobby Witt | KC | Eric Lauer | 2 | 58.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 8 | Hunter Goodman | COL | Merrill Kelly | 4 | 58.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 9 | Matt Olson | ATL | Zac Thornton | 3 | 57.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 10 | Ben Rice | NYY | Bryce Miller | 2 | 57.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Sal Stewart | CIN | Luis Castillo | 2 | 57.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 12 | Christian Encarnacion-Strand | BAL | Zebby Matthews | 5 | 56.9 | Longshot | Watch List | Projected Lineup, Strong Barrel |
-| 13 | Junior Caminero | TB | Jack Perkins | 3 | 56.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 14 | Dominic Canzone | SEA | Will Warren | 4 | 56.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Mike Trout | LAA | Cal Quantrill | 2 | 56.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 16 | Elly De La Cruz | CIN | Luis Castillo | 1 | 56.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Jackson Chourio | MIL | Robbie Ray | 2 | 56.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 18 | Shohei Ohtani | LAD | Daniel Lynch IV | 1 | 56.5 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 19 | Corey Seager | TEX | George Klassen | 3 | 56.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Brandon Nimmo | TEX | George Klassen | 4 | 55.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 1 | Munetaka Murakami | CWS | Rhett Lowder | 2 | 72.4 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Ronald Acuña Jr. | ATL | Zac Thornton | 1 | 64.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 3 | Matt Olson | ATL | Zac Thornton | 3 | 64.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
+| 4 | Ben Rice | NYY | Bryce Miller | 2 | 64.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 5 | Dominic Canzone | SEA | Will Warren | 4 | 63.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 6 | Sal Stewart | CIN | Luis Castillo | 2 | 62.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 7 | Elly De La Cruz | CIN | Luis Castillo | 1 | 62.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 8 | Spencer Jones | NYY | Bryce Miller | 3 | 62.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 9 | Andrew Pinckney | WSH | David Peterson | 6 | 60.5 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
+| 10 | Griffin Conine | MIA | Carmen Mlodzinski | 3 | 59.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Trent Grisham | NYY | Bryce Miller | 1 | 59.8 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 12 | Wilyer Abreu | BOS | José Soriano | 5 | 59.8 | Longshot | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 13 | Jac Caglianone | KC | Eric Lauer | 3 | 59.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 14 | Luis García Jr. | NYY | Bryce Miller | 4 | 59.5 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 15 | Drake Baldwin | ATL | Zac Thornton | 2 | 59.5 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 16 | Colson Montgomery | CWS | Rhett Lowder | 5 | 59.5 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 17 | Francisco Lindor | NYM | Tyler Mahle | 2 | 59.3 | Longshot | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
+| 18 | Dillon Dingler | DET | Foster Griffin | 2 | 58.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 19 | Eugenio Suárez | CIN | Luis Castillo | 4 | 58.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 20 | Bobby Witt | KC | Eric Lauer | 2 | 58.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Munetaka Murakami + Kyle Schwarber | Avg HR Score: 65.8
-- Kyle Schwarber + Pete Alonso | Avg HR Score: 64.5
-- Pete Alonso + Jac Caglianone | Avg HR Score: 61.8
-- Jac Caglianone + Yordan Alvarez | Avg HR Score: 59.7
-- Yordan Alvarez + Ronald Acuna | Avg HR Score: 59.3
+- Munetaka Murakami + Ronald Acuña Jr. | Avg HR Score: 68.7
+- Ronald Acuña Jr. + Matt Olson | Avg HR Score: 64.9
+- Matt Olson + Ben Rice | Avg HR Score: 64.5
+- Ben Rice + Dominic Canzone | Avg HR Score: 63.6
+- Dominic Canzone + Sal Stewart | Avg HR Score: 63.0
 
 ## Best 3-Leg Pairings
 
-- Munetaka Murakami + Kyle Schwarber + Pete Alonso | Avg HR Score: 65.1
-- Kyle Schwarber + Pete Alonso + Jac Caglianone | Avg HR Score: 63.0
-- Pete Alonso + Jac Caglianone + Yordan Alvarez | Avg HR Score: 61.0
-- Jac Caglianone + Yordan Alvarez + Ronald Acuna | Avg HR Score: 59.5
-- Yordan Alvarez + Ronald Acuna + Bobby Witt | Avg HR Score: 59.0
+- Munetaka Murakami + Ronald Acuña Jr. + Matt Olson | Avg HR Score: 67.4
+- Ronald Acuña Jr. + Matt Olson + Ben Rice | Avg HR Score: 64.6
+- Matt Olson + Ben Rice + Dominic Canzone | Avg HR Score: 64.1
+- Ben Rice + Dominic Canzone + Sal Stewart | Avg HR Score: 63.4
+- Dominic Canzone + Sal Stewart + Elly De La Cruz | Avg HR Score: 62.8
 
 ## Best 4-Leg Pairings
 
-- Munetaka Murakami + Kyle Schwarber + Pete Alonso + Jac Caglianone | Avg HR Score: 63.8
-- Kyle Schwarber + Pete Alonso + Jac Caglianone + Yordan Alvarez | Avg HR Score: 62.1
-- Pete Alonso + Jac Caglianone + Yordan Alvarez + Ronald Acuna | Avg HR Score: 60.5
-- Jac Caglianone + Yordan Alvarez + Ronald Acuna + Bobby Witt | Avg HR Score: 59.2
-- Yordan Alvarez + Ronald Acuna + Bobby Witt + Hunter Goodman | Avg HR Score: 58.8
+- Munetaka Murakami + Ronald Acuña Jr. + Matt Olson + Ben Rice | Avg HR Score: 66.6
+- Ronald Acuña Jr. + Matt Olson + Ben Rice + Dominic Canzone | Avg HR Score: 64.3
+- Matt Olson + Ben Rice + Dominic Canzone + Sal Stewart | Avg HR Score: 63.8
+- Ben Rice + Dominic Canzone + Sal Stewart + Elly De La Cruz | Avg HR Score: 63.1
+- Dominic Canzone + Sal Stewart + Elly De La Cruz + Spencer Jones | Avg HR Score: 62.6

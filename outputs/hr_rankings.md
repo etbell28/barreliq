@@ -12,16 +12,16 @@
 | 8 | Bryce Harper | PHI | Kyle Leahy | 3 | 64.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 9 | Ben Rice | NYY | Bryce Miller | 2 | 64.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 10 | Dominic Canzone | SEA | Will Warren | 4 | 63.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 11 | Sal Stewart | CIN | Luis Castillo | 2 | 62.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 12 | Spencer Jones | NYY | Bryce Miller | 3 | 62.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 13 | Elly De La Cruz | CIN | Luis Castillo | 1 | 61.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Hunter Goodman | COL | Merrill Kelly | 4 | 61.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 15 | Junior Caminero | TB | Jack Perkins | 3 | 61.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 11 | Sal Stewart | CIN | Luis Castillo | 2 | 62.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 12 | Elly De La Cruz | CIN | Luis Castillo | 1 | 62.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Spencer Jones | NYY | Bryce Miller | 3 | 62.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 14 | Junior Caminero | TB | Jack Perkins | 3 | 61.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 15 | Hunter Goodman | COL | Merrill Kelly | 4 | 61.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
 | 16 | Andrew Pinckney | WSH | David Peterson | 6 | 60.5 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
-| 17 | Christian Encarnacion-Strand | BAL | Zebby Matthews | 6 | 60.0 | Tier 3 | Watch List | Strong Barrel |
-| 18 | Jackson Chourio | MIL | Robbie Ray | 1 | 59.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 19 | Griffin Conine | MIA | Carmen Mlodzinski | 3 | 59.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Trent Grisham | NYY | Bryce Miller | 1 | 59.8 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 17 | Jackson Chourio | MIL | Robbie Ray | 1 | 60.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 18 | Griffin Conine | MIA | Carmen Mlodzinski | 3 | 59.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Trent Grisham | NYY | Bryce Miller | 1 | 59.8 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 20 | Wilyer Abreu | BOS | José Soriano | 5 | 59.8 | Longshot | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
 
 ## Best 2-Leg Pairings
 

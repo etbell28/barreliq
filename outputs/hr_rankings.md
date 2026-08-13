@@ -4,12 +4,12 @@
 |---:|---|---|---|---:|---:|---|---|---|
 | 1 | Spencer Jones | NYY | Logan Gilbert | 3 | 68.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 2 | Ben Rice | NYY | Logan Gilbert | 2 | 68.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 3 | Abimelec Ortiz | WSH | Kevin Gausman | 2 | 65.1 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 4 | Trent Grisham | NYY | Logan Gilbert | 1 | 64.6 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 5 | Kyle Schwarber | PHI | Taj Bradley | 1 | 64.1 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 6 | Wilyer Abreu | BOS | Max Scherzer | 5 | 63.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 7 | Luis García Jr. | NYY | Logan Gilbert | 4 | 62.6 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 8 | Willson Contreras | BOS | Max Scherzer | 4 | 62.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 3 | Wilyer Abreu | BOS | Max Scherzer | 3 | 65.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Abimelec Ortiz | WSH | Kevin Gausman | 2 | 65.1 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 5 | Trent Grisham | NYY | Logan Gilbert | 1 | 64.6 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 6 | Kyle Schwarber | PHI | Taj Bradley | 1 | 64.1 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 7 | Willson Contreras | BOS | Max Scherzer | 4 | 62.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 8 | Luis García Jr. | NYY | Logan Gilbert | 4 | 62.6 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 9 | Eduardo Valencia | DET | Parker Messick | 4 | 62.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 10 | Shohei Ohtani | LAD | Shane Drohan | 1 | 60.1 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 11 | Griffin Conine | MIA | Braxton Ashcraft | 4 | 59.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
@@ -26,23 +26,23 @@
 ## Best 2-Leg Pairings
 
 - Spencer Jones + Ben Rice | Avg HR Score: 68.0
-- Ben Rice + Abimelec Ortiz | Avg HR Score: 66.5
+- Ben Rice + Wilyer Abreu | Avg HR Score: 66.8
+- Wilyer Abreu + Abimelec Ortiz | Avg HR Score: 65.3
 - Abimelec Ortiz + Trent Grisham | Avg HR Score: 64.8
 - Trent Grisham + Kyle Schwarber | Avg HR Score: 64.3
-- Kyle Schwarber + Wilyer Abreu | Avg HR Score: 63.8
 
 ## Best 3-Leg Pairings
 
-- Spencer Jones + Ben Rice + Abimelec Ortiz | Avg HR Score: 67.1
-- Ben Rice + Abimelec Ortiz + Trent Grisham | Avg HR Score: 65.9
+- Spencer Jones + Ben Rice + Wilyer Abreu | Avg HR Score: 67.2
+- Ben Rice + Wilyer Abreu + Abimelec Ortiz | Avg HR Score: 66.2
+- Wilyer Abreu + Abimelec Ortiz + Trent Grisham | Avg HR Score: 65.1
 - Abimelec Ortiz + Trent Grisham + Kyle Schwarber | Avg HR Score: 64.6
-- Trent Grisham + Kyle Schwarber + Wilyer Abreu | Avg HR Score: 64.0
-- Kyle Schwarber + Wilyer Abreu + Luis García Jr. | Avg HR Score: 63.4
+- Trent Grisham + Kyle Schwarber + Willson Contreras | Avg HR Score: 63.9
 
 ## Best 4-Leg Pairings
 
-- Spencer Jones + Ben Rice + Abimelec Ortiz + Trent Grisham | Avg HR Score: 66.4
-- Ben Rice + Abimelec Ortiz + Trent Grisham + Kyle Schwarber | Avg HR Score: 65.4
-- Abimelec Ortiz + Trent Grisham + Kyle Schwarber + Wilyer Abreu | Avg HR Score: 64.3
-- Trent Grisham + Kyle Schwarber + Wilyer Abreu + Luis García Jr. | Avg HR Score: 63.7
-- Kyle Schwarber + Wilyer Abreu + Luis García Jr. + Willson Contreras | Avg HR Score: 63.1
+- Spencer Jones + Ben Rice + Wilyer Abreu + Abimelec Ortiz | Avg HR Score: 66.7
+- Ben Rice + Wilyer Abreu + Abimelec Ortiz + Trent Grisham | Avg HR Score: 65.8
+- Wilyer Abreu + Abimelec Ortiz + Trent Grisham + Kyle Schwarber | Avg HR Score: 64.8
+- Abimelec Ortiz + Trent Grisham + Kyle Schwarber + Willson Contreras | Avg HR Score: 64.2
+- Trent Grisham + Kyle Schwarber + Willson Contreras + Luis García Jr. | Avg HR Score: 63.5

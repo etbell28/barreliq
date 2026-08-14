@@ -12,16 +12,16 @@
 | 8 | Matt Olson | ATL | Brandon Pfaadt | 3 | 65.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 9 | Jac Caglianone | KC | Grayson Rodriguez | 3 | 64.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 10 | Eduardo Valencia | DET | Sean Newcomb | 4 | 63.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Trent Grisham | NYY | Shane Bieber | 1 | 62.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 12 | Sal Stewart | CIN | Sandy Alcantara | 2 | 61.5 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 13 | Ronald Acuña Jr. | ATL | Brandon Pfaadt | 2 | 61.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 14 | Jackson Merrill | SD | Gavin Williams | 5 | 59.9 | Longshot | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 15 | Mike Trout | LAA | Seth Lugo | 2 | 59.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 16 | Luis García Jr. | NYY | Shane Bieber | 4 | 59.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Elly De La Cruz | CIN | Sandy Alcantara | 1 | 59.1 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 18 | Drake Baldwin | ATL | Brandon Pfaadt | 1 | 59.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Fernando Tatis Jr. | SD | Gavin Williams | 1 | 58.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 20 | Carter Jensen | KC | Grayson Rodriguez | 1 | 58.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Zac Veen | COL | Landen Roupp | 7 | 63.0 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
+| 12 | Bryce Eldridge | SF | Kyle Freeland | 1 | 62.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 13 | Trent Grisham | NYY | Shane Bieber | 1 | 62.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 14 | Sal Stewart | CIN | Sandy Alcantara | 2 | 61.5 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 15 | Ronald Acuña Jr. | ATL | Brandon Pfaadt | 2 | 61.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 16 | Jackson Merrill | SD | Gavin Williams | 5 | 59.9 | Longshot | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 17 | Mike Trout | LAA | Seth Lugo | 2 | 59.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 18 | Rafael Devers | SF | Kyle Freeland | 4 | 59.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 19 | Luis García Jr. | NYY | Shane Bieber | 4 | 59.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Elly De La Cruz | CIN | Sandy Alcantara | 1 | 59.1 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 

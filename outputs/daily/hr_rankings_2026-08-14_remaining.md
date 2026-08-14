@@ -7,21 +7,21 @@
 | 3 | Spencer Jones | NYY | Shane Bieber | 3 | 68.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 4 | Ben Rice | NYY | Shane Bieber | 2 | 68.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 5 | Matt Olson | ATL | Brandon Pfaadt | 3 | 67.4 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 6 | Munetaka Murakami | CWS | Jackson Jobe | 2 | 66.8 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 7 | Pete Alonso | BAL | Steven Matz | 1 | 66.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 8 | Mike Trout | LAA | Seth Lugo | 2 | 66.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 9 | Yordan Alvarez | HOU | George Kirby | 2 | 65.5 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Trent Grisham | NYY | Shane Bieber | 1 | 65.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 11 | Carter Jensen | KC | Grayson Rodriguez | 1 | 64.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Bobby Witt Jr. | KC | Grayson Rodriguez | 2 | 64.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 13 | Shohei Ohtani | LAD | Robert Gasser | 1 | 64.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
-| 14 | Bryce Eldridge | SF | Kyle Freeland | 3 | 63.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 15 | Ronald Acuña Jr. | ATL | Brandon Pfaadt | 2 | 63.5 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
-| 16 | Eduardo Valencia | DET | Sean Newcomb | 4 | 63.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Zac Veen | COL | Landen Roupp | 7 | 63.0 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
-| 18 | Luis García Jr. | NYY | Shane Bieber | 4 | 62.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Corey Seager | TEX |  | 2 | 61.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Good Environment, Premium Lineup Spot |
-| 20 | Drake Baldwin | ATL | Brandon Pfaadt | 1 | 61.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 6 | Pete Alonso | BAL | Steven Matz | 1 | 66.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 7 | Mike Trout | LAA | Seth Lugo | 2 | 66.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 8 | Yordan Alvarez | HOU | George Kirby | 2 | 65.5 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | Trent Grisham | NYY | Shane Bieber | 1 | 65.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 10 | Carter Jensen | KC | Grayson Rodriguez | 1 | 64.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Bobby Witt Jr. | KC | Grayson Rodriguez | 2 | 64.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 12 | Shohei Ohtani | LAD | Robert Gasser | 1 | 64.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
+| 13 | Bryce Eldridge | SF | Kyle Freeland | 3 | 63.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 14 | Ronald Acuña Jr. | ATL | Brandon Pfaadt | 2 | 63.5 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
+| 15 | Zac Veen | COL | Landen Roupp | 7 | 63.0 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
+| 16 | Luis García Jr. | NYY | Shane Bieber | 4 | 62.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Corey Seager | TEX |  | 2 | 61.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Good Environment, Premium Lineup Spot |
+| 18 | Drake Baldwin | ATL | Brandon Pfaadt | 1 | 61.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 19 | Tyler Soderstrom | ATH | Kumar Rocker | 3 | 61.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 20 | Rafael Devers | SF | Kyle Freeland | 2 | 60.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
@@ -29,20 +29,20 @@
 - Jac Caglianone + Spencer Jones | Avg HR Score: 70.0
 - Spencer Jones + Ben Rice | Avg HR Score: 68.8
 - Ben Rice + Matt Olson | Avg HR Score: 68.1
-- Matt Olson + Munetaka Murakami | Avg HR Score: 67.1
+- Matt Olson + Pete Alonso | Avg HR Score: 66.8
 
 ## Best 3-Leg Pairings
 
 - Abimelec Ortiz + Jac Caglianone + Spencer Jones | Avg HR Score: 72.1
 - Jac Caglianone + Spencer Jones + Ben Rice | Avg HR Score: 69.6
 - Spencer Jones + Ben Rice + Matt Olson | Avg HR Score: 68.3
-- Ben Rice + Matt Olson + Munetaka Murakami | Avg HR Score: 67.6
-- Matt Olson + Munetaka Murakami + Pete Alonso | Avg HR Score: 66.8
+- Ben Rice + Matt Olson + Pete Alonso | Avg HR Score: 67.5
+- Matt Olson + Pete Alonso + Mike Trout | Avg HR Score: 66.6
 
 ## Best 4-Leg Pairings
 
 - Abimelec Ortiz + Jac Caglianone + Spencer Jones + Ben Rice | Avg HR Score: 71.2
 - Jac Caglianone + Spencer Jones + Ben Rice + Matt Olson | Avg HR Score: 69.0
-- Spencer Jones + Ben Rice + Matt Olson + Munetaka Murakami | Avg HR Score: 67.9
-- Ben Rice + Matt Olson + Munetaka Murakami + Pete Alonso | Avg HR Score: 67.3
-- Matt Olson + Munetaka Murakami + Pete Alonso + Mike Trout | Avg HR Score: 66.6
+- Spencer Jones + Ben Rice + Matt Olson + Pete Alonso | Avg HR Score: 67.8
+- Ben Rice + Matt Olson + Pete Alonso + Mike Trout | Avg HR Score: 67.1
+- Matt Olson + Pete Alonso + Mike Trout + Yordan Alvarez | Avg HR Score: 66.3

@@ -18,8 +18,8 @@
 | 14 | Shohei Ohtani | LAD | Robert Gasser | 1 | 58.0 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
 | 15 | Bryce Eldridge | SF | Kyle Freeland | 1 | 57.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 | 16 | Zac Veen | COL | Landen Roupp | 7 | 57.7 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Platoon Edge |
-| 17 | Jackson Merrill | SD | Gavin Williams | 5 | 57.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 18 | Seiya Suzuki | CHC | Matthew Liberatore | 2 | 56.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Seiya Suzuki | CHC | Matthew Liberatore | 2 | 57.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Jackson Merrill | SD | Gavin Williams | 5 | 57.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
 | 19 | Junior Caminero | TB |  | 4 | 56.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 | 20 | Luis Garcia | NYY | Shane Bieber | 4 | 56.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 

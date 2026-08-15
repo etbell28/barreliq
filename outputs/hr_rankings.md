@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Yordan Alvarez | HOU | Emerson Hancock | 2 | 67.7 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 2 | Kyle Schwarber | PHI | Connor Prielipp | 1 | 66.4 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 3 | Corbin Carroll | AZ | Grant Holmes | 2 | 64.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 4 | Shohei Ohtani | LAD | Jacob Misiorowski | 1 | 63.4 | Tier 3 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 5 | Jac Caglianone | KC | Reid Detmers | 3 | 62.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 6 | Matt Olson | ATL | Eduardo Rodriguez | 3 | 62.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 7 | Jake Bauers | MIL | Justin Wrobleski | 4 | 61.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 8 | Bobby Witt Jr. | KC | Reid Detmers | 2 | 60.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Ronald Acuña Jr. | ATL | Eduardo Rodriguez | 1 | 60.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Jackson Chourio | MIL | Justin Wrobleski | 1 | 60.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 11 | Mike Trout | LAA | Randy Dobnak | 2 | 59.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 12 | Fernando Tatis Jr. | SD | Joey Cantillo | 1 | 59.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 13 | Dominic Canzone | SEA | Hayden Wesneski | 3 | 59.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Corey Seager | TEX | J.T. Ginn | 3 | 59.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Gary Sánchez | MIL | Justin Wrobleski | 5 | 58.7 | Longshot | Watch List | Good Environment, Platoon Edge, Hot Hitter/Streak |
-| 16 | Esmerlyn Valdez | PIT | Sonny Gray | 4 | 57.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 17 | Drake Baldwin | ATL | Eduardo Rodriguez | 2 | 57.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 18 | Brandon Lowe | PIT | Sonny Gray | 2 | 56.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Rafael Flores Jr. | PIT | Sonny Gray | 8 | 56.5 | Longshot | Watch List | Elite Power, Strong Barrel, Hot Hitter/Streak |
-| 20 | Salvador Perez | KC | Reid Detmers | 4 | 55.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 1 | Jac Caglianone | KC | Reid Detmers | 3 | 62.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 2 | Bobby Witt Jr. | KC | Reid Detmers | 2 | 60.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 3 | Mike Trout | LAA | Randy Dobnak | 2 | 59.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 4 | Corey Seager | TEX | J.T. Ginn | 3 | 59.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 5 | Salvador Perez | KC | Reid Detmers | 4 | 55.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 6 | Zack Gelof | ATH | MacKenzie Gore | 2 | 55.7 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 7 | Brandon Nimmo | TEX | J.T. Ginn | 2 | 55.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 8 | Joc Pederson | TEX | J.T. Ginn | 1 | 54.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | Henry Bolte | ATH | MacKenzie Gore | 1 | 53.2 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 10 | Zach Neto | LAA | Randy Dobnak | 4 | 51.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 11 | Josh Lowe | LAA | Randy Dobnak | 6 | 50.1 | Longshot | Watch List | Platoon Edge |
+| 12 | Lawrence Butler | ATH | MacKenzie Gore | 6 | 49.8 | Longshot | Watch List | No major boost |
+| 13 | Brian Serven | ATH | MacKenzie Gore | 8 | 49.8 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 14 | Moisés Ballesteros | LAA | Randy Dobnak | 5 | 49.0 | Longshot | Watch List | Platoon Edge |
+| 15 | Max Muncy | ATH | MacKenzie Gore | 7 | 47.9 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 16 | Jonah Heim | ATH | MacKenzie Gore | 4 | 47.5 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 17 | Starling Marte | KC | Reid Detmers | 7 | 47.0 | Longshot | Watch List | Platoon Edge |
+| 18 | Michael Massey | KC | Reid Detmers | 6 | 46.5 | Longshot | Watch List | No major boost |
+| 19 | Wyatt Langford | TEX | J.T. Ginn | 4 | 46.5 | Longshot | Watch List | Premium Lineup Spot |
+| 20 | Jake Burger | TEX | J.T. Ginn | 7 | 46.4 | Longshot | Watch List | Strong Barrel |
 
 ## Best 2-Leg Pairings
 
-- Yordan Alvarez + Kyle Schwarber | Avg HR Score: 67.1
-- Kyle Schwarber + Corbin Carroll | Avg HR Score: 65.2
-- Corbin Carroll + Shohei Ohtani | Avg HR Score: 63.8
-- Shohei Ohtani + Jac Caglianone | Avg HR Score: 63.0
-- Jac Caglianone + Matt Olson | Avg HR Score: 62.4
+- Jac Caglianone + Bobby Witt Jr. | Avg HR Score: 61.7
+- Bobby Witt Jr. + Mike Trout | Avg HR Score: 60.3
+- Mike Trout + Corey Seager | Avg HR Score: 59.5
+- Corey Seager + Salvador Perez | Avg HR Score: 57.5
+- Salvador Perez + Zack Gelof | Avg HR Score: 55.8
 
 ## Best 3-Leg Pairings
 
-- Yordan Alvarez + Kyle Schwarber + Corbin Carroll | Avg HR Score: 66.1
-- Kyle Schwarber + Corbin Carroll + Shohei Ohtani | Avg HR Score: 64.6
-- Corbin Carroll + Shohei Ohtani + Jac Caglianone | Avg HR Score: 63.4
-- Shohei Ohtani + Jac Caglianone + Matt Olson | Avg HR Score: 62.7
-- Jac Caglianone + Matt Olson + Jake Bauers | Avg HR Score: 62.0
+- Jac Caglianone + Bobby Witt Jr. + Mike Trout | Avg HR Score: 61.1
+- Bobby Witt Jr. + Mike Trout + Corey Seager | Avg HR Score: 59.9
+- Mike Trout + Corey Seager + Salvador Perez | Avg HR Score: 58.3
+- Corey Seager + Salvador Perez + Zack Gelof | Avg HR Score: 56.9
+- Salvador Perez + Zack Gelof + Brandon Nimmo | Avg HR Score: 55.5
 
 ## Best 4-Leg Pairings
 
-- Yordan Alvarez + Kyle Schwarber + Corbin Carroll + Shohei Ohtani | Avg HR Score: 65.4
-- Kyle Schwarber + Corbin Carroll + Shohei Ohtani + Jac Caglianone | Avg HR Score: 64.2
-- Corbin Carroll + Shohei Ohtani + Jac Caglianone + Matt Olson | Avg HR Score: 63.0
-- Shohei Ohtani + Jac Caglianone + Matt Olson + Jake Bauers | Avg HR Score: 62.3
-- Jac Caglianone + Matt Olson + Jake Bauers + Bobby Witt Jr. | Avg HR Score: 61.7
+- Jac Caglianone + Bobby Witt Jr. + Mike Trout + Corey Seager | Avg HR Score: 60.6
+- Bobby Witt Jr. + Mike Trout + Corey Seager + Salvador Perez | Avg HR Score: 58.9
+- Mike Trout + Corey Seager + Salvador Perez + Zack Gelof | Avg HR Score: 57.7
+- Corey Seager + Salvador Perez + Zack Gelof + Brandon Nimmo | Avg HR Score: 56.5
+- Salvador Perez + Zack Gelof + Brandon Nimmo + Joc Pederson | Avg HR Score: 55.4

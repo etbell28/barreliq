@@ -1,7 +1,7 @@
 {
   "date": "Saturday, August 15, 2026",
-  "generated_at": "11:48 AM EDT",
-  "generated_iso": "2026-08-15T11:48:46-04:00",
+  "generated_at": "12:00 PM EDT",
+  "generated_iso": "2026-08-15T12:00:04-04:00",
   "slate_projection": 261,
   "games_count": 15,
   "confirmed_count": 45,
@@ -186,12 +186,12 @@
       "platoon_score": 80.0,
       "recent_form_score": 20.3,
       "confirmed_lineup": "Yes",
-      "rotowire_confirmed_lineup": "No",
+      "rotowire_confirmed_lineup": "Yes",
       "rotowire_batting_order": 1.0,
       "rotowire_player_found": "Yes",
-      "lineup_disagreement": "Yes",
+      "lineup_disagreement": "No",
       "lineup_sources_used": "MLB Stats API; RotoWire",
-      "source_warnings": "RotoWire not confirmed",
+      "source_warnings": null,
       "stat_years_used": "H:2026/2025 P:2026/2025",
       "bvp_pa": null,
       "bvp_hr": null,
@@ -334,12 +334,12 @@
       "platoon_score": 50.0,
       "recent_form_score": 60.0,
       "confirmed_lineup": "Yes",
-      "rotowire_confirmed_lineup": "No",
+      "rotowire_confirmed_lineup": "Yes",
       "rotowire_batting_order": 2.0,
       "rotowire_player_found": "Yes",
-      "lineup_disagreement": "Yes",
+      "lineup_disagreement": "No",
       "lineup_sources_used": "MLB Stats API; RotoWire",
-      "source_warnings": "RotoWire not confirmed",
+      "source_warnings": null,
       "stat_years_used": "H:2026/2025 P:2026/2025",
       "bvp_pa": null,
       "bvp_hr": null,
@@ -408,12 +408,12 @@
       "platoon_score": 80.0,
       "recent_form_score": 30.2,
       "confirmed_lineup": "Yes",
-      "rotowire_confirmed_lineup": "No",
+      "rotowire_confirmed_lineup": "Yes",
       "rotowire_batting_order": 3.0,
       "rotowire_player_found": "Yes",
-      "lineup_disagreement": "Yes",
+      "lineup_disagreement": "No",
       "lineup_sources_used": "MLB Stats API; RotoWire",
-      "source_warnings": "RotoWire not confirmed",
+      "source_warnings": null,
       "stat_years_used": "H:2026/2025 P:2026/2025",
       "bvp_pa": null,
       "bvp_hr": null,
@@ -482,12 +482,12 @@
       "platoon_score": 75.0,
       "recent_form_score": 60.7,
       "confirmed_lineup": "Yes",
-      "rotowire_confirmed_lineup": "No",
+      "rotowire_confirmed_lineup": "Yes",
       "rotowire_batting_order": 5.0,
       "rotowire_player_found": "Yes",
-      "lineup_disagreement": "Yes",
+      "lineup_disagreement": "No",
       "lineup_sources_used": "MLB Stats API; RotoWire",
-      "source_warnings": "RotoWire not confirmed",
+      "source_warnings": null,
       "stat_years_used": "H:2026/2025 P:2026/2025",
       "bvp_pa": null,
       "bvp_hr": null,
@@ -706,12 +706,12 @@
       "platoon_score": 50.0,
       "recent_form_score": 87.0,
       "confirmed_lineup": "Yes",
-      "rotowire_confirmed_lineup": "No",
+      "rotowire_confirmed_lineup": "Yes",
       "rotowire_batting_order": 4.0,
       "rotowire_player_found": "Yes",
-      "lineup_disagreement": "Yes",
+      "lineup_disagreement": "No",
       "lineup_sources_used": "MLB Stats API; RotoWire",
-      "source_warnings": "RotoWire not confirmed",
+      "source_warnings": null,
       "stat_years_used": "H:2026/2025 P:2026/2025",
       "bvp_pa": null,
       "bvp_hr": null,
@@ -780,12 +780,12 @@
       "platoon_score": 80.0,
       "recent_form_score": 7.0,
       "confirmed_lineup": "Yes",
-      "rotowire_confirmed_lineup": null,
-      "rotowire_batting_order": null,
-      "rotowire_player_found": "No",
-      "lineup_disagreement": "Yes",
+      "rotowire_confirmed_lineup": "Yes",
+      "rotowire_batting_order": 8.0,
+      "rotowire_player_found": "Yes",
+      "lineup_disagreement": "No",
       "lineup_sources_used": "MLB Stats API; RotoWire",
-      "source_warnings": "not found on RotoWire",
+      "source_warnings": null,
       "stat_years_used": "H:2026/2025 P:2026/2025",
       "bvp_pa": null,
       "bvp_hr": null,
@@ -1908,12 +1908,12 @@
       "platoon_score": 80.0,
       "recent_form_score": 20.3,
       "confirmed_lineup": "Yes",
-      "rotowire_confirmed_lineup": "No",
+      "rotowire_confirmed_lineup": "Yes",
       "rotowire_batting_order": 1.0,
       "rotowire_player_found": "Yes",
-      "lineup_disagreement": "Yes",
+      "lineup_disagreement": "No",
       "lineup_sources_used": "MLB Stats API; RotoWire",
-      "source_warnings": "RotoWire not confirmed",
+      "source_warnings": null,
       "stat_years_used": "H:2026/2025 P:2026/2025",
       "bvp_pa": null,
       "bvp_hr": null,
@@ -2206,12 +2206,12 @@
       "platoon_score": 50.0,
       "recent_form_score": 60.0,
       "confirmed_lineup": "Yes",
-      "rotowire_confirmed_lineup": "No",
+      "rotowire_confirmed_lineup": "Yes",
       "rotowire_batting_order": 2.0,
       "rotowire_player_found": "Yes",
-      "lineup_disagreement": "Yes",
+      "lineup_disagreement": "No",
       "lineup_sources_used": "MLB Stats API; RotoWire",
-      "source_warnings": "RotoWire not confirmed",
+      "source_warnings": null,
       "stat_years_used": "H:2026/2025 P:2026/2025",
       "bvp_pa": null,
       "bvp_hr": null,
@@ -2280,12 +2280,12 @@
       "platoon_score": 80.0,
       "recent_form_score": 30.2,
       "confirmed_lineup": "Yes",
-      "rotowire_confirmed_lineup": "No",
+      "rotowire_confirmed_lineup": "Yes",
       "rotowire_batting_order": 3.0,
       "rotowire_player_found": "Yes",
-      "lineup_disagreement": "Yes",
+      "lineup_disagreement": "No",
       "lineup_sources_used": "MLB Stats API; RotoWire",
-      "source_warnings": "RotoWire not confirmed",
+      "source_warnings": null,
       "stat_years_used": "H:2026/2025 P:2026/2025",
       "bvp_pa": null,
       "bvp_hr": null,
@@ -2432,12 +2432,12 @@
       "platoon_score": 75.0,
       "recent_form_score": 60.7,
       "confirmed_lineup": "Yes",
-      "rotowire_confirmed_lineup": "No",
+      "rotowire_confirmed_lineup": "Yes",
       "rotowire_batting_order": 5.0,
       "rotowire_player_found": "Yes",
-      "lineup_disagreement": "Yes",
+      "lineup_disagreement": "No",
       "lineup_sources_used": "MLB Stats API; RotoWire",
-      "source_warnings": "RotoWire not confirmed",
+      "source_warnings": null,
       "stat_years_used": "H:2026/2025 P:2026/2025",
       "bvp_pa": null,
       "bvp_hr": null,
@@ -3097,7 +3097,7 @@
       "environment_score": 68.3,
       "top_score": 62.8,
       "game_tags": "weather watch · deep stack · lineup caution",
-      "disagreement_count": 10,
+      "disagreement_count": 1,
       "players": [
         {
           "player": "Pete Crow-Armstrong",
@@ -3115,8 +3115,8 @@
             "gold"
           ],
           "badge_summary": "SOURCE SHEET",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "RotoWire not confirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         },
         {
           "player": "Jordan Walker",
@@ -3153,8 +3153,8 @@
             "gold"
           ],
           "badge_summary": "SOURCE SHEET",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "RotoWire not confirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         },
         {
           "player": "Michael Busch",
@@ -3172,8 +3172,8 @@
             "gold"
           ],
           "badge_summary": "SOURCE SHEET",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "RotoWire not confirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         },
         {
           "player": "Ian Happ",
@@ -3193,8 +3193,8 @@
             "gold"
           ],
           "badge_summary": "SLEEPER PICK + SOURCE SHEET",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "RotoWire not confirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         }
       ]
     },
@@ -4532,7 +4532,7 @@
       "environment_score": 68.3,
       "top_score": 62.8,
       "game_tags": "weather watch · deep stack · lineup caution",
-      "disagreement_count": 10,
+      "disagreement_count": 1,
       "players": [
         {
           "player": "Pete Crow-Armstrong",
@@ -4550,8 +4550,8 @@
             "gold"
           ],
           "badge_summary": "SOURCE SHEET",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "RotoWire not confirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         },
         {
           "player": "Jordan Walker",
@@ -4588,8 +4588,8 @@
             "gold"
           ],
           "badge_summary": "SOURCE SHEET",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "RotoWire not confirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         },
         {
           "player": "Michael Busch",
@@ -4607,8 +4607,8 @@
             "gold"
           ],
           "badge_summary": "SOURCE SHEET",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "RotoWire not confirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         },
         {
           "player": "Ian Happ",
@@ -4628,8 +4628,8 @@
             "gold"
           ],
           "badge_summary": "SLEEPER PICK + SOURCE SHEET",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "RotoWire not confirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         }
       ]
     },
@@ -6059,8 +6059,8 @@
       ]
     }
   ],
-  "lineup_disagreements": 226,
-  "rotowire_found": 257,
+  "lineup_disagreements": 217,
+  "rotowire_found": 260,
   "slate_size": 261,
   "sources": "Baseball Savant; MLB Stats API; RotoWire",
   "model_profile": "Weighted Statcast baseline: 2026 70% / 2025 30%. Streak context is noted but does not override daily matchup math."

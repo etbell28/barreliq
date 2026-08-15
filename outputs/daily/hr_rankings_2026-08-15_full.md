@@ -21,7 +21,7 @@
 | 17 | Spencer Jones | NYY | Braydon Fisher | 5 | 60.8 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
 | 18 | Ben Rice | NYY | Braydon Fisher | 2 | 60.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 19 | Jordan Walker | STL | Matthew Boyd | 3 | 60.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Michael Busch | CHC | Michael McGreevy | 3 | 59.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Elly De La Cruz | CIN | Ryan Gusto | 1 | 59.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 

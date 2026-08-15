@@ -21,7 +21,7 @@
 | 17 | Gary Sánchez | MIL | Justin Wrobleski | 5 | 58.7 | Longshot | Watch List | Good Environment, Platoon Edge, Hot Hitter/Streak |
 | 18 | Heriberto Hernández | MIA | Brady Singer | 3 | 58.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 | 19 | Lars Nootbaar | AZ | Grant Holmes | 1 | 58.0 | Longshot | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
-| 20 | Byron Buxton | MIN | Jesús Luzardo | 2 | 57.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Esmerlyn Valdez | PIT | Sonny Gray | 4 | 57.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 

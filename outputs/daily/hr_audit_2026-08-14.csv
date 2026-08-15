@@ -1,0 +1,31 @@
+date,game,player,team,opponent,hr_count,innings,event,description,appeared_in_rankings,rank,hr_score,tier,top_20,top_10
+2026-08-14,AZ@ATL,Tim Tawa,AZ,ATL,1,9,Home Run,Tim Tawa homers (7) on a fly ball to center field.,Yes,150,42.5,Longshot,No,No
+2026-08-14,BAL@TB,Colton Cowser,BAL,TB,1,3,Home Run,Colton Cowser homers (10) on a fly ball to center field.,Yes,121,45.3,Longshot,No,No
+2026-08-14,BAL@TB,Gunnar Henderson,BAL,TB,1,8,Home Run,Gunnar Henderson homers (20) on a fly ball to right center field. Tyler O'Neill scores.,Yes,94,48.0,Longshot,No,No
+2026-08-14,BOS@PIT,Brandon Lowe,PIT,BOS,1,5,Home Run,Brandon Lowe homers (26) on a fly ball to right field. Jacob Gonzalez scores. Bryan Reynolds scores.,Yes,86,48.7,Longshot,No,No
+2026-08-14,BOS@PIT,Rafael Flores Jr.,PIT,BOS,1,2,Home Run,Rafael Flores Jr. homers (4) on a fly ball to right field.,Yes,28,56.7,Longshot,No,No
+2026-08-14,COL@SF,Bryce Eldridge,SF,COL,1,4,Home Run,Bryce Eldridge homers (13) on a fly ball to center field.,Yes,24,57.9,Longshot,No,No
+2026-08-14,COL@SF,Zac Veen,COL,SF,1,6,Home Run,Zac Veen homers (2) on a fly ball to right field. Connor Norby scores.,Yes,25,57.7,Longshot,No,No
+2026-08-14,CWS@DET,Ben Malgeri,DET,CWS,2,"2, 7",Home Run,Ben Malgeri homers (2) on a fly ball to left center field. Spencer Torkelson scores. / Ben Malgeri homers (3) on a line drive to left field.,Yes,233,32.9,Longshot,No,No
+2026-08-14,CWS@DET,Miguel Vargas,CWS,DET,2,"6, 8",Home Run,Miguel Vargas homers (26) on a fly ball to left field. Munetaka Murakami scores. / Miguel Vargas homers (27) on a fly ball to left center field.,Yes,54,53.2,Longshot,No,No
+2026-08-14,CWS@DET,Munetaka Murakami,CWS,DET,1,4,Home Run,Munetaka Murakami homers (27) on a fly ball to right field.,Yes,3,66.8,Tier 3,Yes,Yes
+2026-08-14,CWS@DET,Tristan Peters,CWS,DET,1,4,Home Run,Tristan Peters homers (7) on a line drive to right center field. Chase Meidroth scores.,Yes,226,34.8,Longshot,No,No
+2026-08-14,KC@LAA,Jac Caglianone,KC,LAA,1,5,Home Run,Jac Caglianone homers (22) on a fly ball to right center field. Bobby Witt Jr. scores.,Yes,8,64.8,Tier 3,Yes,Yes
+2026-08-14,KC@LAA,Josh Lowe,LAA,KC,1,6,Home Run,Josh Lowe homers (9) on a fly ball to right center field.,Yes,137,43.6,Longshot,No,No
+2026-08-14,KC@LAA,Michael Massey,KC,LAA,1,2,Home Run,Michael Massey homers (10) on a fly ball to right center field.,Yes,90,48.1,Longshot,No,No
+2026-08-14,MIL@LAD,Andy Pages,LAD,MIL,1,5,Home Run,Andy Pages homers (20) on a fly ball to left field.,Yes,107,47.0,Longshot,No,No
+2026-08-14,MIL@LAD,Tommy Edman,LAD,MIL,1,6,Home Run,Tommy Edman homers (4) on a fly ball to center field.,Yes,181,39.9,Longshot,No,No
+2026-08-14,NYY@TOR,Alejandro Kirk,TOR,NYY,1,8,Home Run,Alejandro Kirk homers (5) on a fly ball to right center field.,Yes,136,43.8,Longshot,No,No
+2026-08-14,NYY@TOR,Trent Grisham,NYY,TOR,1,6,Home Run,Trent Grisham homers (16) on a fly ball to right field.,Yes,11,61.6,Tier 3,Yes,No
+2026-08-14,SD@CLE,Brayan Rocchio,CLE,SD,1,3,Home Run,Brayan Rocchio homers (10) on a fly ball to right field.,Yes,230,33.8,Longshot,No,No
+2026-08-14,SD@CLE,Fernando Tatis Jr.,SD,CLE,1,5,Home Run,Fernando Tatis Jr. homers (13) on a fly ball to left field.,Yes,20,58.5,Longshot,Yes,No
+2026-08-14,SD@CLE,Nathaniel Lowe,CLE,SD,1,2,Home Run,Nathaniel Lowe homers (14) on a line drive to left center field.,Yes,71,50.9,Longshot,No,No
+2026-08-14,SD@CLE,Xander Bogaerts,SD,CLE,1,4,Home Run,Xander Bogaerts homers (11) on a fly ball to left center field. Jackson Merrill scores.,Yes,164,41.4,Longshot,No,No
+2026-08-14,SEA@HOU,Christian Walker,HOU,SEA,1,10,Home Run,Christian Walker homers (23) on a fly ball to left field. Jose Altuve scores. Daulton Varsho scores.,Yes,152,42.3,Longshot,No,No
+2026-08-14,SEA@HOU,Yordan Alvarez,HOU,SEA,1,1,Home Run,Yordan Alvarez homers (36) on a fly ball to right field.,Yes,9,63.4,Tier 3,Yes,Yes
+2026-08-14,STL@CHC,Seiya Suzuki,CHC,STL,1,6,Home Run,Seiya Suzuki homers (21) on a fly ball to left center field. Tyrone Taylor scores. Dansby Swanson scores.,Yes,19,58.7,Longshot,Yes,No
+2026-08-14,TEX@ATH,Jake Burger,TEX,ATH,1,6,Home Run,Jake Burger homers (20) on a fly ball to center field. Corey Seager scores. Ezequiel Duran scores.,Yes,100,47.4,Longshot,No,No
+2026-08-14,TEX@ATH,Jeff McNeil,ATH,TEX,1,6,Home Run,Jeff McNeil homers (5) on a fly ball to right field.,Yes,163,41.5,Longshot,No,No
+2026-08-14,TEX@ATH,Lawrence Butler,ATH,TEX,1,7,Home Run,Lawrence Butler homers (10) on a fly ball to center field.,Yes,82,49.0,Longshot,No,No
+2026-08-14,WSH@NYM,Francisco Lindor,NYM,WSH,1,6,Home Run,Francisco Lindor homers (12) on a fly ball to left field.,Yes,65,51.6,Longshot,No,No
+2026-08-14,WSH@NYM,Jared Young,NYM,WSH,1,7,Home Run,Jared Young homers (8) on a fly ball to right center field.,Yes,184,39.6,Longshot,No,No

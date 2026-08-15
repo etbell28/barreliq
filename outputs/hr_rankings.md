@@ -15,8 +15,8 @@
 | 11 | Michael Busch | CHC | Michael McGreevy | 3 | 60.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 12 | Zac Veen | COL | Logan Webb | 7 | 60.3 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Platoon Edge |
 | 13 | Ian Happ | CHC | Michael McGreevy | 5 | 59.7 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 14 | Spencer Jones | NYY | Braydon Fisher | 3 | 58.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Ben Rice | NYY | Braydon Fisher | 2 | 57.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Ben Rice | NYY | Braydon Fisher | 2 | 58.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 15 | Spencer Jones | NYY | Braydon Fisher | 5 | 58.0 | Longshot | Watch List | Strong Barrel, Platoon Edge |
 | 16 | Alec Burleson | STL | Matthew Boyd | 4 | 57.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 | 17 | Sal Stewart | CIN | Ryan Gusto | 2 | 57.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 | 18 | Matt Olson | ATL | Eduardo Rodriguez | 3 | 57.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |

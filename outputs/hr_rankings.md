@@ -7,21 +7,21 @@
 | 3 | Abimelec Ortiz | WSH | Christian Scott | 2 | 69.8 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 4 | Munetaka Murakami | CWS | Drew Anderson | 2 | 67.7 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 5 | Shohei Ohtani | LAD | Logan Henderson | 1 | 67.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 6 | Alec Burleson | STL | Edward Cabrera | 3 | 66.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 6 | Alec Burleson | STL | Edward Cabrera | 3 | 66.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 7 | Matt Olson | ATL | Michael Soroka | 3 | 65.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 8 | Francisco Lindor | NYM | Jake Irvin | 2 | 65.8 | Tier 3 | Watch List | Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 9 | Jac Caglianone | KC | Ryan Johnson | 3 | 65.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 10 | Eduardo Valencia | DET | Sean Burke | 5 | 65.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Hot Hitter/Streak |
-| 11 | Corbin Carroll | AZ | Bryce Elder | 2 | 64.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 12 | Heriberto Hernández | MIA | Nick Lodolo | 2 | 64.5 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 10 | Heriberto Hernández | MIA | Nick Lodolo | 2 | 65.6 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 11 | Eduardo Valencia | DET | Sean Burke | 5 | 65.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Hot Hitter/Streak |
+| 12 | Corbin Carroll | AZ | Bryce Elder | 2 | 64.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 13 | Sal Stewart | CIN | Eury Pérez | 2 | 63.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
 | 14 | Wilyer Abreu | BOS | Lake Bachar | 3 | 63.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Yordan Alvarez | HOU | Bryan Woo | 2 | 63.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Jared Young | NYM | Jake Irvin | 5 | 62.7 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
-| 17 | Zac Veen | COL | Blade Tidwell | 6 | 62.4 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
-| 18 | Mike Trout | LAA | Noah Cameron | 2 | 62.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Rafael Flores Jr. | PIT | Patrick Sandoval | 5 | 60.9 | Tier 3 | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 20 | Byron Buxton | MIN | Andrew Painter | 2 | 60.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 15 | Griffin Conine | MIA | Nick Lodolo | 7 | 63.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Hot Hitter/Streak |
+| 16 | Yordan Alvarez | HOU | Bryan Woo | 2 | 63.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Jared Young | NYM | Jake Irvin | 5 | 62.6 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
+| 18 | Zac Veen | COL | Blade Tidwell | 6 | 62.4 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
+| 19 | Mike Trout | LAA | Noah Cameron | 2 | 62.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Rafael Flores Jr. | PIT | Patrick Sandoval | 5 | 60.9 | Tier 3 | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
 
 ## Best 2-Leg Pairings
 
@@ -44,5 +44,5 @@
 - Joshua Báez + Kyle Schwarber + Abimelec Ortiz + Munetaka Murakami | Avg HR Score: 71.5
 - Kyle Schwarber + Abimelec Ortiz + Munetaka Murakami + Shohei Ohtani | Avg HR Score: 68.9
 - Abimelec Ortiz + Munetaka Murakami + Shohei Ohtani + Alec Burleson | Avg HR Score: 67.7
-- Munetaka Murakami + Shohei Ohtani + Alec Burleson + Matt Olson | Avg HR Score: 66.8
-- Shohei Ohtani + Alec Burleson + Matt Olson + Francisco Lindor | Avg HR Score: 66.3
+- Munetaka Murakami + Shohei Ohtani + Alec Burleson + Matt Olson | Avg HR Score: 66.7
+- Shohei Ohtani + Alec Burleson + Matt Olson + Francisco Lindor | Avg HR Score: 66.2

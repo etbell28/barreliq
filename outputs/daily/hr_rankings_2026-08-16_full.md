@@ -2,8 +2,8 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Abimelec Ortiz | WSH | Christian Scott | 2 | 70.0 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 2 | Kyle Schwarber | PHI | Dean Kremer | 1 | 69.6 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 1 | Kyle Schwarber | PHI | Dean Kremer | 1 | 70.3 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 2 | Abimelec Ortiz | WSH | Christian Scott | 2 | 70.0 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 3 | Munetaka Murakami | CWS | Drew Anderson | 2 | 68.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 4 | Francisco Lindor | NYM | Jake Irvin | 2 | 66.0 | Tier 3 | Watch List | Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 5 | Corbin Carroll | AZ | Bryce Elder | 2 | 65.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
@@ -25,24 +25,24 @@
 
 ## Best 2-Leg Pairings
 
-- Abimelec Ortiz + Kyle Schwarber | Avg HR Score: 69.8
-- Kyle Schwarber + Munetaka Murakami | Avg HR Score: 68.9
+- Kyle Schwarber + Abimelec Ortiz | Avg HR Score: 70.2
+- Abimelec Ortiz + Munetaka Murakami | Avg HR Score: 69.1
 - Munetaka Murakami + Francisco Lindor | Avg HR Score: 67.1
 - Francisco Lindor + Corbin Carroll | Avg HR Score: 65.5
 - Corbin Carroll + Matt Olson | Avg HR Score: 65.0
 
 ## Best 3-Leg Pairings
 
-- Abimelec Ortiz + Kyle Schwarber + Munetaka Murakami | Avg HR Score: 69.3
-- Kyle Schwarber + Munetaka Murakami + Francisco Lindor | Avg HR Score: 67.9
+- Kyle Schwarber + Abimelec Ortiz + Munetaka Murakami | Avg HR Score: 69.5
+- Abimelec Ortiz + Munetaka Murakami + Francisco Lindor | Avg HR Score: 68.1
 - Munetaka Murakami + Francisco Lindor + Corbin Carroll | Avg HR Score: 66.4
 - Francisco Lindor + Corbin Carroll + Matt Olson | Avg HR Score: 65.3
 - Corbin Carroll + Matt Olson + Heriberto Hernández | Avg HR Score: 64.8
 
 ## Best 4-Leg Pairings
 
-- Abimelec Ortiz + Kyle Schwarber + Munetaka Murakami + Francisco Lindor | Avg HR Score: 68.5
-- Kyle Schwarber + Munetaka Murakami + Francisco Lindor + Corbin Carroll | Avg HR Score: 67.2
+- Kyle Schwarber + Abimelec Ortiz + Munetaka Murakami + Francisco Lindor | Avg HR Score: 68.6
+- Abimelec Ortiz + Munetaka Murakami + Francisco Lindor + Corbin Carroll | Avg HR Score: 67.3
 - Munetaka Murakami + Francisco Lindor + Corbin Carroll + Matt Olson | Avg HR Score: 66.0
 - Francisco Lindor + Corbin Carroll + Matt Olson + Heriberto Hernández | Avg HR Score: 65.1
 - Corbin Carroll + Matt Olson + Heriberto Hernández + Sal Stewart | Avg HR Score: 64.7

@@ -8,19 +8,19 @@
 | 4 | Jac Caglianone | KC | Ryan Johnson | 3 | 67.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 5 | Shohei Ohtani | LAD | Logan Henderson | 1 | 66.8 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 6 | Munetaka Murakami | CWS | Drew Anderson | 2 | 66.6 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 7 | Francisco Lindor | NYM | Jake Irvin | 2 | 65.9 | Tier 3 | Watch List | Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 7 | Francisco Lindor | NYM | Jake Irvin | 2 | 65.8 | Tier 3 | Watch List | Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 8 | Corbin Carroll | AZ | Bryce Elder | 2 | 65.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 9 | Alec Burleson | STL | Edward Cabrera | 3 | 65.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 10 | Matt Olson | ATL | Michael Soroka | 3 | 64.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 10 | Matt Olson | ATL | Michael Soroka | 3 | 64.8 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 11 | Heriberto Hernández | MIA | Nick Lodolo | 2 | 64.6 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 12 | Sal Stewart | CIN | Eury Pérez | 2 | 64.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
 | 13 | Mike Trout | LAA | Noah Cameron | 2 | 64.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 14 | Wilyer Abreu | BOS | Lake Bachar | 3 | 64.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 15 | Yordan Alvarez | HOU | Bryan Woo | 2 | 63.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Zac Veen | COL | Blade Tidwell | 6 | 62.4 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
-| 17 | Jared Young | NYM | Jake Irvin | 5 | 62.3 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
+| 16 | Jared Young | NYM | Jake Irvin | 5 | 62.4 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
+| 17 | Zac Veen | COL | Blade Tidwell | 6 | 62.4 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
 | 18 | Pete Alonso | BAL | Freddy Peralta | 2 | 62.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 19 | Rafael Flores Jr. | PIT | Patrick Sandoval | 5 | 61.2 | Tier 3 | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 19 | Rafael Flores Jr. | PIT | Patrick Sandoval | 5 | 61.1 | Tier 3 | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
 | 20 | Jordan Walker | STL | Edward Cabrera | 4 | 60.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings

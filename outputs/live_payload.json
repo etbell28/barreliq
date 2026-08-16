@@ -1,7 +1,7 @@
 {
   "date": "Sunday, August 16, 2026",
-  "generated_at": "08:53 AM EDT",
-  "generated_iso": "2026-08-16T08:53:49-04:00",
+  "generated_at": "09:37 AM EDT",
+  "generated_iso": "2026-08-16T09:37:51-04:00",
   "slate_projection": 261,
   "games_count": 15,
   "confirmed_count": 0,
@@ -1809,7 +1809,7 @@
           "order": 8,
           "pitcher": "Michael Soroka",
           "score": 43.9,
-          "rank": 113,
+          "rank": 112,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
           "badges": [
@@ -2469,7 +2469,7 @@
           "order": 7,
           "pitcher": "Bryan Woo",
           "score": 44.0,
-          "rank": 112,
+          "rank": 111,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3037,7 +3037,7 @@
           "order": 8,
           "pitcher": "Michael Soroka",
           "score": 43.9,
-          "rank": 113,
+          "rank": 112,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
           "badges": [
@@ -3917,7 +3917,7 @@
           "order": 5,
           "pitcher": "Blade Tidwell",
           "score": 44.1,
-          "rank": 110,
+          "rank": 109,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4359,7 +4359,7 @@
           "order": 7,
           "pitcher": "Bryan Woo",
           "score": 44.0,
-          "rank": 112,
+          "rank": 111,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [

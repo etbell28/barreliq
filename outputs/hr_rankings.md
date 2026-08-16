@@ -19,9 +19,9 @@
 | 15 | Jac Caglianone | KC | Ryan Johnson | 3 | 60.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 16 | Ketel Marte | AZ | Bryce Elder | 4 | 60.8 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 17 | Jackson Merrill | SD | Tanner Bibee | 5 | 60.6 | Tier 3 | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 18 | Elly De La Cruz | CIN | Eury Pérez | 1 | 60.5 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 19 | Shohei Ohtani | LAD | Logan Henderson | 1 | 60.5 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Byron Buxton | MIN | Andrew Painter | 2 | 60.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 18 | Rafael Flores Jr. | PIT | Patrick Sandoval | 5 | 60.5 | Tier 3 | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 19 | Elly De La Cruz | CIN | Eury Pérez | 1 | 60.5 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 20 | Shohei Ohtani | LAD | Logan Henderson | 1 | 60.5 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 

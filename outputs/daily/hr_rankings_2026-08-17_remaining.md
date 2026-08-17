@@ -10,18 +10,18 @@
 | 6 | Esmerlyn Valdez | PIT | Framber Valdez | 2 | 64.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 7 | Ronald Acuña Jr. | ATL | Bailey Ober | 2 | 64.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
 | 8 | Drake Baldwin | ATL | Bailey Ober | 1 | 63.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Rafael Flores Jr. | PIT | Framber Valdez | 6 | 63.0 | Tier 3 | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 10 | Byron Buxton | MIN | Martín Pérez | 2 | 62.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Miguel Vargas | CWS | Shota Imanaga | 3 | 62.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 12 | Andy Pages | LAD | Tomoyuki Sugano | 3 | 62.2 | Tier 3 | Watch List | Pitcher Vulnerable, Good Environment, Premium Lineup Spot |
-| 13 | Adael Amador | COL | Blake Snell | 7 | 62.0 | Tier 3 | Watch List | Elite Power, Strong Barrel, Good Environment, Platoon Edge |
-| 14 | Jac Caglianone | KC | Mason Barnett | 3 | 61.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 9 | Jac Caglianone | KC | Mason Barnett | 3 | 63.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 10 | Rafael Flores Jr. | PIT | Framber Valdez | 6 | 63.0 | Tier 3 | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 11 | Byron Buxton | MIN | Martín Pérez | 2 | 62.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Miguel Vargas | CWS | Shota Imanaga | 3 | 62.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 13 | Andy Pages | LAD | Tomoyuki Sugano | 3 | 62.2 | Tier 3 | Watch List | Pitcher Vulnerable, Good Environment, Premium Lineup Spot |
+| 14 | Adael Amador | COL | Blake Snell | 7 | 62.0 | Tier 3 | Watch List | Elite Power, Strong Barrel, Good Environment, Platoon Edge |
 | 15 | Mookie Betts | LAD | Tomoyuki Sugano | 5 | 60.7 | Tier 3 | Watch List | Pitcher Vulnerable, Good Environment |
 | 16 | Michael Harris II | ATL | Bailey Ober | 4 | 60.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 17 | Pete Crow-Armstrong | CHC | Luis Castillo | 1 | 59.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 18 | Randal Grichuk | CWS | Shota Imanaga | 4 | 59.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 19 | Kyle Tucker | LAD | Tomoyuki Sugano | 6 | 58.5 | Longshot | Watch List | Pitcher Vulnerable, Good Environment, Platoon Edge |
-| 20 | Seiya Suzuki | CHC | Luis Castillo | 2 | 56.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 20 | Bobby Witt Jr. | KC | Mason Barnett | 2 | 57.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 

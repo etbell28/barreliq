@@ -7,7 +7,7 @@
 | 3 | Kyle Schwarber | PHI | Janson Junk | 1 | 71.5 | Tier 2 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 4 | Matt Olson | ATL | Bailey Ober | 3 | 70.4 | Tier 2 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 5 | Munetaka Murakami | CWS | Shota Imanaga | 2 | 68.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
-| 6 | Pete Alonso | BAL | Shane McClanahan | 2 | 65.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 6 | Pete Alonso | BAL | Shane McClanahan | 2 | 66.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 7 | Freddie Freeman | LAD | Tomoyuki Sugano | 2 | 64.5 | Tier 3 | Watch List | Projected Lineup, Pitcher Vulnerable, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 8 | Ronald Acuña Jr. | ATL | Bailey Ober | 2 | 64.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
 | 9 | Esmerlyn Valdez | PIT | Framber Valdez | 2 | 63.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
@@ -29,20 +29,20 @@
 - Joshua Baez + Kyle Schwarber | Avg HR Score: 71.5
 - Kyle Schwarber + Matt Olson | Avg HR Score: 71.0
 - Matt Olson + Munetaka Murakami | Avg HR Score: 69.2
-- Munetaka Murakami + Pete Alonso | Avg HR Score: 66.8
+- Munetaka Murakami + Pete Alonso | Avg HR Score: 67.0
 
 ## Best 3-Leg Pairings
 
 - Shohei Ohtani + Joshua Baez + Kyle Schwarber | Avg HR Score: 73.6
 - Joshua Baez + Kyle Schwarber + Matt Olson | Avg HR Score: 71.2
 - Kyle Schwarber + Matt Olson + Munetaka Murakami | Avg HR Score: 70.0
-- Matt Olson + Munetaka Murakami + Pete Alonso | Avg HR Score: 68.0
-- Munetaka Murakami + Pete Alonso + Freddie Freeman | Avg HR Score: 66.0
+- Matt Olson + Munetaka Murakami + Pete Alonso | Avg HR Score: 68.2
+- Munetaka Murakami + Pete Alonso + Freddie Freeman | Avg HR Score: 66.2
 
 ## Best 4-Leg Pairings
 
 - Shohei Ohtani + Joshua Baez + Kyle Schwarber + Matt Olson | Avg HR Score: 72.8
 - Joshua Baez + Kyle Schwarber + Matt Olson + Munetaka Murakami | Avg HR Score: 70.4
-- Kyle Schwarber + Matt Olson + Munetaka Murakami + Pete Alonso | Avg HR Score: 68.8
-- Matt Olson + Munetaka Murakami + Pete Alonso + Freddie Freeman | Avg HR Score: 67.1
-- Munetaka Murakami + Pete Alonso + Freddie Freeman + Ronald Acuña Jr. | Avg HR Score: 65.5
+- Kyle Schwarber + Matt Olson + Munetaka Murakami + Pete Alonso | Avg HR Score: 69.0
+- Matt Olson + Munetaka Murakami + Pete Alonso + Freddie Freeman | Avg HR Score: 67.2
+- Munetaka Murakami + Pete Alonso + Freddie Freeman + Ronald Acuña Jr. | Avg HR Score: 65.7

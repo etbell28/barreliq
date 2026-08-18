@@ -1,7 +1,7 @@
 {
   "date": "Tuesday, August 18, 2026",
-  "generated_at": "05:42 PM EDT",
-  "generated_iso": "2026-08-18T17:42:51-04:00",
+  "generated_at": "05:59 PM EDT",
+  "generated_iso": "2026-08-18T17:59:57-04:00",
   "slate_projection": 270,
   "games_count": 15,
   "confirmed_count": 270,
@@ -266,12 +266,12 @@
       "platoon_score": 80.0,
       "recent_form_score": 83.6,
       "confirmed_lineup": "Yes",
-      "rotowire_confirmed_lineup": "No",
+      "rotowire_confirmed_lineup": "Yes",
       "rotowire_batting_order": 1.0,
       "rotowire_player_found": "Yes",
-      "lineup_disagreement": "Yes",
+      "lineup_disagreement": "No",
       "lineup_sources_used": "MLB Stats API; RotoWire",
-      "source_warnings": "RotoWire not confirmed",
+      "source_warnings": null,
       "stat_years_used": "H:2026/2025 P:2026/2025",
       "bvp_pa": null,
       "bvp_hr": null,
@@ -1026,12 +1026,12 @@
       "platoon_score": 80.0,
       "recent_form_score": 84.7,
       "confirmed_lineup": "Yes",
-      "rotowire_confirmed_lineup": "No",
+      "rotowire_confirmed_lineup": "Yes",
       "rotowire_batting_order": 4.0,
       "rotowire_player_found": "Yes",
-      "lineup_disagreement": "Yes",
+      "lineup_disagreement": "No",
       "lineup_sources_used": "MLB Stats API; RotoWire",
-      "source_warnings": "RotoWire not confirmed",
+      "source_warnings": null,
       "stat_years_used": "H:2026/2025 P:2026/2025",
       "bvp_pa": null,
       "bvp_hr": null,
@@ -1792,12 +1792,12 @@
       "platoon_score": 80.0,
       "recent_form_score": 83.6,
       "confirmed_lineup": "Yes",
-      "rotowire_confirmed_lineup": "No",
+      "rotowire_confirmed_lineup": "Yes",
       "rotowire_batting_order": 1.0,
       "rotowire_player_found": "Yes",
-      "lineup_disagreement": "Yes",
+      "lineup_disagreement": "No",
       "lineup_sources_used": "MLB Stats API; RotoWire",
-      "source_warnings": "RotoWire not confirmed",
+      "source_warnings": null,
       "stat_years_used": "H:2026/2025 P:2026/2025",
       "bvp_pa": null,
       "bvp_hr": null,
@@ -2552,12 +2552,12 @@
       "platoon_score": 80.0,
       "recent_form_score": 84.7,
       "confirmed_lineup": "Yes",
-      "rotowire_confirmed_lineup": "No",
+      "rotowire_confirmed_lineup": "Yes",
       "rotowire_batting_order": 4.0,
       "rotowire_player_found": "Yes",
-      "lineup_disagreement": "Yes",
+      "lineup_disagreement": "No",
       "lineup_sources_used": "MLB Stats API; RotoWire",
-      "source_warnings": "RotoWire not confirmed",
+      "source_warnings": null,
       "stat_years_used": "H:2026/2025 P:2026/2025",
       "bvp_pa": null,
       "bvp_hr": null,
@@ -3824,8 +3824,8 @@
       "wind": "In From RF",
       "environment_score": 58.2,
       "top_score": 71.1,
-      "game_tags": "top-25 target · lineup caution",
-      "disagreement_count": 9,
+      "game_tags": "top-25 target",
+      "disagreement_count": 0,
       "players": [
         {
           "player": "Shohei Ohtani",
@@ -3845,8 +3845,8 @@
             "blue"
           ],
           "badge_summary": "HOT BAT + EV EDGE",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "RotoWire not confirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         },
         {
           "player": "Max Muncy",
@@ -3866,8 +3866,8 @@
             "gold"
           ],
           "badge_summary": "HOT BAT + SOURCE SHEET",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "RotoWire not confirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         },
         {
           "player": "Freddie Freeman",
@@ -3885,8 +3885,8 @@
             "muted"
           ],
           "badge_summary": "WATCH",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "RotoWire not confirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         },
         {
           "player": "Andy Pages",
@@ -3904,8 +3904,8 @@
             "muted"
           ],
           "badge_summary": "WATCH",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "RotoWire not confirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         },
         {
           "player": "Mickey Moniak",
@@ -6048,8 +6048,8 @@
       "wind": "In From RF",
       "environment_score": 58.2,
       "top_score": 71.1,
-      "game_tags": "top-25 target · lineup caution",
-      "disagreement_count": 9,
+      "game_tags": "top-25 target",
+      "disagreement_count": 0,
       "players": [
         {
           "player": "Shohei Ohtani",
@@ -6069,8 +6069,8 @@
             "blue"
           ],
           "badge_summary": "HOT BAT + EV EDGE",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "RotoWire not confirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         },
         {
           "player": "Max Muncy",
@@ -6090,8 +6090,8 @@
             "gold"
           ],
           "badge_summary": "HOT BAT + SOURCE SHEET",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "RotoWire not confirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         },
         {
           "player": "Freddie Freeman",
@@ -6109,8 +6109,8 @@
             "muted"
           ],
           "badge_summary": "WATCH",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "RotoWire not confirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         },
         {
           "player": "Andy Pages",
@@ -6128,8 +6128,8 @@
             "muted"
           ],
           "badge_summary": "WATCH",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "RotoWire not confirmed"
+          "lineup_disagreement": "No",
+          "source_warnings": ""
         },
         {
           "player": "Mickey Moniak",
@@ -6153,7 +6153,7 @@
       ]
     }
   ],
-  "lineup_disagreements": 18,
+  "lineup_disagreements": 9,
   "rotowire_found": 261,
   "slate_size": 270,
   "sources": "Baseball Savant; MLB Stats API; RotoWire",

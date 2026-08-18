@@ -10,17 +10,17 @@
 | 6 | Matt Olson | ATL | Zebby Matthews | 3 | 62.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 7 | Wilyer Abreu | BOS | Merrill Kelly | 5 | 60.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
 | 8 | Pete Alonso | BAL | Carlos Rodón | 2 | 60.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 9 | Max Muncy | LAD | Ryan Feltner | 4 | 60.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 10 | Hunter Goodman | COL | Eric Lauer | 4 | 59.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Willson Contreras | BOS | Merrill Kelly | 4 | 59.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 12 | Oneil Cruz | PIT | Keider Montero | 5 | 58.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 13 | Sal Stewart | CIN | Kyle Leahy | 2 | 58.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 14 | Ben Rice | NYY | Shane Baz | 2 | 57.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Drake Baldwin | ATL | Zebby Matthews | 1 | 57.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Jo Adell | CLE | Carson Whisenhunt | 4 | 57.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Spencer Jones | NYY | Shane Baz | 3 | 57.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Jac Caglianone | KC | Jack Perkins | 3 | 57.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 19 | Bryce Eldridge | SF | Foster Griffin | 1 | 57.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 9 | Jo Adell | CLE | Carson Whisenhunt | 3 | 60.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Max Muncy | LAD | Ryan Feltner | 4 | 60.1 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 11 | Hunter Goodman | COL | Eric Lauer | 4 | 59.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Willson Contreras | BOS | Merrill Kelly | 4 | 59.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 13 | Bryce Eldridge | SF | Foster Griffin | 1 | 58.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 14 | Oneil Cruz | PIT | Keider Montero | 5 | 58.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 15 | Sal Stewart | CIN | Kyle Leahy | 2 | 58.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 16 | Ben Rice | NYY | Shane Baz | 2 | 57.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Drake Baldwin | ATL | Zebby Matthews | 1 | 57.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Spencer Jones | NYY | Shane Baz | 3 | 57.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Jac Caglianone | KC | Jack Perkins | 3 | 57.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 20 | Ronald Acuna | ATL | Zebby Matthews | 2 | 57.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings

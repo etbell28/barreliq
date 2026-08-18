@@ -9,19 +9,19 @@
 | 5 | Yordan Alvarez | HOU | George Klassen | 2 | 69.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 6 | Drake Baldwin | ATL | Zebby Matthews | 1 | 64.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 7 | Ronald Acuña Jr. | ATL | Zebby Matthews | 2 | 64.5 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 8 | Wilyer Abreu | BOS | Merrill Kelly | 3 | 64.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 9 | Max Muncy | LAD | Ryan Feltner | 4 | 63.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 10 | Willson Contreras | BOS | Merrill Kelly | 4 | 61.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 11 | Michael Harris II | ATL | Zebby Matthews | 4 | 60.8 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 12 | Miguel Vargas | CWS | Kevin Gausman | 3 | 60.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 13 | Fernando Tatis Jr. | SD | Zac Thornton | 1 | 60.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Jake Bauers | MIL | Bryce Miller | 3 | 60.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Francisco Alvarez | NYM | Robbie Ray | 5 | 59.0 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 16 | Mike Trout | LAA | Cristian Javier | 2 | 58.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 17 | Francisco Lindor | NYM | Robbie Ray | 1 | 58.7 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 18 | Kody Clemens | MIN | Tyler Mahle | 5 | 58.5 | Longshot | Watch List | Strong Barrel, Good Environment, Platoon Edge |
-| 19 | Austin Riley | ATL | Zebby Matthews | 7 | 57.8 | Longshot | Watch List | Strong Barrel, Good Environment |
-| 20 | Manny Machado | SD | Zac Thornton | 3 | 57.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 8 | Max Muncy | LAD | Ryan Feltner | 4 | 63.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 9 | Michael Harris II | ATL | Zebby Matthews | 4 | 60.8 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 10 | Miguel Vargas | CWS | Kevin Gausman | 3 | 60.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 11 | Jake Bauers | MIL | Bryce Miller | 3 | 60.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Mike Trout | LAA | Cristian Javier | 2 | 58.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 13 | Kody Clemens | MIN | Tyler Mahle | 5 | 58.5 | Longshot | Watch List | Strong Barrel, Good Environment, Platoon Edge |
+| 14 | Austin Riley | ATL | Zebby Matthews | 7 | 57.8 | Longshot | Watch List | Strong Barrel, Good Environment |
+| 15 | Josh Bell | MIN | Tyler Mahle | 4 | 56.8 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 16 | Dominic Canzone | SEA | Kyle Harrison | 3 | 56.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 17 | Colson Montgomery | CWS | Kevin Gausman | 6 | 56.3 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 18 | Seiya Suzuki | CHC | Bryan Hudson | 2 | 56.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 19 | Freddie Freeman | LAD | Ryan Feltner | 2 | 55.8 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 20 | Bobby Witt Jr. | KC | Brady Basso | 2 | 55.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
@@ -45,4 +45,4 @@
 - Munetaka Murakami + Shohei Ohtani + Matt Olson + Yordan Alvarez | Avg HR Score: 70.3
 - Shohei Ohtani + Matt Olson + Yordan Alvarez + Drake Baldwin | Avg HR Score: 68.8
 - Matt Olson + Yordan Alvarez + Drake Baldwin + Ronald Acuña Jr. | Avg HR Score: 67.1
-- Yordan Alvarez + Drake Baldwin + Ronald Acuña Jr. + Wilyer Abreu | Avg HR Score: 65.7
+- Yordan Alvarez + Drake Baldwin + Ronald Acuña Jr. + Max Muncy | Avg HR Score: 65.5

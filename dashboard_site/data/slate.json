@@ -1,7 +1,7 @@
 {
   "date": "Wednesday, August 19, 2026",
-  "generated_at": "09:01 AM EDT",
-  "generated_iso": "2026-08-19T09:01:36-04:00",
+  "generated_at": "09:50 AM EDT",
+  "generated_iso": "2026-08-19T09:50:42-04:00",
   "slate_projection": 261,
   "games_count": 15,
   "confirmed_count": 0,
@@ -1930,7 +1930,7 @@
           "order": 7,
           "pitcher": "Aaron Nola",
           "score": 49.6,
-          "rank": 66,
+          "rank": 65,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2116,7 +2116,7 @@
           "order": 2,
           "pitcher": "Sean Newcomb",
           "score": 48.6,
-          "rank": 73,
+          "rank": 72,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
           "badges": [
@@ -2135,7 +2135,7 @@
           "order": 1,
           "pitcher": "Sean Newcomb",
           "score": 48.2,
-          "rank": 76,
+          "rank": 75,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -2156,7 +2156,7 @@
           "order": 6,
           "pitcher": "Clay Holmes",
           "score": 46.9,
-          "rank": 88,
+          "rank": 87,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2225,7 +2225,7 @@
           "order": 3,
           "pitcher": "Brandon Pfaadt",
           "score": 45.7,
-          "rank": 105,
+          "rank": 104,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2244,7 +2244,7 @@
           "order": 7,
           "pitcher": "Brandon Pfaadt",
           "score": 42.8,
-          "rank": 148,
+          "rank": 147,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2263,7 +2263,7 @@
           "order": 2,
           "pitcher": "Brandon Pfaadt",
           "score": 41.7,
-          "rank": 159,
+          "rank": 158,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2332,7 +2332,7 @@
           "order": 1,
           "pitcher": "Kumar Rocker",
           "score": 49.5,
-          "rank": 67,
+          "rank": 66,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2351,7 +2351,7 @@
           "order": 4,
           "pitcher": "Cade Cavalli",
           "score": 48.9,
-          "rank": 71,
+          "rank": 70,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -2372,7 +2372,7 @@
           "order": 1,
           "pitcher": "Cade Cavalli",
           "score": 48.8,
-          "rank": 72,
+          "rank": 71,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2483,7 +2483,7 @@
           "order": 1,
           "pitcher": "Logan Gilbert",
           "score": 49.3,
-          "rank": 69,
+          "rank": 68,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
           "badges": [
@@ -2910,7 +2910,7 @@
           "order": 5,
           "pitcher": "Robert Stock",
           "score": 50.4,
-          "rank": 61,
+          "rank": 60,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2929,7 +2929,7 @@
           "order": 2,
           "pitcher": "Michael King",
           "score": 50.4,
-          "rank": 62,
+          "rank": 61,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -2948,7 +2948,7 @@
           "order": 4,
           "pitcher": "Robert Stock",
           "score": 47.3,
-          "rank": 81,
+          "rank": 80,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3136,7 +3136,7 @@
           "order": 2,
           "pitcher": "Sean Newcomb",
           "score": 48.6,
-          "rank": 73,
+          "rank": 72,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
           "badges": [
@@ -3155,7 +3155,7 @@
           "order": 1,
           "pitcher": "Sean Newcomb",
           "score": 48.2,
-          "rank": 76,
+          "rank": 75,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -3176,7 +3176,7 @@
           "order": 6,
           "pitcher": "Clay Holmes",
           "score": 46.9,
-          "rank": 88,
+          "rank": 87,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3245,7 +3245,7 @@
           "order": 3,
           "pitcher": "Brandon Pfaadt",
           "score": 45.7,
-          "rank": 105,
+          "rank": 104,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3264,7 +3264,7 @@
           "order": 7,
           "pitcher": "Brandon Pfaadt",
           "score": 42.8,
-          "rank": 148,
+          "rank": 147,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3283,7 +3283,7 @@
           "order": 2,
           "pitcher": "Brandon Pfaadt",
           "score": 41.7,
-          "rank": 159,
+          "rank": 158,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3396,7 +3396,7 @@
           "order": 7,
           "pitcher": "Aaron Nola",
           "score": 49.6,
-          "rank": 66,
+          "rank": 65,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3578,7 +3578,7 @@
           "order": 2,
           "pitcher": "Matt Wilkinson",
           "score": 46.3,
-          "rank": 98,
+          "rank": 97,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3597,7 +3597,7 @@
           "order": 4,
           "pitcher": "Parker Messick",
           "score": 46.1,
-          "rank": 99,
+          "rank": 98,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -3616,7 +3616,7 @@
           "order": 4,
           "pitcher": "Matt Wilkinson",
           "score": 46.0,
-          "rank": 101,
+          "rank": 100,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3793,31 +3793,12 @@
           "source_warnings": "lineup projected / unconfirmed"
         },
         {
-          "player": "Victor Mesa",
-          "team": "TB",
-          "order": 6,
-          "pitcher": "Max Scherzer",
-          "score": 50.5,
-          "rank": 59,
-          "badge": "WATCH",
-          "badge_class": "muted",
-          "badges": [
-            "WATCH"
-          ],
-          "badge_classes": [
-            "muted"
-          ],
-          "badge_summary": "WATCH",
-          "lineup_disagreement": "Yes",
-          "source_warnings": "lineup projected / unconfirmed"
-        },
-        {
           "player": "Yandy Diaz",
           "team": "TB",
           "order": 1,
           "pitcher": "Max Scherzer",
           "score": 50.3,
-          "rank": 63,
+          "rank": 62,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -3838,7 +3819,26 @@
           "order": 5,
           "pitcher": "Drew Rasmussen",
           "score": 45.5,
-          "rank": 108,
+          "rank": 107,
+          "badge": "WATCH",
+          "badge_class": "muted",
+          "badges": [
+            "WATCH"
+          ],
+          "badge_classes": [
+            "muted"
+          ],
+          "badge_summary": "WATCH",
+          "lineup_disagreement": "Yes",
+          "source_warnings": "lineup projected / unconfirmed"
+        },
+        {
+          "player": "Kazuma Okamoto",
+          "team": "TOR",
+          "order": 6,
+          "pitcher": "Drew Rasmussen",
+          "score": 43.8,
+          "rank": 125,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3911,7 +3911,7 @@
           "order": 4,
           "pitcher": null,
           "score": 47.2,
-          "rank": 84,
+          "rank": 83,
           "badge": "HOT BAT",
           "badge_class": "orange",
           "badges": [
@@ -3930,7 +3930,7 @@
           "order": 3,
           "pitcher": null,
           "score": 46.9,
-          "rank": 89,
+          "rank": 88,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -3949,7 +3949,7 @@
           "order": 4,
           "pitcher": null,
           "score": 46.9,
-          "rank": 90,
+          "rank": 89,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
           "badges": [
@@ -4060,7 +4060,7 @@
           "order": 1,
           "pitcher": "Logan Gilbert",
           "score": 49.3,
-          "rank": 69,
+          "rank": 68,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
           "badges": [
@@ -4129,7 +4129,7 @@
           "order": 1,
           "pitcher": "Kumar Rocker",
           "score": 49.5,
-          "rank": 67,
+          "rank": 66,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4148,7 +4148,7 @@
           "order": 4,
           "pitcher": "Cade Cavalli",
           "score": 48.9,
-          "rank": 71,
+          "rank": 70,
           "badge": "EV EDGE",
           "badge_class": "blue",
           "badges": [
@@ -4169,7 +4169,7 @@
           "order": 1,
           "pitcher": "Cade Cavalli",
           "score": 48.8,
-          "rank": 72,
+          "rank": 71,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4242,7 +4242,7 @@
           "order": 4,
           "pitcher": "Ethan Pecko",
           "score": 47.2,
-          "rank": 86,
+          "rank": 85,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4261,7 +4261,7 @@
           "order": 7,
           "pitcher": "Ethan Pecko",
           "score": 44.0,
-          "rank": 124,
+          "rank": 123,
           "badge": "WATCH",
           "badge_class": "muted",
           "badges": [
@@ -4280,7 +4280,7 @@
           "order": 5,
           "pitcher": "Ethan Pecko",
           "score": 43.7,
-          "rank": 128,
+          "rank": 127,
           "badge": "SOURCE SHEET",
           "badge_class": "gold",
           "badges": [

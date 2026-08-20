@@ -18,10 +18,10 @@
 | 14 | Jonathan Aranda | TB | Shane Bieber | 3 | 59.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 15 | Tyler Stephenson | CIN | Michael McGreevy | 4 | 59.7 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
 | 16 | Matt Olson | ATL | Anthony Kay | 3 | 59.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 17 | Ronald Acuña Jr. | ATL | Anthony Kay | 1 | 59.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | JJ Bleday | CIN | Michael McGreevy | 3 | 58.2 | Longshot | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
-| 19 | Yandy Díaz | TB | Shane Bieber | 4 | 57.4 | Longshot | Watch List | Premium Lineup Spot, Hot Hitter/Streak |
-| 20 | Drake Baldwin | ATL | Anthony Kay | 2 | 57.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 17 | Jake Bauers | MIL | George Kirby | 3 | 59.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Ronald Acuña Jr. | ATL | Anthony Kay | 1 | 59.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | JJ Bleday | CIN | Michael McGreevy | 3 | 58.2 | Longshot | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
+| 20 | Yandy Díaz | TB | Shane Bieber | 4 | 57.4 | Longshot | Watch List | Premium Lineup Spot, Hot Hitter/Streak |
 
 ## Best 2-Leg Pairings
 

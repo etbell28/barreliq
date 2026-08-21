@@ -12,16 +12,16 @@
 | 8 | Jo Adell | CLE | Tanner Gordon | 5 | 58.5 | Longshot | Watch List | Projected Lineup, Strong Barrel |
 | 9 | Bryce Eldridge | SF | Sonny Gray | 3 | 58.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 10 | Miguel Vargas | CWS | Sean Manaea | 3 | 58.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 11 | Ben Rice | NYY |  | 2 | 57.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 12 | Chase DeLauter | CLE | Tanner Gordon | 2 | 56.5 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
-| 13 | Oneil Cruz | PIT | Yoshinobu Yamamoto | 5 | 56.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 14 | Mike Trout | LAA | MacKenzie Gore | 2 | 56.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Sal Stewart | CIN | Eduardo Rodriguez | 2 | 56.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Corey Seager | TEX | Reid Detmers | 2 | 56.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 17 | Spencer Jones | NYY |  | 6 | 55.9 | Longshot | Watch List | Projected Lineup, Strong Barrel |
-| 18 | Randal Grichuk | CWS | Sean Manaea | 4 | 55.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Pete Crow-Armstrong | CHC | Emerson Hancock | 1 | 55.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Nathaniel Lowe | CLE | Tanner Gordon | 4 | 55.6 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 11 | Chase DeLauter | CLE | Tanner Gordon | 2 | 56.5 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 12 | Oneil Cruz | PIT | Yoshinobu Yamamoto | 5 | 56.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 13 | Mike Trout | LAA | MacKenzie Gore | 2 | 56.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Sal Stewart | CIN | Eduardo Rodriguez | 2 | 56.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 15 | Corey Seager | TEX | Reid Detmers | 2 | 56.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 16 | Randal Grichuk | CWS | Sean Manaea | 4 | 55.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Pete Crow-Armstrong | CHC | Emerson Hancock | 1 | 55.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Nathaniel Lowe | CLE | Tanner Gordon | 4 | 55.6 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 19 | Fernando Tatis | SD | Connor Prielipp | 1 | 55.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 20 | Junior Caminero | TB | Trevor Rogers | 3 | 55.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 

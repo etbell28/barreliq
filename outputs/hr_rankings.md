@@ -16,7 +16,7 @@
 | 12 | Mike Trout | LAA | Cody Bradford | 2 | 59.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 13 | Drake Baldwin | ATL | Logan Henderson | 1 | 59.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 14 | Jackson Chourio | MIL | Martín Pérez | 1 | 58.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Spencer Jones | NYY | Dylan Cease | 5 | 58.0 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 15 | Spencer Jones | NYY | Dylan Cease | 5 | 58.1 | Longshot | Watch List | Strong Barrel, Platoon Edge |
 | 16 | Owen Caissie | MIA | Jake Irvin | 3 | 58.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 17 | Ronald Acuña Jr. | ATL | Logan Henderson | 2 | 57.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 | 18 | Ben Rice | NYY | Dylan Cease | 2 | 56.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |

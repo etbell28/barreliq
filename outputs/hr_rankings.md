@@ -12,16 +12,16 @@
 | 8 | Rafael Flores | PIT | Tarik Skubal | 5 | 59.4 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
 | 9 | Abimelec Ortiz | WSH | Eury Pérez | 2 | 59.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 10 | Mike Trout | LAA | Cody Bradford | 2 | 59.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Matt Olson | ATL | Logan Henderson | 3 | 56.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Zach Neto | LAA | Cody Bradford | 1 | 56.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Yordan Alvarez | HOU | Jacob Lopez | 2 | 56.4 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 14 | Jordan Walker | STL | Andrew Painter | 4 | 55.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 15 | Kazuma Okamoto | TOR | Ryan Weathers | 4 | 55.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Alec Burleson | STL | Andrew Painter | 3 | 55.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Jac Caglianone | KC | Drew Anderson | 3 | 55.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Junior Caminero | TB | Brandon Young | 2 | 55.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 19 | Esmerlyn Valdez | PIT | Tarik Skubal | 3 | 55.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Christian Encarnacion-Strand | BAL | Shane McClanahan | 6 | 54.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 11 | Spencer Jones | NYY | Dylan Cease | 5 | 58.0 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 12 | Kazuma Okamoto | TOR | Ryan Weathers | 4 | 57.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Ben Rice | NYY | Dylan Cease | 2 | 56.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Matt Olson | ATL | Logan Henderson | 3 | 56.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 15 | Zach Neto | LAA | Cody Bradford | 1 | 56.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Yordan Alvarez | HOU | Jacob Lopez | 2 | 56.4 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
+| 17 | Jordan Walker | STL | Andrew Painter | 4 | 55.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 18 | Alec Burleson | STL | Andrew Painter | 3 | 55.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Jac Caglianone | KC | Drew Anderson | 3 | 55.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Junior Caminero | TB | Brandon Young | 2 | 55.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 

@@ -9,17 +9,17 @@
 | 5 | Rafael Flores Jr. | PIT | Tarik Skubal | 5 | 66.8 | Tier 3 | Watch List | Elite Power, Strong Barrel, Good Environment, Platoon Edge, Hot Hitter/Streak |
 | 6 | Max Muncy | LAD | Jared Jones | 4 | 64.6 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 7 | Oneil Cruz | PIT | Tarik Skubal | 4 | 63.6 | Tier 3 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot |
-| 8 | Corey Seager | TEX | Ryan Johnson | 2 | 62.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 8 | Corey Seager | TEX | Ryan Johnson | 2 | 63.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 9 | Esmerlyn Valdez | PIT | Tarik Skubal | 2 | 62.8 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 10 | Mike Trout | LAA | Cody Bradford | 2 | 61.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Mike Trout | LAA | Cody Bradford | 2 | 62.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 11 | Jordan Walker | STL | Andrew Painter | 4 | 61.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 12 | Alec Burleson | STL | Andrew Painter | 3 | 61.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 13 | Mickey Moniak | COL | Tanner Bibee | 2 | 61.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 14 | Francisco Lindor | NYM | Luis Castillo | 2 | 60.4 | Tier 3 | Watch List | Premium Lineup Spot, Platoon Edge |
 | 15 | Jac Caglianone | KC | Drew Anderson | 3 | 60.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 16 | Corbin Carroll | AZ | Rhett Lowder | 2 | 59.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Christian Encarnacion-Strand | BAL | Shane McClanahan | 6 | 59.1 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 18 | Zach Neto | LAA | Cody Bradford | 1 | 59.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Zach Neto | LAA | Cody Bradford | 1 | 59.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Christian Encarnacion-Strand | BAL | Shane McClanahan | 6 | 59.1 | Longshot | Watch List | Strong Barrel, Platoon Edge |
 | 19 | Yordan Alvarez | HOU | Jacob Lopez | 2 | 59.1 | Longshot | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
 | 20 | Jared Young | NYM | Luis Castillo | 5 | 59.0 | Longshot | Watch List | Platoon Edge |
 

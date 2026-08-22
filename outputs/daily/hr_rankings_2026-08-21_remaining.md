@@ -2,47 +2,45 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Shohei Ohtani | LAD | Bubba Chandler | 1 | 66.6 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 2 | Byron Buxton | MIN | Randy Vásquez | 2 | 61.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 3 | Oneil Cruz | PIT | Yoshinobu Yamamoto | 5 | 60.4 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
-| 4 | Kody Clemens | MIN | Randy Vásquez | 5 | 60.3 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
-| 5 | Rafael Flores Jr. | PIT | Yoshinobu Yamamoto | 6 | 60.3 | Tier 3 | Watch List | Elite Power, Strong Barrel, Hot Hitter/Streak |
-| 6 | Fernando Tatis Jr. | SD | Connor Prielipp | 1 | 59.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 7 | Josh Bell | MIN | Randy Vásquez | 3 | 59.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 8 | Max Muncy | LAD | Bubba Chandler | 4 | 59.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 9 | Sal Stewart | CIN | Eduardo Rodriguez | 2 | 59.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Pete Crow-Armstrong | CHC | Emerson Hancock | 1 | 58.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Corbin Carroll | AZ | Nick Lodolo | 2 | 57.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 12 | Manny Machado | SD | Connor Prielipp | 3 | 55.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Brandon Lowe | PIT | Yoshinobu Yamamoto | 2 | 55.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Dominic Canzone | SEA | Matthew Boyd | 3 | 55.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 15 | Elly De La Cruz | CIN | Eduardo Rodriguez | 1 | 54.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Ryan Jeffers | MIN | Randy Vásquez | 4 | 53.7 | Longshot | Watch List | Premium Lineup Spot |
-| 17 | Michael Busch | CHC | Emerson Hancock | 3 | 53.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Julio Rodríguez | SEA | Matthew Boyd | 4 | 53.3 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 19 | Gabriel Moreno | AZ | Nick Lodolo | 3 | 53.2 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 20 | Seiya Suzuki | CHC | Emerson Hancock | 2 | 53.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 1 | Pete Crow-Armstrong | CHC | Emerson Hancock | 1 | 61.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Dominic Canzone | SEA | Matthew Boyd | 3 | 58.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 3 | Michael Busch | CHC | Emerson Hancock | 3 | 56.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Seiya Suzuki | CHC | Emerson Hancock | 2 | 56.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 5 | Julio Rodríguez | SEA | Matthew Boyd | 4 | 56.3 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 6 | Randy Arozarena | SEA | Matthew Boyd | 2 | 55.5 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 7 | Cal Raleigh | SEA | Matthew Boyd | 7 | 54.0 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 8 | Ian Happ | CHC | Emerson Hancock | 5 | 52.6 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 9 | Michael Conforto | CHC | Emerson Hancock | 8 | 50.2 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 10 | Taylor Ward | SEA | Matthew Boyd | 6 | 48.4 | Longshot | Watch List | Platoon Edge |
+| 11 | Alex Bregman | CHC | Emerson Hancock | 4 | 47.2 | Longshot | Watch List | Premium Lineup Spot |
+| 12 | Josh Naylor | SEA | Matthew Boyd | 5 | 46.2 | Longshot | Watch List | No major boost |
+| 13 | Brock Rodden | SEA | Matthew Boyd | 9 | 46.2 | Longshot | Watch List | Platoon Edge |
+| 14 | Brendan Donovan | SEA | Matthew Boyd | 1 | 44.2 | Longshot | Watch List | Premium Lineup Spot |
+| 15 | Pedro Ramírez | CHC | Emerson Hancock | 7 | 42.1 | Longshot | Watch List | Platoon Edge |
+| 16 | Cole Young | SEA | Matthew Boyd | 8 | 40.7 | Longshot | Watch List | No major boost |
+| 17 | Carson Kelly | CHC | Emerson Hancock | 9 | 39.9 | Longshot | Watch List | No major boost |
+| 18 | Nico Hoerner | CHC | Emerson Hancock | 6 | 39.0 | Longshot | Watch List | No major boost |
 
 ## Best 2-Leg Pairings
 
-- Shohei Ohtani + Byron Buxton | Avg HR Score: 64.2
-- Byron Buxton + Oneil Cruz | Avg HR Score: 61.1
-- Oneil Cruz + Kody Clemens | Avg HR Score: 60.3
-- Kody Clemens + Rafael Flores Jr. | Avg HR Score: 60.3
-- Rafael Flores Jr. + Fernando Tatis Jr. | Avg HR Score: 59.9
+- Pete Crow-Armstrong + Dominic Canzone | Avg HR Score: 59.8
+- Dominic Canzone + Michael Busch | Avg HR Score: 57.3
+- Michael Busch + Seiya Suzuki | Avg HR Score: 56.4
+- Seiya Suzuki + Julio Rodríguez | Avg HR Score: 56.3
+- Julio Rodríguez + Randy Arozarena | Avg HR Score: 55.9
 
 ## Best 3-Leg Pairings
 
-- Shohei Ohtani + Byron Buxton + Oneil Cruz | Avg HR Score: 62.9
-- Byron Buxton + Oneil Cruz + Kody Clemens | Avg HR Score: 60.8
-- Oneil Cruz + Kody Clemens + Rafael Flores Jr. | Avg HR Score: 60.3
-- Kody Clemens + Rafael Flores Jr. + Fernando Tatis Jr. | Avg HR Score: 60.0
-- Rafael Flores Jr. + Fernando Tatis Jr. + Josh Bell | Avg HR Score: 59.7
+- Pete Crow-Armstrong + Dominic Canzone + Michael Busch | Avg HR Score: 58.7
+- Dominic Canzone + Michael Busch + Seiya Suzuki | Avg HR Score: 57.0
+- Michael Busch + Seiya Suzuki + Julio Rodríguez | Avg HR Score: 56.4
+- Seiya Suzuki + Julio Rodríguez + Randy Arozarena | Avg HR Score: 56.0
+- Julio Rodríguez + Randy Arozarena + Cal Raleigh | Avg HR Score: 55.3
 
 ## Best 4-Leg Pairings
 
-- Shohei Ohtani + Byron Buxton + Oneil Cruz + Kody Clemens | Avg HR Score: 62.3
-- Byron Buxton + Oneil Cruz + Kody Clemens + Rafael Flores Jr. | Avg HR Score: 60.7
-- Oneil Cruz + Kody Clemens + Rafael Flores Jr. + Fernando Tatis Jr. | Avg HR Score: 60.1
-- Kody Clemens + Rafael Flores Jr. + Fernando Tatis Jr. + Josh Bell | Avg HR Score: 59.8
-- Rafael Flores Jr. + Fernando Tatis Jr. + Josh Bell + Max Muncy | Avg HR Score: 59.5
+- Pete Crow-Armstrong + Dominic Canzone + Michael Busch + Seiya Suzuki | Avg HR Score: 58.1
+- Dominic Canzone + Michael Busch + Seiya Suzuki + Julio Rodríguez | Avg HR Score: 56.8
+- Michael Busch + Seiya Suzuki + Julio Rodríguez + Randy Arozarena | Avg HR Score: 56.1
+- Seiya Suzuki + Julio Rodríguez + Randy Arozarena + Cal Raleigh | Avg HR Score: 55.5
+- Julio Rodríguez + Randy Arozarena + Cal Raleigh + Ian Happ | Avg HR Score: 54.6

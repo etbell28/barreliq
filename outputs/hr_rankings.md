@@ -7,7 +7,7 @@
 | 3 | Griffin Conine | MIA | Jake Irvin | 2 | 64.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 4 | Matt Olson | ATL | Logan Henderson | 3 | 63.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 5 | Joshua Baez | STL | Andrew Painter | 5 | 62.7 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel |
-| 6 | Abimelec Ortiz | WSH | Eury Pérez | 2 | 61.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 6 | Abimelec Ortiz | WSH | Eury Pérez | 4 | 61.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 7 | Corey Seager | TEX | Ryan Johnson | 2 | 60.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 8 | Kyle Schwarber | PHI |  | 1 | 60.2 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
 | 9 | Munetaka Murakami | CWS | Christian Scott | 2 | 60.1 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
@@ -19,9 +19,9 @@
 | 15 | Spencer Jones | NYY | Dylan Cease | 5 | 58.0 | Longshot | Watch List | Strong Barrel, Platoon Edge |
 | 16 | Owen Caissie | MIA | Jake Irvin | 3 | 58.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 17 | Ronald Acuña Jr. | ATL | Logan Henderson | 2 | 57.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 18 | Kazuma Okamoto | TOR | Ryan Weathers | 4 | 57.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Ben Rice | NYY | Dylan Cease | 2 | 56.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Zach Neto | LAA | Cody Bradford | 1 | 56.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Ben Rice | NYY | Dylan Cease | 2 | 56.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Kazuma Okamoto | TOR | Ryan Weathers | 5 | 56.6 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 20 | Daz Cameron | TOR | Ryan Weathers | 7 | 56.6 | Longshot | Watch List | Strong Barrel, Platoon Edge |
 
 ## Best 2-Leg Pairings
 

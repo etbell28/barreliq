@@ -13,15 +13,15 @@
 | 9 | Esmerlyn Valdez | PIT | Tarik Skubal | 2 | 62.8 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 10 | Mike Trout | LAA | Cody Bradford | 2 | 61.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 11 | Mickey Moniak | COL | Tanner Bibee | 2 | 61.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 12 | Francisco Lindor | NYM | Luis Castillo | 2 | 59.9 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 12 | Francisco Lindor | NYM | Luis Castillo | 2 | 60.5 | Tier 3 | Watch List | Premium Lineup Spot, Platoon Edge |
 | 13 | Corbin Carroll | AZ | Rhett Lowder | 2 | 59.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 14 | Yordan Alvarez | HOU | Jacob Lopez | 2 | 59.1 | Longshot | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot |
-| 15 | Zach Neto | LAA | Cody Bradford | 1 | 58.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Pete Crow-Armstrong | CHC | Kade Anderson | 1 | 58.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 17 | Seiya Suzuki | CHC | Kade Anderson | 2 | 58.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Jac Caglianone | KC | Drew Anderson | 3 | 58.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Jordan Walker | STL | Andrew Painter | 4 | 58.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 20 | Alec Burleson | STL | Andrew Painter | 3 | 57.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 15 | Jared Young | NYM | Luis Castillo | 5 | 59.1 | Longshot | Watch List | Platoon Edge |
+| 16 | Zach Neto | LAA | Cody Bradford | 1 | 58.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Pete Crow-Armstrong | CHC | Kade Anderson | 1 | 58.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 18 | Seiya Suzuki | CHC | Kade Anderson | 2 | 58.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Jac Caglianone | KC | Drew Anderson | 3 | 58.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Jordan Walker | STL | Andrew Painter | 4 | 58.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 
 ## Best 2-Leg Pairings
 

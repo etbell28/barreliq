@@ -19,9 +19,9 @@
 | 15 | Spencer Jones | NYY | Dylan Cease | 5 | 58.1 | Longshot | Watch List | Strong Barrel, Platoon Edge |
 | 16 | Owen Caissie | MIA | Jake Irvin | 3 | 58.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 17 | Ronald Acuña Jr. | ATL | Logan Henderson | 2 | 57.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 18 | Ben Rice | NYY | Dylan Cease | 2 | 56.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Kazuma Okamoto | TOR | Ryan Weathers | 5 | 56.6 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 20 | Daz Cameron | TOR | Ryan Weathers | 7 | 56.6 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 18 | Ben Rice | NYY | Dylan Cease | 2 | 56.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Daz Cameron | TOR | Ryan Weathers | 7 | 56.6 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 20 | Kazuma Okamoto | TOR | Ryan Weathers | 5 | 56.5 | Longshot | Watch List | Strong Barrel, Platoon Edge |
 
 ## Best 2-Leg Pairings
 

@@ -5,11 +5,11 @@
 | 1 | Shohei Ohtani | LAD | Lake Bachar | 1 | 73.0 | Tier 2 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 2 | Kyle Schwarber | PHI | Kyle Leahy | 1 | 69.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 3 | Joshua Báez | STL | Cristopher Sánchez | 5 | 68.6 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
-| 4 | Pete Alonso | BAL | Nick Martinez | 2 | 67.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
+| 4 | Pete Alonso | BAL | Nick Martinez | 2 | 67.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
 | 5 | Jo Adell | CLE | Tomoyuki Sugano | 3 | 66.9 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Hot Hitter/Streak |
 | 6 | Max Muncy | LAD | Lake Bachar | 4 | 66.3 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 7 | Munetaka Murakami | CWS | Nolan McLean | 2 | 65.6 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 8 | Ben Rice | NYY | José Soriano | 2 | 63.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 8 | Ben Rice | NYY | José Soriano | 2 | 64.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 9 | Jake Bauers | MIL | Tyler Mahle | 4 | 63.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 10 | Spencer Jones | NYY | José Soriano | 6 | 63.0 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
 | 11 | Bryce Harper | PHI | Kyle Leahy | 3 | 62.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
@@ -34,9 +34,9 @@
 ## Best 3-Leg Pairings
 
 - Shohei Ohtani + Kyle Schwarber + Joshua Báez | Avg HR Score: 70.2
-- Kyle Schwarber + Joshua Báez + Pete Alonso | Avg HR Score: 68.3
+- Kyle Schwarber + Joshua Báez + Pete Alonso | Avg HR Score: 68.2
 - Joshua Báez + Pete Alonso + Jo Adell | Avg HR Score: 67.5
-- Pete Alonso + Jo Adell + Max Muncy | Avg HR Score: 66.8
+- Pete Alonso + Jo Adell + Max Muncy | Avg HR Score: 66.7
 - Jo Adell + Max Muncy + Munetaka Murakami | Avg HR Score: 66.3
 
 ## Best 4-Leg Pairings

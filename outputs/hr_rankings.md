@@ -11,17 +11,17 @@
 | 7 | Pete Crow-Armstrong | CHC | Merrill Kelly | 1 | 64.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 8 | Rafael Flores Jr. | PIT | Robbie Ray | 5 | 64.7 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
 | 9 | Elly De La Cruz | CIN | Carson Whisenhunt | 1 | 61.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Junior Caminero | TB | Framber Valdez | 3 | 61.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Jo Adell | CLE | George Klassen | 4 | 60.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
-| 12 | Michael Busch | CHC | Merrill Kelly | 3 | 60.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Kody Clemens | MIN | Jeffrey Springs | 5 | 60.0 | Longshot | Watch List | Strong Barrel, Good Environment |
-| 14 | Abimelec Ortiz | WSH | Ryan Feltner | 2 | 59.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Tyler Stephenson | CIN | Carson Whisenhunt | 4 | 59.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 16 | Josh Bell | MIN | Jeffrey Springs | 4 | 59.3 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 17 | Lawrence Butler | ATH | Zebby Matthews | 4 | 58.7 | Longshot | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
-| 18 | Ryan Vilade | TB | Framber Valdez | 2 | 58.5 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 19 | Ian Happ | CHC | Merrill Kelly | 5 | 58.3 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 20 | Bryce Harper | PHI | Logan Gilbert | 3 | 58.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Jo Adell | CLE | George Klassen | 4 | 60.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
+| 11 | Michael Busch | CHC | Merrill Kelly | 3 | 60.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Kody Clemens | MIN | Jeffrey Springs | 5 | 60.0 | Longshot | Watch List | Strong Barrel, Good Environment |
+| 13 | Tyler Stephenson | CIN | Carson Whisenhunt | 4 | 59.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Josh Bell | MIN | Jeffrey Springs | 4 | 59.3 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 15 | Lawrence Butler | ATH | Zebby Matthews | 4 | 58.7 | Longshot | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
+| 16 | Ian Happ | CHC | Merrill Kelly | 5 | 58.3 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 17 | Bryce Harper | PHI | Logan Gilbert | 3 | 58.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Rafael Devers | SF | Chase Burns | 2 | 58.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Fernando Tatis Jr. | SD | Braxton Ashcraft | 1 | 58.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 20 | Corbin Carroll | AZ | Kevin Gausman | 2 | 57.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 

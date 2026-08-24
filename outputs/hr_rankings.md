@@ -11,17 +11,17 @@
 | 7 | Oneil Cruz | PIT | Robbie Ray | 6 | 57.6 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel |
 | 8 | Michael Busch | CHC | Merrill Kelly | 3 | 57.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 9 | Abimelec Ortiz | WSH | Ryan Feltner | 2 | 57.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Bryce Eldridge | SF | Chase Burns | 4 | 56.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Ian Happ | CHC | Merrill Kelly | 5 | 55.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 12 | Bryce Harper | PHI | Logan Gilbert | 3 | 55.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Junior Caminero | TB | Framber Valdez | 3 | 55.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Seiya Suzuki | CHC | Merrill Kelly | 2 | 54.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 15 | Miguel Vargas | CWS | Kumar Rocker | 3 | 54.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 16 | Max Muncy | ATH | Zebby Matthews | 9 | 54.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 17 | Corey Seager | TEX | José Urquidy | 2 | 54.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Sal Stewart | CIN |  | 2 | 53.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 19 | Rafael Devers | SF | Chase Burns | 2 | 53.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Jo Adell | CLE | George Klassen | 4 | 53.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 10 | Ian Happ | CHC | Merrill Kelly | 5 | 55.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 11 | Bryce Harper | PHI | Logan Gilbert | 3 | 55.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Junior Caminero | TB | Framber Valdez | 3 | 55.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Seiya Suzuki | CHC | Merrill Kelly | 2 | 54.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 14 | Miguel Vargas | CWS | Kumar Rocker | 3 | 54.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 15 | Max Muncy | ATH | Zebby Matthews | 9 | 54.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 16 | Corey Seager | TEX | José Urquidy | 2 | 54.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Sal Stewart | CIN |  | 2 | 53.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 18 | Rafael Devers | SF | Chase Burns | 2 | 53.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 19 | Jo Adell | CLE | George Klassen | 4 | 53.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 20 | Colson Montgomery | CWS | Kumar Rocker | 6 | 52.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
 
 ## Best 2-Leg Pairings
 

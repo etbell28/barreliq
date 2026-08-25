@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Yordan Alvarez | HOU | Will Warren | 2 | 72.9 | Tier 2 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 2 | Pete Alonso | BAL | Matthew Liberatore | 2 | 69.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 3 | Shohei Ohtani | LAD | Bryce Elder | 1 | 69.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 4 | Kyle Schwarber | PHI | George Kirby | 1 | 68.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 5 | Munetaka Murakami | CWS | Jacob deGrom | 2 | 67.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 6 | Oneil Cruz | PIT | Michael King | 5 | 64.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 7 | Cal Raleigh | SEA | Aaron Nola | 5 | 63.7 | Tier 3 | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 8 | Rafael Devers | SF | Brady Singer | 2 | 63.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Mike Trout | LAA | Gavin Williams | 2 | 63.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 10 | Max Muncy | LAD | Bryce Elder | 4 | 62.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 11 | Byron Buxton | MIN | Gage Jump | 2 | 62.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 12 | Bobby Witt Jr. | KC | Max Scherzer | 2 | 62.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 13 | Dominic Canzone | SEA | Aaron Nola | 2 | 61.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Zach Neto | LAA | Gavin Williams | 1 | 61.6 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
-| 15 | Esmerlyn Valdez | PIT | Michael King | 4 | 61.4 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 16 | Bryce Harper | PHI | George Kirby | 3 | 61.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Carter Jensen | KC | Max Scherzer | 1 | 61.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Joshua Báez | STL | Chris Bassitt | 5 | 60.8 | Tier 3 | Watch List | Elite Power, Strong Barrel |
-| 19 | Jackson Chourio | MIL | Zac Thornton | 1 | 59.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 20 | Kazuma Okamoto | TOR | Seth Lugo | 4 | 59.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 1 | Pete Alonso | BAL | Matthew Liberatore | 2 | 69.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 2 | Kyle Schwarber | PHI | George Kirby | 1 | 68.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 3 | Munetaka Murakami | CWS | Jacob deGrom | 2 | 67.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Oneil Cruz | PIT | Michael King | 5 | 65.0 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
+| 5 | Cal Raleigh | SEA | Aaron Nola | 5 | 63.7 | Tier 3 | Watch List | Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 6 | Rafael Devers | SF | Brady Singer | 2 | 63.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 7 | Mike Trout | LAA | Gavin Williams | 2 | 63.2 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 8 | Byron Buxton | MIN | Gage Jump | 2 | 62.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 9 | Dominic Canzone | SEA | Aaron Nola | 2 | 61.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Zach Neto | LAA | Gavin Williams | 1 | 61.6 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
+| 11 | Bryce Harper | PHI | George Kirby | 3 | 61.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Joshua Báez | STL | Chris Bassitt | 5 | 60.8 | Tier 3 | Watch List | Elite Power, Strong Barrel |
+| 13 | Sal Stewart | CIN | Adrian Houser | 2 | 59.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 14 | Coby Mayo | BAL | Matthew Liberatore | 4 | 59.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 15 | Brandon Lowe | PIT | Michael King | 2 | 59.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Christian Encarnacion-Strand | BAL | Matthew Liberatore | 5 | 58.9 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 17 | Elly De La Cruz | CIN | Adrian Houser | 1 | 58.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Pete Crow-Armstrong | CHC | Brandon Pfaadt | 1 | 58.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 19 | Corey Seager | TEX | Anthony Kay | 2 | 57.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 20 | Miguel Vargas | CWS | Jacob deGrom | 3 | 57.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
-- Yordan Alvarez + Pete Alonso | Avg HR Score: 71.1
-- Pete Alonso + Shohei Ohtani | Avg HR Score: 69.2
-- Shohei Ohtani + Kyle Schwarber | Avg HR Score: 68.7
+- Pete Alonso + Kyle Schwarber | Avg HR Score: 68.8
 - Kyle Schwarber + Munetaka Murakami | Avg HR Score: 67.7
-- Munetaka Murakami + Oneil Cruz | Avg HR Score: 65.8
+- Munetaka Murakami + Oneil Cruz | Avg HR Score: 66.1
+- Oneil Cruz + Cal Raleigh | Avg HR Score: 64.3
+- Cal Raleigh + Rafael Devers | Avg HR Score: 63.5
 
 ## Best 3-Leg Pairings
 
-- Yordan Alvarez + Pete Alonso + Shohei Ohtani | Avg HR Score: 70.5
-- Pete Alonso + Shohei Ohtani + Kyle Schwarber | Avg HR Score: 68.9
-- Shohei Ohtani + Kyle Schwarber + Munetaka Murakami | Avg HR Score: 68.2
-- Kyle Schwarber + Munetaka Murakami + Oneil Cruz | Avg HR Score: 66.6
-- Munetaka Murakami + Oneil Cruz + Cal Raleigh | Avg HR Score: 65.1
+- Pete Alonso + Kyle Schwarber + Munetaka Murakami | Avg HR Score: 68.2
+- Kyle Schwarber + Munetaka Murakami + Oneil Cruz | Avg HR Score: 66.8
+- Munetaka Murakami + Oneil Cruz + Cal Raleigh | Avg HR Score: 65.3
+- Oneil Cruz + Cal Raleigh + Rafael Devers | Avg HR Score: 64.0
+- Cal Raleigh + Rafael Devers + Mike Trout | Avg HR Score: 63.4
 
 ## Best 4-Leg Pairings
 
-- Yordan Alvarez + Pete Alonso + Shohei Ohtani + Kyle Schwarber | Avg HR Score: 69.9
-- Pete Alonso + Shohei Ohtani + Kyle Schwarber + Munetaka Murakami | Avg HR Score: 68.5
-- Shohei Ohtani + Kyle Schwarber + Munetaka Murakami + Oneil Cruz | Avg HR Score: 67.2
-- Kyle Schwarber + Munetaka Murakami + Oneil Cruz + Cal Raleigh | Avg HR Score: 65.9
-- Munetaka Murakami + Oneil Cruz + Cal Raleigh + Rafael Devers | Avg HR Score: 64.7
+- Pete Alonso + Kyle Schwarber + Munetaka Murakami + Oneil Cruz | Avg HR Score: 67.4
+- Kyle Schwarber + Munetaka Murakami + Oneil Cruz + Cal Raleigh | Avg HR Score: 66.0
+- Munetaka Murakami + Oneil Cruz + Cal Raleigh + Rafael Devers | Avg HR Score: 64.8
+- Oneil Cruz + Cal Raleigh + Rafael Devers + Mike Trout | Avg HR Score: 63.8
+- Cal Raleigh + Rafael Devers + Mike Trout + Byron Buxton | Avg HR Score: 63.1

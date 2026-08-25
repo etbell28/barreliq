@@ -21,7 +21,7 @@
 | 17 | Junior Caminero | TB | Jackson Jobe | 3 | 58.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 | 18 | Spencer Jones | NYY | Ethan Pecko | 6 | 58.5 | Longshot | Watch List | Strong Barrel, Good Environment, Platoon Edge |
 | 19 | Bobby Witt Jr. | KC | Max Scherzer | 2 | 58.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 20 | Carter Jensen | KC | Max Scherzer | 1 | 57.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Corey Seager | TEX | Anthony Kay | 2 | 57.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 

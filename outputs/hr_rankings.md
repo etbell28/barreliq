@@ -12,9 +12,9 @@
 | 8 | Eduardo Valencia | DET | Ian Seymour | 5 | 57.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
 | 9 | Jac Caglianone | KC | Max Scherzer | 3 | 57.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 10 | Rafael Devers | SF | Brady Singer | 2 | 57.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Cal Raleigh | SEA | Aaron Nola | 5 | 56.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 12 | Joshua Baez | STL | Chris Bassitt | 5 | 56.5 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel |
-| 13 | Bobby Witt | KC | Max Scherzer | 2 | 56.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 11 | Bobby Witt | KC | Max Scherzer | 2 | 56.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 12 | Cal Raleigh | SEA | Aaron Nola | 5 | 56.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
+| 13 | Joshua Baez | STL | Chris Bassitt | 5 | 56.5 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel |
 | 14 | Junior Caminero | TB | Jackson Jobe | 3 | 56.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 | 15 | Jake Bauers | MIL | Zac Thornton | 4 | 56.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 16 | Mike Trout | LAA | Gavin Williams | 2 | 56.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |

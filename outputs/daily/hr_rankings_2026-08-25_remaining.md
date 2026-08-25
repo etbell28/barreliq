@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Munetaka Murakami | CWS | Jacob deGrom | 2 | 64.6 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 2 | Kyle Schwarber | PHI | George Kirby | 1 | 61.3 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Oneil Cruz | PIT | Michael King | 4 | 60.6 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 4 | Rafael Devers | SF | Brady Singer | 2 | 57.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 5 | Mike Trout | LAA | Gavin Williams | 2 | 56.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 6 | Junior Caminero | TB | Jackson Jobe | 3 | 56.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 7 | Esmerlyn Valdez | PIT | Michael King | 2 | 56.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 8 | Pete Crow-Armstrong | CHC | Brandon Pfaadt | 1 | 55.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 9 | Max Muncy | ATH | Taj Bradley | 7 | 55.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 10 | Byron Buxton | MIN | Gage Jump | 2 | 55.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Miguel Vargas | CWS | Jacob deGrom | 3 | 54.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 12 | Corey Seager | TEX | Anthony Kay | 2 | 54.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 13 | Dominic Canzone | SEA | Aaron Nola | 2 | 54.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Zach Neto | LAA | Gavin Williams | 1 | 54.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 15 | Rafael Flores | PIT | Michael King | 5 | 54.5 | Longshot | Watch List | Projected Lineup, Strong Barrel |
-| 16 | Cal Raleigh | SEA | Aaron Nola | 6 | 54.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge, Hot Hitter/Streak |
-| 17 | Bryce Harper | PHI | George Kirby | 3 | 54.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Sal Stewart | CIN | Adrian Houser | 2 | 53.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 19 | Willson Contreras | BOS |  | 4 | 53.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 20 | Abimelec Ortiz | WSH |  | 2 | 53.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 1 | Yordan Alvarez | HOU | Will Warren | 2 | 72.6 | Tier 2 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 2 | Shohei Ohtani | LAD | Bryce Elder | 1 | 71.3 | Tier 2 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 3 | Pete Alonso | BAL | Matthew Liberatore | 2 | 69.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 4 | Munetaka Murakami | CWS | Jacob deGrom | 2 | 67.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 5 | Max Muncy | LAD | Bryce Elder | 4 | 64.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 6 | Byron Buxton | MIN | Gage Jump | 2 | 62.1 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 7 | Matt Olson | ATL | Tyler Glasnow | 3 | 61.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 8 | Kyle Schwarber | PHI | George Kirby | 1 | 61.2 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | Joshua Báez | STL | Chris Bassitt | 5 | 61.0 | Tier 3 | Watch List | Elite Power, Strong Barrel |
+| 10 | Jackson Chourio | MIL | Zac Thornton | 1 | 59.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Coby Mayo | BAL | Matthew Liberatore | 4 | 59.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Christian Encarnacion-Strand | BAL | Matthew Liberatore | 5 | 59.0 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 13 | Max Muncy | ATH | Taj Bradley | 9 | 59.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Good Environment, Platoon Edge, Hot Hitter/Streak |
+| 14 | Ben Rice | NYY | Ethan Pecko | 2 | 58.9 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 15 | Oneil Cruz | PIT | Michael King | 5 | 58.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 16 | Drake Baldwin | ATL | Tyler Glasnow | 1 | 58.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Junior Caminero | TB | Jackson Jobe | 3 | 58.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 18 | Spencer Jones | NYY | Ethan Pecko | 6 | 58.5 | Longshot | Watch List | Strong Barrel, Good Environment, Platoon Edge |
+| 19 | Bobby Witt Jr. | KC | Max Scherzer | 2 | 58.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 20 | Carter Jensen | KC | Max Scherzer | 1 | 57.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Munetaka Murakami + Kyle Schwarber | Avg HR Score: 62.9
-- Kyle Schwarber + Oneil Cruz | Avg HR Score: 61.0
-- Oneil Cruz + Rafael Devers | Avg HR Score: 58.8
-- Rafael Devers + Mike Trout | Avg HR Score: 56.6
-- Mike Trout + Junior Caminero | Avg HR Score: 56.2
+- Yordan Alvarez + Shohei Ohtani | Avg HR Score: 71.9
+- Shohei Ohtani + Pete Alonso | Avg HR Score: 70.3
+- Pete Alonso + Munetaka Murakami | Avg HR Score: 68.2
+- Munetaka Murakami + Max Muncy | Avg HR Score: 65.9
+- Max Muncy + Byron Buxton | Avg HR Score: 63.4
 
 ## Best 3-Leg Pairings
 
-- Munetaka Murakami + Kyle Schwarber + Oneil Cruz | Avg HR Score: 62.2
-- Kyle Schwarber + Oneil Cruz + Rafael Devers | Avg HR Score: 59.6
-- Oneil Cruz + Rafael Devers + Mike Trout | Avg HR Score: 58.0
-- Rafael Devers + Mike Trout + Junior Caminero | Avg HR Score: 56.5
-- Mike Trout + Junior Caminero + Esmerlyn Valdez | Avg HR Score: 56.1
+- Yordan Alvarez + Shohei Ohtani + Pete Alonso | Avg HR Score: 71.1
+- Shohei Ohtani + Pete Alonso + Munetaka Murakami | Avg HR Score: 69.3
+- Pete Alonso + Munetaka Murakami + Max Muncy | Avg HR Score: 67.1
+- Munetaka Murakami + Max Muncy + Byron Buxton | Avg HR Score: 64.6
+- Max Muncy + Byron Buxton + Matt Olson | Avg HR Score: 62.8
 
 ## Best 4-Leg Pairings
 
-- Munetaka Murakami + Kyle Schwarber + Oneil Cruz + Rafael Devers | Avg HR Score: 60.9
-- Kyle Schwarber + Oneil Cruz + Rafael Devers + Mike Trout | Avg HR Score: 58.8
-- Oneil Cruz + Rafael Devers + Mike Trout + Junior Caminero | Avg HR Score: 57.5
-- Rafael Devers + Mike Trout + Junior Caminero + Esmerlyn Valdez | Avg HR Score: 56.4
-- Mike Trout + Junior Caminero + Esmerlyn Valdez + Pete Crow-Armstrong | Avg HR Score: 56.0
+- Yordan Alvarez + Shohei Ohtani + Pete Alonso + Munetaka Murakami | Avg HR Score: 70.1
+- Shohei Ohtani + Pete Alonso + Munetaka Murakami + Max Muncy | Avg HR Score: 68.1
+- Pete Alonso + Munetaka Murakami + Max Muncy + Byron Buxton | Avg HR Score: 65.8
+- Munetaka Murakami + Max Muncy + Byron Buxton + Matt Olson | Avg HR Score: 63.9
+- Max Muncy + Byron Buxton + Matt Olson + Kyle Schwarber | Avg HR Score: 62.4

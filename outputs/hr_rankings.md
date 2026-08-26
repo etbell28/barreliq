@@ -18,10 +18,10 @@
 | 14 | Drake Baldwin | ATL | Roki Sasaki | 1 | 57.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 15 | Jo Adell | CLE | Grayson Rodriguez | 4 | 56.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 | 16 | Brandon Lowe | PIT | Randy Vásquez | 2 | 56.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Joshua Baez | STL | Kyle Bradish | 5 | 56.6 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel |
-| 18 | Miguel Vargas | CWS | MacKenzie Gore | 3 | 56.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Randal Grichuk | CWS | MacKenzie Gore | 4 | 56.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 20 | Junior Caminero | TB | Troy Melton | 3 | 56.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 17 | Junior Caminero | TB | Troy Melton | 3 | 56.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 18 | Joshua Baez | STL | Kyle Bradish | 5 | 56.6 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel |
+| 19 | Miguel Vargas | CWS | MacKenzie Gore | 3 | 56.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Randal Grichuk | CWS | MacKenzie Gore | 4 | 56.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 
 ## Best 2-Leg Pairings
 

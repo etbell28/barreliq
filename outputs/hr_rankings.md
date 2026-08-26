@@ -21,7 +21,7 @@
 | 17 | Joshua Baez | STL | Kyle Bradish | 5 | 56.6 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel |
 | 18 | Miguel Vargas | CWS | MacKenzie Gore | 3 | 56.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 19 | Randal Grichuk | CWS | MacKenzie Gore | 4 | 56.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 20 | Rafael Flores | PIT | Randy Vásquez | 7 | 55.9 | Longshot | Watch List | Projected Lineup, Strong Barrel |
+| 20 | Junior Caminero | TB | Troy Melton | 3 | 56.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 

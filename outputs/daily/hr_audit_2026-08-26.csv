@@ -1,0 +1,31 @@
+date,game,player,team,opponent,hr_count,innings,event,description,appeared_in_rankings,rank,hr_score,tier,top_20,top_10
+2026-08-26,BAL@STL,Leody Taveras,BAL,STL,1,1,Home Run,Leody Taveras homers (8) on a fly ball to right center field. Christian Encarnacion-Strand scores. Dylan Beavers scores.,Yes,153,45.5,Longshot,No,No
+2026-08-26,BAL@STL,Nolan Gorman,STL,BAL,1,2,Home Run,Nolan Gorman homers (8) on a fly ball to right center field.,Yes,127,48.3,Longshot,No,No
+2026-08-26,BAL@STL,Pete Alonso,BAL,STL,1,2,Home Run,Pete Alonso homers (32) on a fly ball to right field. Carlos Narváez scores.,Yes,2,70.5,Tier 2,Yes,Yes
+2026-08-26,CIN@SF,Eugenio Suárez,CIN,SF,1,9,Home Run,Eugenio Suárez hits a grand slam (19) to left center field. Elly De La Cruz scores. Sal Stewart scores. JJ Bleday scores.,Yes,148,46.1,Longshot,No,No
+2026-08-26,CIN@SF,Héctor Rodríguez,CIN,SF,2,"3, 9",Home Run,Héctor Rodríguez homers (2) on a fly ball to center field. / Héctor Rodríguez homers (3) on a fly ball to right field.,Yes,171,43.6,Longshot,No,No
+2026-08-26,CIN@SF,Jonah Cox,SF,CIN,1,2,Home Run,Jonah Cox homers (3) on a fly ball to center field. Shay Whitcomb scores.,Yes,34,58.6,Longshot,No,No
+2026-08-26,CIN@SF,Rafael Devers,SF,CIN,1,5,Home Run,Rafael Devers homers (29) on a fly ball to right field. Jonah Cox scores.,Yes,18,61.6,Tier 3,Yes,No
+2026-08-26,CIN@SF,Shay Whitcomb,SF,CIN,1,6,Home Run,Shay Whitcomb homers (3) on a fly ball to left center field. Christian Koss scores.,Yes,144,46.3,Longshot,No,No
+2026-08-26,COL@WSH,Andrés Chaparro,WSH,COL,1,2,Home Run,Andrés Chaparro homers (9) on a line drive to left field.,Yes,29,59.9,Longshot,No,No
+2026-08-26,COL@WSH,Cole Carrigg,COL,WSH,1,5,Home Run,Cole Carrigg homers (6) on a fly ball to left center field. Jake McCarthy scores.,Yes,124,48.4,Longshot,No,No
+2026-08-26,COL@WSH,Connor Norby,COL,WSH,1,7,Home Run,Connor Norby hits a grand slam (6) to center field. Hunter Goodman scores. TJ Rumfield scores. Willi Castro scores.,Yes,132,47.5,Longshot,No,No
+2026-08-26,COL@WSH,Hunter Goodman,COL,WSH,1,8,Home Run,Hunter Goodman homers (36) on a fly ball to left center field. Cole Carrigg scores.,Yes,17,61.8,Tier 3,Yes,No
+2026-08-26,COL@WSH,Troy Johnston,COL,WSH,1,5,Home Run,Troy Johnston homers (4) on a fly ball to right center field. Connor Norby scores.,Yes,152,45.7,Longshot,No,No
+2026-08-26,HOU@NYY,Ben Rice,NYY,HOU,1,1,Home Run,Ben Rice homers (35) on a fly ball to right field.,Yes,20,61.5,Tier 3,Yes,No
+2026-08-26,HOU@NYY,Daulton Varsho,HOU,NYY,1,4,Home Run,Daulton Varsho homers (10) on a fly ball to center field.,Yes,141,46.8,Longshot,No,No
+2026-08-26,HOU@NYY,Luis García Jr.,NYY,HOU,1,8,Home Run,Luis García Jr. homers (28) on a fly ball to right field. Ben Rice scores.,Yes,30,59.5,Longshot,No,No
+2026-08-26,KC@TOR,Nathan Lukes,TOR,KC,1,4,Home Run,Nathan Lukes homers (9) on a fly ball to right center field. Jesús Sánchez scores. Kazuma Okamoto scores.,Yes,194,40.3,Longshot,No,No
+2026-08-26,LAD@ATL,Matt Olson,ATL,LAD,1,1,Home Run,Matt Olson homers (37) on a fly ball to right field.,Yes,5,67.0,Tier 3,Yes,Yes
+2026-08-26,LAD@ATL,Sean Murphy,ATL,LAD,1,6,Home Run,Sean Murphy homers (1) on a fly ball to left center field.,Yes,207,38.4,Longshot,No,No
+2026-08-26,LAD@ATL,Tommy Edman,LAD,ATL,1,3,Home Run,Tommy Edman homers (5) on a fly ball to right field. Freddie Freeman scores.,Yes,126,48.3,Longshot,No,No
+2026-08-26,MIL@NYM,Brice Turang,MIL,NYM,1,4,Home Run,Brice Turang homers (17) on a fly ball to right center field. Cooper Pratt scores. Garrett Mitchell scores.,Yes,68,54.3,Longshot,No,No
+2026-08-26,MIN@ATH,Brooks Lee,MIN,ATH,1,1,Home Run,Brooks Lee homers (21) on a fly ball to right field.,Yes,120,48.7,Longshot,No,No
+2026-08-26,MIN@ATH,Kaelen Culpepper,MIN,ATH,1,2,Home Run,Kaelen Culpepper homers (3) on a fly ball to left field.,Yes,182,42.4,Longshot,No,No
+2026-08-26,MIN@ATH,Lawrence Butler,ATH,MIN,1,7,Home Run,Lawrence Butler homers (12) on a fly ball to center field.,Yes,75,53.6,Longshot,No,No
+2026-08-26,MIN@ATH,Trevor Larnach,MIN,ATH,1,2,Home Run,Trevor Larnach homers (11) on a line drive to right field.,Yes,156,44.9,Longshot,No,No
+2026-08-26,PHI@SEA,Bryce Harper,PHI,SEA,1,1,Home Run,Bryce Harper homers (27) on a fly ball to left center field. Kyle Schwarber scores.,Yes,27,60.4,Tier 3,No,No
+2026-08-26,PHI@SEA,Kyle Schwarber,PHI,SEA,1,2,Home Run,Kyle Schwarber homers (40) on a fly ball to right center field. Brandon Marsh scores. Justin Crawford scores.,Yes,4,67.3,Tier 3,Yes,Yes
+2026-08-26,TEX@CWS,Brenton Doyle,CWS,TEX,1,6,Home Run,Brenton Doyle homers (3) on a fly ball to left center field. Munetaka Murakami scores. Braden Montgomery scores.,Yes,133,47.5,Longshot,No,No
+2026-08-26,TEX@CWS,Joc Pederson,TEX,CWS,1,3,Home Run,Joc Pederson homers (23) on a fly ball to right center field. Cody Freeman scores.,Yes,41,57.5,Longshot,No,No
+2026-08-26,TEX@CWS,Tristan Peters,CWS,TEX,1,5,Home Run,Tristan Peters homers (12) on a fly ball to right field. Jake Rogers scores.,Yes,181,42.4,Longshot,No,No

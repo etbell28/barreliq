@@ -1,0 +1,11 @@
+date,game,player,team,opponent,hr_count,innings,event,description,appeared_in_rankings,rank,hr_score,tier,top_20,top_10
+2026-08-27,AZ@SF,Drew Gilbert,SF,AZ,1,1,Home Run,Drew Gilbert homers (8) on a fly ball to right center field.,Yes,44,46.0,Longshot,No,No
+2026-08-27,AZ@SF,Gabriel Moreno,AZ,SF,1,4,Home Run,Gabriel Moreno homers (11) on a line drive to left field.,No,,,,No,No
+2026-08-27,HOU@NYY,Christian Walker,HOU,NYY,1,6,Home Run,Christian Walker homers (24) on a fly ball to right center field. Daulton Varsho scores.,Yes,36,48.2,Longshot,No,No
+2026-08-27,HOU@NYY,Jeremy Peña,HOU,NYY,1,7,Home Run,Jeremy Peña homers (16) on a fly ball to left field.,Yes,33,49.4,Longshot,No,No
+2026-08-27,KC@TOR,Carter Jensen,KC,TOR,1,1,Home Run,Carter Jensen homers (18) on a fly ball to right field.,Yes,14,56.0,Longshot,Yes,No
+2026-08-27,KC@TOR,George Springer,TOR,KC,1,6,Home Run,George Springer homers (13) on a fly ball to center field. Alejandro Kirk scores.,Yes,31,50.0,Longshot,No,No
+2026-08-27,KC@TOR,Jac Caglianone,KC,TOR,1,9,Home Run,Jac Caglianone homers (23) on a fly ball to right field. Tyler Tolbert scores.,Yes,11,56.9,Longshot,Yes,No
+2026-08-27,KC@TOR,Vinnie Pasquantino,KC,TOR,1,6,Home Run,Vinnie Pasquantino homers (9) on a fly ball to right field. Jac Caglianone scores.,Yes,22,52.0,Longshot,No,No
+2026-08-27,LAD@ATL,Drake Baldwin,ATL,LAD,1,1,Home Run,Drake Baldwin homers (22) on a fly ball to right field.,Yes,23,52.0,Longshot,No,No
+2026-08-27,MIL@NYM,Jackson Chourio,MIL,NYM,2,"2, 8",Home Run,Jackson Chourio homers (18) on a fly ball to right center field. David Hamilton scores. / Jackson Chourio homers (19) on a fly ball to left center field. Cooper Pratt scores.,Yes,6,60.8,Tier 3,Yes,Yes

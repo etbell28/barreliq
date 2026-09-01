@@ -1,0 +1,28 @@
+date,game,player,team,opponent,hr_count,innings,event,description,appeared_in_rankings,rank,hr_score,tier,top_20,top_10
+2026-08-31,ATH@TEX,Justin Foscue,TEX,ATH,1,4,Home Run,Justin Foscue homers (10) on a fly ball to left center field.,Yes,112,46.4,Longshot,No,No
+2026-08-31,CWS@HOU,Colson Montgomery,CWS,HOU,1,7,Home Run,Colson Montgomery homers (29) on a line drive to right field.,Yes,85,49.8,Longshot,No,No
+2026-08-31,CWS@HOU,Nelson Velázquez,HOU,CWS,1,4,Home Run,Nelson Velázquez homers (5) on a fly ball to left field. Cam Smith scores.,Yes,48,53.8,Longshot,No,No
+2026-08-31,DET@MIN,Hao-Yu Lee,DET,MIN,1,6,Home Run,Hao-Yu Lee homers (8) on a fly ball to center field.,Yes,125,44.9,Longshot,No,No
+2026-08-31,DET@MIN,Kody Clemens,MIN,DET,1,4,Home Run,Kody Clemens homers (23) on a fly ball to right field.,Yes,12,60.8,Tier 3,Yes,No
+2026-08-31,DET@MIN,Ryan Jeffers,MIN,DET,2,"5, 7",Home Run,Ryan Jeffers homers (11) on a fly ball to left center field. Luke Keaschall scores. Kody Clemens scores. / Ryan Jeffers homers (12) on a fly ball to left center field.,Yes,64,51.9,Longshot,No,No
+2026-08-31,DET@MIN,Walker Jenkins,MIN,DET,1,8,Home Run,Walker Jenkins homers (1) on a fly ball to right field. Kaelen Culpepper scores.,Yes,113,46.1,Longshot,No,No
+2026-08-31,MIA@WSH,Daylen Lile,WSH,MIA,2,"5, 7",Home Run,Daylen Lile homers (19) on a fly ball to left center field. Andrew Pinckney scores. / Daylen Lile homers (20) on a fly ball to right field. Nasim Nuñez scores.,Yes,46,54.3,Longshot,No,No
+2026-08-31,MIL@CHC,Alex Bregman,CHC,MIL,3,"2, 4, 8",Home Run,Alex Bregman homers (21) on a fly ball to left field. Seiya Suzuki scores. / Alex Bregman homers (22) on a fly ball to left center field. / Alex Bregman homers (23) on a fly ball to left center field.,Yes,83,50.3,Longshot,No,No
+2026-08-31,MIL@CHC,Carson Kelly,CHC,MIL,1,7,Home Run,Carson Kelly homers (10) on a fly ball to left field.,Yes,110,46.9,Longshot,No,No
+2026-08-31,MIL@CHC,Cooper Pratt,MIL,CHC,1,7,Home Run,Cooper Pratt homers (3) on a fly ball to left field. Luis Lara scores.,Yes,197,33.8,Longshot,No,No
+2026-08-31,MIL@CHC,Matt Shaw,CHC,MIL,1,7,Home Run,Matt Shaw homers (5) on a fly ball to left field. Miguel Amaya scores.,Yes,170,39.7,Longshot,No,No
+2026-08-31,MIL@CHC,Michael Conforto,CHC,MIL,1,8,Home Run,Michael Conforto homers (13) on a fly ball to right field. Miguel Amaya scores. Matt Shaw scores.,No,,,,No,No
+2026-08-31,MIL@CHC,Nico Hoerner,CHC,MIL,1,1,Home Run,Nico Hoerner homers (8) on a fly ball to left center field.,Yes,153,42.2,Longshot,No,No
+2026-08-31,MIL@CHC,Seiya Suzuki,CHC,MIL,1,4,Home Run,Seiya Suzuki homers (24) on a fly ball to center field.,Yes,21,58.7,Longshot,No,No
+2026-08-31,MIL@CHC,Tyrone Taylor,CHC,MIL,1,1,Home Run,Tyrone Taylor homers (11) on a fly ball to left center field. Seiya Suzuki scores.,Yes,75,51.1,Longshot,No,No
+2026-08-31,NYM@TB,Mark Vientos,NYM,TB,1,7,Home Run,Mark Vientos homers (12) on a fly ball to left center field.,Yes,55,52.7,Longshot,No,No
+2026-08-31,NYY@LAA,Spencer Jones,NYY,LAA,1,5,Home Run,Spencer Jones homers (8) on a fly ball to right center field.,Yes,53,53.0,Longshot,No,No
+2026-08-31,PHI@AZ,Bryson Stott,PHI,AZ,1,2,Home Run,Bryson Stott homers (10) on a fly ball to right field.,Yes,143,43.1,Longshot,No,No
+2026-08-31,SEA@BOS,Cal Raleigh,SEA,BOS,1,7,Home Run,Cal Raleigh homers (20) on a fly ball to left field.,Yes,22,58.2,Longshot,No,No
+2026-08-31,SEA@BOS,Jarren Duran,BOS,SEA,1,2,Home Run,Jarren Duran homers (19) on a fly ball to right field. Nick Sogard scores.,Yes,102,47.4,Longshot,No,No
+2026-08-31,SEA@BOS,Mickey Gasper,BOS,SEA,1,1,Home Run,Mickey Gasper homers (6) on a fly ball to right center field.,Yes,67,51.6,Longshot,No,No
+2026-08-31,SEA@BOS,Randy Arozarena,SEA,BOS,1,3,Home Run,Randy Arozarena homers (21) on a fly ball to left field.,Yes,107,47.1,Longshot,No,No
+2026-08-31,SF@ATL,Jonah Cox,SF,ATL,1,9,Home Run,Jonah Cox homers (4) on a fly ball to left field.,Yes,25,57.8,Longshot,No,No
+2026-08-31,SF@ATL,Michael Harris II,ATL,SF,1,2,Home Run,Michael Harris II homers (23) on a fly ball to center field.,Yes,18,59.9,Longshot,Yes,No
+2026-08-31,SF@ATL,Osleivis Basabe,SF,ATL,1,6,Home Run,Osleivis Basabe homers (4) on a fly ball to center field.,Yes,128,44.4,Longshot,No,No
+2026-08-31,SF@ATL,Rafael Devers,SF,ATL,1,1,Home Run,Rafael Devers homers (30) on a fly ball to right field.,Yes,4,66.2,Tier 3,Yes,Yes

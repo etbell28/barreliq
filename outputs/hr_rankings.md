@@ -4,7 +4,7 @@
 |---:|---|---|---|---:|---:|---|---|---|
 | 1 | Cal Raleigh | SEA | Jedixson Paez | 4 | 71.4 | Tier 2 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 2 | Matt Olson | ATL | Jake Irvin | 3 | 70.4 | Tier 2 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
-| 3 | Shohei Ohtani | LAD | Michael McGreevy | 1 | 68.4 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 3 | Shohei Ohtani | LAD | Michael McGreevy | 1 | 69.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
 | 4 | Dominic Canzone | SEA | Jedixson Paez | 2 | 68.3 | Tier 3 | Watch List | Strong Barrel, Pitcher Vulnerable, Premium Lineup Spot, Platoon Edge |
 | 5 | Drake Baldwin | ATL | Jake Irvin | 1 | 67.9 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
 | 6 | Sal Stewart | CIN | Randy Vásquez | 3 | 66.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
@@ -26,23 +26,23 @@
 ## Best 2-Leg Pairings
 
 - Cal Raleigh + Matt Olson | Avg HR Score: 70.9
-- Matt Olson + Shohei Ohtani | Avg HR Score: 69.4
-- Shohei Ohtani + Dominic Canzone | Avg HR Score: 68.3
+- Matt Olson + Shohei Ohtani | Avg HR Score: 69.8
+- Shohei Ohtani + Dominic Canzone | Avg HR Score: 68.7
 - Dominic Canzone + Drake Baldwin | Avg HR Score: 68.1
 - Drake Baldwin + Sal Stewart | Avg HR Score: 67.4
 
 ## Best 3-Leg Pairings
 
-- Cal Raleigh + Matt Olson + Shohei Ohtani | Avg HR Score: 70.1
-- Matt Olson + Shohei Ohtani + Dominic Canzone | Avg HR Score: 69.0
-- Shohei Ohtani + Dominic Canzone + Drake Baldwin | Avg HR Score: 68.2
+- Cal Raleigh + Matt Olson + Shohei Ohtani | Avg HR Score: 70.3
+- Matt Olson + Shohei Ohtani + Dominic Canzone | Avg HR Score: 69.3
+- Shohei Ohtani + Dominic Canzone + Drake Baldwin | Avg HR Score: 68.4
 - Dominic Canzone + Drake Baldwin + Sal Stewart | Avg HR Score: 67.7
 - Drake Baldwin + Sal Stewart + Ben Rice | Avg HR Score: 67.2
 
 ## Best 4-Leg Pairings
 
-- Cal Raleigh + Matt Olson + Shohei Ohtani + Dominic Canzone | Avg HR Score: 69.6
-- Matt Olson + Shohei Ohtani + Dominic Canzone + Drake Baldwin | Avg HR Score: 68.8
-- Shohei Ohtani + Dominic Canzone + Drake Baldwin + Sal Stewart | Avg HR Score: 67.9
+- Cal Raleigh + Matt Olson + Shohei Ohtani + Dominic Canzone | Avg HR Score: 69.8
+- Matt Olson + Shohei Ohtani + Dominic Canzone + Drake Baldwin | Avg HR Score: 68.9
+- Shohei Ohtani + Dominic Canzone + Drake Baldwin + Sal Stewart | Avg HR Score: 68.0
 - Dominic Canzone + Drake Baldwin + Sal Stewart + Ben Rice | Avg HR Score: 67.5
 - Drake Baldwin + Sal Stewart + Ben Rice + Yordan Alvarez | Avg HR Score: 67.1

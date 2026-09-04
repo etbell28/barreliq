@@ -1,0 +1,15 @@
+date,game,player,team,opponent,hr_count,innings,event,description,appeared_in_rankings,rank,hr_score,tier,top_20,top_10
+2026-09-03,ATH@SEA,Donovan Walton,ATH,SEA,1,6,Home Run,Donovan Walton homers (5) on a fly ball to right center field.,No,,,,No,No
+2026-09-03,ATH@SEA,Zack Gelof,ATH,SEA,1,1,Home Run,Zack Gelof homers (16) on a fly ball to right center field.,Yes,58,44.2,Longshot,No,No
+2026-09-03,BOS@BAL,Adley Rutschman,BOS,BAL,2,"1, 6",Home Run,Adley Rutschman homers (10) on a fly ball to right center field. / Adley Rutschman homers (11) on a fly ball to right center field.,Yes,33,52.0,Longshot,No,No
+2026-09-03,BOS@BAL,Christian Encarnacion-Strand,BAL,BOS,1,9,Home Run,Christian Encarnacion-Strand homers (8) on a fly ball to left center field. Gunnar Henderson scores.,Yes,21,55.5,Longshot,No,No
+2026-09-03,BOS@BAL,Luis Robert Jr.,BAL,BOS,1,4,Home Run,Luis Robert Jr. homers (11) on a fly ball to left field.,Yes,26,53.5,Longshot,No,No
+2026-09-03,BOS@BAL,Nick Sogard,BOS,BAL,1,8,Home Run,Nick Sogard homers (4) on a fly ball to right center field. Adley Rutschman scores.,Yes,53,46.4,Longshot,No,No
+2026-09-03,BOS@BAL,Pete Alonso,BAL,BOS,1,4,Home Run,Pete Alonso homers (33) on a fly ball to center field.,Yes,6,62.1,Tier 3,Yes,Yes
+2026-09-03,BOS@BAL,Roman Anthony,BOS,BAL,1,9,Home Run,Roman Anthony homers (3) on a fly ball to left center field.,Yes,4,62.4,Tier 3,Yes,Yes
+2026-09-03,MIA@KC,Agustín Ramírez,MIA,KC,1,4,Home Run,Agustín Ramírez homers (3) on a line drive to center field.,Yes,65,42.7,Longshot,No,No
+2026-09-03,MIA@KC,Carter Jensen,KC,MIA,1,5,Home Run,Carter Jensen homers (22) on a fly ball to right center field. Kyle Isbel scores.,Yes,3,63.0,Tier 3,Yes,Yes
+2026-09-03,MIA@KC,Heriberto Hernández,MIA,KC,1,1,Home Run,Heriberto Hernández homers (23) on a fly ball to left center field.,Yes,12,58.7,Longshot,Yes,No
+2026-09-03,MIL@CHC,Andrew Vaughn,MIL,CHC,1,4,Home Run,Andrew Vaughn homers (6) on a fly ball to left center field.,Yes,52,46.6,Longshot,No,No
+2026-09-03,MIL@CHC,Pete Crow-Armstrong,CHC,MIL,1,3,Home Run,Pete Crow-Armstrong homers (39) on a fly ball to center field. Carson Kelly scores.,Yes,10,59.2,Longshot,Yes,Yes
+2026-09-03,TB@TEX,Corey Seager,TEX,TB,1,5,Home Run,Corey Seager homers (14) on a fly ball to right center field. Ezequiel Duran scores.,Yes,20,55.6,Longshot,Yes,No

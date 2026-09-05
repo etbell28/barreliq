@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Juan Soto | NYM | Anthony Molina | 2 | 66.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 2 | Joshua Baez | STL | Mason Adams | 5 | 63.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel |
-| 3 | Yordan Alvarez | HOU | Brandon Pfaadt | 2 | 63.3 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 4 | Esmerlyn Valdez | PIT | Yusei Kikuchi | 2 | 61.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 5 | Munetaka Murakami | CWS | Taj Bradley | 2 | 61.7 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 6 | Rafael Devers | SF | Zac Thornton | 2 | 60.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 7 | Jordan Walker | STL | Mason Adams | 4 | 60.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 8 | Bryce Eldridge | SF | Zac Thornton | 3 | 59.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 9 | Alec Burleson | STL | Mason Adams | 3 | 59.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Pete Crow-Armstrong | CHC | Ryan Gusto | 1 | 59.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 11 | Kyle Stowers | MIA | Javier Assad | 1 | 59.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Leo Bernal | STL | Mason Adams | 8 | 59.2 | Longshot | Watch List | Projected Lineup, Platoon Edge |
-| 13 | Hunter Goodman | COL | Matthew Liberatore | 3 | 59.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 14 | Cal Raleigh | SEA | Jeffrey Springs | 4 | 58.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 15 | Carter Jensen | KC | Max Scherzer | 1 | 58.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 16 | James Wood | WSH | Tyler Glasnow | 1 | 58.5 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Francisco Lindor | NYM | Anthony Molina | 1 | 57.8 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 18 | Sal Stewart | CIN | Dustin May | 3 | 57.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 19 | Pete Alonso | BAL | Sonny Gray | 2 | 56.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 20 | Ben Rice | NYY | Robbie Ray | 2 | 56.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 1 | Joshua Baez | STL | Mason Adams | 5 | 66.8 | Tier 3 | Watch List | Projected Lineup, Strong Barrel |
+| 2 | Juan Soto | NYM | Anthony Molina | 2 | 66.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 3 | Esmerlyn Valdez | PIT | Yusei Kikuchi | 2 | 65.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Munetaka Murakami | CWS | Taj Bradley | 2 | 65.9 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 5 | Yordan Alvarez | HOU | Brandon Pfaadt | 2 | 65.3 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 6 | Sal Stewart | CIN | Dustin May | 3 | 65.0 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
+| 7 | Carter Jensen | KC | Max Scherzer | 1 | 63.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 8 | Elly De La Cruz | CIN | Dustin May | 2 | 63.7 | Tier 3 | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 9 | Oneil Cruz | PIT | Yusei Kikuchi | 4 | 63.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 10 | Jordan Walker | STL | Mason Adams | 4 | 63.6 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
+| 11 | Hunter Goodman | COL | Matthew Liberatore | 3 | 62.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Alec Burleson | STL | Mason Adams | 3 | 62.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Lars Nootbaar | AZ | Ethan Pecko | 1 | 62.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Jackson Chourio | MIL | Andrew Abbott | 1 | 62.3 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge |
+| 15 | Leo Bernal | STL | Mason Adams | 8 | 62.2 | Tier 3 | Watch List | Projected Lineup, Platoon Edge |
+| 16 | Ketel Marte | AZ | Ethan Pecko | 4 | 61.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 17 | Rafael Devers | SF | Zac Thornton | 2 | 61.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 18 | Corbin Carroll | AZ | Ethan Pecko | 5 | 61.3 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
+| 19 | Jac Caglianone | KC | Max Scherzer | 3 | 60.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 20 | Bryce Eldridge | SF | Zac Thornton | 3 | 60.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
-- Juan Soto + Joshua Baez | Avg HR Score: 65.1
-- Joshua Baez + Yordan Alvarez | Avg HR Score: 63.5
-- Yordan Alvarez + Esmerlyn Valdez | Avg HR Score: 62.5
-- Esmerlyn Valdez + Munetaka Murakami | Avg HR Score: 61.8
-- Munetaka Murakami + Rafael Devers | Avg HR Score: 61.2
+- Joshua Baez + Juan Soto | Avg HR Score: 66.6
+- Juan Soto + Esmerlyn Valdez | Avg HR Score: 66.2
+- Esmerlyn Valdez + Munetaka Murakami | Avg HR Score: 65.9
+- Munetaka Murakami + Yordan Alvarez | Avg HR Score: 65.6
+- Yordan Alvarez + Sal Stewart | Avg HR Score: 65.2
 
 ## Best 3-Leg Pairings
 
-- Juan Soto + Joshua Baez + Yordan Alvarez | Avg HR Score: 64.5
-- Joshua Baez + Yordan Alvarez + Esmerlyn Valdez | Avg HR Score: 63.0
-- Yordan Alvarez + Esmerlyn Valdez + Munetaka Murakami | Avg HR Score: 62.3
-- Esmerlyn Valdez + Munetaka Murakami + Rafael Devers | Avg HR Score: 61.4
-- Munetaka Murakami + Rafael Devers + Jordan Walker | Avg HR Score: 61.0
+- Joshua Baez + Juan Soto + Esmerlyn Valdez | Avg HR Score: 66.4
+- Juan Soto + Esmerlyn Valdez + Munetaka Murakami | Avg HR Score: 66.1
+- Esmerlyn Valdez + Munetaka Murakami + Yordan Alvarez | Avg HR Score: 65.7
+- Munetaka Murakami + Yordan Alvarez + Sal Stewart | Avg HR Score: 65.4
+- Yordan Alvarez + Sal Stewart + Carter Jensen | Avg HR Score: 64.7
 
 ## Best 4-Leg Pairings
 
-- Juan Soto + Joshua Baez + Yordan Alvarez + Esmerlyn Valdez | Avg HR Score: 63.8
-- Joshua Baez + Yordan Alvarez + Esmerlyn Valdez + Munetaka Murakami | Avg HR Score: 62.6
-- Yordan Alvarez + Esmerlyn Valdez + Munetaka Murakami + Rafael Devers | Avg HR Score: 61.9
-- Esmerlyn Valdez + Munetaka Murakami + Rafael Devers + Jordan Walker | Avg HR Score: 61.2
-- Munetaka Murakami + Rafael Devers + Jordan Walker + Bryce Eldridge | Avg HR Score: 60.7
+- Joshua Baez + Juan Soto + Esmerlyn Valdez + Munetaka Murakami | Avg HR Score: 66.2
+- Juan Soto + Esmerlyn Valdez + Munetaka Murakami + Yordan Alvarez | Avg HR Score: 65.9
+- Esmerlyn Valdez + Munetaka Murakami + Yordan Alvarez + Sal Stewart | Avg HR Score: 65.5
+- Munetaka Murakami + Yordan Alvarez + Sal Stewart + Carter Jensen | Avg HR Score: 65.0
+- Yordan Alvarez + Sal Stewart + Carter Jensen + Elly De La Cruz | Avg HR Score: 64.5

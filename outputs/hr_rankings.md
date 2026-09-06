@@ -2,47 +2,45 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Leo Bernal | STL | Mason Adams | 5 | 67.6 | Tier 3 | Watch List | Platoon Edge |
-| 2 | Joshua Báez | STL | Mason Adams | 6 | 66.0 | Tier 3 | Watch List | Strong Barrel |
-| 3 | Jordan Walker | STL | Mason Adams | 4 | 64.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
-| 4 | Alec Burleson | STL | Mason Adams | 3 | 63.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 5 | Hunter Goodman | COL | Matthew Liberatore | 3 | 62.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 6 | James Wood | WSH | Tyler Glasnow | 1 | 62.6 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 7 | Cal Raleigh | SEA | Jeffrey Springs | 4 | 61.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 8 | Iván Herrera | STL | Mason Adams | 2 | 57.2 | Longshot | Watch List | Premium Lineup Spot |
-| 9 | Dominic Canzone | SEA | Jeffrey Springs | 2 | 55.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 10 | Nolan Gorman | STL | Mason Adams | 7 | 54.9 | Longshot | Watch List | Platoon Edge |
-| 11 | Thomas Saggese | STL | Mason Adams | 8 | 54.7 | Longshot | Watch List | Strong Barrel, Hot Hitter/Streak |
-| 12 | Randy Arozarena | SEA | Jeffrey Springs | 1 | 53.2 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 13 | Julio Rodríguez | SEA | Jeffrey Springs | 3 | 53.2 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 14 | Freddie Freeman | LAD | Cade Cavalli | 2 | 53.1 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 15 | Connor Norby | COL | Matthew Liberatore | 2 | 52.9 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 16 | Bryan Torres | STL | Mason Adams | 1 | 51.3 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 17 | Cole Carrigg | COL | Matthew Liberatore | 5 | 51.0 | Longshot | Watch List | Platoon Edge |
-| 18 | Daylen Lile | WSH | Tyler Glasnow | 2 | 51.0 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 19 | Zack Gelof | ATH | George Kirby | 3 | 51.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 20 | Teoscar Hernández | LAD | Cade Cavalli | 5 | 50.1 | Longshot | Watch List | Strong Barrel |
+| 1 | Cal Raleigh | SEA | Jeffrey Springs | 4 | 61.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 2 | Dominic Canzone | SEA | Jeffrey Springs | 2 | 55.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 3 | Randy Arozarena | SEA | Jeffrey Springs | 1 | 53.2 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 4 | Julio Rodríguez | SEA | Jeffrey Springs | 3 | 53.2 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 5 | Zack Gelof | ATH | George Kirby | 3 | 51.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 6 | Lawrence Butler | ATH | George Kirby | 4 | 49.3 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 7 | Henry Bolte | ATH | George Kirby | 1 | 48.4 | Longshot | Watch List | Premium Lineup Spot |
+| 8 | Max Muncy | ATH | George Kirby | 6 | 44.7 | Longshot | Watch List | Strong Barrel |
+| 9 | Jeff McNeil | ATH | George Kirby | 2 | 44.5 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 10 | Jonah Heim | ATH | George Kirby | 5 | 44.0 | Longshot | Watch List | Platoon Edge |
+| 11 | Taylor Ward | SEA | Jeffrey Springs | 7 | 43.6 | Longshot | Watch List | Platoon Edge |
+| 12 | Josh Naylor | SEA | Jeffrey Springs | 5 | 42.6 | Longshot | Watch List | No major boost |
+| 13 | J.P. Crawford | SEA | Jeffrey Springs | 6 | 41.7 | Longshot | Watch List | No major boost |
+| 14 | Weston Wilson | SEA | Jeffrey Springs | 9 | 39.3 | Longshot | Watch List | Platoon Edge |
+| 15 | Donovan Walton | ATH | George Kirby | 7 | 38.6 | Longshot | Watch List | Platoon Edge |
+| 16 | Cole Young | SEA | Jeffrey Springs | 8 | 37.1 | Longshot | Watch List | No major boost |
+| 17 | Denzel Clarke | ATH | George Kirby | 9 | 33.7 | Longshot | Watch List | No major boost |
+| 18 | Alika Williams | ATH | George Kirby | 8 | 33.5 | Longshot | Watch List | No major boost |
 
 ## Best 2-Leg Pairings
 
-- Leo Bernal + Joshua Báez | Avg HR Score: 66.8
-- Joshua Báez + Jordan Walker | Avg HR Score: 65.1
-- Jordan Walker + Alec Burleson | Avg HR Score: 63.7
-- Alec Burleson + Hunter Goodman | Avg HR Score: 63.0
-- Hunter Goodman + James Wood | Avg HR Score: 62.7
+- Cal Raleigh + Dominic Canzone | Avg HR Score: 58.5
+- Dominic Canzone + Randy Arozarena | Avg HR Score: 54.4
+- Randy Arozarena + Julio Rodríguez | Avg HR Score: 53.2
+- Julio Rodríguez + Zack Gelof | Avg HR Score: 52.1
+- Zack Gelof + Lawrence Butler | Avg HR Score: 50.1
 
 ## Best 3-Leg Pairings
 
-- Leo Bernal + Joshua Báez + Jordan Walker | Avg HR Score: 65.9
-- Joshua Báez + Jordan Walker + Alec Burleson | Avg HR Score: 64.5
-- Jordan Walker + Alec Burleson + Hunter Goodman | Avg HR Score: 63.4
-- Alec Burleson + Hunter Goodman + James Wood | Avg HR Score: 62.8
-- Hunter Goodman + James Wood + Cal Raleigh | Avg HR Score: 62.3
+- Cal Raleigh + Dominic Canzone + Randy Arozarena | Avg HR Score: 56.7
+- Dominic Canzone + Randy Arozarena + Julio Rodríguez | Avg HR Score: 54.0
+- Randy Arozarena + Julio Rodríguez + Zack Gelof | Avg HR Score: 52.5
+- Julio Rodríguez + Zack Gelof + Lawrence Butler | Avg HR Score: 51.2
+- Zack Gelof + Lawrence Butler + Henry Bolte | Avg HR Score: 49.6
 
 ## Best 4-Leg Pairings
 
-- Leo Bernal + Joshua Báez + Jordan Walker + Alec Burleson | Avg HR Score: 65.2
-- Joshua Báez + Jordan Walker + Alec Burleson + Hunter Goodman | Avg HR Score: 64.0
-- Jordan Walker + Alec Burleson + Hunter Goodman + James Wood | Avg HR Score: 63.2
-- Alec Burleson + Hunter Goodman + James Wood + Cal Raleigh | Avg HR Score: 62.5
-- Hunter Goodman + James Wood + Cal Raleigh + Iván Herrera | Avg HR Score: 61.0
+- Cal Raleigh + Dominic Canzone + Randy Arozarena + Julio Rodríguez | Avg HR Score: 55.9
+- Dominic Canzone + Randy Arozarena + Julio Rodríguez + Zack Gelof | Avg HR Score: 53.2
+- Randy Arozarena + Julio Rodríguez + Zack Gelof + Lawrence Butler | Avg HR Score: 51.7
+- Julio Rodríguez + Zack Gelof + Lawrence Butler + Henry Bolte | Avg HR Score: 50.5
+- Zack Gelof + Lawrence Butler + Henry Bolte + Max Muncy | Avg HR Score: 48.4

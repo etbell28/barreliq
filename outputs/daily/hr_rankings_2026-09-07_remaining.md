@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Kyle Schwarber | PHI | Grant Holmes | 1 | 64.0 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 2 | Rafael Devers | SF | Michael McGreevy | 2 | 61.5 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 3 | Juan Soto | NYM | Eury Pérez | 2 | 60.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 4 | Bryce Eldridge | SF | Michael McGreevy | 3 | 59.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 5 | Shohei Ohtani | LAD | Chase Burns | 1 | 59.6 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 6 | Pete Alonso | BAL | Joey Cantillo | 2 | 59.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 7 | Roman Anthony | BOS | Grayson Rodriguez | 1 | 58.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 8 | Kyle Stowers | MIA | Jonah Tong | 1 | 57.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 9 | Fernando Tatis | SD | Jake Irvin | 1 | 57.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 10 | Bryce Harper | PHI | Grant Holmes | 3 | 56.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Wilyer Abreu | BOS | Grayson Rodriguez | 4 | 56.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | James Wood | WSH | Nick Pivetta | 1 | 55.7 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Elly De La Cruz | CIN |  | 1 | 55.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 14 | Manny Machado | SD | Jake Irvin | 3 | 55.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 15 | Sal Stewart | CIN |  | 2 | 55.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 16 | Griffin Conine | MIA | Jonah Tong | 2 | 55.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 17 | Carter Jensen | KC |  | 1 | 55.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 18 | Ronald Acuna | ATL | Jesús Luzardo | 1 | 54.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 19 | Jackson Merrill | SD | Jake Irvin | 5 | 54.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 20 | Riley Greene | DET |  | 5 | 54.2 | Longshot | Watch List | Projected Lineup, Strong Barrel |
+| 1 | Rafael Devers | SF | Michael McGreevy | 2 | 67.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 2 | Shohei Ohtani | LAD | Chase Burns | 1 | 66.3 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 3 | Bryce Eldridge | SF | Michael McGreevy | 3 | 66.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 4 | Elly De La Cruz | CIN | Emmet Sheehan | 2 | 65.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 5 | Sal Stewart | CIN | Emmet Sheehan | 3 | 62.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 6 | Max Muncy | LAD | Chase Burns | 4 | 59.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 7 | Tyler Stephenson | CIN | Emmet Sheehan | 5 | 58.0 | Longshot | Watch List | Strong Barrel |
+| 8 | Joshua Báez | STL | Logan Webb | 7 | 57.3 | Longshot | Watch List | Strong Barrel, Hot Hitter/Streak |
+| 9 | Freddie Freeman | LAD | Chase Burns | 2 | 56.8 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 10 | JJ Bleday | CIN | Emmet Sheehan | 4 | 56.6 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 11 | Jonah Cox | SF | Michael McGreevy | 4 | 55.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 12 | Héctor Rodríguez | CIN | Emmet Sheehan | 1 | 54.6 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 13 | Teoscar Hernández | LAD | Chase Burns | 5 | 54.6 | Longshot | Watch List | Strong Barrel |
+| 14 | Alec Burleson | STL | Logan Webb | 3 | 54.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 15 | Leo Bernal | STL | Logan Webb | 5 | 54.2 | Longshot | Watch List | Platoon Edge |
+| 16 | Jordan Walker | STL | Logan Webb | 4 | 53.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 17 | Eugenio Suárez | CIN | Emmet Sheehan | 6 | 53.5 | Longshot | Watch List | Strong Barrel |
+| 18 | Kazuma Okamoto | TOR | Jacob Lopez | 5 | 53.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
+| 19 | Vladimir Guerrero | TOR | Jacob Lopez | 3 | 51.3 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 20 | Zack Gelof | ATH | Dylan Cease | 3 | 50.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
 
 ## Best 2-Leg Pairings
 
-- Kyle Schwarber + Rafael Devers | Avg HR Score: 62.8
-- Rafael Devers + Juan Soto | Avg HR Score: 61.2
-- Juan Soto + Bryce Eldridge | Avg HR Score: 60.3
-- Bryce Eldridge + Shohei Ohtani | Avg HR Score: 59.7
-- Shohei Ohtani + Pete Alonso | Avg HR Score: 59.5
+- Rafael Devers + Shohei Ohtani | Avg HR Score: 67.1
+- Shohei Ohtani + Bryce Eldridge | Avg HR Score: 66.2
+- Bryce Eldridge + Elly De La Cruz | Avg HR Score: 65.7
+- Elly De La Cruz + Sal Stewart | Avg HR Score: 63.7
+- Sal Stewart + Max Muncy | Avg HR Score: 60.9
 
 ## Best 3-Leg Pairings
 
-- Kyle Schwarber + Rafael Devers + Juan Soto | Avg HR Score: 62.1
-- Rafael Devers + Juan Soto + Bryce Eldridge | Avg HR Score: 60.7
-- Juan Soto + Bryce Eldridge + Shohei Ohtani | Avg HR Score: 60.1
-- Bryce Eldridge + Shohei Ohtani + Pete Alonso | Avg HR Score: 59.6
-- Shohei Ohtani + Pete Alonso + Roman Anthony | Avg HR Score: 59.2
+- Rafael Devers + Shohei Ohtani + Bryce Eldridge | Avg HR Score: 66.8
+- Shohei Ohtani + Bryce Eldridge + Elly De La Cruz | Avg HR Score: 65.9
+- Bryce Eldridge + Elly De La Cruz + Sal Stewart | Avg HR Score: 64.5
+- Elly De La Cruz + Sal Stewart + Max Muncy | Avg HR Score: 62.3
+- Sal Stewart + Max Muncy + Tyler Stephenson | Avg HR Score: 59.9
 
 ## Best 4-Leg Pairings
 
-- Kyle Schwarber + Rafael Devers + Juan Soto + Bryce Eldridge | Avg HR Score: 61.5
-- Rafael Devers + Juan Soto + Bryce Eldridge + Shohei Ohtani | Avg HR Score: 60.5
-- Juan Soto + Bryce Eldridge + Shohei Ohtani + Pete Alonso | Avg HR Score: 59.9
-- Bryce Eldridge + Shohei Ohtani + Pete Alonso + Roman Anthony | Avg HR Score: 59.4
-- Shohei Ohtani + Pete Alonso + Roman Anthony + Kyle Stowers | Avg HR Score: 58.9
+- Rafael Devers + Shohei Ohtani + Bryce Eldridge + Elly De La Cruz | Avg HR Score: 66.4
+- Shohei Ohtani + Bryce Eldridge + Elly De La Cruz + Sal Stewart | Avg HR Score: 64.9
+- Bryce Eldridge + Elly De La Cruz + Sal Stewart + Max Muncy | Avg HR Score: 63.3
+- Elly De La Cruz + Sal Stewart + Max Muncy + Tyler Stephenson | Avg HR Score: 61.2
+- Sal Stewart + Max Muncy + Tyler Stephenson + Joshua Báez | Avg HR Score: 59.3

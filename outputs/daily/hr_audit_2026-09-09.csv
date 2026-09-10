@@ -1,0 +1,41 @@
+date,game,player,team,opponent,hr_count,innings,event,description,appeared_in_rankings,rank,hr_score,tier,top_20,top_10
+2026-09-09,AZ@KC,Bobby Witt Jr.,KC,AZ,1,5,Home Run,Bobby Witt Jr. homers (18) on a fly ball to left center field. Isaac Collins scores. Carter Jensen scores.,Yes,29,59.5,Longshot,No,No
+2026-09-09,AZ@KC,Carter Jensen,KC,AZ,1,3,Home Run,Carter Jensen homers (23) on a fly ball to right center field.,Yes,12,64.8,Tier 3,Yes,No
+2026-09-09,AZ@KC,Nolan Arenado,AZ,KC,1,4,Home Run,Nolan Arenado homers (23) on a fly ball to left field.,Yes,186,40.7,Longshot,No,No
+2026-09-09,CHC@MIL,Christian Yelich,MIL,CHC,1,1,Home Run,Christian Yelich homers (11) on a fly ball to left center field. Brice Turang scores. William Contreras scores.,Yes,66,53.3,Longshot,No,No
+2026-09-09,CHC@MIL,Jackson Chourio,MIL,CHC,1,2,Home Run,Jackson Chourio homers (23) on a fly ball to center field.,Yes,41,57.3,Longshot,No,No
+2026-09-09,CHC@MIL,William Contreras,MIL,CHC,1,2,Home Run,William Contreras homers (15) on a fly ball to left field. Brice Turang scores.,Yes,79,52.1,Longshot,No,No
+2026-09-09,CIN@LAD,Elly De La Cruz,CIN,LAD,1,4,Home Run,Elly De La Cruz homers (26) on a fly ball to center field.,Yes,56,54.9,Longshot,No,No
+2026-09-09,CIN@LAD,Enrique Hernández,LAD,CIN,1,7,Home Run,Enrique Hernández homers (3) on a fly ball to left field. Alex Freeland scores.,No,,,,No,No
+2026-09-09,CIN@LAD,Kyle Tucker,LAD,CIN,1,8,Home Run,Kyle Tucker homers (13) on a fly ball to right center field.,Yes,121,47.8,Longshot,No,No
+2026-09-09,CIN@LAD,Max Muncy,LAD,CIN,1,6,Home Run,Max Muncy homers (27) on a fly ball to right field. Mookie Betts scores.,Yes,106,49.1,Longshot,No,No
+2026-09-09,CIN@LAD,Mookie Betts,LAD,CIN,1,3,Home Run,Mookie Betts homers (19) on a line drive to left center field. Will Smith scores.,Yes,123,47.7,Longshot,No,No
+2026-09-09,CLE@BAL,Chase DeLauter,CLE,BAL,1,1,Home Run,Chase DeLauter homers (14) on a fly ball to right center field. Steven Kwan scores.,Yes,50,56.0,Longshot,No,No
+2026-09-09,CLE@BAL,Coby Mayo,BAL,CLE,1,6,Home Run,Coby Mayo homers (22) on a fly ball to left center field.,Yes,16,62.4,Tier 3,Yes,No
+2026-09-09,CLE@BAL,Nathaniel Lowe,CLE,BAL,1,6,Home Run,Nathaniel Lowe homers (17) on a fly ball to right field. Travis Bazzana scores.,Yes,72,52.6,Longshot,No,No
+2026-09-09,COL@NYY,Cody Bellinger,NYY,COL,1,8,Home Run,Cody Bellinger homers (13) on a line drive to right field.,Yes,27,59.6,Longshot,No,No
+2026-09-09,COL@NYY,Connor Norby,COL,NYY,1,5,Home Run,Connor Norby homers (7) on a fly ball to left field.,Yes,159,43.5,Longshot,No,No
+2026-09-09,COL@NYY,George Lombard Jr.,NYY,COL,1,3,Home Run,George Lombard Jr. hits a grand slam (3) to right field. Aaron Judge scores. Luis García Jr. scores. Spencer Jones scores.,Yes,118,48.0,Longshot,No,No
+2026-09-09,COL@NYY,Luis García Jr.,NYY,COL,1,2,Home Run,Luis García Jr. homers (29) on a fly ball to right center field.,Yes,10,65.2,Tier 3,Yes,Yes
+2026-09-09,HOU@PHI,Cam Smith,HOU,PHI,1,4,Home Run,Cam Smith homers (19) on a fly ball to center field. Daulton Varsho scores.,Yes,105,49.1,Longshot,No,No
+2026-09-09,HOU@PHI,Isaac Paredes,HOU,PHI,1,3,Home Run,Isaac Paredes homers (19) on a fly ball to left center field. Yordan Alvarez scores.,Yes,117,48.0,Longshot,No,No
+2026-09-09,HOU@PHI,Kyle Schwarber,PHI,HOU,1,6,Home Run,Kyle Schwarber hits a grand slam (44) to right field. Edmundo Sosa scores. Justin Crawford scores. Bryan De La Cruz scores.,Yes,7,66.7,Tier 3,Yes,Yes
+2026-09-09,HOU@PHI,Trea Turner,PHI,HOU,1,5,Home Run,Trea Turner homers (19) on a fly ball to right center field.,Yes,126,47.3,Longshot,No,No
+2026-09-09,LAA@BOS,Denzer Guzman,LAA,BOS,1,4,Home Run,Denzer Guzman homers (7) on a fly ball to left center field.,Yes,192,40.4,Longshot,No,No
+2026-09-09,LAA@BOS,Jose Siri,LAA,BOS,1,3,Home Run,Jose Siri homers (8) on a fly ball to right center field. Mike Trout scores.,Yes,58,54.7,Longshot,No,No
+2026-09-09,LAA@BOS,Roman Anthony,BOS,LAA,1,5,Home Run,Roman Anthony homers (4) on a fly ball to right field. Jarren Duran scores.,Yes,19,61.3,Tier 3,Yes,No
+2026-09-09,LAA@BOS,Wilyer Abreu,BOS,LAA,1,6,Home Run,Wilyer Abreu homers (24) on a fly ball to center field.,Yes,23,60.0,Tier 3,No,No
+2026-09-09,LAA@BOS,Zach Neto,LAA,BOS,1,3,Home Run,Zach Neto homers (25) on a fly ball to left field. Oswald Peraza scores. Denzer Guzman scores.,Yes,48,56.2,Longshot,No,No
+2026-09-09,NYM@MIA,Christopher Morel,NYM,MIA,1,3,Home Run,Christopher Morel homers (1) on a fly ball to left field. A.J. Ewing scores.,No,,,,No,No
+2026-09-09,NYM@MIA,Francisco Lindor,NYM,MIA,1,7,Home Run,Francisco Lindor homers (18) on a fly ball to right field. Christopher Morel scores. Luis Torrens scores.,Yes,65,53.4,Longshot,No,No
+2026-09-09,NYM@MIA,Joe Mack,MIA,NYM,1,7,Home Run,Joe Mack homers (13) on a fly ball to right center field.,Yes,180,41.3,Longshot,No,No
+2026-09-09,NYM@MIA,Owen Caissie,MIA,NYM,1,6,Home Run,Owen Caissie homers (14) on a fly ball to center field.,Yes,136,46.7,Longshot,No,No
+2026-09-09,PIT@CWS,Esmerlyn Valdez,PIT,CWS,1,5,Home Run,Esmerlyn Valdez homers (17) on a fly ball to right field.,Yes,28,59.6,Longshot,No,No
+2026-09-09,PIT@CWS,Munetaka Murakami,CWS,PIT,1,8,Home Run,Munetaka Murakami homers (31) on a fly ball to right center field.,Yes,6,67.1,Tier 3,Yes,Yes
+2026-09-09,STL@SF,Leo Bernal,STL,SF,1,3,Home Run,Leo Bernal homers (2) on a fly ball to right field. Iván Herrera scores. Alec Burleson scores.,Yes,81,51.4,Longshot,No,No
+2026-09-09,TB@ATL,Drake Baldwin,ATL,TB,1,4,Home Run,Drake Baldwin homers (23) on a fly ball to center field.,Yes,45,56.8,Longshot,No,No
+2026-09-09,TB@ATL,Victor Mesa Jr.,TB,ATL,1,2,Home Run,Victor Mesa Jr. homers (11) on a fly ball to right center field.,Yes,86,51.3,Longshot,No,No
+2026-09-09,TEX@SEA,Corey Seager,TEX,SEA,1,8,Home Run,Corey Seager homers (17) on a fly ball to left field.,Yes,53,55.5,Longshot,No,No
+2026-09-09,TEX@SEA,Jake Burger,TEX,SEA,1,2,Home Run,Jake Burger homers (26) on a fly ball to center field.,Yes,88,51.2,Longshot,No,No
+2026-09-09,WSH@SD,Jackson Merrill,SD,WSH,2,"5, 7",Home Run,Jackson Merrill homers (23) on a fly ball to left field. Ty France scores. / Jackson Merrill homers (24) on a fly ball to center field.,Yes,99,50.1,Longshot,No,No
+2026-09-09,WSH@SD,Keibert Ruiz,WSH,SD,1,3,Home Run,Keibert Ruiz homers (10) on a fly ball to right field.,Yes,167,42.3,Longshot,No,No

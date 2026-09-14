@@ -1,0 +1,11 @@
+date,game,player,team,opponent,hr_count,innings,event,description,appeared_in_rankings,rank,hr_score,tier,top_20,top_10
+2026-09-13,KC@BOS,Caleb Durbin,BOS,KC,1,2,Home Run,Caleb Durbin homers (13) on a fly ball to left center field.,Yes,84,31.6,Longshot,No,No
+2026-09-13,PIT@CHC,Miguel Amaya,CHC,PIT,1,5,Home Run,Miguel Amaya homers (6) on a fly ball to left field. Pedro Ramírez scores.,No,,,,No,No
+2026-09-13,SD@SF,Andrew Knizner,SF,SD,1,2,Home Run,Andrew Knizner homers (2) on a fly ball to left field. Shay Whitcomb scores.,Yes,78,35.0,Longshot,No,No
+2026-09-13,SD@SF,Manny Machado,SD,SF,1,2,Home Run,Manny Machado homers (27) on a fly ball to left field. Fernando Tatis Jr. scores.,Yes,14,53.7,Longshot,Yes,No
+2026-09-13,SEA@ATH,Lawrence Butler,ATH,SEA,2,"1, 9",Home Run,Lawrence Butler homers (15) on a fly ball to right center field. / Lawrence Butler homers (16) on a fly ball to right center field. Zack Gelof scores.,Yes,20,52.5,Longshot,Yes,No
+2026-09-13,SEA@ATH,Randy Arozarena,SEA,ATH,2,"3, 8",Home Run,Randy Arozarena homers (24) on a fly ball to left field. Jhonny Pereda scores. / Randy Arozarena homers (25) on a fly ball to left field.,Yes,24,51.5,Longshot,No,No
+2026-09-13,SEA@ATH,Zack Gelof,ATH,SEA,1,1,Home Run,Zack Gelof homers (18) on a fly ball to left field.,Yes,28,50.1,Longshot,No,No
+2026-09-13,TEX@AZ,Corey Seager,TEX,AZ,1,1,Home Run,Corey Seager homers (18) on a fly ball to center field. Justin Foscue scores.,Yes,6,58.0,Longshot,Yes,Yes
+2026-09-13,TEX@AZ,Gabriel Moreno,AZ,TEX,1,4,Home Run,Gabriel Moreno homers (13) on a fly ball to left field.,Yes,32,49.6,Longshot,No,No
+2026-09-13,TEX@AZ,Nolan Arenado,AZ,TEX,1,7,Home Run,Nolan Arenado homers (25) on a fly ball to left field. Geraldo Perdomo scores. Corbin Carroll scores.,Yes,50,44.0,Longshot,No,No

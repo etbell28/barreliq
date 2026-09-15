@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Aaron Judge | NYY | Bailey Ober | 3 | 65.3 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 2 | Josue De Paula | LAD | Rhett Lowder | 8 | 64.0 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Platoon Edge |
-| 3 | Pete Alonso | BAL | Sean Manaea | 2 | 63.9 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 4 | Fernando Tatis | SD | Kyle Freeland | 1 | 62.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 5 | Ben Rice | NYY | Bailey Ober | 1 | 60.7 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 6 | Yordan Alvarez | HOU | Michael Wacha | 2 | 60.6 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 7 | Juan Soto | NYM | Shane Baz | 2 | 60.2 | Tier 3 | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 8 | Matt Olson | ATL | Kevin Gausman | 3 | 59.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Spencer Jones | NYY | Bailey Ober | 5 | 59.1 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 10 | Jackson Merrill | SD | Kyle Freeland | 5 | 58.9 | Longshot | Watch List | Projected Lineup, Strong Barrel, Hot Hitter/Streak |
-| 11 | Manny Machado | SD | Kyle Freeland | 3 | 58.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 12 | Jake Bauers | MIL | Lake Bachar | 3 | 58.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 13 | Riley Greene | DET | Braydon Fisher | 4 | 57.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 14 | Munetaka Murakami | CWS | Foster Griffin | 2 | 57.5 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 15 | Lazaro Montes | SEA | Ryan Johnson | 8 | 57.4 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Platoon Edge |
-| 16 | Coby Mayo | BAL | Sean Manaea | 3 | 57.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 17 | Kyle Schwarber | PHI | Jackson Kent | 1 | 57.2 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
-| 18 | Luis Garcia | NYY | Bailey Ober | 4 | 57.2 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 19 | Elly De La Cruz | CIN | Yoshinobu Yamamoto | 2 | 56.8 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 20 | James Wood | WSH | Cristopher Sánchez | 1 | 56.2 | Longshot | Watch List | Projected Lineup, Elite Power, Strong Barrel, Premium Lineup Spot |
+| 1 | Pete Alonso | BAL | Sean Manaea | 2 | 67.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Ben Rice | NYY | Bailey Ober | 1 | 66.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 3 | Fernando Tatis Jr. | SD | Kyle Freeland | 1 | 66.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 4 | Spencer Jones | NYY | Bailey Ober | 5 | 65.8 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
+| 5 | Leo Bernal | STL | Blade Tidwell | 5 | 64.2 | Tier 3 | Watch List | Strong Barrel, Platoon Edge |
+| 6 | Juan Soto | NYM | Shane Baz | 2 | 63.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 7 | Lazaro Montes | SEA | Ryan Johnson | 8 | 63.7 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
+| 8 | Riley Greene | DET | Braydon Fisher | 4 | 63.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 9 | Luis García Jr. | NYY | Bailey Ober | 4 | 63.4 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Yordan Alvarez | HOU | Michael Wacha | 2 | 63.2 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 11 | Jackson Merrill | SD | Kyle Freeland | 5 | 63.2 | Tier 3 | Watch List | Strong Barrel, Hot Hitter/Streak |
+| 12 | Manny Machado | SD | Kyle Freeland | 3 | 62.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 13 | Matt Olson | ATL | Kevin Gausman | 3 | 62.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 14 | Bryce Eldridge | SF | Andre Pallante | 2 | 62.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 15 | Dominic Canzone | SEA | Ryan Johnson | 3 | 61.8 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 16 | Mike Trout | LAA | Logan Gilbert | 2 | 61.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 17 | Cal Raleigh | SEA | Ryan Johnson | 4 | 61.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 18 | Coby Mayo | BAL | Sean Manaea | 3 | 60.7 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 19 | Heliot Ramos | NYY | Bailey Ober | 3 | 60.5 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot |
+| 20 | Ty France | SD | Kyle Freeland | 4 | 60.0 | Tier 3 | Watch List | Premium Lineup Spot, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Aaron Judge + Josue De Paula | Avg HR Score: 64.7
-- Josue De Paula + Pete Alonso | Avg HR Score: 64.0
-- Pete Alonso + Fernando Tatis | Avg HR Score: 63.0
-- Fernando Tatis + Ben Rice | Avg HR Score: 61.5
-- Ben Rice + Yordan Alvarez | Avg HR Score: 60.7
+- Pete Alonso + Ben Rice | Avg HR Score: 67.1
+- Ben Rice + Fernando Tatis Jr. | Avg HR Score: 66.8
+- Fernando Tatis Jr. + Spencer Jones | Avg HR Score: 66.2
+- Spencer Jones + Leo Bernal | Avg HR Score: 65.0
+- Leo Bernal + Juan Soto | Avg HR Score: 64.0
 
 ## Best 3-Leg Pairings
 
-- Aaron Judge + Josue De Paula + Pete Alonso | Avg HR Score: 64.4
-- Josue De Paula + Pete Alonso + Fernando Tatis | Avg HR Score: 63.4
-- Pete Alonso + Fernando Tatis + Ben Rice | Avg HR Score: 62.3
-- Fernando Tatis + Ben Rice + Yordan Alvarez | Avg HR Score: 61.2
-- Ben Rice + Yordan Alvarez + Juan Soto | Avg HR Score: 60.5
+- Pete Alonso + Ben Rice + Fernando Tatis Jr. | Avg HR Score: 66.9
+- Ben Rice + Fernando Tatis Jr. + Spencer Jones | Avg HR Score: 66.4
+- Fernando Tatis Jr. + Spencer Jones + Leo Bernal | Avg HR Score: 65.5
+- Spencer Jones + Leo Bernal + Juan Soto | Avg HR Score: 64.6
+- Leo Bernal + Juan Soto + Lazaro Montes | Avg HR Score: 63.9
 
 ## Best 4-Leg Pairings
 
-- Aaron Judge + Josue De Paula + Pete Alonso + Fernando Tatis | Avg HR Score: 63.9
-- Josue De Paula + Pete Alonso + Fernando Tatis + Ben Rice | Avg HR Score: 62.7
-- Pete Alonso + Fernando Tatis + Ben Rice + Yordan Alvarez | Avg HR Score: 61.9
-- Fernando Tatis + Ben Rice + Yordan Alvarez + Juan Soto | Avg HR Score: 60.9
-- Ben Rice + Yordan Alvarez + Juan Soto + Matt Olson | Avg HR Score: 60.2
+- Pete Alonso + Ben Rice + Fernando Tatis Jr. + Spencer Jones | Avg HR Score: 66.7
+- Ben Rice + Fernando Tatis Jr. + Spencer Jones + Leo Bernal | Avg HR Score: 65.9
+- Fernando Tatis Jr. + Spencer Jones + Leo Bernal + Juan Soto | Avg HR Score: 65.1
+- Spencer Jones + Leo Bernal + Juan Soto + Lazaro Montes | Avg HR Score: 64.3
+- Leo Bernal + Juan Soto + Lazaro Montes + Riley Greene | Avg HR Score: 63.8

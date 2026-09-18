@@ -2,47 +2,45 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Yordan Alvarez | HOU | Seth Lugo | 2 | 68.3 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 2 | Juan Soto | NYM | Aaron Nola | 2 | 66.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Emmanuel Rodriguez | MIN | Walbert Ureña | 5 | 65.6 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
-| 4 | Carter Jensen | KC | Miguel Ullola | 1 | 64.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 5 | Kyle Schwarber | PHI | Nolan McLean | 1 | 64.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 6 | Riley Greene | DET | Erick Fedde | 4 | 62.9 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 7 | Jac Caglianone | KC | Miguel Ullola | 3 | 61.0 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 8 | Corey Seager | TEX | Sonny Gray | 2 | 60.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Bobby Witt Jr. | KC | Miguel Ullola | 2 | 59.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 10 | Francisco Lindor | NYM | Aaron Nola | 1 | 59.3 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 11 | Mike Trout | LAA | Taj Bradley | 2 | 59.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 12 | Bryce Harper | PHI | Nolan McLean | 3 | 56.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 13 | Munetaka Murakami | CWS | Framber Valdez | 5 | 56.4 | Longshot | Watch List | Strong Barrel |
-| 14 | Randal Grichuk | CWS | Framber Valdez | 4 | 56.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 15 | Jared Young | NYM | Aaron Nola | 5 | 56.2 | Longshot | Watch List | Platoon Edge |
-| 16 | Zach Neto | LAA | Taj Bradley | 1 | 56.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 17 | Moisés Ballesteros | LAA | Taj Bradley | 4 | 55.6 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 18 | Spencer Torkelson | DET | Erick Fedde | 5 | 55.3 | Longshot | Watch List | Strong Barrel, Hot Hitter/Streak |
-| 19 | Carson Benge | NYM | Aaron Nola | 4 | 54.8 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 20 | Miguel Vargas | CWS | Framber Valdez | 3 | 54.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 1 | Emmanuel Rodriguez | MIN | Walbert Ureña | 5 | 65.6 | Tier 3 | Watch List | Elite Power, Strong Barrel, Platoon Edge |
+| 2 | Mike Trout | LAA | Taj Bradley | 2 | 59.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 3 | Zach Neto | LAA | Taj Bradley | 1 | 56.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 4 | Moisés Ballesteros | LAA | Taj Bradley | 4 | 55.6 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 5 | Kody Clemens | MIN | Walbert Ureña | 3 | 53.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 6 | Jose Siri | LAA | Taj Bradley | 8 | 50.4 | Longshot | Watch List | Strong Barrel |
+| 7 | Josh Lowe | LAA | Taj Bradley | 6 | 50.3 | Longshot | Watch List | Platoon Edge |
+| 8 | Josh Bell | MIN | Walbert Ureña | 4 | 50.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 9 | Denzer Guzman | LAA | Taj Bradley | 5 | 46.9 | Longshot | Watch List | No major boost |
+| 10 | Wade Meckler | LAA | Taj Bradley | 3 | 45.2 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 11 | Royce Lewis | MIN | Walbert Ureña | 6 | 41.8 | Longshot | Watch List | Strong Barrel |
+| 12 | Brooks Lee | MIN | Walbert Ureña | 2 | 41.1 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 13 | Oswald Peraza | LAA | Taj Bradley | 7 | 40.5 | Longshot | Watch List | No major boost |
+| 14 | Victor Caratini | MIN | Walbert Ureña | 7 | 39.2 | Longshot | Watch List | Platoon Edge |
+| 15 | Ben Ross | MIN | Walbert Ureña | 9 | 37.1 | Longshot | Watch List | Strong Barrel |
+| 16 | Luke Keaschall | MIN | Walbert Ureña | 1 | 36.5 | Longshot | Watch List | Premium Lineup Spot |
+| 17 | Walker Jenkins | MIN | Walbert Ureña | 8 | 34.5 | Longshot | Watch List | Platoon Edge |
+| 18 | Tyler Heineman | LAA | Taj Bradley | 9 | 32.6 | Longshot | Watch List | Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Yordan Alvarez + Juan Soto | Avg HR Score: 67.6
-- Juan Soto + Emmanuel Rodriguez | Avg HR Score: 66.2
-- Emmanuel Rodriguez + Carter Jensen | Avg HR Score: 64.8
-- Carter Jensen + Kyle Schwarber | Avg HR Score: 64.0
-- Kyle Schwarber + Riley Greene | Avg HR Score: 63.5
+- Emmanuel Rodriguez + Mike Trout | Avg HR Score: 62.4
+- Mike Trout + Zach Neto | Avg HR Score: 57.7
+- Zach Neto + Moisés Ballesteros | Avg HR Score: 55.9
+- Moisés Ballesteros + Kody Clemens | Avg HR Score: 54.4
+- Kody Clemens + Jose Siri | Avg HR Score: 51.8
 
 ## Best 3-Leg Pairings
 
-- Yordan Alvarez + Juan Soto + Emmanuel Rodriguez | Avg HR Score: 66.9
-- Juan Soto + Emmanuel Rodriguez + Carter Jensen | Avg HR Score: 65.5
-- Emmanuel Rodriguez + Carter Jensen + Kyle Schwarber | Avg HR Score: 64.6
-- Carter Jensen + Kyle Schwarber + Riley Greene | Avg HR Score: 63.7
-- Kyle Schwarber + Riley Greene + Jac Caglianone | Avg HR Score: 62.6
+- Emmanuel Rodriguez + Mike Trout + Zach Neto | Avg HR Score: 60.3
+- Mike Trout + Zach Neto + Moisés Ballesteros | Avg HR Score: 57.0
+- Zach Neto + Moisés Ballesteros + Kody Clemens | Avg HR Score: 54.9
+- Moisés Ballesteros + Kody Clemens + Jose Siri | Avg HR Score: 53.0
+- Kody Clemens + Jose Siri + Josh Lowe | Avg HR Score: 51.3
 
 ## Best 4-Leg Pairings
 
-- Yordan Alvarez + Juan Soto + Emmanuel Rodriguez + Carter Jensen | Avg HR Score: 66.2
-- Juan Soto + Emmanuel Rodriguez + Carter Jensen + Kyle Schwarber | Avg HR Score: 65.2
-- Emmanuel Rodriguez + Carter Jensen + Kyle Schwarber + Riley Greene | Avg HR Score: 64.1
-- Carter Jensen + Kyle Schwarber + Riley Greene + Jac Caglianone | Avg HR Score: 63.0
-- Kyle Schwarber + Riley Greene + Jac Caglianone + Corey Seager | Avg HR Score: 62.0
+- Emmanuel Rodriguez + Mike Trout + Zach Neto + Moisés Ballesteros | Avg HR Score: 59.1
+- Mike Trout + Zach Neto + Moisés Ballesteros + Kody Clemens | Avg HR Score: 56.0
+- Zach Neto + Moisés Ballesteros + Kody Clemens + Jose Siri | Avg HR Score: 53.8
+- Moisés Ballesteros + Kody Clemens + Jose Siri + Josh Lowe | Avg HR Score: 52.4
+- Kody Clemens + Jose Siri + Josh Lowe + Josh Bell | Avg HR Score: 51.0

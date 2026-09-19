@@ -1,0 +1,36 @@
+date,game,player,team,opponent,hr_count,innings,event,description,appeared_in_rankings,rank,hr_score,tier,top_20,top_10
+2026-09-18,ATH@CLE,José Ramírez,CLE,ATH,1,6,Home Run,José Ramírez homers (12) on a fly ball to right field.,Yes,117,46.8,Longshot,No,No
+2026-09-18,ATH@CLE,Travis Bazzana,CLE,ATH,1,5,Home Run,Travis Bazzana homers (15) on a fly ball to center field.,Yes,105,48.1,Longshot,No,No
+2026-09-18,ATH@CLE,Zack Gelof,ATH,CLE,1,1,Home Run,Zack Gelof homers (19) on a fly ball to center field. Henry Bolte scores. Lawrence Butler scores.,Yes,121,46.2,Longshot,No,No
+2026-09-18,ATL@HOU,Matt Olson,ATL,HOU,1,9,Home Run,Matt Olson homers (40) on a fly ball to left center field. Drake Baldwin scores.,Yes,9,59.1,Longshot,Yes,Yes
+2026-09-18,ATL@HOU,Michael Harris II,ATL,HOU,1,4,Home Run,Michael Harris II homers (26) on a fly ball to left center field. Matt Olson scores.,Yes,71,51.3,Longshot,No,No
+2026-09-18,ATL@HOU,Ronald Acuña Jr.,ATL,HOU,1,7,Home Run,Ronald Acuña Jr. homers (19) on a line drive to left field. Drake Baldwin scores.,Yes,39,54.6,Longshot,No,No
+2026-09-18,BOS@TB,Jahmai Jones,BOS,TB,1,3,Home Run,Jahmai Jones homers (6) on a line drive to left field.,Yes,47,53.6,Longshot,No,No
+2026-09-18,BOS@TB,Roman Anthony,BOS,TB,1,1,Home Run,Roman Anthony homers (5) on a fly ball to center field.,Yes,52,53.3,Longshot,No,No
+2026-09-18,CHC@CIN,Ian Happ,CHC,CIN,1,3,Home Run,Ian Happ homers (24) on a fly ball to right center field.,Yes,50,53.3,Longshot,No,No
+2026-09-18,DET@CWS,Hao-Yu Lee,DET,CWS,1,8,Home Run,Hao-Yu Lee homers (10) on a fly ball to right field. Eduardo Valencia scores.,Yes,234,36.3,Longshot,No,No
+2026-09-18,DET@CWS,Miguel Vargas,CWS,DET,1,3,Home Run,Miguel Vargas homers (32) on a fly ball to left field. Brenton Doyle scores.,Yes,80,50.3,Longshot,No,No
+2026-09-18,DET@CWS,Riley Greene,DET,CWS,1,8,Home Run,Riley Greene homers (21) on a fly ball to right center field. Dillon Dingler scores.,Yes,18,56.9,Longshot,Yes,No
+2026-09-18,KC@PIT,Brandon Lowe,PIT,KC,1,3,Home Run,Brandon Lowe homers (32) on a fly ball to center field. Konnor Griffin scores.,Yes,17,57.0,Longshot,Yes,No
+2026-09-18,KC@PIT,Michael Massey,KC,PIT,1,4,Home Run,Michael Massey homers (13) on a fly ball to right field.,Yes,142,44.4,Longshot,No,No
+2026-09-18,KC@PIT,Vinnie Pasquantino,KC,PIT,1,1,Home Run,Vinnie Pasquantino homers (13) on a fly ball to right field.,Yes,88,49.3,Longshot,No,No
+2026-09-18,MIA@SD,Agustín Ramírez,MIA,SD,1,3,Home Run,Agustín Ramírez homers (5) on a line drive to left field.,No,,,,No,No
+2026-09-18,MIA@SD,Jackson Merrill,SD,MIA,1,8,Home Run,Jackson Merrill homers (26) on a fly ball to right field.,Yes,27,55.7,Longshot,No,No
+2026-09-18,MIA@SD,Ty France,SD,MIA,1,5,Home Run,Ty France homers (21) on a fly ball to left field. Fernando Tatis Jr. scores. Dustin Harris scores.,Yes,92,49.2,Longshot,No,No
+2026-09-18,MIL@BAL,Jackson Chourio,MIL,BAL,1,2,Home Run,Jackson Chourio homers (24) on a fly ball to center field. Luis Lara scores. Cooper Pratt scores.,Yes,14,57.3,Longshot,Yes,No
+2026-09-18,MIL@BAL,Pete Alonso,BAL,MIL,1,3,Home Run,"Umpire reviewed (home run), call on the field was upheld: Pete Alonso homers (38) on a line drive to right field. Leody Taveras scores. Dylan Beavers scores.",Yes,4,63.6,Tier 3,Yes,Yes
+2026-09-18,MIN@LAA,Walker Jenkins,MIN,LAA,1,7,Home Run,Walker Jenkins homers (3) on a fly ball to right field.,Yes,179,41.3,Longshot,No,No
+2026-09-18,NYY@AZ,Ben Rice,NYY,AZ,1,3,Home Run,Ben Rice homers (39) on a fly ball to left center field.,Yes,12,57.4,Longshot,Yes,No
+2026-09-18,NYY@AZ,Corbin Carroll,AZ,NYY,1,2,Home Run,Corbin Carroll homers (22) on a fly ball to right field. Geraldo Perdomo scores.,Yes,26,55.8,Longshot,No,No
+2026-09-18,NYY@AZ,George Lombard Jr.,NYY,AZ,1,6,Home Run,George Lombard Jr. homers (4) on a fly ball to left field.,No,,,,No,No
+2026-09-18,PHI@NYM,Derek Hill,PHI,NYM,1,7,Home Run,Derek Hill homers (11) on a fly ball to left field.,Yes,160,43.1,Longshot,No,No
+2026-09-18,PHI@NYM,Edmundo Sosa,PHI,NYM,1,6,Home Run,Edmundo Sosa homers (8) on a fly ball to left center field.,Yes,126,45.9,Longshot,No,No
+2026-09-18,PHI@NYM,Juan Soto,NYM,PHI,1,6,Home Run,Juan Soto homers (26) on a fly ball to center field. Marcus Semien scores. Luis Torrens scores.,Yes,23,56.3,Longshot,No,No
+2026-09-18,SEA@COL,J.P. Crawford,SEA,COL,1,1,Home Run,J.P. Crawford homers (13) on a fly ball to right field.,Yes,170,41.9,Longshot,No,No
+2026-09-18,SEA@COL,Lazaro Montes,SEA,COL,1,9,Home Run,Lazaro Montes homers (4) on a fly ball to right field.,Yes,66,51.7,Longshot,No,No
+2026-09-18,SF@LAD,Jung Hoo Lee,SF,LAD,1,2,Home Run,Jung Hoo Lee homers (10) on a fly ball to right field.,Yes,220,37.8,Longshot,No,No
+2026-09-18,SF@LAD,Kyle Tucker,LAD,SF,1,8,Home Run,Kyle Tucker homers (17) on a fly ball to right center field.,Yes,157,43.3,Longshot,No,No
+2026-09-18,SF@LAD,Max Muncy,LAD,SF,1,8,Home Run,Max Muncy homers (29) on a fly ball to right center field.,No,,,,No,No
+2026-09-18,SF@LAD,Mookie Betts,LAD,SF,2,"1, 8",Home Run,Mookie Betts homers (21) on a fly ball to left center field. / Mookie Betts homers (22) on a fly ball to left center field. Josue De Paula scores.,Yes,95,48.7,Longshot,No,No
+2026-09-18,SF@LAD,Will Smith,LAD,SF,1,8,Home Run,Will Smith homers (8) on a fly ball to center field.,Yes,59,52.5,Longshot,No,No
+2026-09-18,WSH@STL,Dylan Crews,WSH,STL,1,3,Home Run,Dylan Crews homers (12) on a fly ball to right field. Daylen Lile scores.,Yes,78,50.4,Longshot,No,No

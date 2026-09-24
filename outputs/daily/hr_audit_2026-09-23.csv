@@ -1,0 +1,26 @@
+date,game,player,team,opponent,hr_count,innings,event,description,appeared_in_rankings,rank,hr_score,tier,top_20,top_10
+2026-09-23,AZ@COL,Ezequiel Tovar,COL,AZ,1,8,Home Run,Ezequiel Tovar homers (12) on a fly ball to right field.,Yes,139,45.5,Longshot,No,No
+2026-09-23,AZ@COL,Tim Tawa,AZ,COL,1,8,Home Run,Tim Tawa homers (11) on a fly ball to left field.,Yes,102,49.4,Longshot,No,No
+2026-09-23,CIN@ATL,Austin Riley,ATL,CIN,1,7,Home Run,Austin Riley homers (18) on a fly ball to center field.,Yes,54,54.4,Longshot,No,No
+2026-09-23,CIN@ATL,Juan Brito,CIN,ATL,1,1,Home Run,Juan Brito homers (3) on a fly ball to center field.,Yes,189,40.2,Longshot,No,No
+2026-09-23,CIN@ATL,Matt Olson,ATL,CIN,1,6,Home Run,Matt Olson homers (41) on a fly ball to center field.,Yes,16,61.1,Tier 3,Yes,No
+2026-09-23,HOU@SEA,Yainer Diaz,HOU,SEA,1,3,Home Run,Yainer Diaz homers (14) on a fly ball to left field. Yordan Alvarez scores.,Yes,153,44.4,Longshot,No,No
+2026-09-23,LAA@ATH,Donovan Walton,ATH,LAA,1,1,Home Run,Donovan Walton homers (9) on a fly ball to right field. Jeff McNeil scores. Zack Gelof scores.,Yes,199,39.6,Longshot,No,No
+2026-09-23,LAA@ATH,Mike Trout,LAA,ATH,1,4,Home Run,Mike Trout homers (22) on a fly ball to left field.,Yes,9,63.0,Tier 3,Yes,Yes
+2026-09-23,LAA@ATH,Vaughn Grissom,LAA,ATH,1,4,Home Run,Vaughn Grissom homers (13) on a fly ball to right center field.,Yes,73,51.9,Longshot,No,No
+2026-09-23,MIA@CHC,Kyle Stowers,MIA,CHC,1,6,Home Run,Kyle Stowers homers (21) on a fly ball to center field. Otto Lopez scores.,Yes,20,59.7,Longshot,Yes,No
+2026-09-23,MIL@PHI,Brice Turang,MIL,PHI,1,1,Home Run,Brice Turang homers (20) on a fly ball to right center field.,Yes,60,53.4,Longshot,No,No
+2026-09-23,MIL@PHI,Christian Yelich,MIL,PHI,1,2,Home Run,Christian Yelich homers (12) on a fly ball to right center field.,Yes,103,49.2,Longshot,No,No
+2026-09-23,MIN@SF,Luke Keaschall,MIN,SF,1,3,Home Run,Luke Keaschall homers (10) on a fly ball to left field.,Yes,175,42.1,Longshot,No,No
+2026-09-23,NYM@TEX,Brett Baty,NYM,TEX,1,9,Home Run,Brett Baty hits a grand slam (11) to right center field. Nick Morabito scores. Juan Soto scores. Bo Bichette scores.,No,,,,No,No
+2026-09-23,NYM@TEX,Juan Soto,NYM,TEX,1,3,Home Run,Juan Soto homers (27) on a fly ball to right center field. Francisco Lindor scores.,Yes,14,61.9,Tier 3,Yes,No
+2026-09-23,NYM@TEX,Marcus Semien,NYM,TEX,1,8,Home Run,Marcus Semien homers (15) on a fly ball to left center field.,Yes,158,43.8,Longshot,No,No
+2026-09-23,SD@LAD,Manny Machado,SD,LAD,1,4,Home Run,Manny Machado homers (29) on a fly ball to center field. Dustin Harris scores.,Yes,159,43.8,Longshot,No,No
+2026-09-23,STL@PIT,Brandon Lowe,PIT,STL,1,2,Home Run,Brandon Lowe homers (34) on a fly ball to right center field.,Yes,29,57.5,Longshot,No,No
+2026-09-23,TB@NYY,Ben Rice,NYY,TB,2,"1, 4",Home Run,Ben Rice homers (40) on a fly ball to right field. / Ben Rice homers (41) on a fly ball to right center field.,Yes,2,65.9,Tier 3,Yes,Yes
+2026-09-23,TB@NYY,Cedric Mullins,TB,NYY,1,5,Home Run,Cedric Mullins homers (15) on a fly ball to right field.,Yes,186,41.0,Longshot,No,No
+2026-09-23,TB@NYY,George Lombard Jr.,NYY,TB,1,3,Home Run,George Lombard Jr. homers (6) on a fly ball to right center field.,Yes,72,52.2,Longshot,No,No
+2026-09-23,TB@NYY,Ryan McMahon,NYY,TB,1,3,Home Run,Ryan McMahon hits a grand slam (11) to right field. Luis García Jr. scores. Jazz Chisholm Jr. scores. José Caballero scores.,Yes,70,52.4,Longshot,No,No
+2026-09-23,TOR@BAL,Christian Encarnacion-Strand,BAL,TOR,1,4,Home Run,Christian Encarnacion-Strand homers (11) on a fly ball to left field.,Yes,64,53.0,Longshot,No,No
+2026-09-23,TOR@BAL,Davis Schneider,TOR,BAL,1,9,Home Run,Davis Schneider homers (5) on a fly ball to left field. Sean Keys scores.,Yes,97,49.8,Longshot,No,No
+2026-09-23,TOR@BAL,Pete Alonso,BAL,TOR,1,5,Home Run,Pete Alonso homers (41) on a fly ball to left center field. Dylan Beavers scores.,Yes,10,62.8,Tier 3,Yes,Yes

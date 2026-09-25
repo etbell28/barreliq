@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Yordan Alvarez | HOU | Mason Barnett | 2 | 72.9 | Tier 2 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
+| 1 | Yordan Alvarez | HOU | Mason Barnett | 2 | 73.5 | Tier 2 | Watch List | Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
 | 2 | Shohei Ohtani | LAD | Nick Pivetta | 1 | 66.7 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Matt Olson | ATL | Brady Singer | 3 | 66.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 4 | Ronald Acuña Jr. | ATL | Brady Singer | 2 | 62.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 5 | Drake Baldwin | ATL | Brady Singer | 1 | 61.6 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 6 | Elly De La Cruz | CIN | Tyler Mahle | 2 | 59.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 7 | Max Muncy | LAD | Nick Pivetta | 6 | 58.6 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 8 | Fernando Tatis Jr. | SD | Tyler Glasnow | 1 | 58.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 9 | Dominic Canzone | SEA | Grayson Rodriguez | 3 | 57.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 10 | Cal Raleigh | SEA | Grayson Rodriguez | 4 | 57.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 11 | Jackson Merrill | SD | Tyler Glasnow | 5 | 57.7 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 12 | Michael Harris II | ATL | Brady Singer | 4 | 57.3 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 13 | Shea Langeliers | ATH | Peter Lambert | 3 | 56.4 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
-| 14 | Lazaro Montes | SEA | Grayson Rodriguez | 8 | 56.1 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 15 | Sal Stewart | CIN | Tyler Mahle | 3 | 55.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 16 | Lawrence Butler | ATH | Peter Lambert | 2 | 55.4 | Longshot | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
-| 17 | Kyle Tucker | LAD | Nick Pivetta | 5 | 55.2 | Longshot | Watch List | Platoon Edge, Hot Hitter/Streak |
-| 18 | Mike Trout | LAA | Bryan Woo | 2 | 55.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 19 | Freddie Freeman | LAD | Nick Pivetta | 3 | 54.8 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
-| 20 | Teoscar Hernández | LAD | Nick Pivetta | 4 | 54.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 3 | Max Muncy | LAD | Nick Pivetta | 6 | 58.6 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 4 | Fernando Tatis Jr. | SD | Tyler Glasnow | 1 | 58.4 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 5 | Dominic Canzone | SEA | Grayson Rodriguez | 3 | 57.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 6 | Cal Raleigh | SEA | Grayson Rodriguez | 4 | 57.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 7 | Jackson Merrill | SD | Tyler Glasnow | 5 | 57.7 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 8 | Shea Langeliers | ATH | Peter Lambert | 3 | 56.4 | Longshot | Watch List | Strong Barrel, Good Environment, Premium Lineup Spot |
+| 9 | Lazaro Montes | SEA | Grayson Rodriguez | 8 | 56.1 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 10 | Lawrence Butler | ATH | Peter Lambert | 2 | 55.4 | Longshot | Watch List | Good Environment, Premium Lineup Spot, Platoon Edge |
+| 11 | Kyle Tucker | LAD | Nick Pivetta | 5 | 55.2 | Longshot | Watch List | Platoon Edge, Hot Hitter/Streak |
+| 12 | Mike Trout | LAA | Bryan Woo | 2 | 55.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 13 | Freddie Freeman | LAD | Nick Pivetta | 3 | 54.8 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 14 | Teoscar Hernández | LAD | Nick Pivetta | 4 | 54.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 15 | Yainer Diaz | HOU | Mason Barnett | 5 | 54.6 | Longshot | Watch List | Good Environment, Hot Hitter/Streak |
+| 16 | Mookie Betts | LAD | Nick Pivetta | 2 | 53.7 | Longshot | Watch List | Premium Lineup Spot, Hot Hitter/Streak |
+| 17 | Manny Machado | SD | Tyler Glasnow | 3 | 53.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 18 | Jeremy Peña | HOU | Mason Barnett | 1 | 53.1 | Longshot | Watch List | Good Environment, Premium Lineup Spot |
+| 19 | Zack Gelof | ATH | Peter Lambert | 5 | 53.1 | Longshot | Watch List | Strong Barrel, Good Environment |
+| 20 | Ty France | SD | Tyler Glasnow | 4 | 52.9 | Longshot | Watch List | Premium Lineup Spot |
 
 ## Best 2-Leg Pairings
 
-- Yordan Alvarez + Shohei Ohtani | Avg HR Score: 69.8
-- Shohei Ohtani + Matt Olson | Avg HR Score: 66.7
-- Matt Olson + Ronald Acuña Jr. | Avg HR Score: 64.4
-- Ronald Acuña Jr. + Drake Baldwin | Avg HR Score: 61.9
-- Drake Baldwin + Elly De La Cruz | Avg HR Score: 60.5
+- Yordan Alvarez + Shohei Ohtani | Avg HR Score: 70.1
+- Shohei Ohtani + Max Muncy | Avg HR Score: 62.7
+- Max Muncy + Fernando Tatis Jr. | Avg HR Score: 58.5
+- Fernando Tatis Jr. + Dominic Canzone | Avg HR Score: 58.0
+- Dominic Canzone + Cal Raleigh | Avg HR Score: 57.7
 
 ## Best 3-Leg Pairings
 
-- Yordan Alvarez + Shohei Ohtani + Matt Olson | Avg HR Score: 68.7
-- Shohei Ohtani + Matt Olson + Ronald Acuña Jr. | Avg HR Score: 65.2
-- Matt Olson + Ronald Acuña Jr. + Drake Baldwin | Avg HR Score: 63.5
-- Ronald Acuña Jr. + Drake Baldwin + Elly De La Cruz | Avg HR Score: 61.1
-- Drake Baldwin + Elly De La Cruz + Max Muncy | Avg HR Score: 59.9
+- Yordan Alvarez + Shohei Ohtani + Max Muncy | Avg HR Score: 66.3
+- Shohei Ohtani + Max Muncy + Fernando Tatis Jr. | Avg HR Score: 61.2
+- Max Muncy + Fernando Tatis Jr. + Dominic Canzone | Avg HR Score: 58.2
+- Fernando Tatis Jr. + Dominic Canzone + Cal Raleigh | Avg HR Score: 57.9
+- Dominic Canzone + Cal Raleigh + Jackson Merrill | Avg HR Score: 57.7
 
 ## Best 4-Leg Pairings
 
-- Yordan Alvarez + Shohei Ohtani + Matt Olson + Ronald Acuña Jr. | Avg HR Score: 67.1
-- Shohei Ohtani + Matt Olson + Ronald Acuña Jr. + Drake Baldwin | Avg HR Score: 64.3
-- Matt Olson + Ronald Acuña Jr. + Drake Baldwin + Elly De La Cruz | Avg HR Score: 62.5
-- Ronald Acuña Jr. + Drake Baldwin + Elly De La Cruz + Max Muncy | Avg HR Score: 60.5
-- Drake Baldwin + Elly De La Cruz + Max Muncy + Fernando Tatis Jr. | Avg HR Score: 59.5
+- Yordan Alvarez + Shohei Ohtani + Max Muncy + Fernando Tatis Jr. | Avg HR Score: 64.3
+- Shohei Ohtani + Max Muncy + Fernando Tatis Jr. + Dominic Canzone | Avg HR Score: 60.4
+- Max Muncy + Fernando Tatis Jr. + Dominic Canzone + Cal Raleigh | Avg HR Score: 58.1
+- Fernando Tatis Jr. + Dominic Canzone + Cal Raleigh + Jackson Merrill | Avg HR Score: 57.9
+- Dominic Canzone + Cal Raleigh + Jackson Merrill + Shea Langeliers | Avg HR Score: 57.4

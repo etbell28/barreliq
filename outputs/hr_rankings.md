@@ -2,47 +2,47 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Munetaka Murakami | CWS | Tomoyuki Sugano | 4 | 69.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 2 | Shohei Ohtani | LAD | Yunior Marte | 1 | 67.7 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 3 | Yordan Alvarez | HOU | Jacob Lopez | 2 | 65.7 | Tier 3 | Watch List | Projected Lineup, Elite Power, Strong Barrel, Good Environment, Premium Lineup Spot, Hot Hitter/Streak |
-| 4 | Carter Jensen | KC | Gavin Williams | 1 | 61.2 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 5 | Jac Caglianone | KC | Gavin Williams | 3 | 60.3 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 6 | Corey Seager | TEX | Joe Ryan | 3 | 60.1 | Tier 3 | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 7 | Ben Rice | NYY | Brandon Young | 2 | 60.0 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 8 | Jake Bauers | MIL | Michael McGreevy | 4 | 60.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 9 | Will Smith | LAD | Yunior Marte | 4 | 59.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 10 | Miguel Vargas | CWS | Tomoyuki Sugano | 3 | 59.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 11 | Bobby Witt Jr. | KC | Gavin Williams | 2 | 58.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
-| 12 | Pete Alonso | BAL | Ryan Yarbrough | 2 | 57.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge, Hot Hitter/Streak |
-| 13 | Max Muncy | LAD | Yunior Marte | 7 | 57.0 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 14 | Spencer Jones | NYY | Brandon Young | 6 | 56.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Platoon Edge |
-| 15 | Vinnie Pasquantino | KC | Gavin Williams | 5 | 56.7 | Longshot | Watch List | Platoon Edge, Hot Hitter/Streak |
-| 16 | Mike Trout | LAA | Bryce Miller | 2 | 56.4 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 17 | Kyle Teel | CWS | Tomoyuki Sugano | 2 | 56.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 18 | Corbin Carroll | AZ | Casey Mize | 5 | 56.3 | Longshot | Watch List | Strong Barrel, Platoon Edge |
-| 19 | Fernando Tatis Jr. | SD | Brandon Pfaadt | 1 | 56.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
-| 20 | Victor Bericoto | SF | Tarik Skubal | 3 | 55.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 1 | Shohei Ohtani | LAD | Yunior Marte | 1 | 67.1 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Yordan Alvarez | HOU | Jacob Lopez | 2 | 65.5 | Tier 3 | Watch List | Elite Power, Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 3 | Will Smith | LAD | Yunior Marte | 4 | 58.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 4 | Corbin Carroll | AZ | Casey Mize | 5 | 57.8 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 5 | Fernando Tatis Jr. | SD | Brandon Pfaadt | 1 | 57.7 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Hot Hitter/Streak |
+| 6 | Mike Trout | LAA | Bryce Miller | 2 | 56.9 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 7 | Max Muncy | LAD | Yunior Marte | 7 | 56.3 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 8 | Jackson Merrill | SD | Brandon Pfaadt | 5 | 56.0 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 9 | Victor Bericoto | SF | Tarik Skubal | 3 | 55.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 10 | Freddie Freeman | LAD | Yunior Marte | 3 | 54.8 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 11 | Ketel Marte | AZ | Casey Mize | 2 | 54.6 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 12 | Kyle Tucker | LAD | Yunior Marte | 5 | 54.5 | Longshot | Watch List | Platoon Edge, Hot Hitter/Streak |
+| 13 | Julio Rodríguez | SEA | Reid Detmers | 3 | 53.7 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 14 | Lars Nootbaar | AZ | Casey Mize | 1 | 53.6 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 15 | Mookie Betts | LAD | Yunior Marte | 2 | 53.3 | Longshot | Watch List | Premium Lineup Spot, Hot Hitter/Streak |
+| 16 | Dominic Canzone | SEA | Reid Detmers | 2 | 53.0 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 17 | Shea Langeliers | ATH | Hunter Brown | 3 | 52.3 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 18 | Lawrence Butler | ATH | Hunter Brown | 2 | 52.2 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 19 | Manny Machado | SD | Brandon Pfaadt | 3 | 52.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 20 | Zack Gelof | ATH | Hunter Brown | 5 | 51.5 | Longshot | Watch List | Strong Barrel, Hot Hitter/Streak |
 
 ## Best 2-Leg Pairings
 
-- Munetaka Murakami + Shohei Ohtani | Avg HR Score: 68.4
-- Shohei Ohtani + Yordan Alvarez | Avg HR Score: 66.7
-- Yordan Alvarez + Carter Jensen | Avg HR Score: 63.5
-- Carter Jensen + Jac Caglianone | Avg HR Score: 60.8
-- Jac Caglianone + Corey Seager | Avg HR Score: 60.2
+- Shohei Ohtani + Yordan Alvarez | Avg HR Score: 66.3
+- Yordan Alvarez + Will Smith | Avg HR Score: 62.2
+- Will Smith + Corbin Carroll | Avg HR Score: 58.3
+- Corbin Carroll + Fernando Tatis Jr. | Avg HR Score: 57.8
+- Fernando Tatis Jr. + Mike Trout | Avg HR Score: 57.3
 
 ## Best 3-Leg Pairings
 
-- Munetaka Murakami + Shohei Ohtani + Yordan Alvarez | Avg HR Score: 67.5
-- Shohei Ohtani + Yordan Alvarez + Carter Jensen | Avg HR Score: 64.9
-- Yordan Alvarez + Carter Jensen + Jac Caglianone | Avg HR Score: 62.4
-- Carter Jensen + Jac Caglianone + Corey Seager | Avg HR Score: 60.5
-- Jac Caglianone + Corey Seager + Ben Rice | Avg HR Score: 60.1
+- Shohei Ohtani + Yordan Alvarez + Will Smith | Avg HR Score: 63.8
+- Yordan Alvarez + Will Smith + Corbin Carroll | Avg HR Score: 60.7
+- Will Smith + Corbin Carroll + Fernando Tatis Jr. | Avg HR Score: 58.1
+- Corbin Carroll + Fernando Tatis Jr. + Mike Trout | Avg HR Score: 57.5
+- Fernando Tatis Jr. + Mike Trout + Max Muncy | Avg HR Score: 57.0
 
 ## Best 4-Leg Pairings
 
-- Munetaka Murakami + Shohei Ohtani + Yordan Alvarez + Carter Jensen | Avg HR Score: 65.9
-- Shohei Ohtani + Yordan Alvarez + Carter Jensen + Jac Caglianone | Avg HR Score: 63.7
-- Yordan Alvarez + Carter Jensen + Jac Caglianone + Corey Seager | Avg HR Score: 61.8
-- Carter Jensen + Jac Caglianone + Corey Seager + Ben Rice | Avg HR Score: 60.4
-- Jac Caglianone + Corey Seager + Ben Rice + Jake Bauers | Avg HR Score: 60.1
+- Shohei Ohtani + Yordan Alvarez + Will Smith + Corbin Carroll | Avg HR Score: 62.3
+- Yordan Alvarez + Will Smith + Corbin Carroll + Fernando Tatis Jr. | Avg HR Score: 60.0
+- Will Smith + Corbin Carroll + Fernando Tatis Jr. + Mike Trout | Avg HR Score: 57.8
+- Corbin Carroll + Fernando Tatis Jr. + Mike Trout + Max Muncy | Avg HR Score: 57.2
+- Fernando Tatis Jr. + Mike Trout + Max Muncy + Jackson Merrill | Avg HR Score: 56.7

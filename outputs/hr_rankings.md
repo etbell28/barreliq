@@ -9,17 +9,17 @@
 | 5 | Nathaniel Lowe | CLE | Freddy Peralta | 5 | 43.3 | Longshot | Watch List | Projected Lineup, Platoon Edge |
 | 6 | Yandy Diaz | TB | Parker Messick | 1 | 43.3 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
 | 7 | Ryan Vilade | TB | Parker Messick | 4 | 43.3 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
-| 8 | Victor Mesa | TB | Parker Messick | 5 | 42.4 | Longshot | Watch List | Projected Lineup |
-| 9 | Jose Ramirez | CLE | Freddy Peralta | 2 | 41.5 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
-| 10 | Patrick Bailey | CLE | Freddy Peralta | 7 | 40.0 | Longshot | Watch List | Projected Lineup, Platoon Edge |
-| 11 | Travis Bazzana | CLE | Freddy Peralta | 6 | 36.9 | Longshot | Watch List | Projected Lineup, Platoon Edge |
+| 8 | Jose Ramirez | CLE | Freddy Peralta | 2 | 41.5 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
+| 9 | Patrick Bailey | CLE | Freddy Peralta | 8 | 38.3 | Longshot | Watch List | Projected Lineup, Platoon Edge |
+| 10 | Angel Martinez | CLE | Freddy Peralta | 6 | 37.9 | Longshot | Watch List | Projected Lineup, Platoon Edge |
+| 11 | Travis Bazzana | CLE | Freddy Peralta | 7 | 35.2 | Longshot | Watch List | Projected Lineup, Platoon Edge |
 | 12 | Steven Kwan | CLE | Freddy Peralta | 1 | 34.9 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
-| 13 | Jonny DeLuca | TB | Parker Messick | 6 | 33.4 | Longshot | Watch List | Projected Lineup, Platoon Edge, Hot Hitter/Streak |
+| 13 | Jonny DeLuca | TB | Parker Messick | 5 | 34.8 | Longshot | Watch List | Projected Lineup, Platoon Edge, Hot Hitter/Streak |
 | 14 | Brayan Rocchio | CLE | Freddy Peralta | 9 | 32.3 | Longshot | Watch List | Projected Lineup, Platoon Edge, Hot Hitter/Streak |
-| 15 | Petey Halpin | CLE | Freddy Peralta | 8 | 30.3 | Longshot | Watch List | Projected Lineup, Platoon Edge |
-| 16 | Ben Williamson | TB | Parker Messick | 7 | 28.5 | Longshot | Watch List | Projected Lineup, Platoon Edge |
-| 17 | Nick Fortes | TB | Parker Messick | 9 | 27.1 | Longshot | Watch List | Projected Lineup, Platoon Edge |
-| 18 | Taylor Walls | TB | Parker Messick | 8 | 25.6 | Longshot | Watch List | Projected Lineup, Platoon Edge |
+| 15 | Jorge Mateo | TB | Parker Messick | 8 | 30.7 | Longshot | Watch List | Projected Lineup, Platoon Edge |
+| 16 | Nick Fortes | TB | Parker Messick | 7 | 29.8 | Longshot | Watch List | Projected Lineup, Platoon Edge |
+| 17 | Chandler Simpson | TB | Parker Messick | 6 | 24.7 | Longshot | Watch List | Projected Lineup |
+| 18 | Taylor Walls | TB | Parker Messick | 9 | 24.6 | Longshot | Watch List | Projected Lineup, Platoon Edge |
 
 ## Best 2-Leg Pairings
 
@@ -43,4 +43,4 @@
 - Jo Adell + Chase DeLauter + Jonathan Aranda + Nathaniel Lowe | Avg HR Score: 45.8
 - Chase DeLauter + Jonathan Aranda + Nathaniel Lowe + Yandy Diaz | Avg HR Score: 44.5
 - Jonathan Aranda + Nathaniel Lowe + Yandy Diaz + Ryan Vilade | Avg HR Score: 43.6
-- Nathaniel Lowe + Yandy Diaz + Ryan Vilade + Victor Mesa | Avg HR Score: 43.1
+- Nathaniel Lowe + Yandy Diaz + Ryan Vilade + Jose Ramirez | Avg HR Score: 42.8

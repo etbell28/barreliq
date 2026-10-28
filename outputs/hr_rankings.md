@@ -2,45 +2,45 @@
 
 | Rank | Player | Team | Pitcher | Order | HR Score | Tier | Play Type | Reasons |
 |---:|---|---|---|---:|---:|---|---|---|
-| 1 | Jake Bauers | MIL |  | 2 | 53.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 2 | Jackson Chourio | MIL |  | 1 | 51.6 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 3 | Junior Caminero | TB | Jacob Misiorowski | 3 | 48.3 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot |
-| 4 | William Contreras | MIL |  | 4 | 47.0 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
-| 5 | Jonathan Aranda | TB | Jacob Misiorowski | 2 | 46.7 | Longshot | Watch List | Projected Lineup, Strong Barrel, Premium Lineup Spot, Platoon Edge |
-| 6 | Christian Yelich | MIL |  | 3 | 46.2 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
-| 7 | Brice Turang | MIL |  | 5 | 46.2 | Longshot | Watch List | Projected Lineup |
-| 8 | Garrett Mitchell | MIL |  | 6 | 45.7 | Longshot | Watch List | Projected Lineup, Strong Barrel |
-| 9 | Yandy Diaz | TB | Jacob Misiorowski | 1 | 40.1 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot |
-| 10 | Victor Mesa | TB | Jacob Misiorowski | 8 | 39.6 | Longshot | Watch List | Projected Lineup, Platoon Edge |
-| 11 | Cooper Pratt | MIL |  | 7 | 32.5 | Longshot | Watch List | Projected Lineup |
-| 12 | Liam Hicks | TB | Jacob Misiorowski | 4 | 32.0 | Longshot | Watch List | Projected Lineup, Premium Lineup Spot, Platoon Edge |
-| 13 | Jonny DeLuca | TB | Jacob Misiorowski | 5 | 31.6 | Longshot | Watch List | Projected Lineup, Hot Hitter/Streak |
-| 14 | Richie Palacios | TB | Jacob Misiorowski | 7 | 30.2 | Longshot | Watch List | Projected Lineup, Platoon Edge |
-| 15 | David Hamilton | MIL |  | 9 | 29.9 | Longshot | Watch List | Projected Lineup |
-| 16 | Sal Frelick | MIL |  | 8 | 28.8 | Longshot | Watch List | Projected Lineup |
-| 17 | Chandler Simpson | TB | Jacob Misiorowski | 6 | 26.7 | Longshot | Watch List | Projected Lineup, Platoon Edge |
-| 18 | Taylor Walls | TB | Jacob Misiorowski | 9 | 23.9 | Longshot | Watch List | Projected Lineup, Platoon Edge |
+| 1 | Jake Bauers | MIL | Drew Rasmussen | 2 | 54.5 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 2 | Junior Caminero | TB | Jacob Misiorowski | 3 | 50.8 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 3 | Jackson Chourio | MIL | Drew Rasmussen | 1 | 50.1 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot |
+| 4 | Jonathan Aranda | TB | Jacob Misiorowski | 2 | 49.2 | Longshot | Watch List | Strong Barrel, Premium Lineup Spot, Platoon Edge |
+| 5 | Christian Yelich | MIL | Drew Rasmussen | 3 | 47.5 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 6 | Brice Turang | MIL | Drew Rasmussen | 5 | 47.5 | Longshot | Watch List | Platoon Edge |
+| 7 | William Contreras | MIL | Drew Rasmussen | 4 | 45.6 | Longshot | Watch List | Premium Lineup Spot |
+| 8 | Garrett Mitchell | MIL | Drew Rasmussen | 8 | 43.6 | Longshot | Watch List | Strong Barrel, Platoon Edge |
+| 9 | Yandy Díaz | TB | Jacob Misiorowski | 1 | 42.6 | Longshot | Watch List | Premium Lineup Spot |
+| 10 | Ryan Vilade | TB | Jacob Misiorowski | 8 | 36.6 | Longshot | Watch List | No major boost |
+| 11 | Liam Hicks | TB | Jacob Misiorowski | 4 | 34.5 | Longshot | Watch List | Premium Lineup Spot, Platoon Edge |
+| 12 | Jonny DeLuca | TB | Jacob Misiorowski | 5 | 34.1 | Longshot | Watch List | Hot Hitter/Streak |
+| 13 | Sal Frelick | MIL | Drew Rasmussen | 6 | 33.4 | Longshot | Watch List | Platoon Edge |
+| 14 | David Hamilton | MIL | Drew Rasmussen | 9 | 31.2 | Longshot | Watch List | Platoon Edge |
+| 15 | Cooper Pratt | MIL | Drew Rasmussen | 7 | 31.1 | Longshot | Watch List | No major boost |
+| 16 | Chandler Simpson | TB | Jacob Misiorowski | 6 | 29.2 | Longshot | Watch List | Platoon Edge |
+| 17 | Ben Williamson | TB | Jacob Misiorowski | 7 | 27.8 | Longshot | Watch List | No major boost |
+| 18 | Taylor Walls | TB | Jacob Misiorowski | 9 | 26.4 | Longshot | Watch List | Platoon Edge |
 
 ## Best 2-Leg Pairings
 
-- Jake Bauers + Jackson Chourio | Avg HR Score: 52.5
-- Jackson Chourio + Junior Caminero | Avg HR Score: 50.0
-- Junior Caminero + William Contreras | Avg HR Score: 47.6
-- William Contreras + Jonathan Aranda | Avg HR Score: 46.9
-- Jonathan Aranda + Christian Yelich | Avg HR Score: 46.5
+- Jake Bauers + Junior Caminero | Avg HR Score: 52.6
+- Junior Caminero + Jackson Chourio | Avg HR Score: 50.5
+- Jackson Chourio + Jonathan Aranda | Avg HR Score: 49.7
+- Jonathan Aranda + Christian Yelich | Avg HR Score: 48.4
+- Christian Yelich + Brice Turang | Avg HR Score: 47.5
 
 ## Best 3-Leg Pairings
 
-- Jake Bauers + Jackson Chourio + Junior Caminero | Avg HR Score: 51.1
-- Jackson Chourio + Junior Caminero + William Contreras | Avg HR Score: 49.0
-- Junior Caminero + William Contreras + Jonathan Aranda | Avg HR Score: 47.3
-- William Contreras + Jonathan Aranda + Christian Yelich | Avg HR Score: 46.6
-- Jonathan Aranda + Christian Yelich + Brice Turang | Avg HR Score: 46.4
+- Jake Bauers + Junior Caminero + Jackson Chourio | Avg HR Score: 51.8
+- Junior Caminero + Jackson Chourio + Jonathan Aranda | Avg HR Score: 50.0
+- Jackson Chourio + Jonathan Aranda + Christian Yelich | Avg HR Score: 48.9
+- Jonathan Aranda + Christian Yelich + Brice Turang | Avg HR Score: 48.1
+- Christian Yelich + Brice Turang + William Contreras | Avg HR Score: 46.9
 
 ## Best 4-Leg Pairings
 
-- Jake Bauers + Jackson Chourio + Junior Caminero + William Contreras | Avg HR Score: 50.0
-- Jackson Chourio + Junior Caminero + William Contreras + Jonathan Aranda | Avg HR Score: 48.4
-- Junior Caminero + William Contreras + Jonathan Aranda + Christian Yelich | Avg HR Score: 47.0
-- William Contreras + Jonathan Aranda + Christian Yelich + Brice Turang | Avg HR Score: 46.5
-- Jonathan Aranda + Christian Yelich + Brice Turang + Garrett Mitchell | Avg HR Score: 46.2
+- Jake Bauers + Junior Caminero + Jackson Chourio + Jonathan Aranda | Avg HR Score: 51.1
+- Junior Caminero + Jackson Chourio + Jonathan Aranda + Christian Yelich | Avg HR Score: 49.4
+- Jackson Chourio + Jonathan Aranda + Christian Yelich + Brice Turang | Avg HR Score: 48.6
+- Jonathan Aranda + Christian Yelich + Brice Turang + William Contreras | Avg HR Score: 47.5
+- Christian Yelich + Brice Turang + William Contreras + Garrett Mitchell | Avg HR Score: 46.0
